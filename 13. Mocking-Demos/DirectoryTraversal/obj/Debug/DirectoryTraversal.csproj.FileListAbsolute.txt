@@ -1,0 +1,5 @@
+C:\Users\Leet\Documents\Visual Studio 2015\Projects\13. Mocking-Demos\DirectoryTraversal\bin\Debug\DirectoryTraversal.exe.config
+C:\Users\Leet\Documents\Visual Studio 2015\Projects\13. Mocking-Demos\DirectoryTraversal\bin\Debug\DirectoryTraversal.exe
+C:\Users\Leet\Documents\Visual Studio 2015\Projects\13. Mocking-Demos\DirectoryTraversal\bin\Debug\DirectoryTraversal.pdb
+C:\Users\Leet\Documents\Visual Studio 2015\Projects\13. Mocking-Demos\DirectoryTraversal\obj\Debug\DirectoryTraversal.exe
+C:\Users\Leet\Documents\Visual Studio 2015\Projects\13. Mocking-Demos\DirectoryTraversal\obj\Debug\DirectoryTraversal.pdb

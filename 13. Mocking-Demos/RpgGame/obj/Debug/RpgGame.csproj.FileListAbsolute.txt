@@ -1,0 +1,6 @@
+C:\Users\Leet\Documents\Visual Studio 2015\Projects\13. Mocking-Demos\RpgGame\bin\Debug\RpgGame.exe.config
+C:\Users\Leet\Documents\Visual Studio 2015\Projects\13. Mocking-Demos\RpgGame\bin\Debug\RpgGame.exe
+C:\Users\Leet\Documents\Visual Studio 2015\Projects\13. Mocking-Demos\RpgGame\bin\Debug\RpgGame.pdb
+C:\Users\Leet\Documents\Visual Studio 2015\Projects\13. Mocking-Demos\RpgGame\obj\Debug\RpgGame.csprojResolveAssemblyReference.cache
+C:\Users\Leet\Documents\Visual Studio 2015\Projects\13. Mocking-Demos\RpgGame\obj\Debug\RpgGame.exe
+C:\Users\Leet\Documents\Visual Studio 2015\Projects\13. Mocking-Demos\RpgGame\obj\Debug\RpgGame.pdb

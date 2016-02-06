@@ -1,0 +1,13 @@
+C:\Users\Leet\Documents\Visual Studio 2015\Projects\vp_himineu\VehiclePark.Tests\obj\Debug\VehiclePark.Tests.csprojResolveAssemblyReference.cache
+C:\Users\Leet\Documents\Visual Studio 2015\Projects\vp_himineu\VehiclePark.Tests\bin\Debug\VehiclePark.Tests.dll
+C:\Users\Leet\Documents\Visual Studio 2015\Projects\vp_himineu\VehiclePark.Tests\bin\Debug\VehiclePark.Tests.pdb
+C:\Users\Leet\Documents\Visual Studio 2015\Projects\vp_himineu\VehiclePark.Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\Leet\Documents\Visual Studio 2015\Projects\vp_himineu\VehiclePark.Tests\bin\Debug\Moq.dll
+C:\Users\Leet\Documents\Visual Studio 2015\Projects\vp_himineu\VehiclePark.Tests\bin\Debug\VehiclePark.exe
+C:\Users\Leet\Documents\Visual Studio 2015\Projects\vp_himineu\VehiclePark.Tests\bin\Debug\PowerCollections.dll
+C:\Users\Leet\Documents\Visual Studio 2015\Projects\vp_himineu\VehiclePark.Tests\bin\Debug\VehiclePark.pdb
+C:\Users\Leet\Documents\Visual Studio 2015\Projects\vp_himineu\VehiclePark.Tests\bin\Debug\Moq.xml
+C:\Users\Leet\Documents\Visual Studio 2015\Projects\vp_himineu\VehiclePark.Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.xml
+C:\Users\Leet\Documents\Visual Studio 2015\Projects\vp_himineu\VehiclePark.Tests\bin\Debug\PowerCollections.xml
+C:\Users\Leet\Documents\Visual Studio 2015\Projects\vp_himineu\VehiclePark.Tests\obj\Debug\VehiclePark.Tests.dll
+C:\Users\Leet\Documents\Visual Studio 2015\Projects\vp_himineu\VehiclePark.Tests\obj\Debug\VehiclePark.Tests.pdb

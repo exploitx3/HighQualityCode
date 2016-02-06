@@ -1,0 +1,6 @@
+C:\Users\Leet\Documents\Visual Studio 2015\Projects\11. Unit-Testing-Homework\CustomLinkedList\CustomLinkedList\bin\Debug\CustomLinkedList.dll.config
+C:\Users\Leet\Documents\Visual Studio 2015\Projects\11. Unit-Testing-Homework\CustomLinkedList\CustomLinkedList\bin\Debug\CustomLinkedList.dll
+C:\Users\Leet\Documents\Visual Studio 2015\Projects\11. Unit-Testing-Homework\CustomLinkedList\CustomLinkedList\bin\Debug\CustomLinkedList.pdb
+C:\Users\Leet\Documents\Visual Studio 2015\Projects\11. Unit-Testing-Homework\CustomLinkedList\CustomLinkedList\obj\Debug\CustomLinkedList.csprojResolveAssemblyReference.cache
+C:\Users\Leet\Documents\Visual Studio 2015\Projects\11. Unit-Testing-Homework\CustomLinkedList\CustomLinkedList\obj\Debug\CustomLinkedList.dll
+C:\Users\Leet\Documents\Visual Studio 2015\Projects\11. Unit-Testing-Homework\CustomLinkedList\CustomLinkedList\obj\Debug\CustomLinkedList.pdb

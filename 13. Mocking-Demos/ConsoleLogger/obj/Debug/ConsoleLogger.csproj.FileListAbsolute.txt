@@ -1,0 +1,5 @@
+C:\Users\Leet\Documents\Visual Studio 2015\Projects\13. Mocking-Demos\ConsoleLogger\bin\Debug\ConsoleLogger.exe.config
+C:\Users\Leet\Documents\Visual Studio 2015\Projects\13. Mocking-Demos\ConsoleLogger\bin\Debug\ConsoleLogger.exe
+C:\Users\Leet\Documents\Visual Studio 2015\Projects\13. Mocking-Demos\ConsoleLogger\bin\Debug\ConsoleLogger.pdb
+C:\Users\Leet\Documents\Visual Studio 2015\Projects\13. Mocking-Demos\ConsoleLogger\obj\Debug\ConsoleLogger.exe
+C:\Users\Leet\Documents\Visual Studio 2015\Projects\13. Mocking-Demos\ConsoleLogger\obj\Debug\ConsoleLogger.pdb

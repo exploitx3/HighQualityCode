@@ -1,0 +1,5 @@
+C:\Users\Leet\Documents\Visual Studio 2015\Projects\08. High-Quality-Classes-Homework\Abstraction\bin\Debug\Abstraction.exe
+C:\Users\Leet\Documents\Visual Studio 2015\Projects\08. High-Quality-Classes-Homework\Abstraction\bin\Debug\Abstraction.pdb
+C:\Users\Leet\Documents\Visual Studio 2015\Projects\08. High-Quality-Classes-Homework\Abstraction\obj\Debug\Abstraction.csprojResolveAssemblyReference.cache
+C:\Users\Leet\Documents\Visual Studio 2015\Projects\08. High-Quality-Classes-Homework\Abstraction\obj\Debug\Abstraction.exe
+C:\Users\Leet\Documents\Visual Studio 2015\Projects\08. High-Quality-Classes-Homework\Abstraction\obj\Debug\Abstraction.pdb

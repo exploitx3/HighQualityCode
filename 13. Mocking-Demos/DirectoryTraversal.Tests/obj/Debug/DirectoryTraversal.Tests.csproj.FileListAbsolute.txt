@@ -1,0 +1,6 @@
+C:\Users\Leet\Documents\Visual Studio 2015\Projects\13. Mocking-Demos\DirectoryTraversal.Tests\bin\Debug\DirectoryTraversal.Tests.dll
+C:\Users\Leet\Documents\Visual Studio 2015\Projects\13. Mocking-Demos\DirectoryTraversal.Tests\bin\Debug\DirectoryTraversal.Tests.pdb
+C:\Users\Leet\Documents\Visual Studio 2015\Projects\13. Mocking-Demos\DirectoryTraversal.Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\Leet\Documents\Visual Studio 2015\Projects\13. Mocking-Demos\DirectoryTraversal.Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.xml
+C:\Users\Leet\Documents\Visual Studio 2015\Projects\13. Mocking-Demos\DirectoryTraversal.Tests\obj\Debug\DirectoryTraversal.Tests.dll
+C:\Users\Leet\Documents\Visual Studio 2015\Projects\13. Mocking-Demos\DirectoryTraversal.Tests\obj\Debug\DirectoryTraversal.Tests.pdb
