@@ -1,0 +1,9 @@
+C:\Users\Jamal\Documents\Visual Studio 2013\Projects\SOLID-and-Patterns-Lab-Skeleton\Strategy\bin\Debug\Strategy.exe.config
+C:\Users\Jamal\Documents\Visual Studio 2013\Projects\SOLID-and-Patterns-Lab-Skeleton\Strategy\obj\Debug\Strategy.exe
+C:\Users\Jamal\Documents\Visual Studio 2013\Projects\SOLID-and-Patterns-Lab-Skeleton\Strategy\obj\Debug\Strategy.pdb
+C:\Users\Jamal\Documents\Visual Studio 2013\Projects\SOLID-and-Patterns-Lab-Skeleton\Strategy\bin\Debug\Strategy.exe
+C:\Users\Jamal\Documents\Visual Studio 2013\Projects\SOLID-and-Patterns-Lab-Skeleton\Strategy\bin\Debug\Strategy.pdb
+C:\Users\Jamal\Documents\Visual Studio 2013\Projects\SOLID-and-Patterns-Lab-Skeleton\Strategy\obj\Debug\7. CSharpCompiler.csprojResolveAssemblyReference.cache
+C:\Users\Jamal\Documents\Visual Studio 2013\Projects\SOLID-and-Patterns-Lab-Skeleton\Skeleton\Strategy\bin\Debug\Strategy.exe.config
+C:\Users\Jamal\Documents\Visual Studio 2013\Projects\SOLID-and-Patterns-Lab-Skeleton\Skeleton\Strategy\obj\Debug\Strategy.exe
+C:\Users\Jamal\Documents\Visual Studio 2013\Projects\SOLID-and-Patterns-Lab-Skeleton\Skeleton\Strategy\obj\Debug\Strategy.pdb

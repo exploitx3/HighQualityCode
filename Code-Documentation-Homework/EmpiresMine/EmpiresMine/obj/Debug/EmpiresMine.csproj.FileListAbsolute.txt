@@ -1,0 +1,12 @@
+c:\users\leet\documents\visual studio 2015\Projects\EmpiresMine\EmpiresMine\bin\Debug\EmpiresMine.exe.config
+c:\users\leet\documents\visual studio 2015\Projects\EmpiresMine\EmpiresMine\bin\Debug\EmpiresMine.exe
+c:\users\leet\documents\visual studio 2015\Projects\EmpiresMine\EmpiresMine\bin\Debug\EmpiresMine.pdb
+c:\users\leet\documents\visual studio 2015\Projects\EmpiresMine\EmpiresMine\obj\Debug\EmpiresMine.csprojResolveAssemblyReference.cache
+c:\users\leet\documents\visual studio 2015\Projects\EmpiresMine\EmpiresMine\obj\Debug\EmpiresMine.exe
+c:\users\leet\documents\visual studio 2015\Projects\EmpiresMine\EmpiresMine\obj\Debug\EmpiresMine.pdb
+C:\Users\Leet\Documents\Visual Studio 2015\Projects\Code-Documentation-Homework\EmpiresMine\EmpiresMine\bin\Debug\EmpiresMine.exe.config
+C:\Users\Leet\Documents\Visual Studio 2015\Projects\Code-Documentation-Homework\EmpiresMine\EmpiresMine\obj\Debug\EmpiresMine.exe
+C:\Users\Leet\Documents\Visual Studio 2015\Projects\Code-Documentation-Homework\EmpiresMine\EmpiresMine\obj\Debug\EmpiresMine.pdb
+C:\Users\Leet\Documents\Visual Studio 2015\Projects\Code-Documentation-Homework\EmpiresMine\EmpiresMine\bin\Debug\EmpiresMine.exe
+C:\Users\Leet\Documents\Visual Studio 2015\Projects\Code-Documentation-Homework\EmpiresMine\EmpiresMine\bin\Debug\EmpiresMine.pdb
+C:\Users\Leet\Documents\Visual Studio 2015\Projects\Code-Documentation-Homework\EmpiresMine\EmpiresMine\obj\Debug\EmpiresMine.csprojResolveAssemblyReference.cache

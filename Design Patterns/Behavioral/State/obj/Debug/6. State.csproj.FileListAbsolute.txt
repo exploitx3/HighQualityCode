@@ -1,0 +1,2 @@
+C:\Users\Jamal\Desktop\Trash\Design Patterns\Behavioral\State\bin\Debug\State.exe.config
+C:\SVN\January-2015\18. Design-Patterns-Demo\Design Patterns\Behavioral\State\bin\Debug\State.exe.config

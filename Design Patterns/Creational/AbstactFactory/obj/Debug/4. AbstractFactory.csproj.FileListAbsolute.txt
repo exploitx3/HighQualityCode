@@ -1,0 +1,2 @@
+C:\Users\Jamal\Desktop\Trash\Design Patterns\Creational\AbstactFactory\bin\Debug\AbstractFactory.exe.config
+C:\Users\Leet\Documents\Visual Studio 2015\Projects\Design Patterns\Creational\AbstactFactory\bin\Debug\AbstractFactory.exe.config

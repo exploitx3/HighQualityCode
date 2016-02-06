@@ -1,0 +1,9 @@
+c:\users\jamal\documents\visual studio 2013\Projects\SOLID-and-Patterns-Lab\Singleton\bin\Debug\Singleton.exe.config
+c:\users\jamal\documents\visual studio 2013\Projects\SOLID-and-Patterns-Lab\Singleton\obj\Debug\Singleton.csprojResolveAssemblyReference.cache
+c:\users\jamal\documents\visual studio 2013\Projects\SOLID-and-Patterns-Lab\Singleton\bin\Debug\Singleton.exe
+c:\users\jamal\documents\visual studio 2013\Projects\SOLID-and-Patterns-Lab\Singleton\bin\Debug\Singleton.pdb
+c:\users\jamal\documents\visual studio 2013\Projects\SOLID-and-Patterns-Lab\Singleton\obj\Debug\Singleton.exe
+c:\users\jamal\documents\visual studio 2013\Projects\SOLID-and-Patterns-Lab\Singleton\obj\Debug\Singleton.pdb
+C:\Users\Jamal\Documents\Visual Studio 2013\Projects\SOLID-and-Patterns-Lab-Skeleton\Singleton\bin\Debug\Singleton.exe.config
+C:\Users\Jamal\Documents\Visual Studio 2013\Projects\SOLID-and-Patterns-Lab-Skeleton\Singleton\obj\Debug\Singleton.exe
+C:\Users\Jamal\Documents\Visual Studio 2013\Projects\SOLID-and-Patterns-Lab-Skeleton\Singleton\obj\Debug\Singleton.pdb

@@ -1,0 +1,11 @@
+C:\Users\Leet\Documents\Visual Studio 2015\Projects\ChepelareHotelBookingSystem\ChepelareHotelBookingSystem.Tests\bin\Debug\ChepelareHotelBookingSystem.Tests.dll
+C:\Users\Leet\Documents\Visual Studio 2015\Projects\ChepelareHotelBookingSystem\ChepelareHotelBookingSystem.Tests\bin\Debug\ChepelareHotelBookingSystem.Tests.pdb
+C:\Users\Leet\Documents\Visual Studio 2015\Projects\ChepelareHotelBookingSystem\ChepelareHotelBookingSystem.Tests\bin\Debug\ChepelareHotelBookingSystem.exe
+C:\Users\Leet\Documents\Visual Studio 2015\Projects\ChepelareHotelBookingSystem\ChepelareHotelBookingSystem.Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\Leet\Documents\Visual Studio 2015\Projects\ChepelareHotelBookingSystem\ChepelareHotelBookingSystem.Tests\bin\Debug\Moq.dll
+C:\Users\Leet\Documents\Visual Studio 2015\Projects\ChepelareHotelBookingSystem\ChepelareHotelBookingSystem.Tests\bin\Debug\ChepelareHotelBookingSystem.pdb
+C:\Users\Leet\Documents\Visual Studio 2015\Projects\ChepelareHotelBookingSystem\ChepelareHotelBookingSystem.Tests\bin\Debug\Moq.xml
+C:\Users\Leet\Documents\Visual Studio 2015\Projects\ChepelareHotelBookingSystem\ChepelareHotelBookingSystem.Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.xml
+C:\Users\Leet\Documents\Visual Studio 2015\Projects\ChepelareHotelBookingSystem\ChepelareHotelBookingSystem.Tests\obj\Debug\ChepelareHotelBookingSystem.Tests.csprojResolveAssemblyReference.cache
+C:\Users\Leet\Documents\Visual Studio 2015\Projects\ChepelareHotelBookingSystem\ChepelareHotelBookingSystem.Tests\obj\Debug\ChepelareHotelBookingSystem.Tests.dll
+C:\Users\Leet\Documents\Visual Studio 2015\Projects\ChepelareHotelBookingSystem\ChepelareHotelBookingSystem.Tests\obj\Debug\ChepelareHotelBookingSystem.Tests.pdb

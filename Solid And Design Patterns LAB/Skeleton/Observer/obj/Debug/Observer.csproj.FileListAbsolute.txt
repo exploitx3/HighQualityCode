@@ -1,0 +1,9 @@
+c:\users\jamal\documents\visual studio 2013\Projects\SOLID-and-Patterns-Lab\Observer\bin\Debug\Observer.exe.config
+c:\users\jamal\documents\visual studio 2013\Projects\SOLID-and-Patterns-Lab\Observer\bin\Debug\Observer.exe
+c:\users\jamal\documents\visual studio 2013\Projects\SOLID-and-Patterns-Lab\Observer\bin\Debug\Observer.pdb
+c:\users\jamal\documents\visual studio 2013\Projects\SOLID-and-Patterns-Lab\Observer\obj\Debug\Observer.csprojResolveAssemblyReference.cache
+c:\users\jamal\documents\visual studio 2013\Projects\SOLID-and-Patterns-Lab\Observer\obj\Debug\Observer.exe
+c:\users\jamal\documents\visual studio 2013\Projects\SOLID-and-Patterns-Lab\Observer\obj\Debug\Observer.pdb
+C:\Users\Jamal\Documents\Visual Studio 2013\Projects\SOLID-and-Patterns-Lab-Skeleton\Observer\bin\Debug\Observer.exe.config
+C:\Users\Jamal\Documents\Visual Studio 2013\Projects\SOLID-and-Patterns-Lab-Skeleton\Observer\obj\Debug\Observer.exe
+C:\Users\Jamal\Documents\Visual Studio 2013\Projects\SOLID-and-Patterns-Lab-Skeleton\Observer\obj\Debug\Observer.pdb

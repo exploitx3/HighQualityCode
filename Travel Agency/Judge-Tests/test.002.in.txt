@@ -1,0 +1,4 @@
+AddAir FX318; Sofia; Athens; Bulgaria Air; 17.04.2010 12:30; 200
+AddAir SA833; Sofia; London; Lufthansa; 18.04.2010 06:15; 740
+AddAir TX351FB; Sofia; Athens; Swiss Air; 27.04.2010 08:00; 150
+FindTickets Sofia; Athens

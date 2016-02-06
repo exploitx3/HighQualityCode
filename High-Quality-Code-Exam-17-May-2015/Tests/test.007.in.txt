@@ -1,0 +1,261 @@
+SetupPark {"sectors": 30, "placesPerSector": 20}
+Park {"type": "truck", "time": "2015-03-10T14:35:00.0000000", "sector": 23, "place": 20, "licensePlate": "RL8630DI", "owner": "Laila Lines", "hours": 37}
+Park {"type": "car", "time": "2015-03-02T05:50:00.0000000", "sector": 14, "place": 1, "licensePlate": "I5962CV", "owner": "Shandra Salamone", "hours": 44}
+Park {"type": "car", "time": "2015-04-18T12:11:00.0000000", "sector": 12, "place": 17, "licensePlate": "Y7241QV", "owner": "Lonnie Lolley", "hours": 9}
+Park {"type": "motorbike", "time": "2015-03-13T07:40:00.0000000", "sector": 27, "place": 9, "licensePlate": "P8825IC", "owner": "Karlyn Kennison", "hours": 12}
+Park {"type": "car", "time": "2015-04-27T10:10:00.0000000", "sector": 10, "place": 4, "licensePlate": "HP1152TT", "owner": "Angie Aylesworth", "hours": 8}
+Park {"type": "motorbike", "time": "2015-02-21T03:04:00.0000000", "sector": 5, "place": 5, "licensePlate": "U1255QH", "owner": "Sabrina Seitz", "hours": 19}
+Park {"type": "truck", "time": "2015-04-27T04:12:00.0000000", "sector": 7, "place": 11, "licensePlate": "P7966HW", "owner": "Maris Mathias", "hours": 2}
+Park {"type": "motorbike", "time": "2015-01-19T15:47:00.0000000", "sector": 23, "place": 4, "licensePlate": "J8705GI", "owner": "Emory Edmond", "hours": 2}
+Park {"type": "car", "time": "2015-04-27T06:09:00.0000000", "sector": 6, "place": 2, "licensePlate": "Z4902JH", "owner": "Sharan Shine", "hours": 34}
+Park {"type": "truck", "time": "2015-01-17T01:58:00.0000000", "sector": 5, "place": 14, "licensePlate": "P0819SP", "owner": "Linsey Laguna", "hours": 12}
+Park {"type": "truck", "time": "2015-02-14T01:57:00.0000000", "sector": 27, "place": 11, "licensePlate": "B5956AR", "owner": "Shandra Salamone", "hours": 1}
+Park {"type": "motorbike", "time": "2015-02-10T05:44:00.0000000", "sector": 22, "place": 4, "licensePlate": "C1424SU", "owner": "Jaunita Jeffress", "hours": 6}
+Park {"type": "car", "time": "2015-02-10T01:23:00.0000000", "sector": 9, "place": 1, "licensePlate": "VV9848FR", "owner": "Julienne Jervis", "hours": 27}
+Park {"type": "truck", "time": "2015-02-02T21:42:00.0000000", "sector": 7, "place": 5, "licensePlate": "VL5038ST", "owner": "Maynard Mcclung", "hours": 24}
+Park {"type": "car", "time": "2015-01-25T01:18:00.0000000", "sector": 25, "place": 18, "licensePlate": "XE9370UU", "owner": "Loura Lightcap", "hours": 24}
+Park {"type": "car", "time": "2015-04-19T01:37:00.0000000", "sector": 2, "place": 8, "licensePlate": "PE5883SU", "owner": "Suk Starcher", "hours": 24}
+Park {"type": "motorbike", "time": "2015-03-29T07:50:00.0000000", "sector": 6, "place": 6, "licensePlate": "K5251TA", "owner": "Sage Struble", "hours": 4}
+Park {"type": "truck", "time": "2015-04-24T16:47:00.0000000", "sector": 21, "place": 13, "licensePlate": "M4856TS", "owner": "Laila Lines", "hours": 39}
+Park {"type": "motorbike", "time": "2015-02-18T00:56:00.0000000", "sector": 14, "place": 16, "licensePlate": "L3904JZ", "owner": "Trena Trammell", "hours": 2}
+Park {"type": "car", "time": "2015-03-09T03:56:00.0000000", "sector": 29, "place": 7, "licensePlate": "T5709FB", "owner": "Maris Mathias", "hours": 2}
+Park {"type": "car", "time": "2015-02-08T08:52:00.0000000", "sector": 13, "place": 1, "licensePlate": "AN6250EG", "owner": "Indira Isabel", "hours": 31}
+Park {"type": "motorbike", "time": "2015-04-27T23:22:00.0000000", "sector": 7, "place": 9, "licensePlate": "J1175PU", "owner": "Alejandrina Ashbrook", "hours": 44}
+Park {"type": "car", "time": "2015-01-25T01:18:00.0000000", "sector": 8, "place": 18, "licensePlate": "M0195GD", "owner": "Madonna Mcclane", "hours": 1}
+Park {"type": "motorbike", "time": "2015-02-06T00:06:00.0000000", "sector": 2, "place": 17, "licensePlate": "RD8534ZJ", "owner": "Lashay Laliberte", "hours": 37}
+Park {"type": "car", "time": "2015-02-24T13:34:00.0000000", "sector": 30, "place": 13, "licensePlate": "V9308TX", "owner": "India Irion", "hours": 28}
+Park {"type": "truck", "time": "2015-03-27T00:09:00.0000000", "sector": 28, "place": 5, "licensePlate": "O7283VH", "owner": "Julienne Jervis", "hours": 6}
+Park {"type": "car", "time": "2015-02-07T18:51:00.0000000", "sector": 6, "place": 8, "licensePlate": "ZB5319OX", "owner": "Buena Baptist", "hours": 42}
+Park {"type": "car", "time": "2015-04-22T02:26:00.0000000", "sector": 17, "place": 19, "licensePlate": "PY5316QD", "owner": "Loura Lightcap", "hours": 6}
+Park {"type": "car", "time": "2015-04-04T12:29:00.0000000", "sector": 19, "place": 6, "licensePlate": "Q5652QL", "owner": "Darleen Dehn", "hours": 48}
+Park {"type": "motorbike", "time": "2015-02-17T02:40:00.0000000", "sector": 21, "place": 11, "licensePlate": "D1959ZO", "owner": "Florinda Faber", "hours": 1}
+Park {"type": "motorbike", "time": "2015-01-22T13:24:00.0000000", "sector": 3, "place": 16, "licensePlate": "N4201PU", "owner": "Dominique Dang", "hours": 4}
+Park {"type": "motorbike", "time": "2015-03-09T07:47:00.0000000", "sector": 9, "place": 12, "licensePlate": "D8645XX", "owner": "Nicolasa Nedeau", "hours": 18}
+Park {"type": "motorbike", "time": "2015-02-24T15:05:00.0000000", "sector": 10, "place": 15, "licensePlate": "B1856CE", "owner": "Zoe Zajicek", "hours": 27}
+Park {"type": "truck", "time": "2015-01-08T23:37:00.0000000", "sector": 23, "place": 3, "licensePlate": "I8020AB", "owner": "Nicolasa Nedeau", "hours": 16}
+Park {"type": "car", "time": "2015-04-21T17:28:00.0000000", "sector": 9, "place": 12, "licensePlate": "I1421MF", "owner": "Luigi Lamotte", "hours": 18}
+Park {"type": "truck", "time": "2015-03-01T17:11:00.0000000", "sector": 18, "place": 14, "licensePlate": "UA2978RB", "owner": "Julienne Jervis", "hours": 40}
+Park {"type": "truck", "time": "2015-03-29T07:52:00.0000000", "sector": 20, "place": 7, "licensePlate": "V2017BA", "owner": "Virgen Vivas", "hours": 41}
+Park {"type": "car", "time": "2015-01-22T12:19:00.0000000", "sector": 1, "place": 8, "licensePlate": "M3210TX", "owner": "Alejandrina Ashbrook", "hours": 30}
+Park {"type": "motorbike", "time": "2015-01-14T01:37:00.0000000", "sector": 9, "place": 6, "licensePlate": "S9964MY", "owner": "Terina Tellez", "hours": 6}
+Park {"type": "truck", "time": "2015-04-17T12:40:00.0000000", "sector": 15, "place": 12, "licensePlate": "Q4920YN", "owner": "Hilton Haro", "hours": 12}
+Park {"type": "car", "time": "2015-03-11T05:03:00.0000000", "sector": 25, "place": 10, "licensePlate": "V8989ZG", "owner": "Steven Sneed", "hours": 15}
+Park {"type": "car", "time": "2015-01-24T06:30:00.0000000", "sector": 18, "place": 17, "licensePlate": "K1640OU", "owner": "Julianne Jenning", "hours": 46}
+Park {"type": "car", "time": "2015-01-18T04:45:00.0000000", "sector": 5, "place": 2, "licensePlate": "F6307XB", "owner": "Contessa Connon", "hours": 30}
+Park {"type": "truck", "time": "2015-01-15T01:51:00.0000000", "sector": 3, "place": 10, "licensePlate": "F6670IK", "owner": "Tommye Tatom", "hours": 7}
+Park {"type": "motorbike", "time": "2015-01-02T04:47:00.0000000", "sector": 29, "place": 14, "licensePlate": "FF2386BM", "owner": "Sabrina Seitz", "hours": 11}
+Park {"type": "motorbike", "time": "2015-03-27T07:59:00.0000000", "sector": 4, "place": 8, "licensePlate": "E8418GA", "owner": "Britni Bonavita", "hours": 4}
+Park {"type": "truck", "time": "2015-02-15T15:04:00.0000000", "sector": 25, "place": 10, "licensePlate": "R8950OS", "owner": "Virgie Vanepps", "hours": 40}
+Park {"type": "truck", "time": "2015-04-08T20:10:00.0000000", "sector": 28, "place": 16, "licensePlate": "D3416HV", "owner": "Michiko Mccutchen", "hours": 1}
+Park {"type": "car", "time": "2015-04-07T21:43:00.0000000", "sector": 22, "place": 9, "licensePlate": "X8658RD", "owner": "Chasity Cripps", "hours": 49}
+Park {"type": "motorbike", "time": "2015-02-04T11:49:00.0000000", "sector": 13, "place": 14, "licensePlate": "B0185IM", "owner": "Josh Jacobson", "hours": 24}
+Park {"type": "motorbike", "time": "2015-04-26T02:00:00.0000000", "sector": 2, "place": 18, "licensePlate": "S3732PB", "owner": "Nicolette Nardi", "hours": 44}
+Park {"type": "car", "time": "2015-03-02T19:56:00.0000000", "sector": 17, "place": 11, "licensePlate": "S2084BM", "owner": "Nicolasa Nedeau", "hours": 24}
+Park {"type": "truck", "time": "2015-04-26T03:54:00.0000000", "sector": 9, "place": 6, "licensePlate": "E1351BG", "owner": "Emory Edmond", "hours": 28}
+Park {"type": "truck", "time": "2015-04-14T01:06:00.0000000", "sector": 10, "place": 7, "licensePlate": "RM7704VD", "owner": "Madonna Mcclane", "hours": 34}
+Park {"type": "car", "time": "2015-03-30T04:09:00.0000000", "sector": 23, "place": 12, "licensePlate": "PL0486YU", "owner": "India Irion", "hours": 17}
+Park {"type": "car", "time": "2015-03-19T18:29:00.0000000", "sector": 4, "place": 20, "licensePlate": "C6976QZ", "owner": "Virgie Vanepps", "hours": 7}
+Park {"type": "car", "time": "2015-03-20T19:41:00.0000000", "sector": 9, "place": 9, "licensePlate": "W1841DR", "owner": "Josh Jacobson", "hours": 42}
+Park {"type": "truck", "time": "2015-02-03T18:09:00.0000000", "sector": 27, "place": 3, "licensePlate": "P3189GP", "owner": "George Goldenberg", "hours": 17}
+Park {"type": "car", "time": "2015-01-30T21:37:00.0000000", "sector": 11, "place": 4, "licensePlate": "V0821UW", "owner": "Darryl Dohrmann", "hours": 12}
+Park {"type": "truck", "time": "2015-04-15T16:27:00.0000000", "sector": 21, "place": 11, "licensePlate": "M8207MH", "owner": "Chiquita Cedano", "hours": 6}
+Park {"type": "motorbike", "time": "2015-04-19T04:11:00.0000000", "sector": 1, "place": 19, "licensePlate": "KD5384DT", "owner": "Julienne Jervis", "hours": 40}
+Park {"type": "truck", "time": "2015-03-25T08:18:00.0000000", "sector": 14, "place": 19, "licensePlate": "E8227YR", "owner": "Darleen Dehn", "hours": 13}
+Park {"type": "truck", "time": "2015-02-04T10:46:00.0000000", "sector": 17, "place": 1, "licensePlate": "VV3411RO", "owner": "Alane Avallone", "hours": 5}
+Park {"type": "car", "time": "2015-02-12T13:10:00.0000000", "sector": 7, "place": 17, "licensePlate": "H9260II", "owner": "Lucas Levi", "hours": 14}
+Park {"type": "car", "time": "2015-04-14T07:08:00.0000000", "sector": 24, "place": 12, "licensePlate": "O0147RE", "owner": "Amada Acre", "hours": 38}
+Park {"type": "car", "time": "2015-02-28T02:11:00.0000000", "sector": 27, "place": 12, "licensePlate": "N1987CN", "owner": "Thurman Tait", "hours": 37}
+Park {"type": "truck", "time": "2015-02-13T02:08:00.0000000", "sector": 16, "place": 16, "licensePlate": "Q4985IM", "owner": "Kaila Kohnke", "hours": 21}
+Park {"type": "motorbike", "time": "2015-03-05T12:39:00.0000000", "sector": 27, "place": 19, "licensePlate": "N3212AQ", "owner": "Leigha Leffler", "hours": 32}
+Park {"type": "motorbike", "time": "2015-04-07T03:39:00.0000000", "sector": 26, "place": 3, "licensePlate": "L1027FT", "owner": "Josh Jacobson", "hours": 39}
+Park {"type": "truck", "time": "2015-01-14T10:34:00.0000000", "sector": 17, "place": 10, "licensePlate": "U1022DD", "owner": "Twana Toledo", "hours": 21}
+Park {"type": "motorbike", "time": "2015-02-21T16:13:00.0000000", "sector": 23, "place": 2, "licensePlate": "D4022WV", "owner": "Madonna Mcclane", "hours": 49}
+Park {"type": "car", "time": "2015-01-19T09:49:00.0000000", "sector": 8, "place": 14, "licensePlate": "K9113XE", "owner": "Shaun Sarno", "hours": 29}
+Park {"type": "car", "time": "2015-03-29T07:12:00.0000000", "sector": 8, "place": 9, "licensePlate": "CG6795HM", "owner": "Sabrina Seitz", "hours": 27}
+Park {"type": "motorbike", "time": "2015-02-05T03:10:00.0000000", "sector": 30, "place": 8, "licensePlate": "IA9741XI", "owner": "Apryl Addis", "hours": 33}
+Park {"type": "motorbike", "time": "2015-03-30T04:13:00.0000000", "sector": 16, "place": 18, "licensePlate": "T6940KG", "owner": "Kate Kieffer", "hours": 9}
+Park {"type": "truck", "time": "2015-02-14T12:57:00.0000000", "sector": 27, "place": 11, "licensePlate": "OY8128SJ", "owner": "Marylyn Marchi", "hours": 20}
+Park {"type": "car", "time": "2015-03-20T01:35:00.0000000", "sector": 1, "place": 4, "licensePlate": "P9398RF", "owner": "Jetta Jerabek", "hours": 29}
+Park {"type": "truck", "time": "2015-03-07T12:51:00.0000000", "sector": 14, "place": 10, "licensePlate": "J8948OF", "owner": "Fannie Frame", "hours": 28}
+Park {"type": "truck", "time": "2015-03-18T05:52:00.0000000", "sector": 14, "place": 6, "licensePlate": "EG3227MG", "owner": "Nicolasa Nedeau", "hours": 33}
+Park {"type": "motorbike", "time": "2015-02-02T00:09:00.0000000", "sector": 5, "place": 17, "licensePlate": "G4736YH", "owner": "Leslie Loos", "hours": 11}
+Park {"type": "car", "time": "2015-04-18T03:13:00.0000000", "sector": 29, "place": 19, "licensePlate": "Y2591KD", "owner": "Brett Blanc", "hours": 8}
+Park {"type": "truck", "time": "2015-03-17T21:32:00.0000000", "sector": 12, "place": 4, "licensePlate": "X8981KG", "owner": "Julienne Jervis", "hours": 46}
+Park {"type": "car", "time": "2015-02-01T17:27:00.0000000", "sector": 11, "place": 3, "licensePlate": "I7367OX", "owner": "Julienne Jervis", "hours": 10}
+Park {"type": "truck", "time": "2015-02-22T15:56:00.0000000", "sector": 15, "place": 9, "licensePlate": "BD1557NC", "owner": "Steven Sneed", "hours": 32}
+Park {"type": "car", "time": "2015-02-19T04:20:00.0000000", "sector": 14, "place": 19, "licensePlate": "M9766BU", "owner": "Kimberley Kucera", "hours": 47}
+Park {"type": "truck", "time": "2015-01-12T04:48:00.0000000", "sector": 19, "place": 7, "licensePlate": "UZ9306WD", "owner": "Thurman Tait", "hours": 0}
+Park {"type": "motorbike", "time": "2015-03-29T04:15:00.0000000", "sector": 18, "place": 9, "licensePlate": "PZ1342SR", "owner": "Thurman Tait", "hours": 20}
+Park {"type": "truck", "time": "2015-03-25T01:16:00.0000000", "sector": 11, "place": 11, "licensePlate": "L8309AR", "owner": "Julianne Jenning", "hours": 22}
+Park {"type": "car", "time": "2015-01-26T03:49:00.0000000", "sector": 22, "place": 20, "licensePlate": "N2284PE", "owner": "Concepcion Cobos", "hours": 30}
+Park {"type": "car", "time": "2015-04-07T03:19:00.0000000", "sector": 18, "place": 9, "licensePlate": "S6628JT", "owner": "Virgie Vanepps", "hours": 16}
+Park {"type": "truck", "time": "2015-03-14T15:38:00.0000000", "sector": 25, "place": 17, "licensePlate": "KB8041KA", "owner": "Zoraida Zumwalt", "hours": 35}
+Park {"type": "truck", "time": "2015-02-12T00:26:00.0000000", "sector": 12, "place": 17, "licensePlate": "YF7853TS", "owner": "Euna Elswick", "hours": 47}
+Park {"type": "truck", "time": "2015-01-10T04:24:00.0000000", "sector": 29, "place": 8, "licensePlate": "E3053VA", "owner": "Joycelyn Jaqua", "hours": 31}
+Park {"type": "motorbike", "time": "2015-04-15T04:04:00.0000000", "sector": 21, "place": 1, "licensePlate": "R8355XM", "owner": "Concepcion Cobos", "hours": 48}
+Park {"type": "motorbike", "time": "2015-02-12T19:50:00.0000000", "sector": 12, "place": 10, "licensePlate": "EN4764IF", "owner": "Farah Ferrari", "hours": 25}
+Park {"type": "truck", "time": "2015-03-24T23:25:00.0000000", "sector": 10, "place": 7, "licensePlate": "K7678IR", "owner": "Evan Eggers", "hours": 34}
+Park {"type": "truck", "time": "2015-01-30T22:35:00.0000000", "sector": 2, "place": 17, "licensePlate": "MI0746UA", "owner": "Laila Lines", "hours": 37}
+Park {"type": "motorbike", "time": "2015-01-29T02:05:00.0000000", "sector": 11, "place": 14, "licensePlate": "K2957AQ", "owner": "Serena Sakamoto", "hours": 38}
+Park {"type": "motorbike", "time": "2015-02-24T01:35:00.0000000", "sector": 30, "place": 13, "licensePlate": "J8818FR", "owner": "Trena Trammell", "hours": 31}
+Park {"type": "motorbike", "time": "2015-02-23T17:55:00.0000000", "sector": 20, "place": 2, "licensePlate": "U0421AC", "owner": "Shandra Salamone", "hours": 11}
+FindVehicle {"licensePlate": "D1959ZO"}
+FindVehicle {"licensePlate": "I5962CV"}
+FindVehicle {"licensePlate": "B5956AR"}
+FindVehicle {"licensePlate": "RL8630DI"}
+FindVehicle {"licensePlate": "KB8041KA"}
+FindVehicle {"licensePlate": "U1022DD"}
+FindVehicle {"licensePlate": "V8989ZG"}
+FindVehicle {"licensePlate": "VV3411RO"}
+FindVehicle {"licensePlate": "FF2386BM"}
+FindVehicle {"licensePlate": "VV9848FR"}
+FindVehicle {"licensePlate": "S6628JT"}
+FindVehicle {"licensePlate": "D3416HV"}
+FindVehicle {"licensePlate": "CG6795HM"}
+FindVehicle {"licensePlate": "I7367OX"}
+FindVehicle {"licensePlate": "EG3227MG"}
+FindVehicle {"licensePlate": "Z4902JH"}
+FindVehicle {"licensePlate": "E8418GA"}
+FindVehicle {"licensePlate": "RD8534ZJ"}
+FindVehicle {"licensePlate": "D1959ZO"}
+FindVehicle {"licensePlate": "HP1152TT"}
+FindVehicle {"licensePlate": "Q4920YN"}
+FindVehicle {"licensePlate": "V8989ZG"}
+FindVehicle {"licensePlate": "L3904JZ"}
+FindVehicle {"licensePlate": "Q5652QL"}
+FindVehicle {"licensePlate": "VV9848FR"}
+FindVehicle {"licensePlate": "I8020AB"}
+FindVehicle {"licensePlate": "EN4764IF"}
+FindVehicle {"licensePlate": "EN4764IF"}
+FindVehicle {"licensePlate": "P0819SP"}
+FindVehicle {"licensePlate": "M3210TX"}
+FindVehicle {"licensePlate": "O0147RE"}
+FindVehicle {"licensePlate": "CG6795HM"}
+FindVehicle {"licensePlate": "B0185IM"}
+FindVehicle {"licensePlate": "G4736YH"}
+FindVehicle {"licensePlate": "S9964MY"}
+FindVehicle {"licensePlate": "PY5316QD"}
+FindVehicle {"licensePlate": "O0147RE"}
+FindVehicle {"licensePlate": "U0421AC"}
+FindVehicle {"licensePlate": "J8948OF"}
+FindVehicle {"licensePlate": "AN6250EG"}
+FindVehicle {"licensePlate": "U1255QH"}
+FindVehicle {"licensePlate": "P9398RF"}
+FindVehicle {"licensePlate": "D4022WV"}
+FindVehicle {"licensePlate": "T5709FB"}
+FindVehicle {"licensePlate": "X8658RD"}
+FindVehicle {"licensePlate": "L8309AR"}
+FindVehicle {"licensePlate": "PY5316QD"}
+FindVehicle {"licensePlate": "Q5652QL"}
+FindVehicle {"licensePlate": "MI0746UA"}
+FindVehicle {"licensePlate": "FF2386BM"}
+FindVehicle {"licensePlate": "PZ1342SR"}
+FindVehicle {"licensePlate": "L1027FT"}
+FindVehicle {"licensePlate": "J8948OF"}
+FindVehicle {"licensePlate": "VV3411RO"}
+FindVehicle {"licensePlate": "D4022WV"}
+FindVehicle {"licensePlate": "V2017BA"}
+FindVehicle {"licensePlate": "BD1557NC"}
+FindVehicle {"licensePlate": "I7367OX"}
+FindVehicle {"licensePlate": "N2284PE"}
+FindVehicle {"licensePlate": "P3189GP"}
+Exit {"licensePlate": "RL8630DI", "time": "2015-03-10T14:35:00.0000000", "paid": 492.47}
+Exit {"licensePlate": "I5962CV", "time": "2015-03-02T05:50:00.0000000", "paid": 233.66}
+Exit {"licensePlate": "Y7241QV", "time": "2015-04-18T12:11:00.0000000", "paid": 383.39}
+Exit {"licensePlate": "P8825IC", "time": "2015-03-13T07:40:00.0000000", "paid": 367.81}
+Exit {"licensePlate": "HP1152TT", "time": "2015-04-27T10:10:00.0000000", "paid": 315.91}
+Exit {"licensePlate": "U1255QH", "time": "2015-02-21T03:04:00.0000000", "paid": 406.30}
+Exit {"licensePlate": "P7966HW", "time": "2015-04-27T04:12:00.0000000", "paid": 267.7}
+Exit {"licensePlate": "J8705GI", "time": "2015-01-19T15:47:00.0000000", "paid": 266.4}
+Exit {"licensePlate": "Z4902JH", "time": "2015-04-27T06:09:00.0000000", "paid": 176.62}
+Exit {"licensePlate": "P0819SP", "time": "2015-01-17T01:58:00.0000000", "paid": 255.92}
+Exit {"licensePlate": "B5956AR", "time": "2015-02-14T01:57:00.0000000", "paid": 127.68}
+Exit {"licensePlate": "C1424SU", "time": "2015-02-10T05:44:00.0000000", "paid": 189.55}
+Exit {"licensePlate": "VV9848FR", "time": "2015-02-10T01:23:00.0000000", "paid": 436.74}
+Exit {"licensePlate": "VL5038ST", "time": "2015-02-02T21:42:00.0000000", "paid": 464.12}
+Exit {"licensePlate": "XE9370UU", "time": "2015-01-25T01:18:00.0000000", "paid": 382.90}
+Exit {"licensePlate": "PE5883SU", "time": "2015-04-19T01:37:00.0000000", "paid": 187.14}
+Exit {"licensePlate": "K5251TA", "time": "2015-03-29T07:50:00.0000000", "paid": 100.1}
+Exit {"licensePlate": "M4856TS", "time": "2015-04-24T16:47:00.0000000", "paid": 263.95}
+Exit {"licensePlate": "L3904JZ", "time": "2015-02-18T00:56:00.0000000", "paid": 427.52}
+Exit {"licensePlate": "T5709FB", "time": "2015-03-09T03:56:00.0000000", "paid": 312.92}
+Exit {"licensePlate": "AN6250EG", "time": "2015-02-08T08:52:00.0000000", "paid": 319.17}
+Exit {"licensePlate": "J1175PU", "time": "2015-04-27T23:22:00.0000000", "paid": 498.70}
+Exit {"licensePlate": "M0195GD", "time": "2015-01-25T01:18:00.0000000", "paid": 404.92}
+Exit {"licensePlate": "RD8534ZJ", "time": "2015-02-06T00:06:00.0000000", "paid": 311.34}
+Exit {"licensePlate": "V9308TX", "time": "2015-02-24T13:34:00.0000000", "paid": 213.97}
+Exit {"licensePlate": "O7283VH", "time": "2015-03-27T00:09:00.0000000", "paid": 332.42}
+Exit {"licensePlate": "ZB5319OX", "time": "2015-02-07T18:51:00.0000000", "paid": 398.81}
+Exit {"licensePlate": "PY5316QD", "time": "2015-04-22T02:26:00.0000000", "paid": 420.29}
+Exit {"licensePlate": "Q5652QL", "time": "2015-04-04T12:29:00.0000000", "paid": 200.78}
+Exit {"licensePlate": "D1959ZO", "time": "2015-02-17T02:40:00.0000000", "paid": 430.96}
+Exit {"licensePlate": "N4201PU", "time": "2015-01-22T13:24:00.0000000", "paid": 294.54}
+Exit {"licensePlate": "D8645XX", "time": "2015-03-09T07:47:00.0000000", "paid": 142.62}
+Exit {"licensePlate": "B1856CE", "time": "2015-02-24T15:05:00.0000000", "paid": 377.62}
+Exit {"licensePlate": "I8020AB", "time": "2015-01-08T23:37:00.0000000", "paid": 220.40}
+Exit {"licensePlate": "I1421MF", "time": "2015-04-21T17:28:00.0000000", "paid": 465.46}
+Exit {"licensePlate": "UA2978RB", "time": "2015-03-01T17:11:00.0000000", "paid": 191.66}
+Exit {"licensePlate": "V2017BA", "time": "2015-03-29T07:52:00.0000000", "paid": 236.46}
+Exit {"licensePlate": "M3210TX", "time": "2015-01-22T12:19:00.0000000", "paid": 250.89}
+Exit {"licensePlate": "S9964MY", "time": "2015-01-14T01:37:00.0000000", "paid": 376.52}
+Exit {"licensePlate": "Q4920YN", "time": "2015-04-17T12:40:00.0000000", "paid": 416.91}
+Exit {"licensePlate": "V8989ZG", "time": "2015-03-11T05:03:00.0000000", "paid": 185.56}
+Exit {"licensePlate": "K1640OU", "time": "2015-01-24T06:30:00.0000000", "paid": 437.72}
+Exit {"licensePlate": "F6307XB", "time": "2015-01-18T04:45:00.0000000", "paid": 231.79}
+Exit {"licensePlate": "F6670IK", "time": "2015-01-15T01:51:00.0000000", "paid": 259.18}
+Exit {"licensePlate": "FF2386BM", "time": "2015-01-02T04:47:00.0000000", "paid": 186.86}
+Exit {"licensePlate": "E8418GA", "time": "2015-03-27T07:59:00.0000000", "paid": 381.3}
+Exit {"licensePlate": "R8950OS", "time": "2015-02-15T15:04:00.0000000", "paid": 378.56}
+Exit {"licensePlate": "D3416HV", "time": "2015-04-08T20:10:00.0000000", "paid": 277.0}
+Exit {"licensePlate": "X8658RD", "time": "2015-04-07T21:43:00.0000000", "paid": 129.36}
+Exit {"licensePlate": "B0185IM", "time": "2015-02-04T11:49:00.0000000", "paid": 103.14}
+Exit {"licensePlate": "S3732PB", "time": "2015-04-26T02:00:00.0000000", "paid": 350.12}
+Exit {"licensePlate": "S2084BM", "time": "2015-03-02T19:56:00.0000000", "paid": 273.82}
+Exit {"licensePlate": "E1351BG", "time": "2015-04-26T03:54:00.0000000", "paid": 399.91}
+Exit {"licensePlate": "RM7704VD", "time": "2015-04-14T01:06:00.0000000", "paid": 234.28}
+Exit {"licensePlate": "PL0486YU", "time": "2015-03-30T04:09:00.0000000", "paid": 276.91}
+Exit {"licensePlate": "C6976QZ", "time": "2015-03-19T18:29:00.0000000", "paid": 340.73}
+Exit {"licensePlate": "W1841DR", "time": "2015-03-20T19:41:00.0000000", "paid": 496.91}
+Exit {"licensePlate": "P3189GP", "time": "2015-02-03T18:09:00.0000000", "paid": 400.92}
+Exit {"licensePlate": "V0821UW", "time": "2015-01-30T21:37:00.0000000", "paid": 378.37}
+Exit {"licensePlate": "M8207MH", "time": "2015-04-15T16:27:00.0000000", "paid": 220.90}
+Exit {"licensePlate": "KD5384DT", "time": "2015-04-19T04:11:00.0000000", "paid": 188.11}
+Exit {"licensePlate": "E8227YR", "time": "2015-03-25T08:18:00.0000000", "paid": 174.5}
+Exit {"licensePlate": "VV3411RO", "time": "2015-02-04T10:46:00.0000000", "paid": 403.19}
+Exit {"licensePlate": "H9260II", "time": "2015-02-12T13:10:00.0000000", "paid": 488.52}
+Exit {"licensePlate": "O0147RE", "time": "2015-04-14T07:08:00.0000000", "paid": 107.36}
+Exit {"licensePlate": "N1987CN", "time": "2015-02-28T02:11:00.0000000", "paid": 427.32}
+Exit {"licensePlate": "Q4985IM", "time": "2015-02-13T02:08:00.0000000", "paid": 305.65}
+Exit {"licensePlate": "N3212AQ", "time": "2015-03-05T12:39:00.0000000", "paid": 214.8}
+Exit {"licensePlate": "L1027FT", "time": "2015-04-07T03:39:00.0000000", "paid": 151.2}
+Exit {"licensePlate": "U1022DD", "time": "2015-01-14T10:34:00.0000000", "paid": 491.41}
+Exit {"licensePlate": "D4022WV", "time": "2015-02-21T16:13:00.0000000", "paid": 283.11}
+Exit {"licensePlate": "K9113XE", "time": "2015-01-19T09:49:00.0000000", "paid": 397.30}
+Exit {"licensePlate": "CG6795HM", "time": "2015-03-29T07:12:00.0000000", "paid": 205.97}
+Exit {"licensePlate": "IA9741XI", "time": "2015-02-05T03:10:00.0000000", "paid": 117.78}
+Exit {"licensePlate": "T6940KG", "time": "2015-03-30T04:13:00.0000000", "paid": 425.51}
+Exit {"licensePlate": "OY8128SJ", "time": "2015-02-14T12:57:00.0000000", "paid": 225.69}
+Exit {"licensePlate": "P9398RF", "time": "2015-03-20T01:35:00.0000000", "paid": 125.10}
+Exit {"licensePlate": "J8948OF", "time": "2015-03-07T12:51:00.0000000", "paid": 467.50}
+Exit {"licensePlate": "EG3227MG", "time": "2015-03-18T05:52:00.0000000", "paid": 476.38}
+Exit {"licensePlate": "G4736YH", "time": "2015-02-02T00:09:00.0000000", "paid": 125.55}
+Exit {"licensePlate": "Y2591KD", "time": "2015-04-18T03:13:00.0000000", "paid": 477.80}
+Exit {"licensePlate": "X8981KG", "time": "2015-03-17T21:32:00.0000000", "paid": 306.7}
+Exit {"licensePlate": "I7367OX", "time": "2015-02-01T17:27:00.0000000", "paid": 136.27}
+Exit {"licensePlate": "BD1557NC", "time": "2015-02-22T15:56:00.0000000", "paid": 186.34}
+Exit {"licensePlate": "M9766BU", "time": "2015-02-19T04:20:00.0000000", "paid": 351.66}
+Exit {"licensePlate": "UZ9306WD", "time": "2015-01-12T04:48:00.0000000", "paid": 418.67}
+Exit {"licensePlate": "PZ1342SR", "time": "2015-03-29T04:15:00.0000000", "paid": 260.88}
+Exit {"licensePlate": "L8309AR", "time": "2015-03-25T01:16:00.0000000", "paid": 277.10}
+Exit {"licensePlate": "N2284PE", "time": "2015-01-26T03:49:00.0000000", "paid": 249.88}
+Exit {"licensePlate": "S6628JT", "time": "2015-04-07T03:19:00.0000000", "paid": 414.78}
+Exit {"licensePlate": "KB8041KA", "time": "2015-03-14T15:38:00.0000000", "paid": 260.18}
+Exit {"licensePlate": "YF7853TS", "time": "2015-02-12T00:26:00.0000000", "paid": 384.49}
+Exit {"licensePlate": "E3053VA", "time": "2015-01-10T04:24:00.0000000", "paid": 222.12}
+Exit {"licensePlate": "R8355XM", "time": "2015-04-15T04:04:00.0000000", "paid": 204.40}
+Exit {"licensePlate": "EN4764IF", "time": "2015-02-12T19:50:00.0000000", "paid": 392.77}
+Exit {"licensePlate": "K7678IR", "time": "2015-03-24T23:25:00.0000000", "paid": 159.74}
+Exit {"licensePlate": "MI0746UA", "time": "2015-01-30T22:35:00.0000000", "paid": 483.42}
+Exit {"licensePlate": "K2957AQ", "time": "2015-01-29T02:05:00.0000000", "paid": 288.64}
+Exit {"licensePlate": "J8818FR", "time": "2015-02-24T01:35:00.0000000", "paid": 438.67}
+Exit {"licensePlate": "U0421AC", "time": "2015-02-23T17:55:00.0000000", "paid": 185.98}

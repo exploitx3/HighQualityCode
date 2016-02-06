@@ -1,0 +1,1165 @@
+SetupPark {"sectors": 10, "placesPerSector": 10}
+Park {"type": "motorbike", "time": "2015-03-08T04:12:00.0000000", "sector": 1, "place": 5, "licensePlate": "F5740BY", "owner": "Martina Mcnickle", "hours": 13}
+Park {"type": "car", "time": "2015-01-21T16:01:00.0000000", "sector": 1, "place": 5, "licensePlate": "SQ5605UX", "owner": "Keli Kirschbaum", "hours": 26}
+Park {"type": "motorbike", "time": "2015-02-02T21:00:00.0000000", "sector": 3, "place": 4, "licensePlate": "O5007VM", "owner": "Sabrina Seitz", "hours": 15}
+Park {"type": "motorbike", "time": "2015-01-28T07:32:00.0000000", "sector": 9, "place": 5, "licensePlate": "C9187JZ", "owner": "Marcel Matter", "hours": 35}
+Park {"type": "truck", "time": "2015-04-07T18:08:00.0000000", "sector": 4, "place": 4, "licensePlate": "WL0216HC", "owner": "Amada Acre", "hours": 46}
+Park {"type": "car", "time": "2015-03-08T23:27:00.0000000", "sector": 8, "place": 6, "licensePlate": "N4003YG", "owner": "Arica Araujo", "hours": 20}
+Park {"type": "car", "time": "2015-03-22T15:49:00.0000000", "sector": 7, "place": 2, "licensePlate": "PY7539NV", "owner": "Steven Sneed", "hours": 38}
+Park {"type": "truck", "time": "2015-02-11T12:28:00.0000000", "sector": 2, "place": 6, "licensePlate": "H9079QM", "owner": "Steven Sneed", "hours": 49}
+Park {"type": "car", "time": "2015-04-13T00:54:00.0000000", "sector": 2, "place": 1, "licensePlate": "J3622GD", "owner": "Angie Aylesworth", "hours": 10}
+Park {"type": "truck", "time": "2015-02-02T12:07:00.0000000", "sector": 6, "place": 2, "licensePlate": "V5596NI", "owner": "Devin Digennaro", "hours": 19}
+Park {"type": "motorbike", "time": "2015-02-01T22:59:00.0000000", "sector": 4, "place": 5, "licensePlate": "BU5087LI", "owner": "Krystyna Kucharski", "hours": 24}
+Park {"type": "car", "time": "2015-03-18T21:24:00.0000000", "sector": 4, "place": 1, "licensePlate": "J9494IG", "owner": "Apryl Addis", "hours": 23}
+Park {"type": "car", "time": "2015-02-14T21:59:00.0000000", "sector": 8, "place": 10, "licensePlate": "B4088QO", "owner": "Sharan Shine", "hours": 35}
+Park {"type": "car", "time": "2015-02-25T10:55:00.0000000", "sector": 8, "place": 10, "licensePlate": "VP3339SW", "owner": "Florinda Faber", "hours": 21}
+Park {"type": "car", "time": "2015-03-23T07:50:00.0000000", "sector": 9, "place": 6, "licensePlate": "GA0011ML", "owner": "Vernice Vice", "hours": 19}
+Park {"type": "truck", "time": "2015-01-27T19:43:00.0000000", "sector": 3, "place": 4, "licensePlate": "B4124AY", "owner": "Gertie Giesler", "hours": 41}
+Park {"type": "car", "time": "2015-04-29T18:00:00.0000000", "sector": 10, "place": 11, "licensePlate": "R8839UO", "owner": "Alleen Achorn", "hours": 38}
+Park {"type": "truck", "time": "2015-03-17T04:52:00.0000000", "sector": 5, "place": 1, "licensePlate": "T9645KT", "owner": "Nicolette Nardi", "hours": 5}
+Park {"type": "motorbike", "time": "2015-01-03T23:27:00.0000000", "sector": 2, "place": 2, "licensePlate": "T9071VB", "owner": "Nicolasa Nedeau", "hours": 3}
+Park {"type": "truck", "time": "2015-02-05T01:17:00.0000000", "sector": 5, "place": 13, "licensePlate": "R5411YV", "owner": "Michiko Mccutchen", "hours": 14}
+Park {"type": "motorbike", "time": "2015-02-12T05:21:00.0000000", "sector": 4, "place": 6, "licensePlate": "RP5007KZ", "owner": "Leigha Leffler", "hours": 24}
+Park {"type": "motorbike", "time": "2015-04-08T18:39:00.0000000", "sector": 2, "place": 12, "licensePlate": "S0272PR", "owner": "Sharan Shine", "hours": 14}
+Park {"type": "car", "time": "2015-01-03T10:00:00.0000000", "sector": 7, "place": 11, "licensePlate": "U4915DW", "owner": "Suk Starcher", "hours": 3}
+Park {"type": "motorbike", "time": "2015-01-02T13:39:00.0000000", "sector": 2, "place": 2, "licensePlate": "JE6616LQ", "owner": "Katie Kosakowski", "hours": 36}
+Park {"type": "motorbike", "time": "2015-01-06T04:13:00.0000000", "sector": 5, "place": 2, "licensePlate": "G9764CE", "owner": "Mao Maclaren", "hours": 48}
+Park {"type": "car", "time": "2015-03-26T14:56:00.0000000", "sector": 10, "place": 11, "licensePlate": "AO8780IP", "owner": "Arden Adan", "hours": 33}
+Park {"type": "motorbike", "time": "2015-04-13T23:36:00.0000000", "sector": 4, "place": 7, "licensePlate": "JS1045OX", "owner": "Emory Edmond", "hours": 43}
+Park {"type": "car", "time": "2015-02-16T04:19:00.0000000", "sector": 9, "place": 6, "licensePlate": "GW0620TU", "owner": "Suk Starcher", "hours": 46}
+Park {"type": "car", "time": "2015-03-04T15:00:00.0000000", "sector": 4, "place": 3, "licensePlate": "V0807ZL", "owner": "Kate Kieffer", "hours": 40}
+Park {"type": "motorbike", "time": "2015-01-03T18:34:00.0000000", "sector": 4, "place": 1, "licensePlate": "ZT9782UC", "owner": "Concepcion Cobos", "hours": 26}
+Park {"type": "motorbike", "time": "2015-04-05T07:11:00.0000000", "sector": 10, "place": 8, "licensePlate": "I0334FQ", "owner": "Mazie Musil", "hours": 13}
+Park {"type": "truck", "time": "2015-04-11T05:13:00.0000000", "sector": 1, "place": 2, "licensePlate": "HP0889HV", "owner": "Sharan Shine", "hours": 22}
+Park {"type": "truck", "time": "2015-03-14T05:06:00.0000000", "sector": 1, "place": 5, "licensePlate": "T7422QU", "owner": "Vernice Vice", "hours": 10}
+Park {"type": "motorbike", "time": "2015-04-18T05:42:00.0000000", "sector": 10, "place": 13, "licensePlate": "S7668AI", "owner": "Nicolasa Nedeau", "hours": 43}
+Park {"type": "car", "time": "2015-03-26T07:49:00.0000000", "sector": 3, "place": 9, "licensePlate": "B7764WT", "owner": "Devin Digennaro", "hours": 19}
+Park {"type": "motorbike", "time": "2015-01-10T13:24:00.0000000", "sector": 7, "place": 6, "licensePlate": "J1282PL", "owner": "Leigha Leffler", "hours": 31}
+Park {"type": "motorbike", "time": "2015-04-30T04:10:00.0000000", "sector": 7, "place": 13, "licensePlate": "R3158GW", "owner": "Linsey Laguna", "hours": 25}
+Park {"type": "car", "time": "2015-04-30T05:06:00.0000000", "sector": 9, "place": 6, "licensePlate": "CT0488JF", "owner": "Wonda Wasser", "hours": 30}
+Park {"type": "truck", "time": "2015-04-01T06:03:00.0000000", "sector": 10, "place": 7, "licensePlate": "PL5044IM", "owner": "Nicolasa Nedeau", "hours": 6}
+Park {"type": "motorbike", "time": "2015-03-09T14:39:00.0000000", "sector": 1, "place": 9, "licensePlate": "V4834HO", "owner": "Luigi Lamotte", "hours": 18}
+Park {"type": "motorbike", "time": "2015-02-13T21:59:00.0000000", "sector": 8, "place": 8, "licensePlate": "M3706RP", "owner": "Krystyna Kucharski", "hours": 10}
+Park {"type": "truck", "time": "2015-03-11T01:09:00.0000000", "sector": 10, "place": 7, "licensePlate": "R9035QW", "owner": "Suzy Stobaugh", "hours": 47}
+Park {"type": "truck", "time": "2015-04-12T12:07:00.0000000", "sector": 10, "place": 9, "licensePlate": "B1042HV", "owner": "Fannie Frame", "hours": 17}
+Park {"type": "motorbike", "time": "2015-03-03T16:49:00.0000000", "sector": 4, "place": 12, "licensePlate": "Z3683PP", "owner": "Arden Adan", "hours": 36}
+Park {"type": "car", "time": "2015-04-20T00:13:00.0000000", "sector": 9, "place": 9, "licensePlate": "L4065GH", "owner": "Angie Aylesworth", "hours": 46}
+Park {"type": "motorbike", "time": "2015-03-11T12:55:00.0000000", "sector": 7, "place": 7, "licensePlate": "S6615GP", "owner": "Buena Baptist", "hours": 8}
+Park {"type": "motorbike", "time": "2015-02-06T16:08:00.0000000", "sector": 9, "place": 6, "licensePlate": "PD4171KL", "owner": "Suk Starcher", "hours": 15}
+Park {"type": "truck", "time": "2015-02-11T01:14:00.0000000", "sector": 2, "place": 5, "licensePlate": "DQ6591OO", "owner": "Contessa Connon", "hours": 0}
+Park {"type": "motorbike", "time": "2015-02-19T02:55:00.0000000", "sector": 4, "place": 3, "licensePlate": "I9527XM", "owner": "Terina Tellez", "hours": 23}
+Park {"type": "truck", "time": "2015-04-15T02:01:00.0000000", "sector": 3, "place": 7, "licensePlate": "J0140QK", "owner": "Alane Avallone", "hours": 39}
+Park {"type": "motorbike", "time": "2015-04-23T02:32:00.0000000", "sector": 1, "place": 9, "licensePlate": "EQ0682YH", "owner": "Darryl Dohrmann", "hours": 0}
+Park {"type": "car", "time": "2015-04-29T03:09:00.0000000", "sector": 2, "place": 10, "licensePlate": "W6869ES", "owner": "Ena Eggebrecht", "hours": 15}
+Park {"type": "truck", "time": "2015-04-18T03:48:00.0000000", "sector": 9, "place": 2, "licensePlate": "J6218SE", "owner": "Julianne Jenning", "hours": 17}
+Park {"type": "car", "time": "2015-03-27T02:49:00.0000000", "sector": 7, "place": 2, "licensePlate": "U8219FM", "owner": "Nicolasa Nedeau", "hours": 26}
+Park {"type": "car", "time": "2015-04-18T02:42:00.0000000", "sector": 2, "place": 11, "licensePlate": "AU3704NU", "owner": "Julienne Jervis", "hours": 32}
+Park {"type": "motorbike", "time": "2015-01-07T16:12:00.0000000", "sector": 5, "place": 3, "licensePlate": "AJ1541MM", "owner": "Many Montgomery", "hours": 38}
+Park {"type": "car", "time": "2015-02-14T17:05:00.0000000", "sector": 4, "place": 1, "licensePlate": "LL5453TS", "owner": "Chasity Cripps", "hours": 12}
+Park {"type": "motorbike", "time": "2015-01-18T03:42:00.0000000", "sector": 6, "place": 3, "licensePlate": "E0196PI", "owner": "Darryl Dohrmann", "hours": 26}
+Park {"type": "motorbike", "time": "2015-04-19T09:37:00.0000000", "sector": 6, "place": 10, "licensePlate": "I2658FS", "owner": "Marni Mattera", "hours": 38}
+Park {"type": "motorbike", "time": "2015-03-14T05:10:00.0000000", "sector": 2, "place": 3, "licensePlate": "S3998HL", "owner": "Zoraida Zumwalt", "hours": 1}
+Park {"type": "motorbike", "time": "2015-02-07T01:31:00.0000000", "sector": 1, "place": 1, "licensePlate": "A3648HP", "owner": "Josh Jacobson", "hours": 11}
+Park {"type": "truck", "time": "2015-02-02T18:21:00.0000000", "sector": 7, "place": 6, "licensePlate": "L7457AE", "owner": "Gertie Giesler", "hours": 22}
+Park {"type": "truck", "time": "2015-02-08T22:11:00.0000000", "sector": 6, "place": 6, "licensePlate": "M8085JL", "owner": "Contessa Connon", "hours": 6}
+Park {"type": "motorbike", "time": "2015-01-30T12:02:00.0000000", "sector": 7, "place": 11, "licensePlate": "M8356WU", "owner": "Joanie Jennings", "hours": 16}
+Park {"type": "truck", "time": "2015-02-19T14:49:00.0000000", "sector": 9, "place": 9, "licensePlate": "J1813BN", "owner": "Emory Edmond", "hours": 27}
+Park {"type": "car", "time": "2015-03-05T00:46:00.0000000", "sector": 8, "place": 7, "licensePlate": "K1133XK", "owner": "Linsey Laguna", "hours": 4}
+Park {"type": "truck", "time": "2015-03-01T19:00:00.0000000", "sector": 3, "place": 5, "licensePlate": "Q5951IX", "owner": "Dominique Dang", "hours": 46}
+FindVehicle {"licensePlate": "B5076IK"}
+FindVehicle {"licensePlate": "N1548QB"}
+FindVehicle {"licensePlate": "S5745ZU"}
+FindVehicle {"licensePlate": "T9645KT"}
+FindVehicle {"licensePlate": "M6909OP"}
+FindVehicle {"licensePlate": "F1911YK"}
+FindVehicle {"licensePlate": "VA4711IM"}
+FindVehicle {"licensePlate": "Y0638PP"}
+FindVehicle {"licensePlate": "GK2041XP"}
+FindVehicle {"licensePlate": "C2350JV"}
+FindVehicle {"licensePlate": "OR4333ER"}
+FindVehicle {"licensePlate": "U0371BU"}
+FindVehicle {"licensePlate": "P1860JL"}
+FindVehicle {"licensePlate": "A2339WN"}
+FindVehicle {"licensePlate": "XM1133AU"}
+FindVehicle {"licensePlate": "A9291PU"}
+FindVehicle {"licensePlate": "FD8656AZ"}
+FindVehicle {"licensePlate": "Z2358EX"}
+FindVehicle {"licensePlate": "WJ9705TE"}
+FindVehicle {"licensePlate": "L5360JD"}
+FindVehicle {"licensePlate": "Q0449DA"}
+FindVehicle {"licensePlate": "V6214PL"}
+FindVehicle {"licensePlate": "MA8699RC"}
+FindVehicle {"licensePlate": "I4335VI"}
+FindVehicle {"licensePlate": "KO7696RP"}
+FindVehicle {"licensePlate": "BJ7654WQ"}
+FindVehicle {"licensePlate": "CT3008MN"}
+FindVehicle {"licensePlate": "LU7078VO"}
+FindVehicle {"licensePlate": "P0144HD"}
+FindVehicle {"licensePlate": "S8659RT"}
+FindVehicle {"licensePlate": "K8250FT"}
+FindVehicle {"licensePlate": "M6909OP"}
+FindVehicle {"licensePlate": "R8839UO"}
+FindVehicle {"licensePlate": "X7695CP"}
+FindVehicle {"licensePlate": "J1813BN"}
+FindVehicle {"licensePlate": "Q0449DA"}
+FindVehicle {"licensePlate": "V8684SX"}
+FindVehicle {"licensePlate": "Z6991YX"}
+FindVehicle {"licensePlate": "C9972YI"}
+FindVehicle {"licensePlate": "WG0403WY"}
+FindVehicle {"licensePlate": "KX9042DV"}
+FindVehicle {"licensePlate": "V4834HO"}
+FindVehicle {"licensePlate": "X2408TG"}
+FindVehicle {"licensePlate": "TF9432DV"}
+FindVehicle {"licensePlate": "J6218SE"}
+FindVehicle {"licensePlate": "U1851EX"}
+FindVehicle {"licensePlate": "I0566QX"}
+FindVehicle {"licensePlate": "TH5400VE"}
+FindVehicle {"licensePlate": "HE8733ZD"}
+FindVehicle {"licensePlate": "R5411YV"}
+FindVehicle {"licensePlate": "BU5087LI"}
+FindVehicle {"licensePlate": "ED1634WK"}
+FindVehicle {"licensePlate": "L1284JO"}
+FindVehicle {"licensePlate": "D8266YG"}
+FindVehicle {"licensePlate": "BM8664OT"}
+FindVehicle {"licensePlate": "S3680HX"}
+FindVehicle {"licensePlate": "N6888QY"}
+FindVehicle {"licensePlate": "SI7807KB"}
+FindVehicle {"licensePlate": "Y3376EO"}
+FindVehicle {"licensePlate": "GX8417GI"}
+FindVehicle {"licensePlate": "Q5088FT"}
+FindVehicle {"licensePlate": "RA8277FP"}
+FindVehicle {"licensePlate": "X7695CP"}
+FindVehicle {"licensePlate": "M8356WU"}
+FindVehicle {"licensePlate": "K9197BO"}
+FindVehicle {"licensePlate": "R8839UO"}
+FindVehicle {"licensePlate": "L1421AJ"}
+FindVehicle {"licensePlate": "B4088QO"}
+FindVehicle {"licensePlate": "I6225FU"}
+FindVehicle {"licensePlate": "LU5287LS"}
+FindVehicle {"licensePlate": "B4088QO"}
+FindVehicle {"licensePlate": "D4055DY"}
+FindVehicle {"licensePlate": "H4495NZ"}
+FindVehicle {"licensePlate": "P1664ES"}
+FindVehicle {"licensePlate": "E3747YL"}
+FindVehicle {"licensePlate": "JE6616LQ"}
+FindVehicle {"licensePlate": "V0807ZL"}
+FindVehicle {"licensePlate": "J0541RP"}
+FindVehicle {"licensePlate": "GX9278TD"}
+FindVehicle {"licensePlate": "Z2358EX"}
+FindVehicle {"licensePlate": "R1221GT"}
+FindVehicle {"licensePlate": "Y7882AF"}
+FindVehicle {"licensePlate": "S7668AI"}
+FindVehicle {"licensePlate": "G3861YL"}
+FindVehicle {"licensePlate": "N9428DN"}
+FindVehicle {"licensePlate": "XY1629TX"}
+FindVehicle {"licensePlate": "JE6616LQ"}
+FindVehicle {"licensePlate": "YV8273SU"}
+FindVehicle {"licensePlate": "T5619LO"}
+FindVehicle {"licensePlate": "AL5334LO"}
+FindVehicle {"licensePlate": "D2899KH"}
+FindVehicle {"licensePlate": "Y7771PA"}
+FindVehicle {"licensePlate": "F2588LY"}
+FindVehicle {"licensePlate": "TV5948BC"}
+FindVehicle {"licensePlate": "SJ7644PT"}
+FindVehicle {"licensePlate": "K9197BO"}
+FindVehicle {"licensePlate": "R2513SH"}
+FindVehicle {"licensePlate": "P7659YU"}
+FindVehicle {"licensePlate": "K9197BO"}
+FindVehicle {"licensePlate": "O9045EF"}
+FindVehicle {"licensePlate": "V9659ZA"}
+FindVehicle {"licensePlate": "C8836IQ"}
+FindVehicle {"licensePlate": "Z3683PP"}
+FindVehicle {"licensePlate": "YQ4124DL"}
+FindVehicle {"licensePlate": "MV0671TO"}
+FindVehicle {"licensePlate": "DX3977QF"}
+FindVehicle {"licensePlate": "PD0705LE"}
+FindVehicle {"licensePlate": "V0807ZL"}
+FindVehicle {"licensePlate": "U8219FM"}
+FindVehicle {"licensePlate": "W1390YR"}
+FindVehicle {"licensePlate": "N7521SW"}
+FindVehicle {"licensePlate": "UN7744OI"}
+FindVehicle {"licensePlate": "G5182YO"}
+FindVehicle {"licensePlate": "H0417DX"}
+FindVehicle {"licensePlate": "OR4333ER"}
+FindVehicle {"licensePlate": "N0268US"}
+FindVehicle {"licensePlate": "O5007VM"}
+FindVehicle {"licensePlate": "H0927PQ"}
+FindVehicle {"licensePlate": "L5360JD"}
+FindVehicle {"licensePlate": "C1655QS"}
+FindVehicle {"licensePlate": "A3648HP"}
+FindVehicle {"licensePlate": "F1265BL"}
+FindVehicle {"licensePlate": "X7401JJ"}
+FindVehicle {"licensePlate": "A6876BE"}
+FindVehicle {"licensePlate": "F1911YK"}
+FindVehicle {"licensePlate": "AV8689YD"}
+FindVehicle {"licensePlate": "P1664ES"}
+FindVehicle {"licensePlate": "Z1785XV"}
+FindVehicle {"licensePlate": "WL0216HC"}
+FindVehicle {"licensePlate": "T8848SL"}
+FindVehicle {"licensePlate": "L1769BL"}
+FindVehicle {"licensePlate": "V6214PL"}
+FindVehicle {"licensePlate": "D4055DY"}
+FindVehicle {"licensePlate": "BS3678BP"}
+FindVehicle {"licensePlate": "P7659YU"}
+FindVehicle {"licensePlate": "MA8699RC"}
+FindVehicle {"licensePlate": "E4605SQ"}
+FindVehicle {"licensePlate": "S3680HX"}
+FindVehicle {"licensePlate": "DS1192HK"}
+FindVehicle {"licensePlate": "R9155LP"}
+FindVehicle {"licensePlate": "W0664RH"}
+FindVehicle {"licensePlate": "D0275CS"}
+FindVehicle {"licensePlate": "LU5287LS"}
+FindVehicle {"licensePlate": "AJ1541MM"}
+FindVehicle {"licensePlate": "Z1785XV"}
+FindVehicle {"licensePlate": "EZ9379ET"}
+FindVehicle {"licensePlate": "R1221GT"}
+FindVehicle {"licensePlate": "X7695CP"}
+FindVehicle {"licensePlate": "ZN0132WW"}
+FindVehicle {"licensePlate": "G9764CE"}
+FindVehicle {"licensePlate": "C8836IQ"}
+FindVehicle {"licensePlate": "P1530CG"}
+FindVehicle {"licensePlate": "A3601PD"}
+FindVehicle {"licensePlate": "XY1629TX"}
+FindVehicle {"licensePlate": "R2513SH"}
+FindVehicle {"licensePlate": "O2733QK"}
+FindVehicle {"licensePlate": "L1284JO"}
+FindVehicle {"licensePlate": "BU5087LI"}
+FindVehicle {"licensePlate": "JE6616LQ"}
+FindVehicle {"licensePlate": "C3965YV"}
+FindVehicle {"licensePlate": "BJ7654WQ"}
+FindVehicle {"licensePlate": "W1612UX"}
+FindVehicle {"licensePlate": "G9764CE"}
+FindVehicle {"licensePlate": "H1826BX"}
+FindVehicle {"licensePlate": "O8881IF"}
+FindVehicle {"licensePlate": "PL5044IM"}
+FindVehicle {"licensePlate": "G9764CE"}
+FindVehicle {"licensePlate": "P4001AH"}
+FindVehicle {"licensePlate": "TF9432DV"}
+FindVehicle {"licensePlate": "Y7882AF"}
+FindVehicle {"licensePlate": "L1284JO"}
+FindVehicle {"licensePlate": "ES5007SK"}
+FindVehicle {"licensePlate": "M3706RP"}
+FindVehicle {"licensePlate": "QF2373PH"}
+FindVehicle {"licensePlate": "S3680HX"}
+FindVehicle {"licensePlate": "K1133XK"}
+FindVehicle {"licensePlate": "A6876BE"}
+FindVehicle {"licensePlate": "Z5308BY"}
+FindVehicle {"licensePlate": "S3779RR"}
+FindVehicle {"licensePlate": "I2658FS"}
+FindVehicle {"licensePlate": "S8144DU"}
+FindVehicle {"licensePlate": "U1150PB"}
+FindVehicle {"licensePlate": "B5382PR"}
+FindVehicle {"licensePlate": "GW0620TU"}
+FindVehicle {"licensePlate": "N9874GZ"}
+FindVehicle {"licensePlate": "FO6306BS"}
+FindVehicle {"licensePlate": "R2513SH"}
+FindVehicle {"licensePlate": "LT4663DV"}
+FindVehicle {"licensePlate": "QN2762SO"}
+FindVehicle {"licensePlate": "A6876BE"}
+FindVehicle {"licensePlate": "BZ6166UM"}
+FindVehicle {"licensePlate": "DQ6591OO"}
+FindVehicle {"licensePlate": "C9972YI"}
+FindVehicle {"licensePlate": "C6146ZE"}
+FindVehicle {"licensePlate": "S8659RT"}
+FindVehicle {"licensePlate": "ZC6523VH"}
+FindVehicle {"licensePlate": "CT0488JF"}
+FindVehicle {"licensePlate": "I0566QX"}
+FindVehicle {"licensePlate": "N6444QM"}
+FindVehicle {"licensePlate": "P4001AH"}
+VehiclesByOwner {"owner": "Lucas Levi"}
+VehiclesByOwner {"owner": "Florinda Faber"}
+VehiclesByOwner {"owner": "Florinda Faber"}
+VehiclesByOwner {"owner": "Wonda Wasser"}
+VehiclesByOwner {"owner": "Britni Bonavita"}
+VehiclesByOwner {"owner": "Sharan Shine"}
+VehiclesByOwner {"owner": "Maynard Mcclung"}
+VehiclesByOwner {"owner": "Nicolasa Nedeau"}
+VehiclesByOwner {"owner": "Contessa Connon"}
+VehiclesByOwner {"owner": "Euna Elswick"}
+VehiclesByOwner {"owner": "Amada Acre"}
+VehiclesByOwner {"owner": "Mao Maclaren"}
+VehiclesByOwner {"owner": "Laila Lines"}
+VehiclesByOwner {"owner": "Marylyn Marchi"}
+VehiclesByOwner {"owner": "Marylyn Marchi"}
+VehiclesByOwner {"owner": "Loura Lightcap"}
+VehiclesByOwner {"owner": "Virgen Vivas"}
+VehiclesByOwner {"owner": "Mireille Mahr"}
+VehiclesByOwner {"owner": "Leslie Loos"}
+VehiclesByOwner {"owner": "Madonna Mcclane"}
+VehiclesByOwner {"owner": "Zoe Zajicek"}
+VehiclesByOwner {"owner": "Fannie Frame"}
+VehiclesByOwner {"owner": "Mira Mauney"}
+VehiclesByOwner {"owner": "Virgie Vanepps"}
+VehiclesByOwner {"owner": "Nicolette Nardi"}
+VehiclesByOwner {"owner": "Karlyn Kennison"}
+VehiclesByOwner {"owner": "Carlena Czaja"}
+VehiclesByOwner {"owner": "Florinda Faber"}
+VehiclesByOwner {"owner": "Euna Elswick"}
+VehiclesByOwner {"owner": "Mckenzie Maresca"}
+VehiclesByOwner {"owner": "Amada Acre"}
+VehiclesByOwner {"owner": "Terina Tellez"}
+VehiclesByOwner {"owner": "Leigha Leffler"}
+VehiclesByOwner {"owner": "Mckenzie Maresca"}
+VehiclesByOwner {"owner": "Katie Kosakowski"}
+VehiclesByOwner {"owner": "Concepcion Cobos"}
+VehiclesByOwner {"owner": "Lashay Laliberte"}
+VehiclesByOwner {"owner": "Shandra Salamone"}
+VehiclesByOwner {"owner": "Katie Kosakowski"}
+VehiclesByOwner {"owner": "Shandra Salamone"}
+VehiclesByOwner {"owner": "Shaun Sarno"}
+VehiclesByOwner {"owner": "Jaunita Jeffress"}
+VehiclesByOwner {"owner": "Leigha Leffler"}
+VehiclesByOwner {"owner": "Mckenzie Maresca"}
+VehiclesByOwner {"owner": "Sage Struble"}
+VehiclesByOwner {"owner": "Steven Sneed"}
+VehiclesByOwner {"owner": "Alane Avallone"}
+VehiclesByOwner {"owner": "Steven Sneed"}
+VehiclesByOwner {"owner": "Chasity Cripps"}
+VehiclesByOwner {"owner": "Sabrina Seitz"}
+VehiclesByOwner {"owner": "Marcel Matter"}
+VehiclesByOwner {"owner": "Emory Edmond"}
+VehiclesByOwner {"owner": "Vena Vivanco"}
+VehiclesByOwner {"owner": "Cherish Claybrook"}
+VehiclesByOwner {"owner": "Farah Ferrari"}
+VehiclesByOwner {"owner": "Concepcion Cobos"}
+VehiclesByOwner {"owner": "Sharan Shine"}
+VehiclesByOwner {"owner": "Wonda Wasser"}
+VehiclesByOwner {"owner": "Mirella Mcgillis"}
+VehiclesByOwner {"owner": "Gertie Giesler"}
+VehiclesByOwner {"owner": "Madonna Mcclane"}
+VehiclesByOwner {"owner": "Alane Avallone"}
+VehiclesByOwner {"owner": "Luigi Lamotte"}
+VehiclesByOwner {"owner": "Mao Maclaren"}
+VehiclesByOwner {"owner": "Sabrina Seitz"}
+VehiclesByOwner {"owner": "Contessa Connon"}
+VehiclesByOwner {"owner": "Arica Araujo"}
+VehiclesByOwner {"owner": "Thurman Tait"}
+VehiclesByOwner {"owner": "Burl Bragg"}
+VehiclesByOwner {"owner": "Devin Digennaro"}
+VehiclesByOwner {"owner": "Sabrina Seitz"}
+VehiclesByOwner {"owner": "Katie Kosakowski"}
+VehiclesByOwner {"owner": "Katie Kosakowski"}
+VehiclesByOwner {"owner": "Carlena Czaja"}
+VehiclesByOwner {"owner": "Alejandrina Ashbrook"}
+VehiclesByOwner {"owner": "Farah Ferrari"}
+VehiclesByOwner {"owner": "Amada Acre"}
+VehiclesByOwner {"owner": "Julienne Jervis"}
+VehiclesByOwner {"owner": "Martina Mcnickle"}
+VehiclesByOwner {"owner": "Serena Sakamoto"}
+VehiclesByOwner {"owner": "Mireille Mahr"}
+VehiclesByOwner {"owner": "Zoraida Zumwalt"}
+VehiclesByOwner {"owner": "Kate Kieffer"}
+VehiclesByOwner {"owner": "Trena Trammell"}
+VehiclesByOwner {"owner": "Shaun Sarno"}
+VehiclesByOwner {"owner": "Farah Ferrari"}
+VehiclesByOwner {"owner": "Alleen Achorn"}
+VehiclesByOwner {"owner": "Florinda Faber"}
+VehiclesByOwner {"owner": "Vernice Vice"}
+VehiclesByOwner {"owner": "Chasity Cripps"}
+VehiclesByOwner {"owner": "Burl Bragg"}
+VehiclesByOwner {"owner": "Jaunita Jeffress"}
+VehiclesByOwner {"owner": "Indira Isabel"}
+VehiclesByOwner {"owner": "Gertie Giesler"}
+VehiclesByOwner {"owner": "Sherilyn Speaker"}
+VehiclesByOwner {"owner": "Farah Ferrari"}
+VehiclesByOwner {"owner": "Apryl Addis"}
+VehiclesByOwner {"owner": "Contessa Connon"}
+VehiclesByOwner {"owner": "Mirella Mcgillis"}
+VehiclesByOwner {"owner": "Alane Avallone"}
+VehiclesByOwner {"owner": "Suk Starcher"}
+VehiclesByOwner {"owner": "Alleen Achorn"}
+VehiclesByOwner {"owner": "Brett Blanc"}
+VehiclesByOwner {"owner": "Indira Isabel"}
+VehiclesByOwner {"owner": "Tommye Tatom"}
+VehiclesByOwner {"owner": "Virgen Vivas"}
+VehiclesByOwner {"owner": "Terina Tellez"}
+VehiclesByOwner {"owner": "Carlena Czaja"}
+VehiclesByOwner {"owner": "Mao Maclaren"}
+VehiclesByOwner {"owner": "Tommye Tatom"}
+VehiclesByOwner {"owner": "Leslie Loos"}
+VehiclesByOwner {"owner": "Michiko Mccutchen"}
+VehiclesByOwner {"owner": "Sabrina Seitz"}
+VehiclesByOwner {"owner": "Pamelia Persinger"}
+VehiclesByOwner {"owner": "Dominique Dang"}
+VehiclesByOwner {"owner": "Linsey Laguna"}
+VehiclesByOwner {"owner": "Contessa Connon"}
+VehiclesByOwner {"owner": "Mirella Mcgillis"}
+VehiclesByOwner {"owner": "Thurman Tait"}
+VehiclesByOwner {"owner": "Linsey Laguna"}
+VehiclesByOwner {"owner": "Leigha Leffler"}
+VehiclesByOwner {"owner": "Emory Edmond"}
+VehiclesByOwner {"owner": "Brett Blanc"}
+VehiclesByOwner {"owner": "Shandra Salamone"}
+VehiclesByOwner {"owner": "Fannie Frame"}
+VehiclesByOwner {"owner": "Florinda Faber"}
+VehiclesByOwner {"owner": "Carlena Czaja"}
+VehiclesByOwner {"owner": "Gertie Giesler"}
+VehiclesByOwner {"owner": "Serena Sakamoto"}
+VehiclesByOwner {"owner": "Mira Mauney"}
+VehiclesByOwner {"owner": "Nicolette Nardi"}
+VehiclesByOwner {"owner": "Joycelyn Jaqua"}
+VehiclesByOwner {"owner": "Carlena Czaja"}
+VehiclesByOwner {"owner": "Emory Edmond"}
+VehiclesByOwner {"owner": "Luigi Lamotte"}
+VehiclesByOwner {"owner": "Martina Mcnickle"}
+VehiclesByOwner {"owner": "Kimberley Kucera"}
+VehiclesByOwner {"owner": "Dominique Dang"}
+VehiclesByOwner {"owner": "Trena Trammell"}
+VehiclesByOwner {"owner": "Thurman Tait"}
+VehiclesByOwner {"owner": "Arica Araujo"}
+VehiclesByOwner {"owner": "Mazie Musil"}
+VehiclesByOwner {"owner": "Pamelia Persinger"}
+VehiclesByOwner {"owner": "Maris Mathias"}
+VehiclesByOwner {"owner": "Contessa Connon"}
+VehiclesByOwner {"owner": "Mireille Mahr"}
+VehiclesByOwner {"owner": "Brett Blanc"}
+VehiclesByOwner {"owner": "Mckenzie Maresca"}
+VehiclesByOwner {"owner": "Lashay Laliberte"}
+VehiclesByOwner {"owner": "Wonda Wasser"}
+VehiclesByOwner {"owner": "Darryl Dohrmann"}
+VehiclesByOwner {"owner": "Vernice Vice"}
+VehiclesByOwner {"owner": "Lucas Levi"}
+VehiclesByOwner {"owner": "Zoe Zajicek"}
+VehiclesByOwner {"owner": "Jaunita Jeffress"}
+VehiclesByOwner {"owner": "Hilton Haro"}
+VehiclesByOwner {"owner": "Trena Trammell"}
+VehiclesByOwner {"owner": "Alejandrina Ashbrook"}
+VehiclesByOwner {"owner": "Britni Bonavita"}
+VehiclesByOwner {"owner": "Serena Sakamoto"}
+VehiclesByOwner {"owner": "Marni Mattera"}
+VehiclesByOwner {"owner": "Carlena Czaja"}
+VehiclesByOwner {"owner": "Sherilyn Speaker"}
+VehiclesByOwner {"owner": "Alane Avallone"}
+VehiclesByOwner {"owner": "Trena Trammell"}
+VehiclesByOwner {"owner": "Britni Bonavita"}
+VehiclesByOwner {"owner": "Contessa Connon"}
+VehiclesByOwner {"owner": "Arica Araujo"}
+VehiclesByOwner {"owner": "Mao Maclaren"}
+VehiclesByOwner {"owner": "Wonda Wasser"}
+VehiclesByOwner {"owner": "Mckenzie Maresca"}
+VehiclesByOwner {"owner": "Nicolasa Nedeau"}
+VehiclesByOwner {"owner": "Wonda Wasser"}
+VehiclesByOwner {"owner": "Tommye Tatom"}
+VehiclesByOwner {"owner": "Marni Mattera"}
+VehiclesByOwner {"owner": "Wonda Wasser"}
+VehiclesByOwner {"owner": "Alane Avallone"}
+VehiclesByOwner {"owner": "Buena Baptist"}
+VehiclesByOwner {"owner": "Fannie Frame"}
+VehiclesByOwner {"owner": "Julianne Jenning"}
+VehiclesByOwner {"owner": "Indira Isabel"}
+VehiclesByOwner {"owner": "Marcel Matter"}
+VehiclesByOwner {"owner": "Dominique Dang"}
+VehiclesByOwner {"owner": "Tommye Tatom"}
+VehiclesByOwner {"owner": "Suk Starcher"}
+VehiclesByOwner {"owner": "Burl Bragg"}
+VehiclesByOwner {"owner": "Mira Mauney"}
+VehiclesByOwner {"owner": "George Goldenberg"}
+VehiclesByOwner {"owner": "Twana Toledo"}
+VehiclesByOwner {"owner": "George Goldenberg"}
+VehiclesByOwner {"owner": "Ena Eggebrecht"}
+VehiclesByOwner {"owner": "Floria Fryar"}
+VehiclesByOwner {"owner": "Farah Ferrari"}
+VehiclesByOwner {"owner": "Darryl Dohrmann"}
+VehiclesByOwner {"owner": "Mazie Musil"}
+VehiclesByOwner {"owner": "Contessa Connon"}
+VehiclesByOwner {"owner": "Many Montgomery"}
+VehiclesByOwner {"owner": "Amada Acre"}
+VehiclesByOwner {"owner": "Sherilyn Speaker"}
+VehiclesByOwner {"owner": "India Irion"}
+Exit {"licensePlate": "F5740BY", "time": "2015-03-08T04:12:00.0000000", "paid": 376.52}
+Exit {"licensePlate": "SQ5605UX", "time": "2015-01-21T16:01:00.0000000", "paid": 492.56}
+Exit {"licensePlate": "O5007VM", "time": "2015-02-02T21:00:00.0000000", "paid": 107.44}
+Exit {"licensePlate": "C9187JZ", "time": "2015-01-28T07:32:00.0000000", "paid": 292.86}
+Exit {"licensePlate": "WL0216HC", "time": "2015-04-07T18:08:00.0000000", "paid": 295.10}
+Exit {"licensePlate": "N4003YG", "time": "2015-03-08T23:27:00.0000000", "paid": 222.20}
+Exit {"licensePlate": "PY7539NV", "time": "2015-03-22T15:49:00.0000000", "paid": 189.76}
+Exit {"licensePlate": "H9079QM", "time": "2015-02-11T12:28:00.0000000", "paid": 298.31}
+Exit {"licensePlate": "J3622GD", "time": "2015-04-13T00:54:00.0000000", "paid": 123.74}
+Exit {"licensePlate": "V5596NI", "time": "2015-02-02T12:07:00.0000000", "paid": 457.13}
+Exit {"licensePlate": "BU5087LI", "time": "2015-02-01T22:59:00.0000000", "paid": 385.42}
+Exit {"licensePlate": "J9494IG", "time": "2015-03-18T21:24:00.0000000", "paid": 213.39}
+Exit {"licensePlate": "B4088QO", "time": "2015-02-14T21:59:00.0000000", "paid": 448.47}
+Exit {"licensePlate": "VP3339SW", "time": "2015-02-25T10:55:00.0000000", "paid": 333.0}
+Exit {"licensePlate": "GA0011ML", "time": "2015-03-23T07:50:00.0000000", "paid": 471.49}
+Exit {"licensePlate": "B4124AY", "time": "2015-01-27T19:43:00.0000000", "paid": 199.53}
+Exit {"licensePlate": "R8839UO", "time": "2015-04-29T18:00:00.0000000", "paid": 456.93}
+Exit {"licensePlate": "T9645KT", "time": "2015-03-17T04:52:00.0000000", "paid": 353.85}
+Exit {"licensePlate": "T9071VB", "time": "2015-01-03T23:27:00.0000000", "paid": 150.23}
+Exit {"licensePlate": "R5411YV", "time": "2015-02-05T01:17:00.0000000", "paid": 264.12}
+Exit {"licensePlate": "RP5007KZ", "time": "2015-02-12T05:21:00.0000000", "paid": 172.78}
+Exit {"licensePlate": "S0272PR", "time": "2015-04-08T18:39:00.0000000", "paid": 289.22}
+Exit {"licensePlate": "U4915DW", "time": "2015-01-03T10:00:00.0000000", "paid": 442.33}
+Exit {"licensePlate": "JE6616LQ", "time": "2015-01-02T13:39:00.0000000", "paid": 159.85}
+Exit {"licensePlate": "G9764CE", "time": "2015-01-06T04:13:00.0000000", "paid": 180.43}
+Exit {"licensePlate": "AO8780IP", "time": "2015-03-26T14:56:00.0000000", "paid": 155.5}
+Exit {"licensePlate": "JS1045OX", "time": "2015-04-13T23:36:00.0000000", "paid": 330.2}
+Exit {"licensePlate": "GW0620TU", "time": "2015-02-16T04:19:00.0000000", "paid": 324.26}
+Exit {"licensePlate": "V0807ZL", "time": "2015-03-04T15:00:00.0000000", "paid": 194.58}
+Exit {"licensePlate": "ZT9782UC", "time": "2015-01-03T18:34:00.0000000", "paid": 376.53}
+Exit {"licensePlate": "I0334FQ", "time": "2015-04-05T07:11:00.0000000", "paid": 444.48}
+Exit {"licensePlate": "HP0889HV", "time": "2015-04-11T05:13:00.0000000", "paid": 474.99}
+Exit {"licensePlate": "T7422QU", "time": "2015-03-14T05:06:00.0000000", "paid": 442.77}
+Exit {"licensePlate": "S7668AI", "time": "2015-04-18T05:42:00.0000000", "paid": 226.29}
+Exit {"licensePlate": "B7764WT", "time": "2015-03-26T07:49:00.0000000", "paid": 153.39}
+Exit {"licensePlate": "J1282PL", "time": "2015-01-10T13:24:00.0000000", "paid": 176.82}
+Exit {"licensePlate": "R3158GW", "time": "2015-04-30T04:10:00.0000000", "paid": 233.76}
+Exit {"licensePlate": "A9800AX", "time": "2015-02-15T12:24:00.0000000", "paid": 481.93}
+Exit {"licensePlate": "E4605SQ", "time": "2015-04-01T12:05:00.0000000", "paid": 479.5}
+Exit {"licensePlate": "PM7261OG", "time": "2015-03-19T06:07:00.0000000", "paid": 315.53}
+Exit {"licensePlate": "N9874GZ", "time": "2015-04-03T02:46:00.0000000", "paid": 231.72}
+Exit {"licensePlate": "PD0705LE", "time": "2015-01-30T16:59:00.0000000", "paid": 419.49}
+Exit {"licensePlate": "D0275CS", "time": "2015-01-30T00:32:00.0000000", "paid": 241.18}
+Exit {"licensePlate": "A0904VQ", "time": "2015-03-17T09:28:00.0000000", "paid": 483.86}
+Exit {"licensePlate": "WJ9705TE", "time": "2015-04-08T23:38:00.0000000", "paid": 248.36}
+Exit {"licensePlate": "C3221TC", "time": "2015-03-13T12:05:00.0000000", "paid": 347.53}
+Exit {"licensePlate": "V6512DH", "time": "2015-04-14T02:28:00.0000000", "paid": 315.87}
+Exit {"licensePlate": "R1804KA", "time": "2015-01-04T15:41:00.0000000", "paid": 205.70}
+Exit {"licensePlate": "WN6216CZ", "time": "2015-01-06T02:49:00.0000000", "paid": 437.47}
+Exit {"licensePlate": "V8486SZ", "time": "2015-03-17T05:40:00.0000000", "paid": 249.8}
+Exit {"licensePlate": "G3825FQ", "time": "2015-03-19T19:33:00.0000000", "paid": 106.85}
+Exit {"licensePlate": "J0541RP", "time": "2015-04-24T00:27:00.0000000", "paid": 389.81}
+Exit {"licensePlate": "B5076IK", "time": "2015-01-05T04:02:00.0000000", "paid": 195.31}
+Exit {"licensePlate": "LU5287LS", "time": "2015-03-01T02:16:00.0000000", "paid": 389.80}
+Exit {"licensePlate": "MV0671TO", "time": "2015-02-04T05:29:00.0000000", "paid": 128.63}
+Exit {"licensePlate": "F2588LY", "time": "2015-01-20T05:54:00.0000000", "paid": 227.18}
+Exit {"licensePlate": "U1851EX", "time": "2015-01-22T23:03:00.0000000", "paid": 218.15}
+Exit {"licensePlate": "GQ2210YF", "time": "2015-04-03T02:22:00.0000000", "paid": 183.13}
+Exit {"licensePlate": "FD8656AZ", "time": "2015-03-05T04:43:00.0000000", "paid": 372.44}
+Exit {"licensePlate": "FT5188JC", "time": "2015-02-03T18:46:00.0000000", "paid": 357.66}
+Exit {"licensePlate": "XZ6371WR", "time": "2015-01-02T13:08:00.0000000", "paid": 424.45}
+Exit {"licensePlate": "A3601PD", "time": "2015-04-23T09:35:00.0000000", "paid": 468.76}
+Exit {"licensePlate": "R0804OV", "time": "2015-03-22T04:11:00.0000000", "paid": 408.65}
+Exit {"licensePlate": "AM6046IV", "time": "2015-01-19T12:33:00.0000000", "paid": 215.46}
+Exit {"licensePlate": "OR4333ER", "time": "2015-02-09T03:01:00.0000000", "paid": 301.25}
+Exit {"licensePlate": "CT0488JF", "time": "2015-04-30T05:06:00.0000000", "paid": 134.47}
+Exit {"licensePlate": "PL5044IM", "time": "2015-04-01T06:03:00.0000000", "paid": 372.45}
+Exit {"licensePlate": "V4834HO", "time": "2015-03-09T14:39:00.0000000", "paid": 307.47}
+Exit {"licensePlate": "M3706RP", "time": "2015-02-13T21:59:00.0000000", "paid": 100.98}
+Exit {"licensePlate": "R9035QW", "time": "2015-03-11T01:09:00.0000000", "paid": 203.4}
+Exit {"licensePlate": "B1042HV", "time": "2015-04-12T12:07:00.0000000", "paid": 286.15}
+Exit {"licensePlate": "Z3683PP", "time": "2015-03-03T16:49:00.0000000", "paid": 417.73}
+Exit {"licensePlate": "L4065GH", "time": "2015-04-20T00:13:00.0000000", "paid": 118.43}
+Exit {"licensePlate": "S6615GP", "time": "2015-03-11T12:55:00.0000000", "paid": 297.38}
+Exit {"licensePlate": "PD4171KL", "time": "2015-02-06T16:08:00.0000000", "paid": 365.12}
+Exit {"licensePlate": "DQ6591OO", "time": "2015-02-11T01:14:00.0000000", "paid": 108.40}
+Exit {"licensePlate": "I9527XM", "time": "2015-02-19T02:55:00.0000000", "paid": 433.70}
+Exit {"licensePlate": "J0140QK", "time": "2015-04-15T02:01:00.0000000", "paid": 209.56}
+Exit {"licensePlate": "EQ0682YH", "time": "2015-04-23T02:32:00.0000000", "paid": 475.95}
+Exit {"licensePlate": "W6869ES", "time": "2015-04-29T03:09:00.0000000", "paid": 116.58}
+Exit {"licensePlate": "J6218SE", "time": "2015-04-18T03:48:00.0000000", "paid": 109.26}
+Exit {"licensePlate": "U8219FM", "time": "2015-03-27T02:49:00.0000000", "paid": 221.81}
+Exit {"licensePlate": "AU3704NU", "time": "2015-04-18T02:42:00.0000000", "paid": 317.84}
+Exit {"licensePlate": "AJ1541MM", "time": "2015-01-07T16:12:00.0000000", "paid": 300.59}
+Exit {"licensePlate": "LL5453TS", "time": "2015-02-14T17:05:00.0000000", "paid": 354.73}
+Exit {"licensePlate": "E0196PI", "time": "2015-01-18T03:42:00.0000000", "paid": 154.69}
+Exit {"licensePlate": "DA3254MU", "time": "2015-01-30T00:50:00.0000000", "paid": 172.60}
+Exit {"licensePlate": "YV8273SU", "time": "2015-01-24T23:52:00.0000000", "paid": 180.66}
+Exit {"licensePlate": "JS3376IF", "time": "2015-01-15T14:08:00.0000000", "paid": 362.18}
+Exit {"licensePlate": "R0979DC", "time": "2015-02-11T18:24:00.0000000", "paid": 388.33}
+Exit {"licensePlate": "Q0449DA", "time": "2015-04-10T01:19:00.0000000", "paid": 163.90}
+Exit {"licensePlate": "H1826BX", "time": "2015-02-05T08:49:00.0000000", "paid": 419.37}
+Exit {"licensePlate": "C1655QS", "time": "2015-03-12T16:25:00.0000000", "paid": 192.68}
+Exit {"licensePlate": "H9240KT", "time": "2015-01-17T23:20:00.0000000", "paid": 355.97}
+Exit {"licensePlate": "M1323FW", "time": "2015-03-27T10:49:00.0000000", "paid": 172.95}
+Exit {"licensePlate": "M6909OP", "time": "2015-01-16T20:59:00.0000000", "paid": 313.4}
+Exit {"licensePlate": "CF7963UD", "time": "2015-01-11T08:41:00.0000000", "paid": 478.67}
+Exit {"licensePlate": "N6150UZ", "time": "2015-03-17T20:07:00.0000000", "paid": 207.20}
+Exit {"licensePlate": "S8850SX", "time": "2015-03-01T19:54:00.0000000", "paid": 439.97}
+Exit {"licensePlate": "ZS4418VD", "time": "2015-04-30T04:56:00.0000000", "paid": 178.19}
+Exit {"licensePlate": "J3089MX", "time": "2015-04-16T17:43:00.0000000", "paid": 474.90}
+Exit {"licensePlate": "BS3678BP", "time": "2015-04-24T02:24:00.0000000", "paid": 398.92}
+Exit {"licensePlate": "Y7835SX", "time": "2015-02-04T07:41:00.0000000", "paid": 496.32}
+Exit {"licensePlate": "K3075CR", "time": "2015-02-01T09:52:00.0000000", "paid": 188.23}
+Exit {"licensePlate": "ZC6523VH", "time": "2015-01-29T10:09:00.0000000", "paid": 302.61}
+Exit {"licensePlate": "NP8203ST", "time": "2015-04-02T11:26:00.0000000", "paid": 463.75}
+Exit {"licensePlate": "V3609SF", "time": "2015-04-05T00:18:00.0000000", "paid": 194.70}
+Exit {"licensePlate": "C2350JV", "time": "2015-02-23T22:20:00.0000000", "paid": 270.11}
+Exit {"licensePlate": "A6876BE", "time": "2015-02-14T01:34:00.0000000", "paid": 286.92}
+Exit {"licensePlate": "Y7882AF", "time": "2015-01-03T10:38:00.0000000", "paid": 335.86}
+Exit {"licensePlate": "E0383ZQ", "time": "2015-01-19T11:25:00.0000000", "paid": 183.52}
+Exit {"licensePlate": "O9045EF", "time": "2015-01-04T03:32:00.0000000", "paid": 264.68}
+Exit {"licensePlate": "Y0638PP", "time": "2015-02-03T20:54:00.0000000", "paid": 181.9}
+Exit {"licensePlate": "T8244PS", "time": "2015-01-08T17:03:00.0000000", "paid": 399.51}
+Exit {"licensePlate": "A7923IT", "time": "2015-03-23T03:58:00.0000000", "paid": 333.99}
+Exit {"licensePlate": "DH7087AF", "time": "2015-04-24T05:48:00.0000000", "paid": 425.68}
+Exit {"licensePlate": "E5714BI", "time": "2015-02-07T07:42:00.0000000", "paid": 494.52}
+Exit {"licensePlate": "S9870NN", "time": "2015-01-21T00:00:00.0000000", "paid": 259.25}
+Exit {"licensePlate": "F2608MC", "time": "2015-01-05T09:15:00.0000000", "paid": 163.87}
+Exit {"licensePlate": "L1284JO", "time": "2015-03-07T07:59:00.0000000", "paid": 254.90}
+Exit {"licensePlate": "Q1219FO", "time": "2015-01-04T11:14:00.0000000", "paid": 284.40}
+Exit {"licensePlate": "BM8664OT", "time": "2015-02-18T21:09:00.0000000", "paid": 287.57}
+Exit {"licensePlate": "FN7872TJ", "time": "2015-03-16T09:26:00.0000000", "paid": 217.77}
+Exit {"licensePlate": "UN7744OI", "time": "2015-04-10T17:56:00.0000000", "paid": 423.24}
+Exit {"licensePlate": "AL5334LO", "time": "2015-04-01T22:31:00.0000000", "paid": 197.89}
+Exit {"licensePlate": "E2034VE", "time": "2015-02-19T11:58:00.0000000", "paid": 394.92}
+Exit {"licensePlate": "SI7807KB", "time": "2015-03-10T12:36:00.0000000", "paid": 254.33}
+Exit {"licensePlate": "R0234PC", "time": "2015-01-09T00:45:00.0000000", "paid": 496.41}
+Exit {"licensePlate": "K5852CZ", "time": "2015-02-14T02:26:00.0000000", "paid": 296.6}
+Exit {"licensePlate": "N1548QB", "time": "2015-02-01T03:57:00.0000000", "paid": 389.90}
+Exit {"licensePlate": "D2115JK", "time": "2015-04-26T06:32:00.0000000", "paid": 331.71}
+Exit {"licensePlate": "GA6710XW", "time": "2015-01-04T17:45:00.0000000", "paid": 358.50}
+Exit {"licensePlate": "RM5512ET", "time": "2015-02-26T00:53:00.0000000", "paid": 419.22}
+Exit {"licensePlate": "N2428RX", "time": "2015-02-19T04:11:00.0000000", "paid": 408.71}
+Exit {"licensePlate": "SJ7644PT", "time": "2015-01-11T03:07:00.0000000", "paid": 223.16}
+Exit {"licensePlate": "ZF5885AW", "time": "2015-03-22T02:19:00.0000000", "paid": 484.59}
+Exit {"licensePlate": "R5686GU", "time": "2015-02-12T04:20:00.0000000", "paid": 316.68}
+Exit {"licensePlate": "DS1192HK", "time": "2015-01-20T02:15:00.0000000", "paid": 260.80}
+Exit {"licensePlate": "P1664ES", "time": "2015-04-14T04:38:00.0000000", "paid": 122.84}
+Exit {"licensePlate": "I7643AS", "time": "2015-03-25T19:40:00.0000000", "paid": 356.42}
+Exit {"licensePlate": "VA4711IM", "time": "2015-04-08T01:35:00.0000000", "paid": 212.50}
+Exit {"licensePlate": "CK5988KB", "time": "2015-01-23T12:01:00.0000000", "paid": 207.68}
+Exit {"licensePlate": "K3665UH", "time": "2015-04-26T18:15:00.0000000", "paid": 204.89}
+Exit {"licensePlate": "XM1133AU", "time": "2015-03-19T21:38:00.0000000", "paid": 219.65}
+Exit {"licensePlate": "Q9246FK", "time": "2015-01-28T22:26:00.0000000", "paid": 312.98}
+Exit {"licensePlate": "W1390YR", "time": "2015-03-02T12:29:00.0000000", "paid": 407.9}
+Exit {"licensePlate": "D4055DY", "time": "2015-04-17T00:15:00.0000000", "paid": 159.48}
+Exit {"licensePlate": "T4595DU", "time": "2015-01-08T23:55:00.0000000", "paid": 230.74}
+Exit {"licensePlate": "Z5308BY", "time": "2015-04-21T06:14:00.0000000", "paid": 404.96}
+Exit {"licensePlate": "I2163DM", "time": "2015-03-09T14:34:00.0000000", "paid": 408.81}
+Exit {"licensePlate": "K5444DB", "time": "2015-01-01T17:51:00.0000000", "paid": 101.9}
+Exit {"licensePlate": "Z2358EX", "time": "2015-01-04T03:52:00.0000000", "paid": 472.7}
+Exit {"licensePlate": "H3998JS", "time": "2015-01-19T03:09:00.0000000", "paid": 475.14}
+Exit {"licensePlate": "H0417DX", "time": "2015-04-13T16:38:00.0000000", "paid": 251.70}
+Exit {"licensePlate": "CI9393XN", "time": "2015-02-28T16:59:00.0000000", "paid": 473.18}
+Exit {"licensePlate": "C6006VD", "time": "2015-03-25T02:38:00.0000000", "paid": 241.65}
+Exit {"licensePlate": "C3554RY", "time": "2015-03-04T01:22:00.0000000", "paid": 268.29}
+Exit {"licensePlate": "N0268US", "time": "2015-02-02T01:43:00.0000000", "paid": 347.7}
+Exit {"licensePlate": "L9211PV", "time": "2015-03-17T13:04:00.0000000", "paid": 277.96}
+Exit {"licensePlate": "KM6763OE", "time": "2015-01-29T04:59:00.0000000", "paid": 197.90}
+Exit {"licensePlate": "YQ4124DL", "time": "2015-01-22T00:48:00.0000000", "paid": 471.12}
+Exit {"licensePlate": "F1265BL", "time": "2015-01-30T15:06:00.0000000", "paid": 172.32}
+Exit {"licensePlate": "W1612UX", "time": "2015-01-11T11:24:00.0000000", "paid": 260.86}
+Exit {"licensePlate": "P0144HD", "time": "2015-02-09T03:53:00.0000000", "paid": 278.5}
+Exit {"licensePlate": "G0160RB", "time": "2015-04-16T17:56:00.0000000", "paid": 243.65}
+Exit {"licensePlate": "R2513SH", "time": "2015-02-21T04:24:00.0000000", "paid": 116.9}
+Exit {"licensePlate": "L0113LT", "time": "2015-01-30T10:44:00.0000000", "paid": 127.82}
+Exit {"licensePlate": "GK2041XP", "time": "2015-01-05T19:57:00.0000000", "paid": 269.18}
+Exit {"licensePlate": "N0530ZR", "time": "2015-04-18T19:53:00.0000000", "paid": 330.19}
+Exit {"licensePlate": "JQ4091BY", "time": "2015-04-23T02:51:00.0000000", "paid": 398.11}
+Exit {"licensePlate": "U0371BU", "time": "2015-02-08T04:18:00.0000000", "paid": 305.59}
+Exit {"licensePlate": "S8659RT", "time": "2015-01-10T20:56:00.0000000", "paid": 387.34}
+Exit {"licensePlate": "Y7771PA", "time": "2015-01-16T06:37:00.0000000", "paid": 353.11}
+Exit {"licensePlate": "BJ7654WQ", "time": "2015-02-10T14:03:00.0000000", "paid": 369.85}
+Exit {"licensePlate": "N6888QY", "time": "2015-01-10T10:35:00.0000000", "paid": 446.25}
+Exit {"licensePlate": "TO0537QJ", "time": "2015-03-19T19:50:00.0000000", "paid": 222.79}
+Exit {"licensePlate": "ES5007SK", "time": "2015-04-20T23:57:00.0000000", "paid": 387.86}
+Exit {"licensePlate": "FZ6952AP", "time": "2015-04-17T02:11:00.0000000", "paid": 455.88}
+Exit {"licensePlate": "T8808QT", "time": "2015-02-23T09:50:00.0000000", "paid": 465.61}
+Exit {"licensePlate": "L8350AU", "time": "2015-01-10T17:04:00.0000000", "paid": 369.7}
+Exit {"licensePlate": "Q3118TG", "time": "2015-04-17T03:58:00.0000000", "paid": 379.32}
+Exit {"licensePlate": "Y7933AF", "time": "2015-04-22T22:57:00.0000000", "paid": 236.28}
+Exit {"licensePlate": "A2339WN", "time": "2015-01-30T20:29:00.0000000", "paid": 159.25}
+Exit {"licensePlate": "L4974YY", "time": "2015-03-07T00:07:00.0000000", "paid": 332.59}
+Exit {"licensePlate": "F1911YK", "time": "2015-04-26T15:29:00.0000000", "paid": 448.43}
+Exit {"licensePlate": "L6738MZ", "time": "2015-03-05T12:45:00.0000000", "paid": 298.25}
+Exit {"licensePlate": "EI1543WI", "time": "2015-03-25T05:00:00.0000000", "paid": 187.12}
+Exit {"licensePlate": "T7957MI", "time": "2015-02-04T23:19:00.0000000", "paid": 257.33}
+Exit {"licensePlate": "O2733QK", "time": "2015-02-28T23:10:00.0000000", "paid": 261.84}
+Exit {"licensePlate": "U1150PB", "time": "2015-04-25T18:13:00.0000000", "paid": 374.28}
+Exit {"licensePlate": "FW0747XS", "time": "2015-03-08T03:19:00.0000000", "paid": 177.59}
+Exit {"licensePlate": "G3861YL", "time": "2015-02-25T15:35:00.0000000", "paid": 176.10}
+Exit {"licensePlate": "T0964AZ", "time": "2015-01-06T22:47:00.0000000", "paid": 238.24}
+Exit {"licensePlate": "EZ9379ET", "time": "2015-02-21T16:00:00.0000000", "paid": 250.20}
+Exit {"licensePlate": "O4679SG", "time": "2015-04-10T21:02:00.0000000", "paid": 473.54}
+Exit {"licensePlate": "D6571YX", "time": "2015-04-29T03:45:00.0000000", "paid": 208.96}
+Exit {"licensePlate": "N6444QM", "time": "2015-01-01T04:26:00.0000000", "paid": 307.67}
+Exit {"licensePlate": "F5302SQ", "time": "2015-04-01T05:43:00.0000000", "paid": 268.19}
+Exit {"licensePlate": "X2408TG", "time": "2015-02-22T11:05:00.0000000", "paid": 202.43}
+Exit {"licensePlate": "LU7078VO", "time": "2015-02-21T01:08:00.0000000", "paid": 176.37}
+Exit {"licensePlate": "Z8642KZ", "time": "2015-01-24T23:36:00.0000000", "paid": 314.7}
+Exit {"licensePlate": "L1421AJ", "time": "2015-02-18T23:44:00.0000000", "paid": 493.43}
+Exit {"licensePlate": "K8250FT", "time": "2015-03-05T05:51:00.0000000", "paid": 402.5}
+Exit {"licensePlate": "O1169AQ", "time": "2015-03-14T04:48:00.0000000", "paid": 331.59}
+Exit {"licensePlate": "U0792LG", "time": "2015-03-01T02:25:00.0000000", "paid": 288.55}
+Exit {"licensePlate": "H0927PQ", "time": "2015-02-20T06:37:00.0000000", "paid": 291.7}
+Exit {"licensePlate": "Q5896BI", "time": "2015-02-08T03:52:00.0000000", "paid": 469.39}
+Exit {"licensePlate": "KO7696RP", "time": "2015-02-18T05:15:00.0000000", "paid": 451.10}
+Exit {"licensePlate": "N9428DN", "time": "2015-04-27T10:01:00.0000000", "paid": 152.23}
+Exit {"licensePlate": "Y4776LE", "time": "2015-04-06T14:01:00.0000000", "paid": 473.90}
+Exit {"licensePlate": "U7232SP", "time": "2015-04-20T22:14:00.0000000", "paid": 453.37}
+Exit {"licensePlate": "I4146VK", "time": "2015-01-22T20:32:00.0000000", "paid": 365.32}
+Exit {"licensePlate": "GX9278TD", "time": "2015-02-12T04:34:00.0000000", "paid": 164.53}
+Exit {"licensePlate": "HE8733ZD", "time": "2015-03-01T09:32:00.0000000", "paid": 392.54}
+Exit {"licensePlate": "C3965YV", "time": "2015-02-19T00:36:00.0000000", "paid": 381.20}
+Exit {"licensePlate": "P4023AD", "time": "2015-04-04T03:51:00.0000000", "paid": 129.96}
+Exit {"licensePlate": "A9291PU", "time": "2015-01-27T03:04:00.0000000", "paid": 359.31}
+Exit {"licensePlate": "I7560AL", "time": "2015-03-07T03:51:00.0000000", "paid": 398.11}
+Exit {"licensePlate": "VZ7712CI", "time": "2015-04-18T11:12:00.0000000", "paid": 343.75}
+Exit {"licensePlate": "Q5088FT", "time": "2015-03-25T10:29:00.0000000", "paid": 240.29}
+Exit {"licensePlate": "A2092TP", "time": "2015-01-03T01:46:00.0000000", "paid": 365.78}
+Exit {"licensePlate": "B5038FU", "time": "2015-04-22T04:22:00.0000000", "paid": 392.37}
+Exit {"licensePlate": "D0178CI", "time": "2015-02-12T20:33:00.0000000", "paid": 125.19}
+Exit {"licensePlate": "B0450DY", "time": "2015-03-02T14:51:00.0000000", "paid": 116.12}
+Exit {"licensePlate": "S1288NK", "time": "2015-02-17T10:16:00.0000000", "paid": 418.31}
+Exit {"licensePlate": "S7063EO", "time": "2015-03-14T20:41:00.0000000", "paid": 124.2}
+Exit {"licensePlate": "V6214PL", "time": "2015-01-07T14:23:00.0000000", "paid": 300.28}
+Exit {"licensePlate": "F3061WB", "time": "2015-03-29T00:54:00.0000000", "paid": 296.15}
+Exit {"licensePlate": "T5619LO", "time": "2015-02-02T02:29:00.0000000", "paid": 263.65}
+Exit {"licensePlate": "S3779RR", "time": "2015-02-22T03:02:00.0000000", "paid": 209.22}
+Exit {"licensePlate": "VX9198HK", "time": "2015-02-27T05:49:00.0000000", "paid": 229.3}
+Exit {"licensePlate": "X7401JJ", "time": "2015-04-26T09:03:00.0000000", "paid": 455.27}
+Exit {"licensePlate": "I6225FU", "time": "2015-02-28T01:40:00.0000000", "paid": 293.51}
+Exit {"licensePlate": "H3607TK", "time": "2015-04-07T03:24:00.0000000", "paid": 269.61}
+Exit {"licensePlate": "OG2547SE", "time": "2015-01-25T01:51:00.0000000", "paid": 358.75}
+Exit {"licensePlate": "L5360JD", "time": "2015-01-10T00:19:00.0000000", "paid": 298.37}
+Exit {"licensePlate": "BZ6166UM", "time": "2015-02-09T20:52:00.0000000", "paid": 453.64}
+Exit {"licensePlate": "J6692PY", "time": "2015-04-24T23:06:00.0000000", "paid": 196.10}
+Exit {"licensePlate": "X3779NS", "time": "2015-01-09T00:52:00.0000000", "paid": 358.28}
+Exit {"licensePlate": "LT4663DV", "time": "2015-03-08T23:21:00.0000000", "paid": 206.96}
+Exit {"licensePlate": "AV8689YD", "time": "2015-04-26T23:24:00.0000000", "paid": 295.60}
+Exit {"licensePlate": "R8807EE", "time": "2015-04-06T15:15:00.0000000", "paid": 399.38}
+Exit {"licensePlate": "H2425FQ", "time": "2015-01-04T06:03:00.0000000", "paid": 155.5}
+Exit {"licensePlate": "E9887GQ", "time": "2015-03-23T08:34:00.0000000", "paid": 285.36}
+Exit {"licensePlate": "V8265GT", "time": "2015-03-14T12:58:00.0000000", "paid": 427.58}
+Exit {"licensePlate": "N7521SW", "time": "2015-03-21T13:15:00.0000000", "paid": 384.95}
+Exit {"licensePlate": "KJ5622SH", "time": "2015-02-01T18:00:00.0000000", "paid": 293.12}
+Exit {"licensePlate": "EC9307WM", "time": "2015-03-24T16:39:00.0000000", "paid": 486.63}
+Exit {"licensePlate": "ZV0266FH", "time": "2015-04-04T11:43:00.0000000", "paid": 457.45}
+Exit {"licensePlate": "P7659YU", "time": "2015-03-20T00:37:00.0000000", "paid": 457.55}
+Exit {"licensePlate": "XZ5702NS", "time": "2015-01-23T03:10:00.0000000", "paid": 410.42}
+Exit {"licensePlate": "V8684SX", "time": "2015-03-10T10:34:00.0000000", "paid": 291.3}
+Exit {"licensePlate": "R4182ZA", "time": "2015-02-04T00:28:00.0000000", "paid": 427.68}
+Exit {"licensePlate": "TX4890KT", "time": "2015-01-28T01:34:00.0000000", "paid": 155.85}
+Exit {"licensePlate": "S6452JU", "time": "2015-04-02T12:11:00.0000000", "paid": 117.39}
+Exit {"licensePlate": "M2531SR", "time": "2015-03-16T09:43:00.0000000", "paid": 305.12}
+Exit {"licensePlate": "G5646ZZ", "time": "2015-02-05T04:50:00.0000000", "paid": 254.31}
+Exit {"licensePlate": "Y3376EO", "time": "2015-03-12T07:33:00.0000000", "paid": 393.71}
+Exit {"licensePlate": "R1221GT", "time": "2015-03-03T18:24:00.0000000", "paid": 214.50}
+Exit {"licensePlate": "O2342FR", "time": "2015-03-13T21:02:00.0000000", "paid": 153.43}
+Exit {"licensePlate": "P4001AH", "time": "2015-02-04T11:05:00.0000000", "paid": 118.5}
+Exit {"licensePlate": "K6487XM", "time": "2015-01-13T07:48:00.0000000", "paid": 417.6}
+Exit {"licensePlate": "P7123UX", "time": "2015-01-27T10:43:00.0000000", "paid": 119.53}
+Exit {"licensePlate": "Y5506QV", "time": "2015-03-29T18:36:00.0000000", "paid": 456.75}
+Exit {"licensePlate": "ZK1006AY", "time": "2015-04-30T00:46:00.0000000", "paid": 371.61}
+Exit {"licensePlate": "LS6201OW", "time": "2015-01-15T04:02:00.0000000", "paid": 183.18}
+Exit {"licensePlate": "W0664RH", "time": "2015-02-02T18:43:00.0000000", "paid": 258.71}
+Exit {"licensePlate": "J2807LA", "time": "2015-01-19T21:55:00.0000000", "paid": 173.6}
+Exit {"licensePlate": "QW8438WS", "time": "2015-05-01T03:28:00.0000000", "paid": 150.71}
+Exit {"licensePlate": "WL9656RJ", "time": "2015-01-24T03:41:00.0000000", "paid": 327.45}
+Exit {"licensePlate": "B8713JL", "time": "2015-03-15T05:31:00.0000000", "paid": 465.60}
+Exit {"licensePlate": "IY9525IC", "time": "2015-03-21T02:01:00.0000000", "paid": 227.42}
+Exit {"licensePlate": "T2394WD", "time": "2015-03-27T18:51:00.0000000", "paid": 128.58}
+Exit {"licensePlate": "S3680HX", "time": "2015-02-26T03:00:00.0000000", "paid": 327.17}
+Exit {"licensePlate": "X4492MF", "time": "2015-02-08T00:38:00.0000000", "paid": 256.24}
+Exit {"licensePlate": "OB0901AF", "time": "2015-02-28T19:39:00.0000000", "paid": 237.39}
+Exit {"licensePlate": "H7344LP", "time": "2015-02-05T05:35:00.0000000", "paid": 230.46}
+Exit {"licensePlate": "B0773FP", "time": "2015-01-20T12:25:00.0000000", "paid": 301.71}
+Exit {"licensePlate": "U7318PX", "time": "2015-03-18T01:43:00.0000000", "paid": 354.41}
+Exit {"licensePlate": "T7566DD", "time": "2015-01-02T01:05:00.0000000", "paid": 495.27}
+Exit {"licensePlate": "RI4631IK", "time": "2015-01-14T12:15:00.0000000", "paid": 419.37}
+Exit {"licensePlate": "I6353NV", "time": "2015-01-11T14:58:00.0000000", "paid": 171.43}
+Exit {"licensePlate": "TB1963FN", "time": "2015-04-05T11:01:00.0000000", "paid": 173.32}
+Exit {"licensePlate": "YP1316CO", "time": "2015-01-09T01:02:00.0000000", "paid": 390.67}
+Exit {"licensePlate": "O7105ND", "time": "2015-02-23T03:35:00.0000000", "paid": 151.67}
+Exit {"licensePlate": "V1122ZB", "time": "2015-01-14T03:26:00.0000000", "paid": 337.57}
+Exit {"licensePlate": "K4171KF", "time": "2015-03-07T02:27:00.0000000", "paid": 472.68}
+Exit {"licensePlate": "O8881IF", "time": "2015-02-19T22:59:00.0000000", "paid": 306.43}
+Exit {"licensePlate": "V9327GI", "time": "2015-01-16T04:31:00.0000000", "paid": 396.36}
+Exit {"licensePlate": "OS7505KR", "time": "2015-03-23T11:23:00.0000000", "paid": 495.45}
+Exit {"licensePlate": "NW9232HQ", "time": "2015-04-03T15:09:00.0000000", "paid": 488.71}
+Exit {"licensePlate": "I8449QE", "time": "2015-02-15T04:36:00.0000000", "paid": 247.43}
+Exit {"licensePlate": "I4335VI", "time": "2015-03-16T11:41:00.0000000", "paid": 206.81}
+Exit {"licensePlate": "CF4421VF", "time": "2015-04-09T04:14:00.0000000", "paid": 443.93}
+Exit {"licensePlate": "S4862CE", "time": "2015-04-07T03:49:00.0000000", "paid": 184.46}
+Exit {"licensePlate": "ED1634WK", "time": "2015-03-11T02:06:00.0000000", "paid": 269.70}
+Exit {"licensePlate": "GY9960OC", "time": "2015-03-06T04:27:00.0000000", "paid": 389.28}
+Exit {"licensePlate": "C9972YI", "time": "2015-03-17T10:39:00.0000000", "paid": 361.53}
+Exit {"licensePlate": "W1578OU", "time": "2015-02-25T07:28:00.0000000", "paid": 271.88}
+Exit {"licensePlate": "NA8193CD", "time": "2015-04-02T00:59:00.0000000", "paid": 197.74}
+Exit {"licensePlate": "C4475FX", "time": "2015-03-14T04:48:00.0000000", "paid": 445.89}
+Exit {"licensePlate": "H4495NZ", "time": "2015-01-27T04:14:00.0000000", "paid": 117.71}
+Exit {"licensePlate": "V9659ZA", "time": "2015-01-30T10:05:00.0000000", "paid": 360.77}
+Exit {"licensePlate": "TH5400VE", "time": "2015-04-19T11:50:00.0000000", "paid": 284.64}
+Exit {"licensePlate": "TF9432DV", "time": "2015-01-06T04:45:00.0000000", "paid": 477.6}
+Exit {"licensePlate": "L1769BL", "time": "2015-03-26T00:09:00.0000000", "paid": 490.27}
+Exit {"licensePlate": "KR4438BQ", "time": "2015-04-09T03:59:00.0000000", "paid": 271.52}
+Exit {"licensePlate": "XY1629TX", "time": "2015-03-06T01:19:00.0000000", "paid": 223.7}
+Exit {"licensePlate": "Q8702NO", "time": "2015-04-26T11:43:00.0000000", "paid": 104.74}
+Exit {"licensePlate": "BJ3129ER", "time": "2015-02-02T17:44:00.0000000", "paid": 166.36}
+Exit {"licensePlate": "NB0131WV", "time": "2015-04-09T00:15:00.0000000", "paid": 287.79}
+Exit {"licensePlate": "DX3977QF", "time": "2015-01-04T13:08:00.0000000", "paid": 284.66}
+Exit {"licensePlate": "Z6991YX", "time": "2015-03-02T08:23:00.0000000", "paid": 199.88}
+Exit {"licensePlate": "X3080LD", "time": "2015-04-21T20:20:00.0000000", "paid": 440.64}
+Exit {"licensePlate": "G5182YO", "time": "2015-04-06T08:48:00.0000000", "paid": 111.98}
+Exit {"licensePlate": "B2789JS", "time": "2015-01-23T05:57:00.0000000", "paid": 104.85}
+Exit {"licensePlate": "D2899KH", "time": "2015-03-24T05:31:00.0000000", "paid": 148.24}
+Exit {"licensePlate": "D9977IN", "time": "2015-04-22T12:36:00.0000000", "paid": 338.7}
+Exit {"licensePlate": "WQ6378FP", "time": "2015-02-20T06:50:00.0000000", "paid": 370.65}
+Exit {"licensePlate": "V2699PU", "time": "2015-02-07T17:31:00.0000000", "paid": 412.49}
+Exit {"licensePlate": "T4491LB", "time": "2015-02-10T01:03:00.0000000", "paid": 241.21}
+Exit {"licensePlate": "S4800XW", "time": "2015-03-07T04:58:00.0000000", "paid": 495.14}
+Exit {"licensePlate": "GX8417GI", "time": "2015-03-28T21:43:00.0000000", "paid": 296.15}
+Exit {"licensePlate": "AV3233XI", "time": "2015-02-23T10:53:00.0000000", "paid": 211.19}
+Exit {"licensePlate": "W8143RT", "time": "2015-03-22T03:01:00.0000000", "paid": 492.57}
+Exit {"licensePlate": "V1845WI", "time": "2015-03-06T18:35:00.0000000", "paid": 308.68}
+Exit {"licensePlate": "Z1785XV", "time": "2015-03-06T11:26:00.0000000", "paid": 388.87}
+Exit {"licensePlate": "J7451XF", "time": "2015-02-18T15:47:00.0000000", "paid": 209.7}
+Exit {"licensePlate": "Y4712PO", "time": "2015-03-02T00:36:00.0000000", "paid": 274.38}
+Exit {"licensePlate": "PS9146IV", "time": "2015-04-06T01:07:00.0000000", "paid": 286.76}
+Exit {"licensePlate": "F7120TA", "time": "2015-01-10T06:07:00.0000000", "paid": 468.82}
+Exit {"licensePlate": "IH0389UR", "time": "2015-03-18T03:01:00.0000000", "paid": 346.96}
+Exit {"licensePlate": "D5249VG", "time": "2015-02-22T22:28:00.0000000", "paid": 121.12}
+Exit {"licensePlate": "Q4948XI", "time": "2015-01-18T05:39:00.0000000", "paid": 159.18}
+Exit {"licensePlate": "BG1922SL", "time": "2015-04-26T11:10:00.0000000", "paid": 473.23}
+Exit {"licensePlate": "O4185SQ", "time": "2015-03-29T02:57:00.0000000", "paid": 260.36}
+Exit {"licensePlate": "O8769GN", "time": "2015-01-25T19:59:00.0000000", "paid": 485.67}
+Exit {"licensePlate": "O0068NH", "time": "2015-01-21T17:00:00.0000000", "paid": 106.25}
+Exit {"licensePlate": "QF2373PH", "time": "2015-01-08T16:52:00.0000000", "paid": 420.31}
+Exit {"licensePlate": "E9429MO", "time": "2015-02-22T18:24:00.0000000", "paid": 167.9}
+Exit {"licensePlate": "KX9042DV", "time": "2015-03-01T12:00:00.0000000", "paid": 344.65}
+Exit {"licensePlate": "V9604QW", "time": "2015-03-20T21:28:00.0000000", "paid": 364.45}
+Exit {"licensePlate": "E3747YL", "time": "2015-02-26T05:33:00.0000000", "paid": 284.32}
+Exit {"licensePlate": "F0523OC", "time": "2015-03-01T17:48:00.0000000", "paid": 153.24}
+Exit {"licensePlate": "R9155LP", "time": "2015-04-06T19:20:00.0000000", "paid": 488.52}
+Exit {"licensePlate": "FO6306BS", "time": "2015-04-09T02:21:00.0000000", "paid": 354.29}
+Exit {"licensePlate": "ZS3938DJ", "time": "2015-04-17T18:15:00.0000000", "paid": 173.1}
+Exit {"licensePlate": "D1702JE", "time": "2015-04-25T01:13:00.0000000", "paid": 330.53}
+Exit {"licensePlate": "HB7652FG", "time": "2015-03-29T21:26:00.0000000", "paid": 339.2}
+Exit {"licensePlate": "X7695CP", "time": "2015-04-15T21:58:00.0000000", "paid": 136.36}
+Exit {"licensePlate": "C8836IQ", "time": "2015-02-12T06:22:00.0000000", "paid": 102.9}
+Exit {"licensePlate": "V4662VT", "time": "2015-02-09T20:36:00.0000000", "paid": 204.74}
+Exit {"licensePlate": "K9197BO", "time": "2015-01-03T07:27:00.0000000", "paid": 169.16}
+Exit {"licensePlate": "WG0403WY", "time": "2015-04-24T01:04:00.0000000", "paid": 387.5}
+Exit {"licensePlate": "CQ5694FD", "time": "2015-03-30T14:18:00.0000000", "paid": 444.2}
+Exit {"licensePlate": "MA8699RC", "time": "2015-01-20T12:09:00.0000000", "paid": 208.12}
+Exit {"licensePlate": "W6760JV", "time": "2015-04-17T08:48:00.0000000", "paid": 185.37}
+Exit {"licensePlate": "SJ5766CR", "time": "2015-01-26T16:42:00.0000000", "paid": 161.26}
+Exit {"licensePlate": "ZN0132WW", "time": "2015-01-20T05:52:00.0000000", "paid": 163.16}
+Exit {"licensePlate": "Y3478BH", "time": "2015-03-17T03:54:00.0000000", "paid": 300.72}
+Exit {"licensePlate": "P1530CG", "time": "2015-03-06T03:05:00.0000000", "paid": 495.90}
+Exit {"licensePlate": "P1860JL", "time": "2015-02-09T00:06:00.0000000", "paid": 184.40}
+Exit {"licensePlate": "I0566QX", "time": "2015-02-18T14:48:00.0000000", "paid": 340.10}
+Exit {"licensePlate": "RD2010DK", "time": "2015-02-03T21:08:00.0000000", "paid": 170.94}
+Exit {"licensePlate": "M8861TM", "time": "2015-03-11T08:32:00.0000000", "paid": 137.48}
+Exit {"licensePlate": "CT3008MN", "time": "2015-02-11T14:53:00.0000000", "paid": 362.77}
+Exit {"licensePlate": "M9097CU", "time": "2015-04-21T23:53:00.0000000", "paid": 189.79}
+Exit {"licensePlate": "F6450BS", "time": "2015-01-12T11:50:00.0000000", "paid": 136.51}
+Exit {"licensePlate": "B5382PR", "time": "2015-02-02T21:27:00.0000000", "paid": 258.91}
+Exit {"licensePlate": "B0090XF", "time": "2015-03-08T03:29:00.0000000", "paid": 212.29}
+Exit {"licensePlate": "C6146ZE", "time": "2015-03-10T08:14:00.0000000", "paid": 344.8}
+Exit {"licensePlate": "S5745ZU", "time": "2015-01-13T07:11:00.0000000", "paid": 253.95}
+Exit {"licensePlate": "N8465LB", "time": "2015-04-05T22:55:00.0000000", "paid": 201.51}
+Exit {"licensePlate": "K4863YZ", "time": "2015-03-23T18:12:00.0000000", "paid": 131.81}
+Exit {"licensePlate": "H1764FT", "time": "2015-04-21T02:30:00.0000000", "paid": 446.31}
+Exit {"licensePlate": "TV5948BC", "time": "2015-02-02T06:15:00.0000000", "paid": 248.43}
+Exit {"licensePlate": "D8266YG", "time": "2015-04-02T21:34:00.0000000", "paid": 310.36}
+Exit {"licensePlate": "T9063YC", "time": "2015-04-25T09:46:00.0000000", "paid": 251.10}
+Exit {"licensePlate": "H5802AO", "time": "2015-04-30T02:55:00.0000000", "paid": 453.85}
+Exit {"licensePlate": "KW0867EY", "time": "2015-02-23T04:50:00.0000000", "paid": 156.6}
+Exit {"licensePlate": "OZ9643SZ", "time": "2015-03-21T01:57:00.0000000", "paid": 493.77}
+Exit {"licensePlate": "OE2583JI", "time": "2015-03-15T07:41:00.0000000", "paid": 482.37}
+Exit {"licensePlate": "S8144DU", "time": "2015-02-16T01:45:00.0000000", "paid": 246.49}
+Exit {"licensePlate": "QN2762SO", "time": "2015-01-05T00:44:00.0000000", "paid": 459.41}
+Exit {"licensePlate": "F3757SZ", "time": "2015-01-14T02:53:00.0000000", "paid": 212.63}
+Exit {"licensePlate": "Z6116BD", "time": "2015-02-27T00:23:00.0000000", "paid": 446.24}
+Exit {"licensePlate": "F2144XU", "time": "2015-03-03T00:11:00.0000000", "paid": 452.20}
+Exit {"licensePlate": "AV8679NZ", "time": "2015-03-19T20:50:00.0000000", "paid": 145.90}
+Exit {"licensePlate": "RA8277FP", "time": "2015-01-14T05:50:00.0000000", "paid": 308.25}
+Exit {"licensePlate": "B4105GF", "time": "2015-04-08T11:26:00.0000000", "paid": 162.8}
+Exit {"licensePlate": "T8848SL", "time": "2015-03-25T23:12:00.0000000", "paid": 112.36}
+Exit {"licensePlate": "I2658FS", "time": "2015-04-19T09:37:00.0000000", "paid": 132.78}
+Exit {"licensePlate": "S3998HL", "time": "2015-03-14T05:10:00.0000000", "paid": 144.21}
+Exit {"licensePlate": "A3648HP", "time": "2015-02-07T01:31:00.0000000", "paid": 199.85}
+Exit {"licensePlate": "L7457AE", "time": "2015-02-02T18:21:00.0000000", "paid": 267.98}
+Exit {"licensePlate": "M8085JL", "time": "2015-02-08T22:11:00.0000000", "paid": 352.54}
+Exit {"licensePlate": "M8356WU", "time": "2015-01-30T12:02:00.0000000", "paid": 410.21}
+Exit {"licensePlate": "J1813BN", "time": "2015-02-19T14:49:00.0000000", "paid": 226.83}
+Exit {"licensePlate": "K1133XK", "time": "2015-03-05T00:46:00.0000000", "paid": 150.0}
+Exit {"licensePlate": "Q5951IX", "time": "2015-03-01T19:00:00.0000000", "paid": 334.75}
+Status {}
+FindVehicle {"licensePlate": "R1684ZR"}
+FindVehicle {"licensePlate": "WN9152WD"}
+FindVehicle {"licensePlate": "N8329PI"}
+FindVehicle {"licensePlate": "X2408TG"}
+FindVehicle {"licensePlate": "YP1316CO"}
+FindVehicle {"licensePlate": "AV8679NZ"}
+FindVehicle {"licensePlate": "NP8203ST"}
+FindVehicle {"licensePlate": "I2007US"}
+FindVehicle {"licensePlate": "G3825FQ"}
+FindVehicle {"licensePlate": "XB6204TE"}
+FindVehicle {"licensePlate": "Q5896BI"}
+FindVehicle {"licensePlate": "I0566QX"}
+FindVehicle {"licensePlate": "X2033QV"}
+FindVehicle {"licensePlate": "I7560AL"}
+FindVehicle {"licensePlate": "ZC6523VH"}
+VehiclesByOwner {"owner": "George Goldenberg"}
+VehiclesByOwner {"owner": "Buena Baptist"}
+VehiclesByOwner {"owner": "Twana Toledo"}
+VehiclesByOwner {"owner": "Leslie Loos"}
+VehiclesByOwner {"owner": "Burl Bragg"}
+VehiclesByOwner {"owner": "Katie Kosakowski"}
+VehiclesByOwner {"owner": "Zoe Zajicek"}
+VehiclesByOwner {"owner": "Sharan Shine"}
+VehiclesByOwner {"owner": "Nicolasa Nedeau"}
+VehiclesByOwner {"owner": "Vena Vivanco"}
+VehiclesByOwner {"owner": "Emory Edmond"}
+VehiclesByOwner {"owner": "Shaun Sarno"}
+VehiclesByOwner {"owner": "Maynard Mcclung"}
+VehiclesByOwner {"owner": "Zoe Zajicek"}
+VehiclesByOwner {"owner": "Luigi Lamotte"}
+VehiclesByOwner {"owner": "Maris Mathias"}
+VehiclesByOwner {"owner": "Julienne Jervis"}
+VehiclesByOwner {"owner": "Pamelia Persinger"}
+VehiclesByOwner {"owner": "Dominique Dang"}
+VehiclesByOwner {"owner": "Kaila Kohnke"}
+VehiclesByOwner {"owner": "Julianne Jenning"}
+VehiclesByOwner {"owner": "Darryl Dohrmann"}
+VehiclesByOwner {"owner": "Keli Kirschbaum"}
+VehiclesByOwner {"owner": "Carlena Czaja"}
+VehiclesByOwner {"owner": "Karlyn Kennison"}
+VehiclesByOwner {"owner": "Marni Mattera"}
+VehiclesByOwner {"owner": "Alane Avallone"}
+VehiclesByOwner {"owner": "Suzy Stobaugh"}
+VehiclesByOwner {"owner": "Lashay Laliberte"}
+VehiclesByOwner {"owner": "Krystyna Kucharski"}
+VehiclesByOwner {"owner": "Apryl Addis"}
+VehiclesByOwner {"owner": "Walton Whittingham"}
+VehiclesByOwner {"owner": "Mazie Musil"}
+VehiclesByOwner {"owner": "India Irion"}
+VehiclesByOwner {"owner": "Buena Baptist"}
+VehiclesByOwner {"owner": "Leslie Loos"}
+VehiclesByOwner {"owner": "Trena Trammell"}
+VehiclesByOwner {"owner": "Gertie Giesler"}
+VehiclesByOwner {"owner": "Laila Lines"}
+VehiclesByOwner {"owner": "Emory Edmond"}
+VehiclesByOwner {"owner": "Julianne Jenning"}
+VehiclesByOwner {"owner": "Lucas Levi"}
+VehiclesByOwner {"owner": "Marni Mattera"}
+VehiclesByOwner {"owner": "Luigi Lamotte"}
+VehiclesByOwner {"owner": "Kate Kieffer"}
+VehiclesByOwner {"owner": "Jaunita Jeffress"}
+VehiclesByOwner {"owner": "Arden Adan"}
+VehiclesByOwner {"owner": "Suk Starcher"}
+VehiclesByOwner {"owner": "Marcel Matter"}
+VehiclesByOwner {"owner": "Jaunita Jeffress"}
+VehiclesByOwner {"owner": "Serena Sakamoto"}
+VehiclesByOwner {"owner": "Arden Adan"}
+VehiclesByOwner {"owner": "Kaila Kohnke"}
+VehiclesByOwner {"owner": "Julienne Jervis"}
+VehiclesByOwner {"owner": "Marcel Matter"}
+VehiclesByOwner {"owner": "Tommye Tatom"}
+VehiclesByOwner {"owner": "Sage Struble"}
+VehiclesByOwner {"owner": "Darleen Dehn"}
+VehiclesByOwner {"owner": "Joanie Jennings"}
+VehiclesByOwner {"owner": "Devin Digennaro"}
+VehiclesByOwner {"owner": "Linsey Laguna"}
+VehiclesByOwner {"owner": "Murray Mcnellis"}
+VehiclesByOwner {"owner": "Mira Mauney"}
+VehiclesByOwner {"owner": "Katie Kosakowski"}
+VehiclesByOwner {"owner": "Darryl Dohrmann"}
+VehiclesByOwner {"owner": "Hilton Haro"}
+VehiclesByOwner {"owner": "Luigi Lamotte"}
+VehiclesByOwner {"owner": "Burl Bragg"}
+VehiclesByOwner {"owner": "Mazie Musil"}
+VehiclesByOwner {"owner": "Leigha Leffler"}
+VehiclesByOwner {"owner": "Sherilyn Speaker"}
+VehiclesByOwner {"owner": "Alane Avallone"}
+VehiclesByOwner {"owner": "Terina Tellez"}
+VehiclesByOwner {"owner": "Jetta Jerabek"}
+VehiclesByOwner {"owner": "Florinda Faber"}
+VehiclesByOwner {"owner": "Arica Araujo"}
+VehiclesByOwner {"owner": "Marcel Matter"}
+VehiclesByOwner {"owner": "Gertie Giesler"}
+VehiclesByOwner {"owner": "Shandra Salamone"}
+VehiclesByOwner {"owner": "Jetta Jerabek"}
+VehiclesByOwner {"owner": "Nicolette Nardi"}
+VehiclesByOwner {"owner": "Krystyna Kucharski"}
+VehiclesByOwner {"owner": "Julienne Jervis"}
+VehiclesByOwner {"owner": "Wonda Wasser"}
+VehiclesByOwner {"owner": "Terina Tellez"}
+VehiclesByOwner {"owner": "Mazie Musil"}
+VehiclesByOwner {"owner": "Leslie Loos"}
+VehiclesByOwner {"owner": "Jaunita Jeffress"}
+VehiclesByOwner {"owner": "Michiko Mccutchen"}
+VehiclesByOwner {"owner": "Florinda Faber"}
+VehiclesByOwner {"owner": "Nicolasa Nedeau"}
+VehiclesByOwner {"owner": "Trena Trammell"}
+VehiclesByOwner {"owner": "Zoe Zajicek"}
+VehiclesByOwner {"owner": "Amada Acre"}
+VehiclesByOwner {"owner": "Terina Tellez"}
+VehiclesByOwner {"owner": "Angie Aylesworth"}
+VehiclesByOwner {"owner": "Florinda Faber"}
+VehiclesByOwner {"owner": "Contessa Connon"}
+VehiclesByOwner {"owner": "Loura Lightcap"}
+VehiclesByOwner {"owner": "India Irion"}
+VehiclesByOwner {"owner": "Maynard Mcclung"}
+VehiclesByOwner {"owner": "Twana Toledo"}
+VehiclesByOwner {"owner": "Jetta Jerabek"}
+VehiclesByOwner {"owner": "Angie Aylesworth"}
+VehiclesByOwner {"owner": "Steven Sneed"}
+VehiclesByOwner {"owner": "Brett Blanc"}
+VehiclesByOwner {"owner": "Virgie Vanepps"}
+VehiclesByOwner {"owner": "Walton Whittingham"}
+VehiclesByOwner {"owner": "Marcel Matter"}
+VehiclesByOwner {"owner": "Lashay Laliberte"}
+VehiclesByOwner {"owner": "Walton Whittingham"}
+VehiclesByOwner {"owner": "Euna Elswick"}
+VehiclesByOwner {"owner": "Sage Struble"}
+VehiclesByOwner {"owner": "Dominique Dang"}
+VehiclesByOwner {"owner": "Sage Struble"}
+VehiclesByOwner {"owner": "Amada Acre"}
+VehiclesByOwner {"owner": "Lucas Levi"}
+VehiclesByOwner {"owner": "Linsey Laguna"}
+VehiclesByOwner {"owner": "India Irion"}
+VehiclesByOwner {"owner": "Katie Kosakowski"}
+VehiclesByOwner {"owner": "Pamelia Persinger"}
+VehiclesByOwner {"owner": "Gertie Giesler"}
+VehiclesByOwner {"owner": "Lashay Laliberte"}
+VehiclesByOwner {"owner": "Leigha Leffler"}
+VehiclesByOwner {"owner": "India Irion"}
+VehiclesByOwner {"owner": "Mazie Musil"}
+VehiclesByOwner {"owner": "Terina Tellez"}
+VehiclesByOwner {"owner": "Joanie Jennings"}
+VehiclesByOwner {"owner": "Mazie Musil"}
+VehiclesByOwner {"owner": "Contessa Connon"}
+VehiclesByOwner {"owner": "Sharan Shine"}
+VehiclesByOwner {"owner": "Mirella Mcgillis"}
+VehiclesByOwner {"owner": "Murray Mcnellis"}
+VehiclesByOwner {"owner": "Walton Whittingham"}
+VehiclesByOwner {"owner": "Maris Mathias"}
+VehiclesByOwner {"owner": "Alane Avallone"}
+VehiclesByOwner {"owner": "Suk Starcher"}
+VehiclesByOwner {"owner": "Mireille Mahr"}
+VehiclesByOwner {"owner": "Loura Lightcap"}
+VehiclesByOwner {"owner": "Fannie Frame"}
+VehiclesByOwner {"owner": "Kate Kieffer"}
+VehiclesByOwner {"owner": "Zoraida Zumwalt"}
+VehiclesByOwner {"owner": "Carlena Czaja"}
+VehiclesByOwner {"owner": "Mckenzie Maresca"}
+VehiclesByOwner {"owner": "Julienne Jervis"}
+VehiclesByOwner {"owner": "Luigi Lamotte"}
+VehiclesByOwner {"owner": "Suk Starcher"}
+VehiclesByOwner {"owner": "Walton Whittingham"}
+VehiclesByOwner {"owner": "Leigha Leffler"}
+VehiclesByOwner {"owner": "Michiko Mccutchen"}
+VehiclesByOwner {"owner": "Madonna Mcclane"}
+VehiclesByOwner {"owner": "Keli Kirschbaum"}
+VehiclesByOwner {"owner": "Leigha Leffler"}
+VehiclesByOwner {"owner": "Chiquita Cedano"}
+VehiclesByOwner {"owner": "Serena Sakamoto"}
+VehiclesByOwner {"owner": "Hilton Haro"}
+VehiclesByOwner {"owner": "India Irion"}
+VehiclesByOwner {"owner": "Karlyn Kennison"}
+VehiclesByOwner {"owner": "India Irion"}
+VehiclesByOwner {"owner": "Evan Eggers"}
+VehiclesByOwner {"owner": "Marni Mattera"}
+VehiclesByOwner {"owner": "Murray Mcnellis"}
+VehiclesByOwner {"owner": "Contessa Connon"}
+VehiclesByOwner {"owner": "Mirella Mcgillis"}
+VehiclesByOwner {"owner": "Floria Fryar"}
+VehiclesByOwner {"owner": "Julienne Jervis"}
+VehiclesByOwner {"owner": "Walton Whittingham"}
+VehiclesByOwner {"owner": "Chasity Cripps"}
+VehiclesByOwner {"owner": "Kate Kieffer"}
+VehiclesByOwner {"owner": "Laila Lines"}
+VehiclesByOwner {"owner": "Laila Lines"}
+VehiclesByOwner {"owner": "Shandra Salamone"}
+VehiclesByOwner {"owner": "Karlyn Kennison"}
+VehiclesByOwner {"owner": "Lashay Laliberte"}
+VehiclesByOwner {"owner": "Evan Eggers"}
+VehiclesByOwner {"owner": "Joanie Jennings"}
+VehiclesByOwner {"owner": "Alleen Achorn"}
+VehiclesByOwner {"owner": "Sage Struble"}
+VehiclesByOwner {"owner": "Lashay Laliberte"}
+VehiclesByOwner {"owner": "Twana Toledo"}
+VehiclesByOwner {"owner": "Leslie Loos"}
+VehiclesByOwner {"owner": "Chiquita Cedano"}
+VehiclesByOwner {"owner": "Julienne Jervis"}
+VehiclesByOwner {"owner": "Walton Whittingham"}
+VehiclesByOwner {"owner": "Josh Jacobson"}
+VehiclesByOwner {"owner": "Maris Mathias"}
+VehiclesByOwner {"owner": "Suzy Stobaugh"}
+VehiclesByOwner {"owner": "Sharan Shine"}
+VehiclesByOwner {"owner": "Ena Eggebrecht"}
+VehiclesByOwner {"owner": "Twana Toledo"}
+VehiclesByOwner {"owner": "Thurman Tait"}
+VehiclesByOwner {"owner": "Brett Blanc"}
+VehiclesByOwner {"owner": "Emory Edmond"}
+VehiclesByOwner {"owner": "Mckenzie Maresca"}
+VehiclesByOwner {"owner": "Floria Fryar"}
+VehiclesByOwner {"owner": "Mira Mauney"}
+VehiclesByOwner {"owner": "Trena Trammell"}
+VehiclesByOwner {"owner": "Mazie Musil"}
+VehiclesByOwner {"owner": "Terina Tellez"}
+VehiclesByOwner {"owner": "Darleen Dehn"}
+Exit {"licensePlate": "F5740BY", "time": "2015-03-08T04:12:00.0000000", "paid": 117.52}
+Exit {"licensePlate": "SQ5605UX", "time": "2015-01-21T16:01:00.0000000", "paid": 389.60}
+Exit {"licensePlate": "O5007VM", "time": "2015-02-02T21:00:00.0000000", "paid": 112.60}
+Exit {"licensePlate": "C9187JZ", "time": "2015-01-28T07:32:00.0000000", "paid": 382.68}
+Exit {"licensePlate": "WL0216HC", "time": "2015-04-07T18:08:00.0000000", "paid": 238.26}
+Exit {"licensePlate": "N4003YG", "time": "2015-03-08T23:27:00.0000000", "paid": 123.52}
+Exit {"licensePlate": "PY7539NV", "time": "2015-03-22T15:49:00.0000000", "paid": 340.71}
+Exit {"licensePlate": "H9079QM", "time": "2015-02-11T12:28:00.0000000", "paid": 120.46}
+Exit {"licensePlate": "J3622GD", "time": "2015-04-13T00:54:00.0000000", "paid": 206.33}
+Exit {"licensePlate": "V5596NI", "time": "2015-02-02T12:07:00.0000000", "paid": 403.78}
+Exit {"licensePlate": "BU5087LI", "time": "2015-02-01T22:59:00.0000000", "paid": 450.75}
+Exit {"licensePlate": "J9494IG", "time": "2015-03-18T21:24:00.0000000", "paid": 260.96}
+Exit {"licensePlate": "B4088QO", "time": "2015-02-14T21:59:00.0000000", "paid": 308.86}
+Exit {"licensePlate": "VP3339SW", "time": "2015-02-25T10:55:00.0000000", "paid": 220.91}
+Exit {"licensePlate": "GA0011ML", "time": "2015-03-23T07:50:00.0000000", "paid": 285.68}
+Exit {"licensePlate": "B4124AY", "time": "2015-01-27T19:43:00.0000000", "paid": 191.89}
+Exit {"licensePlate": "R8839UO", "time": "2015-04-29T18:00:00.0000000", "paid": 468.67}
+Exit {"licensePlate": "T9645KT", "time": "2015-03-17T04:52:00.0000000", "paid": 294.57}
+Exit {"licensePlate": "T9071VB", "time": "2015-01-03T23:27:00.0000000", "paid": 380.50}
+Exit {"licensePlate": "R5411YV", "time": "2015-02-05T01:17:00.0000000", "paid": 338.37}
+Exit {"licensePlate": "RP5007KZ", "time": "2015-02-12T05:21:00.0000000", "paid": 349.22}
+Exit {"licensePlate": "S0272PR", "time": "2015-04-08T18:39:00.0000000", "paid": 120.87}
+Exit {"licensePlate": "U4915DW", "time": "2015-01-03T10:00:00.0000000", "paid": 256.87}
+Exit {"licensePlate": "JE6616LQ", "time": "2015-01-02T13:39:00.0000000", "paid": 346.71}
+Exit {"licensePlate": "G9764CE", "time": "2015-01-06T04:13:00.0000000", "paid": 396.22}
+Exit {"licensePlate": "AO8780IP", "time": "2015-03-26T14:56:00.0000000", "paid": 284.87}
+Exit {"licensePlate": "JS1045OX", "time": "2015-04-13T23:36:00.0000000", "paid": 319.56}
+Exit {"licensePlate": "GW0620TU", "time": "2015-02-16T04:19:00.0000000", "paid": 380.28}
+Exit {"licensePlate": "V0807ZL", "time": "2015-03-04T15:00:00.0000000", "paid": 148.75}
+Exit {"licensePlate": "ZT9782UC", "time": "2015-01-03T18:34:00.0000000", "paid": 133.16}
+Exit {"licensePlate": "I0334FQ", "time": "2015-04-05T07:11:00.0000000", "paid": 219.78}
+Exit {"licensePlate": "HP0889HV", "time": "2015-04-11T05:13:00.0000000", "paid": 187.66}
+Exit {"licensePlate": "T7422QU", "time": "2015-03-14T05:06:00.0000000", "paid": 115.16}
+Exit {"licensePlate": "S7668AI", "time": "2015-04-18T05:42:00.0000000", "paid": 341.92}
+Exit {"licensePlate": "B7764WT", "time": "2015-03-26T07:49:00.0000000", "paid": 189.47}
+Exit {"licensePlate": "J1282PL", "time": "2015-01-10T13:24:00.0000000", "paid": 406.76}
+Exit {"licensePlate": "R3158GW", "time": "2015-04-30T04:10:00.0000000", "paid": 395.38}
+Exit {"licensePlate": "A9800AX", "time": "2015-02-15T12:24:00.0000000", "paid": 166.64}
+Exit {"licensePlate": "E4605SQ", "time": "2015-04-01T12:05:00.0000000", "paid": 382.52}
+Exit {"licensePlate": "PM7261OG", "time": "2015-03-19T06:07:00.0000000", "paid": 328.64}
+Exit {"licensePlate": "N9874GZ", "time": "2015-04-03T02:46:00.0000000", "paid": 200.58}
+Exit {"licensePlate": "PD0705LE", "time": "2015-01-30T16:59:00.0000000", "paid": 169.23}
+Exit {"licensePlate": "D0275CS", "time": "2015-01-30T00:32:00.0000000", "paid": 188.35}
+Exit {"licensePlate": "A0904VQ", "time": "2015-03-17T09:28:00.0000000", "paid": 236.35}
+Exit {"licensePlate": "WJ9705TE", "time": "2015-04-08T23:38:00.0000000", "paid": 490.19}
+Exit {"licensePlate": "C3221TC", "time": "2015-03-13T12:05:00.0000000", "paid": 282.94}
+Exit {"licensePlate": "V6512DH", "time": "2015-04-14T02:28:00.0000000", "paid": 267.43}
+Exit {"licensePlate": "R1804KA", "time": "2015-01-04T15:41:00.0000000", "paid": 129.83}
+Exit {"licensePlate": "WN6216CZ", "time": "2015-01-06T02:49:00.0000000", "paid": 102.39}
+Exit {"licensePlate": "V8486SZ", "time": "2015-03-17T05:40:00.0000000", "paid": 435.22}
+Exit {"licensePlate": "G3825FQ", "time": "2015-03-19T19:33:00.0000000", "paid": 209.69}
+Exit {"licensePlate": "J0541RP", "time": "2015-04-24T00:27:00.0000000", "paid": 297.26}
+Exit {"licensePlate": "B5076IK", "time": "2015-01-05T04:02:00.0000000", "paid": 283.70}
+Exit {"licensePlate": "Z2677FD", "time": "2015-01-10T10:13:00.0000000", "paid": 218.24}
+Exit {"licensePlate": "C4917RF", "time": "2015-04-15T17:36:00.0000000", "paid": 387.46}
+Exit {"licensePlate": "B5124BG", "time": "2015-04-01T12:24:00.0000000", "paid": 499.65}
+Exit {"licensePlate": "V2208EF", "time": "2015-04-01T15:28:00.0000000", "paid": 100.34}
+Exit {"licensePlate": "H2023OF", "time": "2015-02-19T00:20:00.0000000", "paid": 264.66}
+Exit {"licensePlate": "VA5916KN", "time": "2015-01-13T14:40:00.0000000", "paid": 243.82}
+Exit {"licensePlate": "R1684ZR", "time": "2015-02-06T19:03:00.0000000", "paid": 321.50}
+Exit {"licensePlate": "Z5423WY", "time": "2015-02-09T16:22:00.0000000", "paid": 273.94}
+Exit {"licensePlate": "Z0632CJ", "time": "2015-03-24T04:07:00.0000000", "paid": 207.21}
+Exit {"licensePlate": "LV4247GE", "time": "2015-04-12T02:53:00.0000000", "paid": 198.57}
+Exit {"licensePlate": "E9431SK", "time": "2015-02-06T21:26:00.0000000", "paid": 293.55}
+Exit {"licensePlate": "X0560IZ", "time": "2015-01-15T03:21:00.0000000", "paid": 414.21}
+Exit {"licensePlate": "F0289JR", "time": "2015-04-21T06:25:00.0000000", "paid": 152.32}
+Exit {"licensePlate": "OF3730XU", "time": "2015-04-14T02:31:00.0000000", "paid": 232.43}
+Exit {"licensePlate": "AR6245DA", "time": "2015-01-28T12:13:00.0000000", "paid": 471.11}
+Exit {"licensePlate": "Z9477GT", "time": "2015-04-15T19:25:00.0000000", "paid": 168.66}
+Exit {"licensePlate": "XU6688XE", "time": "2015-03-30T22:00:00.0000000", "paid": 372.51}
+Exit {"licensePlate": "H7866HQ", "time": "2015-01-10T17:14:00.0000000", "paid": 437.9}
+Exit {"licensePlate": "M0121XT", "time": "2015-04-11T00:38:00.0000000", "paid": 186.39}
+Exit {"licensePlate": "PE7603DZ", "time": "2015-01-07T14:24:00.0000000", "paid": 283.93}
+Exit {"licensePlate": "I1012NZ", "time": "2015-01-04T00:19:00.0000000", "paid": 233.73}
+Exit {"licensePlate": "SB8075KR", "time": "2015-04-04T07:49:00.0000000", "paid": 298.75}
+Exit {"licensePlate": "Z1080IR", "time": "2015-01-20T00:10:00.0000000", "paid": 294.32}
+Exit {"licensePlate": "TH8639EG", "time": "2015-02-16T15:08:00.0000000", "paid": 499.16}
+Exit {"licensePlate": "RK5139LE", "time": "2015-04-21T00:38:00.0000000", "paid": 131.88}
+Exit {"licensePlate": "A7394PH", "time": "2015-02-16T04:28:00.0000000", "paid": 335.0}
+Exit {"licensePlate": "P7709WU", "time": "2015-03-07T00:52:00.0000000", "paid": 383.66}
+Status {}

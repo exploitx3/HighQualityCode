@@ -1,0 +1,6 @@
+C:\Users\Leet\Documents\Visual Studio 2015\Projects\Code-Tuning and Optimization Homework\Logger\Logger\bin\Debug\Logger.exe.config
+C:\Users\Leet\Documents\Visual Studio 2015\Projects\Code-Tuning and Optimization Homework\Logger\Logger\bin\Debug\Logger.exe
+C:\Users\Leet\Documents\Visual Studio 2015\Projects\Code-Tuning and Optimization Homework\Logger\Logger\bin\Debug\Logger.pdb
+C:\Users\Leet\Documents\Visual Studio 2015\Projects\Code-Tuning and Optimization Homework\Logger\Logger\obj\Debug\Logger.csprojResolveAssemblyReference.cache
+C:\Users\Leet\Documents\Visual Studio 2015\Projects\Code-Tuning and Optimization Homework\Logger\Logger\obj\Debug\Logger.exe
+C:\Users\Leet\Documents\Visual Studio 2015\Projects\Code-Tuning and Optimization Homework\Logger\Logger\obj\Debug\Logger.pdb

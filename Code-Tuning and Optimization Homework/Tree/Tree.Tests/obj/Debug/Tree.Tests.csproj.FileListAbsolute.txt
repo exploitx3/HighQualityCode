@@ -1,0 +1,9 @@
+C:\Users\Leet\Documents\Visual Studio 2015\Projects\Code-Tuning and Optimization Homework\Tree\Tree.Tests\bin\Debug\Tree.Tests.dll
+C:\Users\Leet\Documents\Visual Studio 2015\Projects\Code-Tuning and Optimization Homework\Tree\Tree.Tests\bin\Debug\Tree.Tests.pdb
+C:\Users\Leet\Documents\Visual Studio 2015\Projects\Code-Tuning and Optimization Homework\Tree\Tree.Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\Leet\Documents\Visual Studio 2015\Projects\Code-Tuning and Optimization Homework\Tree\Tree.Tests\bin\Debug\Tree.exe
+C:\Users\Leet\Documents\Visual Studio 2015\Projects\Code-Tuning and Optimization Homework\Tree\Tree.Tests\bin\Debug\Tree.pdb
+C:\Users\Leet\Documents\Visual Studio 2015\Projects\Code-Tuning and Optimization Homework\Tree\Tree.Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.xml
+C:\Users\Leet\Documents\Visual Studio 2015\Projects\Code-Tuning and Optimization Homework\Tree\Tree.Tests\obj\Debug\Tree.Tests.csprojResolveAssemblyReference.cache
+C:\Users\Leet\Documents\Visual Studio 2015\Projects\Code-Tuning and Optimization Homework\Tree\Tree.Tests\obj\Debug\Tree.Tests.dll
+C:\Users\Leet\Documents\Visual Studio 2015\Projects\Code-Tuning and Optimization Homework\Tree\Tree.Tests\obj\Debug\Tree.Tests.pdb

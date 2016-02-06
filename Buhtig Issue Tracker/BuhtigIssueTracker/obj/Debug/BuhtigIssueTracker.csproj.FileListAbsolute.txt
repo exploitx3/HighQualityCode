@@ -1,0 +1,2 @@
+C:\Users\Leet\Documents\Visual Studio 2015\Projects\Buhtig Issue Tracker\buhtig\bin\Debug\BuhtigIssueTracker.exe.config
+C:\Users\Leet\Documents\Visual Studio 2015\Projects\Buhtig Issue Tracker\BuhtigIssueTracker\bin\Debug\BuhtigIssueTracker.exe.config

@@ -1,0 +1,31 @@
+User firstLecturer registered successfully.
+User firstLecturer logged in successfully.
+Course ASP.NET MVC created successfully.
+Course Databases created successfully.
+User firstLecturer logged out successfully.
+User firstStudent registered successfully.
+User firstStudent logged in successfully.
+Student successfully enrolled in course ASP.NET MVC.
+All courses:
+ASP.NET MVC (1 students)
+Databases (0 students)
+ASP.NET MVC
+No lectures
+User firstStudent logged out successfully.
+User firstLecturer logged in successfully.
+Lecture successfully added to course ASP.NET MVC.
+Lecture successfully added to course ASP.NET MVC.
+Lecture successfully added to course ASP.NET MVC.
+Lecture successfully added to course ASP.NET MVC.
+User firstLecturer logged out successfully.
+All courses:
+ASP.NET MVC (1 students)
+Databases (0 students)
+User firstStudent logged in successfully.
+ASP.NET MVC
+- MVC Introduction
+- MVC Controllers
+- ASP.NET MVC and Entity Framework
+- Unit Testing
+You are not enrolled in this course.
+There is no course with ID 3.

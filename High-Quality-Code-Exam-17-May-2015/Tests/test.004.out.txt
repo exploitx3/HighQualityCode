@@ -1,0 +1,185 @@
+Vehicle park created
+Car parked successfully at place (1,1)
+Motorbike parked successfully at place (2,2)
+Truck parked successfully at place (3,3)
+Motorbike [CA5555AH], owned by Michael Smith
+Parked at (2,2)
+Truck [CA5842CH], owned by Raul Johns
+Parked at (3,3)
+Car [CA5555HH], owned by John Allonso
+Parked at (1,1)
+There is no vehicle with license plate CA0001AA in the park
+Car [CA5555HH], owned by John Allonso
+Parked at (1,1)
+Motorbike [CA5555AH], owned by Michael Smith
+Parked at (2,2)
+Truck [CA5842CH], owned by Raul Johns
+Parked at (3,3)
+The place (1,1) is occupied
+The place (2,2) is occupied
+The place (3,3) is occupied
+Car parked successfully at place (4,1)
+Motorbike parked successfully at place (4,2)
+Truck parked successfully at place (4,3)
+Sector 1: 1 / 5 (20% full)
+Sector 2: 1 / 5 (20% full)
+Sector 3: 1 / 5 (20% full)
+Sector 4: 3 / 5 (60% full)
+Car [CA5665HH], owned by John Allonso
+Parked at (4,1)
+Motorbike [CA5225AH], owned by Michael Smith
+Parked at (4,2)
+Truck [CA5742CH], owned by Raul Johns
+Parked at (4,3)
+Car [CA5555HH], owned by John Allonso
+Parked at (1,1)
+Car [CA5665HH], owned by John Allonso
+Parked at (4,1)
+Motorbike [CA5555AH], owned by Michael Smith
+Parked at (2,2)
+Motorbike [CA5225AH], owned by Michael Smith
+Parked at (4,2)
+Truck [CA5842CH], owned by Raul Johns
+Parked at (3,3)
+Truck [CA5742CH], owned by Raul Johns
+Parked at (4,3)
+No vehicles by Sean Nicholson
+********************
+Car [CA5555HH], owned by John Allonso
+at place (1,1)
+Rate: $2.00
+Overtime rate: $7.00
+--------------------
+Total: $9.00
+Paid: $100.00
+Change: $91.00
+********************
+********************
+Motorbike [CA5555AH], owned by Michael Smith
+at place (2,2)
+Rate: $1.35
+Overtime rate: $15.00
+--------------------
+Total: $16.35
+Paid: $16.35
+Change: $0.00
+********************
+********************
+Truck [CA5842CH], owned by Raul Johns
+at place (3,3)
+Rate: $4.75
+Overtime rate: $37.20
+--------------------
+Total: $41.95
+Paid: $177.70
+Change: $135.75
+********************
+Sector 1: 0 / 5 (0% full)
+Sector 2: 0 / 5 (0% full)
+Sector 3: 0 / 5 (0% full)
+Sector 4: 3 / 5 (60% full)
+Motorbike [CA5225AH], owned by Michael Smith
+Parked at (4,2)
+Motorbike [CA5225AH], owned by Michael Smith
+Parked at (4,2)
+Car [CA5665HH], owned by John Allonso
+Parked at (4,1)
+Car parked successfully at place (1,1)
+Motorbike parked successfully at place (2,2)
+Truck parked successfully at place (3,3)
+********************
+Car [CA5555HH], owned by John Allonso
+at place (1,1)
+Rate: $6.00
+Overtime rate: $0.00
+--------------------
+Total: $6.00
+Paid: $50.00
+Change: $44.00
+********************
+********************
+Motorbike [CA5555AH], owned by Michael Smith
+at place (2,2)
+Rate: $6.75
+Overtime rate: $75.00
+--------------------
+Total: $81.75
+Paid: $200.11
+Change: $118.36
+********************
+********************
+Truck [CA5842CH], owned by Raul Johns
+at place (3,3)
+Rate: $4.75
+Overtime rate: $6.20
+--------------------
+Total: $10.95
+Paid: $177.70
+Change: $166.75
+********************
+Car parked successfully at place (1,1)
+Motorbike parked successfully at place (2,2)
+Truck parked successfully at place (3,3)
+********************
+Car [CA5555HH], owned by John Allonso
+at place (1,1)
+Rate: $6.00
+Overtime rate: $0.00
+--------------------
+Total: $6.00
+Paid: $50.00
+Change: $44.00
+********************
+********************
+Motorbike [CA5555AH], owned by Michael Smith
+at place (2,2)
+Rate: $6.75
+Overtime rate: $75.00
+--------------------
+Total: $81.75
+Paid: $200.11
+Change: $118.36
+********************
+********************
+Truck [CA5842CH], owned by Raul Johns
+at place (3,3)
+Rate: $4.75
+Overtime rate: $6.20
+--------------------
+Total: $10.95
+Paid: $177.70
+Change: $166.75
+********************
+Car parked successfully at place (1,1)
+Motorbike parked successfully at place (2,2)
+Truck parked successfully at place (3,3)
+********************
+Car [CA5555HH], owned by John Allonso
+at place (1,1)
+Rate: $6.00
+Overtime rate: $0.00
+--------------------
+Total: $6.00
+Paid: $50.00
+Change: $44.00
+********************
+********************
+Motorbike [CA5555AH], owned by Michael Smith
+at place (2,2)
+Rate: $6.75
+Overtime rate: $75.00
+--------------------
+Total: $81.75
+Paid: $200.11
+Change: $118.36
+********************
+********************
+Truck [CA5842CH], owned by Raul Johns
+at place (3,3)
+Rate: $4.75
+Overtime rate: $6.20
+--------------------
+Total: $10.95
+Paid: $177.70
+Change: $166.75
+********************

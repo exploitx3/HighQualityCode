@@ -1,0 +1,9 @@
+C:\Users\Leet\Documents\Visual Studio 2015\Projects\InformationSystem\TheatreSystem.Tests\bin\Debug\TheatreSystem.Tests.dll
+C:\Users\Leet\Documents\Visual Studio 2015\Projects\InformationSystem\TheatreSystem.Tests\bin\Debug\TheatreSystem.Tests.pdb
+C:\Users\Leet\Documents\Visual Studio 2015\Projects\InformationSystem\TheatreSystem.Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\Leet\Documents\Visual Studio 2015\Projects\InformationSystem\TheatreSystem.Tests\bin\Debug\TheatreSystem.exe
+C:\Users\Leet\Documents\Visual Studio 2015\Projects\InformationSystem\TheatreSystem.Tests\bin\Debug\TheatreSystem.pdb
+C:\Users\Leet\Documents\Visual Studio 2015\Projects\InformationSystem\TheatreSystem.Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.xml
+C:\Users\Leet\Documents\Visual Studio 2015\Projects\InformationSystem\TheatreSystem.Tests\obj\Debug\TheatreSystem.Tests.csprojResolveAssemblyReference.cache
+C:\Users\Leet\Documents\Visual Studio 2015\Projects\InformationSystem\TheatreSystem.Tests\obj\Debug\TheatreSystem.Tests.dll
+C:\Users\Leet\Documents\Visual Studio 2015\Projects\InformationSystem\TheatreSystem.Tests\obj\Debug\TheatreSystem.Tests.pdb

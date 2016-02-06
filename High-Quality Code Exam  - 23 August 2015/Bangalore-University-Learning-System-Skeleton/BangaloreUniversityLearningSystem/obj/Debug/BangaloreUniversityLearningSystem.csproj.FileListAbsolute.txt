@@ -1,0 +1,8 @@
+C:\Users\Leet\Documents\Visual Studio 2015\Projects\High-Quality Code Exam  - 23 August 2015\Bangalore-University-Learning-System-Skeleton\BangaloreUniversityLearningSystem\bin\Debug\BangaloreUniversityLearningSystem.exe.config
+C:\Users\Leet\Documents\Visual Studio 2015\Projects\High-Quality Code Exam  - 23 August 2015\Bangalore-University-Learning-System-Skeleton\BangaloreUniversityLearningSystem\bin\Debug\BangaloreUniversityLearningSystem.exe
+C:\Users\Leet\Documents\Visual Studio 2015\Projects\High-Quality Code Exam  - 23 August 2015\Bangalore-University-Learning-System-Skeleton\BangaloreUniversityLearningSystem\bin\Debug\BangaloreUniversityLearningSystem.pdb
+C:\Users\Leet\Documents\Visual Studio 2015\Projects\High-Quality Code Exam  - 23 August 2015\Bangalore-University-Learning-System-Skeleton\BangaloreUniversityLearningSystem\obj\Debug\BangaloreUniversityLearningSystem.csprojResolveAssemblyReference.cache
+C:\Users\Leet\Documents\Visual Studio 2015\Projects\High-Quality Code Exam  - 23 August 2015\Bangalore-University-Learning-System-Skeleton\BangaloreUniversityLearningSystem\obj\Debug\BangaloreUniversityLearningSystem.exe
+C:\Users\Leet\Documents\Visual Studio 2015\Projects\High-Quality Code Exam  - 23 August 2015\Bangalore-University-Learning-System-Skeleton\BangaloreUniversityLearningSystem\obj\Debug\BangaloreUniversityLearningSystem.pdb
+C:\Users\Leet\Documents\Visual Studio 2015\Projects\High-Quality Code Exam  - 23 August 2015\Bangalore-University-Learning-System-Skeleton\BangaloreUniversityLearningSystem\bin\Debug\Moq.dll
+C:\Users\Leet\Documents\Visual Studio 2015\Projects\High-Quality Code Exam  - 23 August 2015\Bangalore-University-Learning-System-Skeleton\BangaloreUniversityLearningSystem\bin\Debug\Moq.xml

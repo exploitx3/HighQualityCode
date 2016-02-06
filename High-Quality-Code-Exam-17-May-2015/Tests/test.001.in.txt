@@ -1,0 +1,7 @@
+SetupPark {"sectors": 3, "placesPerSector": 5}
+Park {"type": "car", "time": "2015-05-14T11:30:00.0000000", "sector": 1, "place": 5, "licensePlate": "CA5555HH", "owner": "John Allonso", "hours": 10}
+Park {"type": "motorbike", "time": "2015-05-14T10:40:00.0000000", "sector": 2, "place": 3, "licensePlate": "CA5555AH", "owner": "Michael Smith", "hours": 10}
+Park {"type": "truck", "time": "2015-05-24T10:45:00.0000000", "sector": 1, "place": 1, "licensePlate": "CA5842CH", "owner": "Raul Johns", "hours": 10}
+Exit {"licensePlate": "CA5555HH", "time": "2015-05-14T14:50:00.0000000", "paid": 100.00}
+Exit {"licensePlate": "CA5555AH", "time": "2015-05-14T16:40:00.0000000", "paid": 40.00}
+Exit {"licensePlate": "CA5842CH", "time": "2015-05-25T17:45:00.0000000", "paid": 177.70}

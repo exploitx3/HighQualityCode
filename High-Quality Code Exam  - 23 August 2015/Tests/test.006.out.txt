@@ -1,0 +1,83 @@
+No courses.
+User lecturer registered successfully.
+User lecturer logged in successfully.
+Course Special Symbols ()[]&"';<> created successfully.
+All courses:
+Special Symbols ()[]&"';<> (0 students)
+There is already a logged in user.
+There is already a logged in user.
+User lecturer logged out successfully.
+A user with username lecturer already exists.
+The username must be at least 5 symbols long.
+A user with username lecturer already exists.
+The username must be at least 5 symbols long.
+The password must be at least 6 symbols long.
+The provided passwords do not match.
+A user with username lecturer already exists.
+There is no currently logged in user.
+There is no currently logged in user.
+User lecturer logged in successfully.
+There is already a logged in user.
+There is already a logged in user.
+User lecturer logged out successfully.
+A user with username invalid does not exist.
+The provided password is wrong.
+There is no currently logged in user.
+All courses:
+Special Symbols ()[]&"';<> (0 students)
+User lecturer logged in successfully.
+Course New course created successfully.
+User lecturer logged out successfully.
+There is no currently logged in user.
+There is no currently logged in user.
+User lecturer logged in successfully.
+You are not enrolled in this course.
+There is no course with ID 10.
+Student successfully enrolled in course Special Symbols ()[]&"';<>.
+There is no course with ID 10.
+Special Symbols ()[]&"';<>
+No lectures
+There is no course with ID 10.
+User lecturer logged out successfully.
+User student registered successfully.
+User student logged in successfully.
+All courses:
+New course (0 students)
+Special Symbols ()[]&"';<> (1 students)
+You are not enrolled in this course.
+There is no course with ID 10.
+Student successfully enrolled in course Special Symbols ()[]&"';<>.
+There is no course with ID 10.
+Special Symbols ()[]&"';<>
+No lectures
+There is no course with ID 10.
+All courses:
+New course (0 students)
+Special Symbols ()[]&"';<> (2 students)
+User student logged out successfully.
+There is no currently logged in user.
+There is no currently logged in user.
+There is no currently logged in user.
+There is no currently logged in user.
+There is no currently logged in user.
+There is no currently logged in user.
+User student logged in successfully.
+You are already enrolled in this course.
+You are already enrolled in this course.
+You are already enrolled in this course.
+You are already enrolled in this course.
+You are already enrolled in this course.
+The current user is not authorized to perform this operation.
+User student logged out successfully.
+There is no currently logged in user.
+User student logged in successfully.
+The current user is not authorized to perform this operation.
+The current user is not authorized to perform this operation.
+The current user is not authorized to perform this operation.
+User student logged out successfully.
+There is no currently logged in user.
+There is no currently logged in user.
+There is no currently logged in user.
+User lecturer logged in successfully.
+The lecture name must be at least 3 symbols long.
+The course name must be at least 5 symbols long.

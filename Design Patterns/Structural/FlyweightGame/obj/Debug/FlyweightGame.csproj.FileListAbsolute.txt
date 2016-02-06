@@ -1,0 +1,16 @@
+C:\Users\Jamal\Documents\Visual Studio 2013\Projects\Design-Patterns-Labs\FlyweightGame\bin\Debug\FlyweightGame.exe.config
+C:\Users\Jamal\Documents\Visual Studio 2013\Projects\Design-Patterns-Labs\FlyweightGame\bin\Debug\FlyweightGame.exe
+C:\Users\Jamal\Documents\Visual Studio 2013\Projects\Design-Patterns-Labs\FlyweightGame\bin\Debug\FlyweightGame.pdb
+C:\Users\Jamal\Documents\Visual Studio 2013\Projects\Design-Patterns-Labs\FlyweightGame\obj\Debug\FlyweightGame.csprojResolveAssemblyReference.cache
+C:\Users\Jamal\Documents\Visual Studio 2013\Projects\Design-Patterns-Labs\FlyweightGame\obj\Debug\MainWindow.baml
+C:\Users\Jamal\Documents\Visual Studio 2013\Projects\Design-Patterns-Labs\FlyweightGame\obj\Debug\MainWindow.g.cs
+C:\Users\Jamal\Documents\Visual Studio 2013\Projects\Design-Patterns-Labs\FlyweightGame\obj\Debug\App.g.cs
+C:\Users\Jamal\Documents\Visual Studio 2013\Projects\Design-Patterns-Labs\FlyweightGame\obj\Debug\FlyweightGame_MarkupCompile.cache
+C:\Users\Jamal\Documents\Visual Studio 2013\Projects\Design-Patterns-Labs\FlyweightGame\obj\Debug\FlyweightGame.g.resources
+C:\Users\Jamal\Documents\Visual Studio 2013\Projects\Design-Patterns-Labs\FlyweightGame\obj\Debug\FlyweightGame.Properties.Resources.resources
+C:\Users\Jamal\Documents\Visual Studio 2013\Projects\Design-Patterns-Labs\FlyweightGame\obj\Debug\FlyweightGame.csproj.GenerateResource.Cache
+C:\Users\Jamal\Documents\Visual Studio 2013\Projects\Design-Patterns-Labs\FlyweightGame\obj\Debug\FlyweightGame.exe
+C:\Users\Jamal\Documents\Visual Studio 2013\Projects\Design-Patterns-Labs\FlyweightGame\obj\Debug\FlyweightGame.pdb
+C:\SVN\January-2015\18. Design-Patterns-Demo\Design Patterns\Structural\FlyweightGame\bin\Debug\FlyweightGame.exe.config
+C:\SVN\January-2015\18. Design-Patterns-Demo\Design Patterns\Structural\FlyweightGame\obj\Debug\FlyweightGame.exe
+C:\SVN\January-2015\18. Design-Patterns-Demo\Design Patterns\Structural\FlyweightGame\obj\Debug\FlyweightGame.pdb

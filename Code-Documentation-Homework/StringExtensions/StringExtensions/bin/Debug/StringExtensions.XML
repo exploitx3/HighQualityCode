@@ -1,0 +1,132 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>StringExtensions</name>
+    </assembly>
+    <members>
+        <member name="M:StringExtension.StringExtensions.ToMd5Hash(System.String)">
+            <summary>
+            Converts an input string to md5 hash
+             and returns it's hexadecimal representation.
+            </summary>
+            <param name="input">The string that will be converted</param>
+            <returns>The converted MD5 hex string</returns>
+        </member>
+        <member name="M:StringExtension.StringExtensions.ToBoolean(System.String)">
+            <summary>
+            Checks if the input argument is a True Value.
+            </summary>
+            <param name="input"></param>
+        </member>
+        <member name="M:StringExtension.StringExtensions.ToShort(System.String)">
+            <summary>
+            Converts input string to short type value.
+            </summary>
+            <param name="input">The string to be converted</param>
+            <returns>returns 0 if the operation failed or the converted number if succeeded</returns>
+        </member>
+        <member name="M:StringExtension.StringExtensions.ToInteger(System.String)">
+            <summary>
+            Converts input string to int type value.
+            </summary>
+            <param name="input">The string to be converted</param>
+            <returns>returns 0 if the operation failed or the converted number if succeeded</returns>
+        </member>
+        <member name="M:StringExtension.StringExtensions.ToLong(System.String)">
+            <summary>
+            Converts input string to long type value.
+            </summary>
+            <param name="input">The string to be converted</param>
+            <returns>returns 0 if the operation failed or the converted number if succeeded</returns>
+        </member>
+        <member name="M:StringExtension.StringExtensions.ToDateTime(System.String)">
+            <summary>
+            Converts input string to DateTime type value.
+            </summary>
+            <param name="input">The string to be converted</param>
+            <returns>returns MinValue if the operation failed or the converted DateTime if succeeded</returns>
+        </member>
+        <member name="M:StringExtension.StringExtensions.CapitalizeFirstLetter(System.String)">
+            <summary>
+            Capitalizes a string.
+            </summary>
+            <param name="input">The string which will be capitalized</param>
+            <returns>If the input string is null or empty returns the input string,
+            else it returns the input string with first letter in Uppercase</returns>
+        </member>
+        <member name="M:StringExtension.StringExtensions.GetStringBetween(System.String,System.String,System.String,System.Int32)">
+            <summary>
+            Returns the elements between start and end string.
+            </summary>
+            <param name="input"></param>
+            <param name="startString">Start string</param>
+            <param name="endString">End string</param>
+            <param name="startFrom">The position to start the search of start string.</param>
+            <returns>returns string.Empty if start or end string 
+            is not contained in the input string starting from startFrom agrument.
+            Otherwise it returns the elements between start and end string.</returns>
+        </member>
+        <member name="M:StringExtension.StringExtensions.ConvertCyrillicToLatinLetters(System.String)">
+            <summary>
+            Converts from cyrillic to latin string.
+            </summary>
+            <param name="input">The cyrillic string to be converted</param>
+            <returns>The converted string</returns>
+        </member>
+        <member name="M:StringExtension.StringExtensions.ConvertLatinToCyrillicKeyboard(System.String)">
+            <summary>
+            Converts from latin to cyrillic string.
+            </summary>
+            <param name="input">The latin string to be converted</param>
+            <returns>The converted string</returns>
+        </member>
+        <member name="M:StringExtension.StringExtensions.ToValidUsername(System.String)">
+            <summary>
+            Validates Username .
+            </summary>
+            <param name="input">The username to be validated</param>
+            <returns>Returns the valid latin username without any non-latin(cyrillic) letters</returns>
+        </member>
+        <member name="M:StringExtension.StringExtensions.ToValidLatinFileName(System.String)">
+            <summary>
+            Validates FileName.
+            </summary>
+            <param name="input">The filename to be validated</param>
+            <returns>Returns the valid latin filename without any non-latin(cyrillic) letters.
+            And converts every empty space to dash for clarity.</returns>
+        </member>
+        <member name="M:StringExtension.StringExtensions.GetFirstCharacters(System.String,System.Int32)">
+            <summary>
+            Returns the (charsCount(argument) or the minimum) characters of the input string.
+            </summary>
+            <param name="input">The string to get the characters from.</param>
+            <param name="charsCount">The characters count.</param>
+            <returns>The first charsCount characters of the input string or
+            if the input string's length is less than charsCount
+             it returns the input string.</returns>
+        </member>
+        <member name="M:StringExtension.StringExtensions.GetFileExtension(System.String)">
+            <summary>
+            Returns the file extension.
+            </summary>
+            <param name="fileName">The filename which extension will be extracted</param>
+            <returns>The file's extension</returns>
+        </member>
+        <member name="M:StringExtension.StringExtensions.ToContentType(System.String)">
+            <summary>
+            Returns the content type of the specified file extension.
+            </summary>
+            <param name="fileExtension">The file extension</param>
+            <returns>returns the file extension.
+            if none of the listed file extensions is matched,
+             it returnes application/octet-stream content type.</returns>
+        </member>
+        <member name="M:StringExtension.StringExtensions.ToByteArray(System.String)">
+            <summary>
+            Converts a string to a byte array.
+            </summary>
+            <param name="input">The string to be converted</param>
+            <returns>The converted byte array.</returns>
+        </member>
+    </members>
+</doc>

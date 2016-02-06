@@ -1,0 +1,3 @@
+C:\Users\Jamal\Desktop\Design Patterns\Creational\Thread Safe Singleton\bin\Debug\Thread Safe Singleton.exe.config
+C:\Users\Jamal\Desktop\Trash\Design Patterns\Creational\Thread Safe Singleton\bin\Debug\Thread Safe Singleton.exe.config
+C:\Users\Leet\Documents\Visual Studio 2015\Projects\Design Patterns\Creational\Thread Safe Singleton\bin\Debug\Thread Safe Singleton.exe.config

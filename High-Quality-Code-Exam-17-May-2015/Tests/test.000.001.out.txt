@@ -1,0 +1,61 @@
+Vehicle park created
+Sector 1: 0 / 5 (0% full)
+Sector 2: 0 / 5 (0% full)
+Sector 3: 0 / 5 (0% full)
+Car parked successfully at place (1,5)
+Motorbike parked successfully at place (2,3)
+Truck parked successfully at place (1,1)
+Sector 1: 2 / 5 (40% full)
+Sector 2: 1 / 5 (20% full)
+Sector 3: 0 / 5 (0% full)
+Motorbike [CA5555AH], owned by Guy Sheard
+Parked at (2,3)
+Car [CA1001HH], owned by Jay Margareta
+Parked at (1,5)
+Truck [C5842CH], owned by Jessie Raul
+Parked at (1,1)
+Car parked successfully at place (1,2)
+Truck parked successfully at place (3,2)
+Car [CA1001HH], owned by Jay Margareta
+Parked at (1,5)
+Car [CA1111HH], owned by Jay Margareta
+Parked at (1,2)
+Truck [CA5899AH], owned by Jay Margareta
+Parked at (3,2)
+********************
+Motorbike [CA5555AH], owned by Guy Sheard
+at place (2,3)
+Rate: $2.70
+Overtime rate: $0.00
+--------------------
+Total: $2.70
+Paid: $100.00
+Change: $97.30
+********************
+********************
+Car [CA1001HH], owned by Jay Margareta
+at place (1,5)
+Rate: $2.00
+Overtime rate: $7.00
+--------------------
+Total: $9.00
+Paid: $40.00
+Change: $31.00
+********************
+********************
+Truck [C5842CH], owned by Jessie Raul
+at place (1,1)
+Rate: $4.75
+Overtime rate: $0.00
+--------------------
+Total: $4.75
+Paid: $10.00
+Change: $5.25
+********************
+Car [CA1111HH], owned by Jay Margareta
+Parked at (1,2)
+Truck [CA5899AH], owned by Jay Margareta
+Parked at (3,2)
+Sector 1: 1 / 5 (20% full)
+Sector 2: 0 / 5 (0% full)
+Sector 3: 1 / 5 (20% full)

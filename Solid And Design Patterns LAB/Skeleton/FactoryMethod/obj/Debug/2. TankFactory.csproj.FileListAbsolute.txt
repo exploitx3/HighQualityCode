@@ -1,0 +1,5 @@
+C:\Users\Jamal\Documents\Visual Studio 2013\Projects\SOLID-and-Patterns-Lab-Skeleton\FactoryMethod\bin\Debug\FactoryMethod.exe.config
+C:\Users\Jamal\Documents\Visual Studio 2013\Projects\SOLID-and-Patterns-Lab-Skeleton\FactoryMethod\obj\Debug\FactoryMethod.exe
+C:\Users\Jamal\Documents\Visual Studio 2013\Projects\SOLID-and-Patterns-Lab-Skeleton\FactoryMethod\obj\Debug\FactoryMethod.pdb
+C:\Users\Jamal\Documents\Visual Studio 2013\Projects\SOLID-and-Patterns-Lab-Skeleton\FactoryMethod\bin\Debug\FactoryMethod.exe
+C:\Users\Jamal\Documents\Visual Studio 2013\Projects\SOLID-and-Patterns-Lab-Skeleton\FactoryMethod\bin\Debug\FactoryMethod.pdb

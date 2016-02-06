@@ -1,0 +1,10 @@
+User firstUser registered successfully.
+User secondUser registered successfully.
+User thirdUser registered successfully.
+User firstUser logged in successfully.
+User firstUser logged out successfully.
+A user with username thirdUser already exists.
+The provided password is wrong.
+There is no currently logged in user.
+The provided password is wrong.
+User firstUser logged in successfully.

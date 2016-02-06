@@ -1,0 +1,2 @@
+C:\Users\Jamal\Desktop\Trash\Design Patterns\Behavioral\Interpreter\bin\Debug\Interpreter.exe.config
+C:\SVN\January-2015\18. Design-Patterns-Demo\Design Patterns\Behavioral\Interpreter\bin\Debug\Interpreter.exe.config

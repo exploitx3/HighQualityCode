@@ -1,0 +1,384 @@
+No courses.
+User lecturer1 registered successfully.
+User lecturer2 registered successfully.
+User lecturer3 registered successfully.
+User lecturer1 logged in successfully.
+The course name must be at least 5 symbols long.
+Course Course 1 created successfully.
+Course Course 2 created successfully.
+Course Course 3 created successfully.
+Course Course 4 created successfully.
+Course Course 5 created successfully.
+User lecturer1 logged out successfully.
+User lecturer2 logged in successfully.
+Course Course 6 created successfully.
+Course Course 7 created successfully.
+Course Course 8 created successfully.
+Course Course 9 created successfully.
+Course Course 10 created successfully.
+User lecturer2 logged out successfully.
+User lecturer1 logged in successfully.
+There is no course with ID 50.
+Lecture successfully added to course Course 1.
+Lecture successfully added to course Course 1.
+Lecture successfully added to course Course 1.
+Lecture successfully added to course Course 1.
+Lecture successfully added to course Course 1.
+Lecture successfully added to course Course 2.
+Lecture successfully added to course Course 2.
+Lecture successfully added to course Course 2.
+Lecture successfully added to course Course 2.
+Lecture successfully added to course Course 2.
+Lecture successfully added to course Course 3.
+Lecture successfully added to course Course 3.
+Lecture successfully added to course Course 3.
+Lecture successfully added to course Course 3.
+Lecture successfully added to course Course 3.
+Lecture successfully added to course Course 4.
+Lecture successfully added to course Course 4.
+Lecture successfully added to course Course 4.
+Lecture successfully added to course Course 4.
+Lecture successfully added to course Course 4.
+Lecture successfully added to course Course 5.
+Lecture successfully added to course Course 5.
+Lecture successfully added to course Course 5.
+Lecture successfully added to course Course 5.
+Lecture successfully added to course Course 5.
+Lecture successfully added to course Course 6.
+Lecture successfully added to course Course 6.
+Lecture successfully added to course Course 6.
+Lecture successfully added to course Course 6.
+Lecture successfully added to course Course 6.
+Lecture successfully added to course Course 7.
+Lecture successfully added to course Course 7.
+Lecture successfully added to course Course 7.
+Lecture successfully added to course Course 7.
+Lecture successfully added to course Course 7.
+Lecture successfully added to course Course 8.
+Lecture successfully added to course Course 8.
+Lecture successfully added to course Course 8.
+Lecture successfully added to course Course 8.
+Lecture successfully added to course Course 8.
+Lecture successfully added to course Course 9.
+Lecture successfully added to course Course 9.
+Lecture successfully added to course Course 9.
+Lecture successfully added to course Course 9.
+Lecture successfully added to course Course 9.
+Lecture successfully added to course Course 10.
+Lecture successfully added to course Course 10.
+Lecture successfully added to course Course 10.
+Lecture successfully added to course Course 10.
+Lecture successfully added to course Course 10.
+User lecturer1 logged out successfully.
+User lecturer2 logged in successfully.
+There is no course with ID 50.
+Lecture successfully added to course Course 1.
+Lecture successfully added to course Course 1.
+Lecture successfully added to course Course 1.
+Lecture successfully added to course Course 1.
+Lecture successfully added to course Course 1.
+Lecture successfully added to course Course 2.
+Lecture successfully added to course Course 2.
+Lecture successfully added to course Course 2.
+Lecture successfully added to course Course 2.
+Lecture successfully added to course Course 2.
+Lecture successfully added to course Course 3.
+Lecture successfully added to course Course 3.
+Lecture successfully added to course Course 3.
+Lecture successfully added to course Course 3.
+Lecture successfully added to course Course 3.
+Lecture successfully added to course Course 4.
+Lecture successfully added to course Course 4.
+Lecture successfully added to course Course 4.
+Lecture successfully added to course Course 4.
+Lecture successfully added to course Course 4.
+Lecture successfully added to course Course 5.
+Lecture successfully added to course Course 5.
+Lecture successfully added to course Course 5.
+Lecture successfully added to course Course 5.
+Lecture successfully added to course Course 5.
+Lecture successfully added to course Course 6.
+Lecture successfully added to course Course 6.
+Lecture successfully added to course Course 6.
+Lecture successfully added to course Course 6.
+Lecture successfully added to course Course 6.
+Lecture successfully added to course Course 7.
+Lecture successfully added to course Course 7.
+Lecture successfully added to course Course 7.
+Lecture successfully added to course Course 7.
+Lecture successfully added to course Course 7.
+Lecture successfully added to course Course 8.
+Lecture successfully added to course Course 8.
+Lecture successfully added to course Course 8.
+Lecture successfully added to course Course 8.
+Lecture successfully added to course Course 8.
+Lecture successfully added to course Course 9.
+Lecture successfully added to course Course 9.
+Lecture successfully added to course Course 9.
+Lecture successfully added to course Course 9.
+Lecture successfully added to course Course 9.
+Lecture successfully added to course Course 10.
+Lecture successfully added to course Course 10.
+Lecture successfully added to course Course 10.
+Lecture successfully added to course Course 10.
+Lecture successfully added to course Course 10.
+User lecturer2 logged out successfully.
+User lecturer3 logged in successfully.
+There is no course with ID 50.
+Lecture successfully added to course Course 1.
+Lecture successfully added to course Course 1.
+Lecture successfully added to course Course 1.
+Lecture successfully added to course Course 1.
+Lecture successfully added to course Course 1.
+Lecture successfully added to course Course 2.
+Lecture successfully added to course Course 2.
+Lecture successfully added to course Course 2.
+Lecture successfully added to course Course 2.
+Lecture successfully added to course Course 2.
+Lecture successfully added to course Course 3.
+Lecture successfully added to course Course 3.
+Lecture successfully added to course Course 3.
+Lecture successfully added to course Course 3.
+Lecture successfully added to course Course 3.
+Lecture successfully added to course Course 4.
+Lecture successfully added to course Course 4.
+Lecture successfully added to course Course 4.
+Lecture successfully added to course Course 4.
+Lecture successfully added to course Course 4.
+Lecture successfully added to course Course 5.
+Lecture successfully added to course Course 5.
+Lecture successfully added to course Course 5.
+Lecture successfully added to course Course 5.
+Lecture successfully added to course Course 5.
+Lecture successfully added to course Course 6.
+Lecture successfully added to course Course 6.
+Lecture successfully added to course Course 6.
+Lecture successfully added to course Course 6.
+Lecture successfully added to course Course 6.
+Lecture successfully added to course Course 7.
+Lecture successfully added to course Course 7.
+Lecture successfully added to course Course 7.
+Lecture successfully added to course Course 7.
+Lecture successfully added to course Course 7.
+Lecture successfully added to course Course 8.
+Lecture successfully added to course Course 8.
+Lecture successfully added to course Course 8.
+Lecture successfully added to course Course 8.
+Lecture successfully added to course Course 8.
+Lecture successfully added to course Course 9.
+Lecture successfully added to course Course 9.
+Lecture successfully added to course Course 9.
+Lecture successfully added to course Course 9.
+Lecture successfully added to course Course 9.
+Lecture successfully added to course Course 10.
+Lecture successfully added to course Course 10.
+Lecture successfully added to course Course 10.
+Lecture successfully added to course Course 10.
+Lecture successfully added to course Course 10.
+User lecturer3 logged out successfully.
+All courses:
+Course 1 (0 students)
+Course 10 (0 students)
+Course 2 (0 students)
+Course 3 (0 students)
+Course 4 (0 students)
+Course 5 (0 students)
+Course 6 (0 students)
+Course 7 (0 students)
+Course 8 (0 students)
+Course 9 (0 students)
+User student registered successfully.
+User student logged in successfully.
+You are not enrolled in this course.
+Student successfully enrolled in course Course 1.
+Course 1
+- Lecture 1 by lecturer 1
+- Lecture 2 by lecturer 1
+- Lecture 3 by lecturer 1
+- Lecture 4 by lecturer 1
+- Lecture 5 by lecturer 1
+- Lecture 1 by lecturer 2
+- Lecture 2 by lecturer 2
+- Lecture 3 by lecturer 2
+- Lecture 4 by lecturer 2
+- Lecture 5 by lecturer 2
+- Lecture 1 by lecturer 3
+- Lecture 2 by lecturer 3
+- Lecture 3 by lecturer 3
+- Lecture 4 by lecturer 3
+- Lecture 5 by lecturer 3
+You are not enrolled in this course.
+Student successfully enrolled in course Course 2.
+Course 2
+- Lecture 1 by lecturer 1
+- Lecture 2 by lecturer 1
+- Lecture 3 by lecturer 1
+- Lecture 4 by lecturer 1
+- Lecture 5 by lecturer 1
+- Lecture 1 by lecturer 2
+- Lecture 2 by lecturer 2
+- Lecture 3 by lecturer 2
+- Lecture 4 by lecturer 2
+- Lecture 5 by lecturer 2
+- Lecture 1 by lecturer 3
+- Lecture 2 by lecturer 3
+- Lecture 3 by lecturer 3
+- Lecture 4 by lecturer 3
+- Lecture 5 by lecturer 3
+You are not enrolled in this course.
+Student successfully enrolled in course Course 3.
+Course 3
+- Lecture 1 by lecturer 1
+- Lecture 2 by lecturer 1
+- Lecture 3 by lecturer 1
+- Lecture 4 by lecturer 1
+- Lecture 5 by lecturer 1
+- Lecture 1 by lecturer 2
+- Lecture 2 by lecturer 2
+- Lecture 3 by lecturer 2
+- Lecture 4 by lecturer 2
+- Lecture 5 by lecturer 2
+- Lecture 1 by lecturer 3
+- Lecture 2 by lecturer 3
+- Lecture 3 by lecturer 3
+- Lecture 4 by lecturer 3
+- Lecture 5 by lecturer 3
+You are not enrolled in this course.
+Student successfully enrolled in course Course 4.
+Course 4
+- Lecture 1 by lecturer 1
+- Lecture 2 by lecturer 1
+- Lecture 3 by lecturer 1
+- Lecture 4 by lecturer 1
+- Lecture 5 by lecturer 1
+- Lecture 1 by lecturer 2
+- Lecture 2 by lecturer 2
+- Lecture 3 by lecturer 2
+- Lecture 4 by lecturer 2
+- Lecture 5 by lecturer 2
+- Lecture 1 by lecturer 3
+- Lecture 2 by lecturer 3
+- Lecture 3 by lecturer 3
+- Lecture 4 by lecturer 3
+- Lecture 5 by lecturer 3
+You are not enrolled in this course.
+Student successfully enrolled in course Course 5.
+Course 5
+- Lecture 1 by lecturer 1
+- Lecture 2 by lecturer 1
+- Lecture 3 by lecturer 1
+- Lecture 4 by lecturer 1
+- Lecture 5 by lecturer 1
+- Lecture 1 by lecturer 2
+- Lecture 2 by lecturer 2
+- Lecture 3 by lecturer 2
+- Lecture 4 by lecturer 2
+- Lecture 5 by lecturer 2
+- Lecture 1 by lecturer 3
+- Lecture 2 by lecturer 3
+- Lecture 3 by lecturer 3
+- Lecture 4 by lecturer 3
+- Lecture 5 by lecturer 3
+You are not enrolled in this course.
+Student successfully enrolled in course Course 6.
+Course 6
+- Lecture 1 by lecturer 1
+- Lecture 2 by lecturer 1
+- Lecture 3 by lecturer 1
+- Lecture 4 by lecturer 1
+- Lecture 5 by lecturer 1
+- Lecture 1 by lecturer 2
+- Lecture 2 by lecturer 2
+- Lecture 3 by lecturer 2
+- Lecture 4 by lecturer 2
+- Lecture 5 by lecturer 2
+- Lecture 1 by lecturer 3
+- Lecture 2 by lecturer 3
+- Lecture 3 by lecturer 3
+- Lecture 4 by lecturer 3
+- Lecture 5 by lecturer 3
+You are not enrolled in this course.
+Student successfully enrolled in course Course 7.
+Course 7
+- Lecture 1 by lecturer 1
+- Lecture 2 by lecturer 1
+- Lecture 3 by lecturer 1
+- Lecture 4 by lecturer 1
+- Lecture 5 by lecturer 1
+- Lecture 1 by lecturer 2
+- Lecture 2 by lecturer 2
+- Lecture 3 by lecturer 2
+- Lecture 4 by lecturer 2
+- Lecture 5 by lecturer 2
+- Lecture 1 by lecturer 3
+- Lecture 2 by lecturer 3
+- Lecture 3 by lecturer 3
+- Lecture 4 by lecturer 3
+- Lecture 5 by lecturer 3
+You are not enrolled in this course.
+Student successfully enrolled in course Course 8.
+Course 8
+- Lecture 1 by lecturer 1
+- Lecture 2 by lecturer 1
+- Lecture 3 by lecturer 1
+- Lecture 4 by lecturer 1
+- Lecture 5 by lecturer 1
+- Lecture 1 by lecturer 2
+- Lecture 2 by lecturer 2
+- Lecture 3 by lecturer 2
+- Lecture 4 by lecturer 2
+- Lecture 5 by lecturer 2
+- Lecture 1 by lecturer 3
+- Lecture 2 by lecturer 3
+- Lecture 3 by lecturer 3
+- Lecture 4 by lecturer 3
+- Lecture 5 by lecturer 3
+You are not enrolled in this course.
+Student successfully enrolled in course Course 9.
+Course 9
+- Lecture 1 by lecturer 1
+- Lecture 2 by lecturer 1
+- Lecture 3 by lecturer 1
+- Lecture 4 by lecturer 1
+- Lecture 5 by lecturer 1
+- Lecture 1 by lecturer 2
+- Lecture 2 by lecturer 2
+- Lecture 3 by lecturer 2
+- Lecture 4 by lecturer 2
+- Lecture 5 by lecturer 2
+- Lecture 1 by lecturer 3
+- Lecture 2 by lecturer 3
+- Lecture 3 by lecturer 3
+- Lecture 4 by lecturer 3
+- Lecture 5 by lecturer 3
+You are not enrolled in this course.
+Student successfully enrolled in course Course 10.
+Course 10
+- Lecture 1 by lecturer 1
+- Lecture 2 by lecturer 1
+- Lecture 3 by lecturer 1
+- Lecture 4 by lecturer 1
+- Lecture 5 by lecturer 1
+- Lecture 1 by lecturer 2
+- Lecture 2 by lecturer 2
+- Lecture 3 by lecturer 2
+- Lecture 4 by lecturer 2
+- Lecture 5 by lecturer 2
+- Lecture 1 by lecturer 3
+- Lecture 2 by lecturer 3
+- Lecture 3 by lecturer 3
+- Lecture 4 by lecturer 3
+- Lecture 5 by lecturer 3
+All courses:
+Course 1 (1 students)
+Course 10 (1 students)
+Course 2 (1 students)
+Course 3 (1 students)
+Course 4 (1 students)
+Course 5 (1 students)
+Course 6 (1 students)
+Course 7 (1 students)
+Course 8 (1 students)
+Course 9 (1 students)
+User student logged out successfully.
+There is no currently logged in user.

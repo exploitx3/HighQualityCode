@@ -1,0 +1,2 @@
+C:\Users\Jamal\Desktop\Design Patterns\Behavioral\Command\bin\Debug\Command.exe.config
+C:\Users\Jamal\Desktop\Trash\Design Patterns\Behavioral\Command\bin\Debug\Command.exe.config

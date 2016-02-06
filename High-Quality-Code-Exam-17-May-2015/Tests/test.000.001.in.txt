@@ -1,0 +1,26 @@
+SetupPark {"sectors": 3, "placesPerSector": 5}
+
+Status {}
+
+Park {"type": "car", "time": "2015-05-04T10:30:00.0000000", "sector": 1, "place": 5, "licensePlate": "CA1001HH", "owner": "Jay Margareta", "hours": 1}
+Park {"type": "motorbike", "time": "2015-05-04T10:40:00.0000000", "sector": 2, "place": 3, "licensePlate": "CA5555AH", "owner": "Guy Sheard", "hours": 2}
+Park {"type": "truck", "time": "2015-05-04T10:45:00.0000000", "sector": 1, "place": 1, "licensePlate": "C5842CH", "owner": "Jessie Raul", "hours": 1}
+
+Status {}
+
+FindVehicle {"licensePlate": "CA5555AH"}
+FindVehicle {"licensePlate": "CA1001HH"}
+FindVehicle {"licensePlate": "C5842CH"}
+
+Park {"type": "car", "time": "2015-05-04T11:30:00.0000000", "sector": 1, "place": 2, "licensePlate": "CA1111HH", "owner": "Jay Margareta", "hours": 1}
+Park {"type": "truck", "time": "2015-06-04T10:30:00.0000000", "sector": 3, "place": 2, "licensePlate": "CA5899AH", "owner": "Jay Margareta", "hours": 4}
+
+VehiclesByOwner {"owner": "Jay Margareta"}
+
+Exit {"licensePlate": "CA5555AH", "time": "2015-05-04T11:40:00.0000000", "paid": 100.00}
+Exit {"licensePlate": "CA1001HH", "time": "2015-05-04T13:30:00.0000000", "paid": 40.00}
+Exit {"licensePlate": "C5842CH", "time": "2015-05-04T11:40:00.0000000", "paid": 10.00}
+
+VehiclesByOwner {"owner": "Jay Margareta"}
+
+Status {}

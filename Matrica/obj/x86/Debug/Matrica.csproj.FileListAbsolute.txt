@@ -1,0 +1,5 @@
+C:\Users\Leet\Documents\Visual Studio 2015\Projects\Matrica\bin\Debug\GameFifteen.exe
+C:\Users\Leet\Documents\Visual Studio 2015\Projects\Matrica\bin\Debug\GameFifteen.pdb
+C:\Users\Leet\Documents\Visual Studio 2015\Projects\Matrica\obj\x86\Debug\Matrica.csprojResolveAssemblyReference.cache
+C:\Users\Leet\Documents\Visual Studio 2015\Projects\Matrica\obj\x86\Debug\GameFifteen.exe
+C:\Users\Leet\Documents\Visual Studio 2015\Projects\Matrica\obj\x86\Debug\GameFifteen.pdb

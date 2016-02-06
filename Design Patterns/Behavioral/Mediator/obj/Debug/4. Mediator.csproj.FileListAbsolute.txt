@@ -1,0 +1,6 @@
+C:\Users\Jamal\Desktop\Trash\Design Patterns\Behavioral\Mediator\bin\Debug\Mediator.exe.config
+C:\SVN\January-2015\18. Design-Patterns-Demo\Design Patterns\Behavioral\Mediator\bin\Debug\Mediator.exe.config
+C:\SVN\January-2015\18. Design-Patterns-Demo\Design Patterns\Behavioral\Mediator\bin\Debug\Mediator.exe
+C:\SVN\January-2015\18. Design-Patterns-Demo\Design Patterns\Behavioral\Mediator\bin\Debug\Mediator.pdb
+C:\SVN\January-2015\18. Design-Patterns-Demo\Design Patterns\Behavioral\Mediator\obj\Debug\Mediator.exe
+C:\SVN\January-2015\18. Design-Patterns-Demo\Design Patterns\Behavioral\Mediator\obj\Debug\Mediator.pdb

@@ -1,0 +1,3 @@
+C:\Users\Jamal\Documents\Visual Studio 2013\Projects\SOLID-and-Patterns-Lab-Skeleton\Skeleton\Composite\bin\Debug\Composite.exe.config
+C:\Users\Jamal\Documents\Visual Studio 2013\Projects\SOLID-and-Patterns-Lab-Skeleton\Skeleton\Composite\obj\Debug\Composite.exe
+C:\Users\Jamal\Documents\Visual Studio 2013\Projects\SOLID-and-Patterns-Lab-Skeleton\Skeleton\Composite\obj\Debug\Composite.pdb

@@ -1,0 +1,20 @@
+Status {}
+
+SetupPark {"sectors": 3, "placesPerSector": 5}
+
+Park {"type": "car", "time": "2015-05-04T10:30:00.0000000", "sector": 1, "place": 5, "licensePlate": "CA1001HH", "owner": "Jay Margareta", "hours": 1}
+Park {"type": "motorbike", "time": "2015-05-04T10:40:00.0000000", "sector": 1, "place": 5, "licensePlate": "CA5555AH", "owner": "Guy Sheard", "hours": 2}
+Park {"type": "car", "time": "2015-06-04T10:30:00.0000000", "sector": 2, "place": 5, "licensePlate": "CA1001HH", "owner": "Geena Dolly", "hours": 1}
+Park {"type": "truck", "time": "2015-04-04T10:30:00.0000000", "sector": 2, "place": 1, "licensePlate": "CA1001HH", "owner": "Michael Stephenson", "hours": 1}
+
+Status {}
+
+Exit {"licensePlate": "AA2233HH", "time": "2015-05-04T14:30:00.0000000", "paid": 40.00}
+Exit {"licensePlate": "CA1001HH", "time": "2015-05-04T13:30:00.0000000", "paid": 40.00}
+Exit {"licensePlate": "CA1001HH", "time": "2015-05-04T13:30:00.0000000", "paid": 50.00}
+
+Status {}
+
+VehiclesByOwner {"owner": "John Smith"}
+
+VehiclesByOwner {"owner": "Jay Margareta"}

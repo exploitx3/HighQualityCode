@@ -1,0 +1,7 @@
+C:\Users\Leet\Documents\Visual Studio 2015\Projects\Phonebok\Phonebook-Problem\Phonebook\bin\Debug\Phonebook.exe
+C:\Users\Leet\Documents\Visual Studio 2015\Projects\Phonebok\Phonebook-Problem\Phonebook\bin\Debug\Phonebook.pdb
+C:\Users\Leet\Documents\Visual Studio 2015\Projects\Phonebok\Phonebook-Problem\Phonebook\bin\Debug\PowerCollections.dll
+C:\Users\Leet\Documents\Visual Studio 2015\Projects\Phonebok\Phonebook-Problem\Phonebook\bin\Debug\PowerCollections.xml
+C:\Users\Leet\Documents\Visual Studio 2015\Projects\Phonebok\Phonebook-Problem\Phonebook\obj\Debug\Phonebook.csprojResolveAssemblyReference.cache
+C:\Users\Leet\Documents\Visual Studio 2015\Projects\Phonebok\Phonebook-Problem\Phonebook\obj\Debug\Phonebook.exe
+C:\Users\Leet\Documents\Visual Studio 2015\Projects\Phonebok\Phonebook-Problem\Phonebook\obj\Debug\Phonebook.pdb

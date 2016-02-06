@@ -1,0 +1,12 @@
+c:\users\jamal\documents\visual studio 2013\Projects\SOLID-and-Patterns-Lab\Visitor\bin\Debug\Visitor.exe.config
+C:\Users\Jamal\Documents\Visual Studio 2013\Projects\SOLID-and-Patterns-Lab\Visitor\bin\Debug\Visitor.exe
+C:\Users\Jamal\Documents\Visual Studio 2013\Projects\SOLID-and-Patterns-Lab\Visitor\bin\Debug\Visitor.pdb
+C:\Users\Jamal\Documents\Visual Studio 2013\Projects\SOLID-and-Patterns-Lab\Visitor\obj\Debug\Visitor.csprojResolveAssemblyReference.cache
+C:\Users\Jamal\Documents\Visual Studio 2013\Projects\SOLID-and-Patterns-Lab\Visitor\obj\Debug\Visitor.exe
+C:\Users\Jamal\Documents\Visual Studio 2013\Projects\SOLID-and-Patterns-Lab\Visitor\obj\Debug\Visitor.pdb
+C:\Users\Jamal\Documents\Visual Studio 2013\Projects\SOLID-and-Patterns-Lab-Skeleton\Visitor\bin\Debug\Visitor.exe.config
+C:\Users\Jamal\Documents\Visual Studio 2013\Projects\SOLID-and-Patterns-Lab-Skeleton\Visitor\obj\Debug\Visitor.exe
+C:\Users\Jamal\Documents\Visual Studio 2013\Projects\SOLID-and-Patterns-Lab-Skeleton\Visitor\obj\Debug\Visitor.pdb
+C:\Users\Jamal\Documents\Visual Studio 2013\Projects\SOLID-and-Patterns-Lab-Skeleton\Visitor\bin\Debug\Visitor.exe
+C:\Users\Jamal\Documents\Visual Studio 2013\Projects\SOLID-and-Patterns-Lab-Skeleton\Visitor\bin\Debug\Visitor.pdb
+C:\Users\Jamal\Documents\Visual Studio 2013\Projects\SOLID-and-Patterns-Lab-Skeleton\Visitor\obj\Debug\Visitor.csprojResolveAssemblyReference.cache

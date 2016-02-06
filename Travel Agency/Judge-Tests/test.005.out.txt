@@ -1,0 +1,50 @@
+Ticket added
+Ticket added
+Ticket added
+Ticket added
+Duplicate ticket
+Ticket added
+Ticket added
+Ticket added
+Ticket added
+Ticket added
+Ticket added
+Ticket added
+Ticket added
+Ticket added
+Ticket added
+Duplicate ticket
+Duplicate ticket
+Ticket does not exist
+Ticket does not exist
+Ticket does not exist
+[17.04.2010 11:28; train; 6.50] [27.04.2010 21:30; bus; 11.50] [27.04.2010 21:30; bus; 12.00] [27.04.2010 21:30; train; 7.22] [28.04.2010 19:00; train; 7.22]
+Not found
+Ticket deleted
+[17.04.2010 12:30; air; 200.00] [18.04.2010 07:15; bus; 28.00] [18.04.2010 09:30; train; 24.35]
+Not found
+Duplicate ticket
+Ticket added
+Duplicate ticket
+Duplicate ticket
+Duplicate ticket
+Duplicate ticket
+Duplicate ticket
+Duplicate ticket
+Duplicate ticket
+Duplicate ticket
+Duplicate ticket
+Duplicate ticket
+Duplicate ticket
+Duplicate ticket
+Duplicate ticket
+Duplicate ticket
+Duplicate ticket
+Ticket does not exist
+Ticket does not exist
+Ticket does not exist
+[17.04.2010 11:28; train; 6.50] [27.04.2010 21:30; bus; 11.50] [27.04.2010 21:30; bus; 12.00] [27.04.2010 21:30; train; 7.22] [28.04.2010 19:00; train; 7.22]
+Not found
+Ticket deleted
+[17.04.2010 12:30; air; 200.00] [18.04.2010 07:15; bus; 28.00] [18.04.2010 09:30; train; 24.35]
+Not found

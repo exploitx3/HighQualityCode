@@ -1,0 +1,9 @@
+C:\Users\Jamal\Desktop\Buhtigfehlerverfolgungssystem\buhtig\bin\Debug\buhtig.exe.config
+C:\Users\Leet\Documents\Visual Studio 2015\Projects\Buhtig Issue Tracker\buhtig\bin\Debug\buhtig.exe.config
+C:\Users\Leet\Documents\Visual Studio 2015\Projects\Buhtig Issue Tracker\buhtig\bin\Debug\buhtig.exe
+C:\Users\Leet\Documents\Visual Studio 2015\Projects\Buhtig Issue Tracker\buhtig\bin\Debug\buhtig.pdb
+C:\Users\Leet\Documents\Visual Studio 2015\Projects\Buhtig Issue Tracker\buhtig\bin\Debug\PowerCollections.dll
+C:\Users\Leet\Documents\Visual Studio 2015\Projects\Buhtig Issue Tracker\buhtig\bin\Debug\PowerCollections.xml
+C:\Users\Leet\Documents\Visual Studio 2015\Projects\Buhtig Issue Tracker\buhtig\obj\Debug\buhtig.csprojResolveAssemblyReference.cache
+C:\Users\Leet\Documents\Visual Studio 2015\Projects\Buhtig Issue Tracker\buhtig\obj\Debug\buhtig.exe
+C:\Users\Leet\Documents\Visual Studio 2015\Projects\Buhtig Issue Tracker\buhtig\obj\Debug\buhtig.pdb

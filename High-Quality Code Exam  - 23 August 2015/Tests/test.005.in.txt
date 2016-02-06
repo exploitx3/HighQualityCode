@@ -1,0 +1,214 @@
+/Courses/All
+/Users/Register?password=LecturerPass&username=lecturer1&role=lecturer&confirmPassword=LecturerPass
+/Users/Register?password=LecturerPass&username=lecturer2&role=lecturer&confirmPassword=LecturerPass
+/Users/Register?password=LecturerPass&username=lecturer3&role=lecturer&confirmPassword=LecturerPass
+/Users/Login?username=lecturer1&password=LecturerPass
+/Courses/Create?name=a
+/Courses/Create?name=Course+1
+/Courses/Create?name=Course+2
+/Courses/Create?name=Course+3
+/Courses/Create?name=Course+4
+/Courses/Create?name=Course+5
+/Users/Logout
+/Users/Login?username=lecturer2&password=LecturerPass
+/Courses/Create?name=Course+6
+/Courses/Create?name=Course+7
+/Courses/Create?name=Course+8
+/Courses/Create?name=Course+9
+/Courses/Create?name=Course+10
+/Users/Logout
+/Users/Login?username=lecturer1&password=LecturerPass
+/Courses/AddLecture?courseId=50&lectureName=No+such+lecture
+/Courses/AddLecture?courseId=1&lectureName=Lecture 1 by lecturer 1
+/Courses/AddLecture?courseId=1&lectureName=Lecture 2 by lecturer 1
+/Courses/AddLecture?courseId=1&lectureName=Lecture 3 by lecturer 1
+/Courses/AddLecture?courseId=1&lectureName=Lecture 4 by lecturer 1
+/Courses/AddLecture?courseId=1&lectureName=Lecture 5 by lecturer 1
+/Courses/AddLecture?courseId=2&lectureName=Lecture 1 by lecturer 1
+/Courses/AddLecture?courseId=2&lectureName=Lecture 2 by lecturer 1
+/Courses/AddLecture?courseId=2&lectureName=Lecture 3 by lecturer 1
+/Courses/AddLecture?courseId=2&lectureName=Lecture 4 by lecturer 1
+/Courses/AddLecture?courseId=2&lectureName=Lecture 5 by lecturer 1
+/Courses/AddLecture?courseId=3&lectureName=Lecture 1 by lecturer 1
+/Courses/AddLecture?courseId=3&lectureName=Lecture 2 by lecturer 1
+/Courses/AddLecture?courseId=3&lectureName=Lecture 3 by lecturer 1
+/Courses/AddLecture?courseId=3&lectureName=Lecture 4 by lecturer 1
+/Courses/AddLecture?courseId=3&lectureName=Lecture 5 by lecturer 1
+/Courses/AddLecture?courseId=4&lectureName=Lecture 1 by lecturer 1
+/Courses/AddLecture?courseId=4&lectureName=Lecture 2 by lecturer 1
+/Courses/AddLecture?courseId=4&lectureName=Lecture 3 by lecturer 1
+/Courses/AddLecture?courseId=4&lectureName=Lecture 4 by lecturer 1
+/Courses/AddLecture?courseId=4&lectureName=Lecture 5 by lecturer 1
+/Courses/AddLecture?courseId=5&lectureName=Lecture 1 by lecturer 1
+/Courses/AddLecture?courseId=5&lectureName=Lecture 2 by lecturer 1
+/Courses/AddLecture?courseId=5&lectureName=Lecture 3 by lecturer 1
+/Courses/AddLecture?courseId=5&lectureName=Lecture 4 by lecturer 1
+/Courses/AddLecture?courseId=5&lectureName=Lecture 5 by lecturer 1
+/Courses/AddLecture?courseId=6&lectureName=Lecture 1 by lecturer 1
+/Courses/AddLecture?courseId=6&lectureName=Lecture 2 by lecturer 1
+/Courses/AddLecture?courseId=6&lectureName=Lecture 3 by lecturer 1
+/Courses/AddLecture?courseId=6&lectureName=Lecture 4 by lecturer 1
+/Courses/AddLecture?courseId=6&lectureName=Lecture 5 by lecturer 1
+/Courses/AddLecture?courseId=7&lectureName=Lecture 1 by lecturer 1
+/Courses/AddLecture?courseId=7&lectureName=Lecture 2 by lecturer 1
+/Courses/AddLecture?courseId=7&lectureName=Lecture 3 by lecturer 1
+/Courses/AddLecture?courseId=7&lectureName=Lecture 4 by lecturer 1
+/Courses/AddLecture?courseId=7&lectureName=Lecture 5 by lecturer 1
+/Courses/AddLecture?courseId=8&lectureName=Lecture 1 by lecturer 1
+/Courses/AddLecture?courseId=8&lectureName=Lecture 2 by lecturer 1
+/Courses/AddLecture?courseId=8&lectureName=Lecture 3 by lecturer 1
+/Courses/AddLecture?courseId=8&lectureName=Lecture 4 by lecturer 1
+/Courses/AddLecture?courseId=8&lectureName=Lecture 5 by lecturer 1
+/Courses/AddLecture?courseId=9&lectureName=Lecture 1 by lecturer 1
+/Courses/AddLecture?courseId=9&lectureName=Lecture 2 by lecturer 1
+/Courses/AddLecture?courseId=9&lectureName=Lecture 3 by lecturer 1
+/Courses/AddLecture?courseId=9&lectureName=Lecture 4 by lecturer 1
+/Courses/AddLecture?courseId=9&lectureName=Lecture 5 by lecturer 1
+/Courses/AddLecture?courseId=10&lectureName=Lecture 1 by lecturer 1
+/Courses/AddLecture?courseId=10&lectureName=Lecture 2 by lecturer 1
+/Courses/AddLecture?courseId=10&lectureName=Lecture 3 by lecturer 1
+/Courses/AddLecture?courseId=10&lectureName=Lecture 4 by lecturer 1
+/Courses/AddLecture?courseId=10&lectureName=Lecture 5 by lecturer 1
+/Users/Logout
+/Users/Login?username=lecturer2&password=LecturerPass
+/Courses/AddLecture?courseId=50&lectureName=No+such+lecture
+/Courses/AddLecture?courseId=1&lectureName=Lecture 1 by lecturer 2
+/Courses/AddLecture?courseId=1&lectureName=Lecture 2 by lecturer 2
+/Courses/AddLecture?courseId=1&lectureName=Lecture 3 by lecturer 2
+/Courses/AddLecture?courseId=1&lectureName=Lecture 4 by lecturer 2
+/Courses/AddLecture?courseId=1&lectureName=Lecture 5 by lecturer 2
+/Courses/AddLecture?courseId=2&lectureName=Lecture 1 by lecturer 2
+/Courses/AddLecture?courseId=2&lectureName=Lecture 2 by lecturer 2
+/Courses/AddLecture?courseId=2&lectureName=Lecture 3 by lecturer 2
+/Courses/AddLecture?courseId=2&lectureName=Lecture 4 by lecturer 2
+/Courses/AddLecture?courseId=2&lectureName=Lecture 5 by lecturer 2
+/Courses/AddLecture?courseId=3&lectureName=Lecture 1 by lecturer 2
+/Courses/AddLecture?courseId=3&lectureName=Lecture 2 by lecturer 2
+/Courses/AddLecture?courseId=3&lectureName=Lecture 3 by lecturer 2
+/Courses/AddLecture?courseId=3&lectureName=Lecture 4 by lecturer 2
+/Courses/AddLecture?courseId=3&lectureName=Lecture 5 by lecturer 2
+/Courses/AddLecture?courseId=4&lectureName=Lecture 1 by lecturer 2
+/Courses/AddLecture?courseId=4&lectureName=Lecture 2 by lecturer 2
+/Courses/AddLecture?courseId=4&lectureName=Lecture 3 by lecturer 2
+/Courses/AddLecture?courseId=4&lectureName=Lecture 4 by lecturer 2
+/Courses/AddLecture?courseId=4&lectureName=Lecture 5 by lecturer 2
+/Courses/AddLecture?courseId=5&lectureName=Lecture 1 by lecturer 2
+/Courses/AddLecture?courseId=5&lectureName=Lecture 2 by lecturer 2
+/Courses/AddLecture?courseId=5&lectureName=Lecture 3 by lecturer 2
+/Courses/AddLecture?courseId=5&lectureName=Lecture 4 by lecturer 2
+/Courses/AddLecture?courseId=5&lectureName=Lecture 5 by lecturer 2
+/Courses/AddLecture?courseId=6&lectureName=Lecture 1 by lecturer 2
+/Courses/AddLecture?courseId=6&lectureName=Lecture 2 by lecturer 2
+/Courses/AddLecture?courseId=6&lectureName=Lecture 3 by lecturer 2
+/Courses/AddLecture?courseId=6&lectureName=Lecture 4 by lecturer 2
+/Courses/AddLecture?courseId=6&lectureName=Lecture 5 by lecturer 2
+/Courses/AddLecture?courseId=7&lectureName=Lecture 1 by lecturer 2
+/Courses/AddLecture?courseId=7&lectureName=Lecture 2 by lecturer 2
+/Courses/AddLecture?courseId=7&lectureName=Lecture 3 by lecturer 2
+/Courses/AddLecture?courseId=7&lectureName=Lecture 4 by lecturer 2
+/Courses/AddLecture?courseId=7&lectureName=Lecture 5 by lecturer 2
+/Courses/AddLecture?courseId=8&lectureName=Lecture 1 by lecturer 2
+/Courses/AddLecture?courseId=8&lectureName=Lecture 2 by lecturer 2
+/Courses/AddLecture?courseId=8&lectureName=Lecture 3 by lecturer 2
+/Courses/AddLecture?courseId=8&lectureName=Lecture 4 by lecturer 2
+/Courses/AddLecture?courseId=8&lectureName=Lecture 5 by lecturer 2
+/Courses/AddLecture?courseId=9&lectureName=Lecture 1 by lecturer 2
+/Courses/AddLecture?courseId=9&lectureName=Lecture 2 by lecturer 2
+/Courses/AddLecture?courseId=9&lectureName=Lecture 3 by lecturer 2
+/Courses/AddLecture?courseId=9&lectureName=Lecture 4 by lecturer 2
+/Courses/AddLecture?courseId=9&lectureName=Lecture 5 by lecturer 2
+/Courses/AddLecture?courseId=10&lectureName=Lecture 1 by lecturer 2
+/Courses/AddLecture?courseId=10&lectureName=Lecture 2 by lecturer 2
+/Courses/AddLecture?courseId=10&lectureName=Lecture 3 by lecturer 2
+/Courses/AddLecture?courseId=10&lectureName=Lecture 4 by lecturer 2
+/Courses/AddLecture?courseId=10&lectureName=Lecture 5 by lecturer 2
+/Users/Logout
+/Users/Login?username=lecturer3&password=LecturerPass
+/Courses/AddLecture?courseId=50&lectureName=No+such+lecture
+/Courses/AddLecture?courseId=1&lectureName=Lecture 1 by lecturer 3
+/Courses/AddLecture?courseId=1&lectureName=Lecture 2 by lecturer 3
+/Courses/AddLecture?courseId=1&lectureName=Lecture 3 by lecturer 3
+/Courses/AddLecture?courseId=1&lectureName=Lecture 4 by lecturer 3
+/Courses/AddLecture?courseId=1&lectureName=Lecture 5 by lecturer 3
+/Courses/AddLecture?courseId=2&lectureName=Lecture 1 by lecturer 3
+/Courses/AddLecture?courseId=2&lectureName=Lecture 2 by lecturer 3
+/Courses/AddLecture?courseId=2&lectureName=Lecture 3 by lecturer 3
+/Courses/AddLecture?courseId=2&lectureName=Lecture 4 by lecturer 3
+/Courses/AddLecture?courseId=2&lectureName=Lecture 5 by lecturer 3
+/Courses/AddLecture?courseId=3&lectureName=Lecture 1 by lecturer 3
+/Courses/AddLecture?courseId=3&lectureName=Lecture 2 by lecturer 3
+/Courses/AddLecture?courseId=3&lectureName=Lecture 3 by lecturer 3
+/Courses/AddLecture?courseId=3&lectureName=Lecture 4 by lecturer 3
+/Courses/AddLecture?courseId=3&lectureName=Lecture 5 by lecturer 3
+/Courses/AddLecture?courseId=4&lectureName=Lecture 1 by lecturer 3
+/Courses/AddLecture?courseId=4&lectureName=Lecture 2 by lecturer 3
+/Courses/AddLecture?courseId=4&lectureName=Lecture 3 by lecturer 3
+/Courses/AddLecture?courseId=4&lectureName=Lecture 4 by lecturer 3
+/Courses/AddLecture?courseId=4&lectureName=Lecture 5 by lecturer 3
+/Courses/AddLecture?courseId=5&lectureName=Lecture 1 by lecturer 3
+/Courses/AddLecture?courseId=5&lectureName=Lecture 2 by lecturer 3
+/Courses/AddLecture?courseId=5&lectureName=Lecture 3 by lecturer 3
+/Courses/AddLecture?courseId=5&lectureName=Lecture 4 by lecturer 3
+/Courses/AddLecture?courseId=5&lectureName=Lecture 5 by lecturer 3
+/Courses/AddLecture?courseId=6&lectureName=Lecture 1 by lecturer 3
+/Courses/AddLecture?courseId=6&lectureName=Lecture 2 by lecturer 3
+/Courses/AddLecture?courseId=6&lectureName=Lecture 3 by lecturer 3
+/Courses/AddLecture?courseId=6&lectureName=Lecture 4 by lecturer 3
+/Courses/AddLecture?courseId=6&lectureName=Lecture 5 by lecturer 3
+/Courses/AddLecture?courseId=7&lectureName=Lecture 1 by lecturer 3
+/Courses/AddLecture?courseId=7&lectureName=Lecture 2 by lecturer 3
+/Courses/AddLecture?courseId=7&lectureName=Lecture 3 by lecturer 3
+/Courses/AddLecture?courseId=7&lectureName=Lecture 4 by lecturer 3
+/Courses/AddLecture?courseId=7&lectureName=Lecture 5 by lecturer 3
+/Courses/AddLecture?courseId=8&lectureName=Lecture 1 by lecturer 3
+/Courses/AddLecture?courseId=8&lectureName=Lecture 2 by lecturer 3
+/Courses/AddLecture?courseId=8&lectureName=Lecture 3 by lecturer 3
+/Courses/AddLecture?courseId=8&lectureName=Lecture 4 by lecturer 3
+/Courses/AddLecture?courseId=8&lectureName=Lecture 5 by lecturer 3
+/Courses/AddLecture?courseId=9&lectureName=Lecture 1 by lecturer 3
+/Courses/AddLecture?courseId=9&lectureName=Lecture 2 by lecturer 3
+/Courses/AddLecture?courseId=9&lectureName=Lecture 3 by lecturer 3
+/Courses/AddLecture?courseId=9&lectureName=Lecture 4 by lecturer 3
+/Courses/AddLecture?courseId=9&lectureName=Lecture 5 by lecturer 3
+/Courses/AddLecture?courseId=10&lectureName=Lecture 1 by lecturer 3
+/Courses/AddLecture?courseId=10&lectureName=Lecture 2 by lecturer 3
+/Courses/AddLecture?courseId=10&lectureName=Lecture 3 by lecturer 3
+/Courses/AddLecture?courseId=10&lectureName=Lecture 4 by lecturer 3
+/Courses/AddLecture?courseId=10&lectureName=Lecture 5 by lecturer 3
+/Users/Logout
+/Courses/All
+/Users/Register?password=StudentPass&username=student&role=student&confirmPassword=StudentPass
+/Users/Login?password=StudentPass&username=student
+/Courses/Details?courseId=1
+/Courses/Enroll?courseId=1
+/Courses/Details?courseId=1
+/Courses/Details?courseId=2
+/Courses/Enroll?courseId=2
+/Courses/Details?courseId=2
+/Courses/Details?courseId=3
+/Courses/Enroll?courseId=3
+/Courses/Details?courseId=3
+/Courses/Details?courseId=4
+/Courses/Enroll?courseId=4
+/Courses/Details?courseId=4
+/Courses/Details?courseId=5
+/Courses/Enroll?courseId=5
+/Courses/Details?courseId=5
+/Courses/Details?courseId=6
+/Courses/Enroll?courseId=6
+/Courses/Details?courseId=6
+/Courses/Details?courseId=7
+/Courses/Enroll?courseId=7
+/Courses/Details?courseId=7
+/Courses/Details?courseId=8
+/Courses/Enroll?courseId=8
+/Courses/Details?courseId=8
+/Courses/Details?courseId=9
+/Courses/Enroll?courseId=9
+/Courses/Details?courseId=9
+/Courses/Details?courseId=10
+/Courses/Enroll?courseId=10
+/Courses/Details?courseId=10
+/Courses/All
+/Users/Logout
+/Users/Logout

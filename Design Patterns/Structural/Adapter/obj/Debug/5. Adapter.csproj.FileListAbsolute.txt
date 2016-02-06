@@ -1,0 +1,6 @@
+C:\Users\Jamal\Desktop\Design Patterns\Structural\Adapter\bin\Debug\Adapter.exe.config
+C:\SVN\January-2015\18. Design-Patterns-Demo\Design Patterns\Structural\Adapter\bin\Debug\Adapter.exe.config
+C:\SVN\January-2015\18. Design-Patterns-Demo\Design Patterns\Structural\Adapter\bin\Debug\Adapter.exe
+C:\SVN\January-2015\18. Design-Patterns-Demo\Design Patterns\Structural\Adapter\bin\Debug\Adapter.pdb
+C:\SVN\January-2015\18. Design-Patterns-Demo\Design Patterns\Structural\Adapter\obj\Debug\Adapter.exe
+C:\SVN\January-2015\18. Design-Patterns-Demo\Design Patterns\Structural\Adapter\obj\Debug\Adapter.pdb

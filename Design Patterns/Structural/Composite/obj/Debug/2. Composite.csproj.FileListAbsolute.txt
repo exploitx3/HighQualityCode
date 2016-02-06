@@ -1,0 +1,9 @@
+C:\SVN\January-2015\18. Design-Patterns-Demo\Design Patterns\Structural\Composite\bin\Debug\CompositePattern.exe.config
+C:\SVN\January-2015\18. Design-Patterns-Demo\Design Patterns\Structural\Composite\bin\Debug\CompositePattern.exe
+C:\SVN\January-2015\18. Design-Patterns-Demo\Design Patterns\Structural\Composite\bin\Debug\CompositePattern.pdb
+C:\SVN\January-2015\18. Design-Patterns-Demo\Design Patterns\Structural\Composite\obj\Debug\2. Composite.csprojResolveAssemblyReference.cache
+C:\SVN\January-2015\18. Design-Patterns-Demo\Design Patterns\Structural\Composite\obj\Debug\CompositePattern.exe
+C:\SVN\January-2015\18. Design-Patterns-Demo\Design Patterns\Structural\Composite\obj\Debug\CompositePattern.pdb
+C:\Users\Leet\Documents\Visual Studio 2015\Projects\Design Patterns\Structural\Composite\bin\Debug\CompositePattern.exe.config
+C:\Users\Leet\Documents\Visual Studio 2015\Projects\Design Patterns\Structural\Composite\obj\Debug\CompositePattern.exe
+C:\Users\Leet\Documents\Visual Studio 2015\Projects\Design Patterns\Structural\Composite\obj\Debug\CompositePattern.pdb

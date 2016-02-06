@@ -1,0 +1,30 @@
+No courses.
+User firstUser registered successfully.
+User firstUser logged in successfully.
+No courses.
+User firstUser logged out successfully.
+User firstLecturer registered successfully.
+User firstLecturer logged in successfully.
+Course ASP.NET MVC created successfully.
+All courses:
+ASP.NET MVC (0 students)
+User firstLecturer logged out successfully.
+All courses:
+ASP.NET MVC (0 students)
+User firstLecturer logged in successfully.
+Course Database Applications created successfully.
+Course Object-Oriented Programming created successfully.
+All courses:
+ASP.NET MVC (0 students)
+Database Applications (0 students)
+Object-Oriented Programming (0 students)
+Student successfully enrolled in course ASP.NET MVC.
+Student successfully enrolled in course Database Applications.
+User firstLecturer logged out successfully.
+User firstUser logged in successfully.
+Student successfully enrolled in course Database Applications.
+User firstUser logged out successfully.
+All courses:
+ASP.NET MVC (1 students)
+Database Applications (2 students)
+Object-Oriented Programming (0 students)

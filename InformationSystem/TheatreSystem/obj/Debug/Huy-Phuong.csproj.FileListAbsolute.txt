@@ -1,0 +1,9 @@
+C:\Software-University\Exam-Problems\High-Quality-Code\Theatre\Huy-Phuong\Huy-Phuong\bin\Debug\Huy-Phuong.exe
+C:\Software-University\Exam-Problems\High-Quality-Code\Theatre\Huy-Phuong\Huy-Phuong\bin\Debug\Huy-Phuong.pdb
+C:\Software-University\Exam-Problems\High-Quality-Code\Theatre\Huy-Phuong\Huy-Phuong\obj\Debug\Huy-Phuong.csprojResolveAssemblyReference.cache
+C:\Software-University\Exam-Problems\High-Quality-Code\Theatre\Huy-Phuong\Huy-Phuong\obj\Debug\Huy-Phuong.exe
+C:\Software-University\Exam-Problems\High-Quality-Code\Theatre\Huy-Phuong\Huy-Phuong\obj\Debug\Huy-Phuong.pdb
+C:\Users\Lee sin\Desktop\HQ Retake\Huy-Phuong\Huy-Phuong\obj\Debug\Huy-Phuong.exe
+C:\Users\Lee sin\Desktop\HQ Retake\Huy-Phuong\Huy-Phuong\obj\Debug\Huy-Phuong.pdb
+C:\Users\Leet\Documents\Visual Studio 2015\Projects\Huy-Phuong\Huy-Phuong\obj\Debug\Huy-Phuong.exe
+C:\Users\Leet\Documents\Visual Studio 2015\Projects\Huy-Phuong\Huy-Phuong\obj\Debug\Huy-Phuong.pdb

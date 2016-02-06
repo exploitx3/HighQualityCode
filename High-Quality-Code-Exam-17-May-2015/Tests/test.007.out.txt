@@ -1,0 +1,1111 @@
+Vehicle park created
+Truck parked successfully at place (23,20)
+Car parked successfully at place (14,1)
+Car parked successfully at place (12,17)
+Motorbike parked successfully at place (27,9)
+Car parked successfully at place (10,4)
+Motorbike parked successfully at place (5,5)
+Truck parked successfully at place (7,11)
+Motorbike parked successfully at place (23,4)
+Car parked successfully at place (6,2)
+Truck parked successfully at place (5,14)
+Truck parked successfully at place (27,11)
+Motorbike parked successfully at place (22,4)
+Car parked successfully at place (9,1)
+Truck parked successfully at place (7,5)
+Car parked successfully at place (25,18)
+Car parked successfully at place (2,8)
+Motorbike parked successfully at place (6,6)
+Truck parked successfully at place (21,13)
+Motorbike parked successfully at place (14,16)
+Car parked successfully at place (29,7)
+Car parked successfully at place (13,1)
+Motorbike parked successfully at place (7,9)
+Car parked successfully at place (8,18)
+Motorbike parked successfully at place (2,17)
+Car parked successfully at place (30,13)
+Truck parked successfully at place (28,5)
+Car parked successfully at place (6,8)
+Car parked successfully at place (17,19)
+Car parked successfully at place (19,6)
+Motorbike parked successfully at place (21,11)
+Motorbike parked successfully at place (3,16)
+Motorbike parked successfully at place (9,12)
+Motorbike parked successfully at place (10,15)
+Truck parked successfully at place (23,3)
+The place (9,12) is occupied
+Truck parked successfully at place (18,14)
+Truck parked successfully at place (20,7)
+Car parked successfully at place (1,8)
+Motorbike parked successfully at place (9,6)
+Truck parked successfully at place (15,12)
+Car parked successfully at place (25,10)
+Car parked successfully at place (18,17)
+Car parked successfully at place (5,2)
+Truck parked successfully at place (3,10)
+Motorbike parked successfully at place (29,14)
+Motorbike parked successfully at place (4,8)
+The place (25,10) is occupied
+Truck parked successfully at place (28,16)
+Car parked successfully at place (22,9)
+Motorbike parked successfully at place (13,14)
+Motorbike parked successfully at place (2,18)
+Car parked successfully at place (17,11)
+The place (9,6) is occupied
+Truck parked successfully at place (10,7)
+Car parked successfully at place (23,12)
+Car parked successfully at place (4,20)
+Car parked successfully at place (9,9)
+Truck parked successfully at place (27,3)
+Car parked successfully at place (11,4)
+The place (21,11) is occupied
+Motorbike parked successfully at place (1,19)
+Truck parked successfully at place (14,19)
+Truck parked successfully at place (17,1)
+Car parked successfully at place (7,17)
+Car parked successfully at place (24,12)
+Car parked successfully at place (27,12)
+Truck parked successfully at place (16,16)
+Motorbike parked successfully at place (27,19)
+Motorbike parked successfully at place (26,3)
+Truck parked successfully at place (17,10)
+Motorbike parked successfully at place (23,2)
+Car parked successfully at place (8,14)
+Car parked successfully at place (8,9)
+Motorbike parked successfully at place (30,8)
+Motorbike parked successfully at place (16,18)
+The place (27,11) is occupied
+Car parked successfully at place (1,4)
+Truck parked successfully at place (14,10)
+Truck parked successfully at place (14,6)
+Motorbike parked successfully at place (5,17)
+Car parked successfully at place (29,19)
+Truck parked successfully at place (12,4)
+Car parked successfully at place (11,3)
+Truck parked successfully at place (15,9)
+The place (14,19) is occupied
+The reserved hours must be positive.
+Motorbike parked successfully at place (18,9)
+Truck parked successfully at place (11,11)
+Car parked successfully at place (22,20)
+The place (18,9) is occupied
+Truck parked successfully at place (25,17)
+The place (12,17) is occupied
+Truck parked successfully at place (29,8)
+Motorbike parked successfully at place (21,1)
+Motorbike parked successfully at place (12,10)
+The place (10,7) is occupied
+The place (2,17) is occupied
+Motorbike parked successfully at place (11,14)
+The place (30,13) is occupied
+Motorbike parked successfully at place (20,2)
+Motorbike [D1959ZO], owned by Florinda Faber
+Parked at (21,11)
+Car [I5962CV], owned by Shandra Salamone
+Parked at (14,1)
+Truck [B5956AR], owned by Shandra Salamone
+Parked at (27,11)
+Truck [RL8630DI], owned by Laila Lines
+Parked at (23,20)
+Truck [KB8041KA], owned by Zoraida Zumwalt
+Parked at (25,17)
+Truck [U1022DD], owned by Twana Toledo
+Parked at (17,10)
+Car [V8989ZG], owned by Steven Sneed
+Parked at (25,10)
+Truck [VV3411RO], owned by Alane Avallone
+Parked at (17,1)
+Motorbike [FF2386BM], owned by Sabrina Seitz
+Parked at (29,14)
+Car [VV9848FR], owned by Julienne Jervis
+Parked at (9,1)
+There is no vehicle with license plate S6628JT in the park
+Truck [D3416HV], owned by Michiko Mccutchen
+Parked at (28,16)
+Car [CG6795HM], owned by Sabrina Seitz
+Parked at (8,9)
+Car [I7367OX], owned by Julienne Jervis
+Parked at (11,3)
+Truck [EG3227MG], owned by Nicolasa Nedeau
+Parked at (14,6)
+Car [Z4902JH], owned by Sharan Shine
+Parked at (6,2)
+Motorbike [E8418GA], owned by Britni Bonavita
+Parked at (4,8)
+Motorbike [RD8534ZJ], owned by Lashay Laliberte
+Parked at (2,17)
+Motorbike [D1959ZO], owned by Florinda Faber
+Parked at (21,11)
+Car [HP1152TT], owned by Angie Aylesworth
+Parked at (10,4)
+Truck [Q4920YN], owned by Hilton Haro
+Parked at (15,12)
+Car [V8989ZG], owned by Steven Sneed
+Parked at (25,10)
+Motorbike [L3904JZ], owned by Trena Trammell
+Parked at (14,16)
+Car [Q5652QL], owned by Darleen Dehn
+Parked at (19,6)
+Car [VV9848FR], owned by Julienne Jervis
+Parked at (9,1)
+Truck [I8020AB], owned by Nicolasa Nedeau
+Parked at (23,3)
+Motorbike [EN4764IF], owned by Farah Ferrari
+Parked at (12,10)
+Motorbike [EN4764IF], owned by Farah Ferrari
+Parked at (12,10)
+Truck [P0819SP], owned by Linsey Laguna
+Parked at (5,14)
+Car [M3210TX], owned by Alejandrina Ashbrook
+Parked at (1,8)
+Car [O0147RE], owned by Amada Acre
+Parked at (24,12)
+Car [CG6795HM], owned by Sabrina Seitz
+Parked at (8,9)
+Motorbike [B0185IM], owned by Josh Jacobson
+Parked at (13,14)
+Motorbike [G4736YH], owned by Leslie Loos
+Parked at (5,17)
+Motorbike [S9964MY], owned by Terina Tellez
+Parked at (9,6)
+Car [PY5316QD], owned by Loura Lightcap
+Parked at (17,19)
+Car [O0147RE], owned by Amada Acre
+Parked at (24,12)
+Motorbike [U0421AC], owned by Shandra Salamone
+Parked at (20,2)
+Truck [J8948OF], owned by Fannie Frame
+Parked at (14,10)
+Car [AN6250EG], owned by Indira Isabel
+Parked at (13,1)
+Motorbike [U1255QH], owned by Sabrina Seitz
+Parked at (5,5)
+Car [P9398RF], owned by Jetta Jerabek
+Parked at (1,4)
+Motorbike [D4022WV], owned by Madonna Mcclane
+Parked at (23,2)
+Car [T5709FB], owned by Maris Mathias
+Parked at (29,7)
+Car [X8658RD], owned by Chasity Cripps
+Parked at (22,9)
+Truck [L8309AR], owned by Julianne Jenning
+Parked at (11,11)
+Car [PY5316QD], owned by Loura Lightcap
+Parked at (17,19)
+Car [Q5652QL], owned by Darleen Dehn
+Parked at (19,6)
+There is no vehicle with license plate MI0746UA in the park
+Motorbike [FF2386BM], owned by Sabrina Seitz
+Parked at (29,14)
+Motorbike [PZ1342SR], owned by Thurman Tait
+Parked at (18,9)
+Motorbike [L1027FT], owned by Josh Jacobson
+Parked at (26,3)
+Truck [J8948OF], owned by Fannie Frame
+Parked at (14,10)
+Truck [VV3411RO], owned by Alane Avallone
+Parked at (17,1)
+Motorbike [D4022WV], owned by Madonna Mcclane
+Parked at (23,2)
+Truck [V2017BA], owned by Virgen Vivas
+Parked at (20,7)
+Truck [BD1557NC], owned by Steven Sneed
+Parked at (15,9)
+Car [I7367OX], owned by Julienne Jervis
+Parked at (11,3)
+Car [N2284PE], owned by Concepcion Cobos
+Parked at (22,20)
+Truck [P3189GP], owned by George Goldenberg
+Parked at (27,3)
+********************
+Truck [RL8630DI], owned by Laila Lines
+at place (23,20)
+Rate: $175.75
+Overtime rate: $0.00
+--------------------
+Total: $175.75
+Paid: $492.47
+Change: $316.72
+********************
+********************
+Car [I5962CV], owned by Shandra Salamone
+at place (14,1)
+Rate: $88.00
+Overtime rate: $0.00
+--------------------
+Total: $88.00
+Paid: $233.66
+Change: $145.66
+********************
+********************
+Car [Y7241QV], owned by Lonnie Lolley
+at place (12,17)
+Rate: $18.00
+Overtime rate: $0.00
+--------------------
+Total: $18.00
+Paid: $383.39
+Change: $365.39
+********************
+********************
+Motorbike [P8825IC], owned by Karlyn Kennison
+at place (27,9)
+Rate: $16.20
+Overtime rate: $0.00
+--------------------
+Total: $16.20
+Paid: $367.81
+Change: $351.61
+********************
+********************
+Car [HP1152TT], owned by Angie Aylesworth
+at place (10,4)
+Rate: $16.00
+Overtime rate: $0.00
+--------------------
+Total: $16.00
+Paid: $315.91
+Change: $299.91
+********************
+********************
+Motorbike [U1255QH], owned by Sabrina Seitz
+at place (5,5)
+Rate: $25.65
+Overtime rate: $0.00
+--------------------
+Total: $25.65
+Paid: $406.30
+Change: $380.65
+********************
+********************
+Truck [P7966HW], owned by Maris Mathias
+at place (7,11)
+Rate: $9.50
+Overtime rate: $0.00
+--------------------
+Total: $9.50
+Paid: $267.70
+Change: $258.20
+********************
+********************
+Motorbike [J8705GI], owned by Emory Edmond
+at place (23,4)
+Rate: $2.70
+Overtime rate: $0.00
+--------------------
+Total: $2.70
+Paid: $266.40
+Change: $263.70
+********************
+********************
+Car [Z4902JH], owned by Sharan Shine
+at place (6,2)
+Rate: $68.00
+Overtime rate: $0.00
+--------------------
+Total: $68.00
+Paid: $176.62
+Change: $108.62
+********************
+********************
+Truck [P0819SP], owned by Linsey Laguna
+at place (5,14)
+Rate: $57.00
+Overtime rate: $0.00
+--------------------
+Total: $57.00
+Paid: $255.92
+Change: $198.92
+********************
+********************
+Truck [B5956AR], owned by Shandra Salamone
+at place (27,11)
+Rate: $4.75
+Overtime rate: $0.00
+--------------------
+Total: $4.75
+Paid: $127.68
+Change: $122.93
+********************
+********************
+Motorbike [C1424SU], owned by Jaunita Jeffress
+at place (22,4)
+Rate: $8.10
+Overtime rate: $0.00
+--------------------
+Total: $8.10
+Paid: $189.55
+Change: $181.45
+********************
+********************
+Car [VV9848FR], owned by Julienne Jervis
+at place (9,1)
+Rate: $54.00
+Overtime rate: $0.00
+--------------------
+Total: $54.00
+Paid: $436.74
+Change: $382.74
+********************
+********************
+Truck [VL5038ST], owned by Maynard Mcclung
+at place (7,5)
+Rate: $114.00
+Overtime rate: $0.00
+--------------------
+Total: $114.00
+Paid: $464.12
+Change: $350.12
+********************
+********************
+Car [XE9370UU], owned by Loura Lightcap
+at place (25,18)
+Rate: $48.00
+Overtime rate: $0.00
+--------------------
+Total: $48.00
+Paid: $382.90
+Change: $334.90
+********************
+********************
+Car [PE5883SU], owned by Suk Starcher
+at place (2,8)
+Rate: $48.00
+Overtime rate: $0.00
+--------------------
+Total: $48.00
+Paid: $187.14
+Change: $139.14
+********************
+********************
+Motorbike [K5251TA], owned by Sage Struble
+at place (6,6)
+Rate: $5.40
+Overtime rate: $0.00
+--------------------
+Total: $5.40
+Paid: $100.10
+Change: $94.70
+********************
+********************
+Truck [M4856TS], owned by Laila Lines
+at place (21,13)
+Rate: $185.25
+Overtime rate: $0.00
+--------------------
+Total: $185.25
+Paid: $263.95
+Change: $78.70
+********************
+********************
+Motorbike [L3904JZ], owned by Trena Trammell
+at place (14,16)
+Rate: $2.70
+Overtime rate: $0.00
+--------------------
+Total: $2.70
+Paid: $427.52
+Change: $424.82
+********************
+********************
+Car [T5709FB], owned by Maris Mathias
+at place (29,7)
+Rate: $4.00
+Overtime rate: $0.00
+--------------------
+Total: $4.00
+Paid: $312.92
+Change: $308.92
+********************
+********************
+Car [AN6250EG], owned by Indira Isabel
+at place (13,1)
+Rate: $62.00
+Overtime rate: $0.00
+--------------------
+Total: $62.00
+Paid: $319.17
+Change: $257.17
+********************
+********************
+Motorbike [J1175PU], owned by Alejandrina Ashbrook
+at place (7,9)
+Rate: $59.40
+Overtime rate: $0.00
+--------------------
+Total: $59.40
+Paid: $498.70
+Change: $439.30
+********************
+********************
+Car [M0195GD], owned by Madonna Mcclane
+at place (8,18)
+Rate: $2.00
+Overtime rate: $0.00
+--------------------
+Total: $2.00
+Paid: $404.92
+Change: $402.92
+********************
+********************
+Motorbike [RD8534ZJ], owned by Lashay Laliberte
+at place (2,17)
+Rate: $49.95
+Overtime rate: $0.00
+--------------------
+Total: $49.95
+Paid: $311.34
+Change: $261.39
+********************
+********************
+Car [V9308TX], owned by India Irion
+at place (30,13)
+Rate: $56.00
+Overtime rate: $0.00
+--------------------
+Total: $56.00
+Paid: $213.97
+Change: $157.97
+********************
+********************
+Truck [O7283VH], owned by Julienne Jervis
+at place (28,5)
+Rate: $28.50
+Overtime rate: $0.00
+--------------------
+Total: $28.50
+Paid: $332.42
+Change: $303.92
+********************
+********************
+Car [ZB5319OX], owned by Buena Baptist
+at place (6,8)
+Rate: $84.00
+Overtime rate: $0.00
+--------------------
+Total: $84.00
+Paid: $398.81
+Change: $314.81
+********************
+********************
+Car [PY5316QD], owned by Loura Lightcap
+at place (17,19)
+Rate: $12.00
+Overtime rate: $0.00
+--------------------
+Total: $12.00
+Paid: $420.29
+Change: $408.29
+********************
+********************
+Car [Q5652QL], owned by Darleen Dehn
+at place (19,6)
+Rate: $96.00
+Overtime rate: $0.00
+--------------------
+Total: $96.00
+Paid: $200.78
+Change: $104.78
+********************
+********************
+Motorbike [D1959ZO], owned by Florinda Faber
+at place (21,11)
+Rate: $1.35
+Overtime rate: $0.00
+--------------------
+Total: $1.35
+Paid: $430.96
+Change: $429.61
+********************
+********************
+Motorbike [N4201PU], owned by Dominique Dang
+at place (3,16)
+Rate: $5.40
+Overtime rate: $0.00
+--------------------
+Total: $5.40
+Paid: $294.54
+Change: $289.14
+********************
+********************
+Motorbike [D8645XX], owned by Nicolasa Nedeau
+at place (9,12)
+Rate: $24.30
+Overtime rate: $0.00
+--------------------
+Total: $24.30
+Paid: $142.62
+Change: $118.32
+********************
+********************
+Motorbike [B1856CE], owned by Zoe Zajicek
+at place (10,15)
+Rate: $36.45
+Overtime rate: $0.00
+--------------------
+Total: $36.45
+Paid: $377.62
+Change: $341.17
+********************
+********************
+Truck [I8020AB], owned by Nicolasa Nedeau
+at place (23,3)
+Rate: $76.00
+Overtime rate: $0.00
+--------------------
+Total: $76.00
+Paid: $220.40
+Change: $144.40
+********************
+There is no vehicle with license plate I1421MF in the park
+********************
+Truck [UA2978RB], owned by Julienne Jervis
+at place (18,14)
+Rate: $190.00
+Overtime rate: $0.00
+--------------------
+Total: $190.00
+Paid: $191.66
+Change: $1.66
+********************
+********************
+Truck [V2017BA], owned by Virgen Vivas
+at place (20,7)
+Rate: $194.75
+Overtime rate: $0.00
+--------------------
+Total: $194.75
+Paid: $236.46
+Change: $41.71
+********************
+********************
+Car [M3210TX], owned by Alejandrina Ashbrook
+at place (1,8)
+Rate: $60.00
+Overtime rate: $0.00
+--------------------
+Total: $60.00
+Paid: $250.89
+Change: $190.89
+********************
+********************
+Motorbike [S9964MY], owned by Terina Tellez
+at place (9,6)
+Rate: $8.10
+Overtime rate: $0.00
+--------------------
+Total: $8.10
+Paid: $376.52
+Change: $368.42
+********************
+********************
+Truck [Q4920YN], owned by Hilton Haro
+at place (15,12)
+Rate: $57.00
+Overtime rate: $0.00
+--------------------
+Total: $57.00
+Paid: $416.91
+Change: $359.91
+********************
+********************
+Car [V8989ZG], owned by Steven Sneed
+at place (25,10)
+Rate: $30.00
+Overtime rate: $0.00
+--------------------
+Total: $30.00
+Paid: $185.56
+Change: $155.56
+********************
+********************
+Car [K1640OU], owned by Julianne Jenning
+at place (18,17)
+Rate: $92.00
+Overtime rate: $0.00
+--------------------
+Total: $92.00
+Paid: $437.72
+Change: $345.72
+********************
+********************
+Car [F6307XB], owned by Contessa Connon
+at place (5,2)
+Rate: $60.00
+Overtime rate: $0.00
+--------------------
+Total: $60.00
+Paid: $231.79
+Change: $171.79
+********************
+********************
+Truck [F6670IK], owned by Tommye Tatom
+at place (3,10)
+Rate: $33.25
+Overtime rate: $0.00
+--------------------
+Total: $33.25
+Paid: $259.18
+Change: $225.93
+********************
+********************
+Motorbike [FF2386BM], owned by Sabrina Seitz
+at place (29,14)
+Rate: $14.85
+Overtime rate: $0.00
+--------------------
+Total: $14.85
+Paid: $186.86
+Change: $172.01
+********************
+********************
+Motorbike [E8418GA], owned by Britni Bonavita
+at place (4,8)
+Rate: $5.40
+Overtime rate: $0.00
+--------------------
+Total: $5.40
+Paid: $381.30
+Change: $375.90
+********************
+There is no vehicle with license plate R8950OS in the park
+********************
+Truck [D3416HV], owned by Michiko Mccutchen
+at place (28,16)
+Rate: $4.75
+Overtime rate: $0.00
+--------------------
+Total: $4.75
+Paid: $277.00
+Change: $272.25
+********************
+********************
+Car [X8658RD], owned by Chasity Cripps
+at place (22,9)
+Rate: $98.00
+Overtime rate: $0.00
+--------------------
+Total: $98.00
+Paid: $129.36
+Change: $31.36
+********************
+********************
+Motorbike [B0185IM], owned by Josh Jacobson
+at place (13,14)
+Rate: $32.40
+Overtime rate: $0.00
+--------------------
+Total: $32.40
+Paid: $103.14
+Change: $70.74
+********************
+********************
+Motorbike [S3732PB], owned by Nicolette Nardi
+at place (2,18)
+Rate: $59.40
+Overtime rate: $0.00
+--------------------
+Total: $59.40
+Paid: $350.12
+Change: $290.72
+********************
+********************
+Car [S2084BM], owned by Nicolasa Nedeau
+at place (17,11)
+Rate: $48.00
+Overtime rate: $0.00
+--------------------
+Total: $48.00
+Paid: $273.82
+Change: $225.82
+********************
+There is no vehicle with license plate E1351BG in the park
+********************
+Truck [RM7704VD], owned by Madonna Mcclane
+at place (10,7)
+Rate: $161.50
+Overtime rate: $0.00
+--------------------
+Total: $161.50
+Paid: $234.28
+Change: $72.78
+********************
+********************
+Car [PL0486YU], owned by India Irion
+at place (23,12)
+Rate: $34.00
+Overtime rate: $0.00
+--------------------
+Total: $34.00
+Paid: $276.91
+Change: $242.91
+********************
+********************
+Car [C6976QZ], owned by Virgie Vanepps
+at place (4,20)
+Rate: $14.00
+Overtime rate: $0.00
+--------------------
+Total: $14.00
+Paid: $340.73
+Change: $326.73
+********************
+********************
+Car [W1841DR], owned by Josh Jacobson
+at place (9,9)
+Rate: $84.00
+Overtime rate: $0.00
+--------------------
+Total: $84.00
+Paid: $496.91
+Change: $412.91
+********************
+********************
+Truck [P3189GP], owned by George Goldenberg
+at place (27,3)
+Rate: $80.75
+Overtime rate: $0.00
+--------------------
+Total: $80.75
+Paid: $400.92
+Change: $320.17
+********************
+********************
+Car [V0821UW], owned by Darryl Dohrmann
+at place (11,4)
+Rate: $24.00
+Overtime rate: $0.00
+--------------------
+Total: $24.00
+Paid: $378.37
+Change: $354.37
+********************
+There is no vehicle with license plate M8207MH in the park
+********************
+Motorbike [KD5384DT], owned by Julienne Jervis
+at place (1,19)
+Rate: $54.00
+Overtime rate: $0.00
+--------------------
+Total: $54.00
+Paid: $188.11
+Change: $134.11
+********************
+********************
+Truck [E8227YR], owned by Darleen Dehn
+at place (14,19)
+Rate: $61.75
+Overtime rate: $0.00
+--------------------
+Total: $61.75
+Paid: $174.50
+Change: $112.75
+********************
+********************
+Truck [VV3411RO], owned by Alane Avallone
+at place (17,1)
+Rate: $23.75
+Overtime rate: $0.00
+--------------------
+Total: $23.75
+Paid: $403.19
+Change: $379.44
+********************
+********************
+Car [H9260II], owned by Lucas Levi
+at place (7,17)
+Rate: $28.00
+Overtime rate: $0.00
+--------------------
+Total: $28.00
+Paid: $488.52
+Change: $460.52
+********************
+********************
+Car [O0147RE], owned by Amada Acre
+at place (24,12)
+Rate: $76.00
+Overtime rate: $0.00
+--------------------
+Total: $76.00
+Paid: $107.36
+Change: $31.36
+********************
+********************
+Car [N1987CN], owned by Thurman Tait
+at place (27,12)
+Rate: $74.00
+Overtime rate: $0.00
+--------------------
+Total: $74.00
+Paid: $427.32
+Change: $353.32
+********************
+********************
+Truck [Q4985IM], owned by Kaila Kohnke
+at place (16,16)
+Rate: $99.75
+Overtime rate: $0.00
+--------------------
+Total: $99.75
+Paid: $305.65
+Change: $205.90
+********************
+********************
+Motorbike [N3212AQ], owned by Leigha Leffler
+at place (27,19)
+Rate: $43.20
+Overtime rate: $0.00
+--------------------
+Total: $43.20
+Paid: $214.80
+Change: $171.60
+********************
+********************
+Motorbike [L1027FT], owned by Josh Jacobson
+at place (26,3)
+Rate: $52.65
+Overtime rate: $0.00
+--------------------
+Total: $52.65
+Paid: $151.20
+Change: $98.55
+********************
+********************
+Truck [U1022DD], owned by Twana Toledo
+at place (17,10)
+Rate: $99.75
+Overtime rate: $0.00
+--------------------
+Total: $99.75
+Paid: $491.41
+Change: $391.66
+********************
+********************
+Motorbike [D4022WV], owned by Madonna Mcclane
+at place (23,2)
+Rate: $66.15
+Overtime rate: $0.00
+--------------------
+Total: $66.15
+Paid: $283.11
+Change: $216.96
+********************
+********************
+Car [K9113XE], owned by Shaun Sarno
+at place (8,14)
+Rate: $58.00
+Overtime rate: $0.00
+--------------------
+Total: $58.00
+Paid: $397.30
+Change: $339.30
+********************
+********************
+Car [CG6795HM], owned by Sabrina Seitz
+at place (8,9)
+Rate: $54.00
+Overtime rate: $0.00
+--------------------
+Total: $54.00
+Paid: $205.97
+Change: $151.97
+********************
+********************
+Motorbike [IA9741XI], owned by Apryl Addis
+at place (30,8)
+Rate: $44.55
+Overtime rate: $0.00
+--------------------
+Total: $44.55
+Paid: $117.78
+Change: $73.23
+********************
+********************
+Motorbike [T6940KG], owned by Kate Kieffer
+at place (16,18)
+Rate: $12.15
+Overtime rate: $0.00
+--------------------
+Total: $12.15
+Paid: $425.51
+Change: $413.36
+********************
+There is no vehicle with license plate OY8128SJ in the park
+********************
+Car [P9398RF], owned by Jetta Jerabek
+at place (1,4)
+Rate: $58.00
+Overtime rate: $0.00
+--------------------
+Total: $58.00
+Paid: $125.10
+Change: $67.10
+********************
+********************
+Truck [J8948OF], owned by Fannie Frame
+at place (14,10)
+Rate: $133.00
+Overtime rate: $0.00
+--------------------
+Total: $133.00
+Paid: $467.50
+Change: $334.50
+********************
+********************
+Truck [EG3227MG], owned by Nicolasa Nedeau
+at place (14,6)
+Rate: $156.75
+Overtime rate: $0.00
+--------------------
+Total: $156.75
+Paid: $476.38
+Change: $319.63
+********************
+********************
+Motorbike [G4736YH], owned by Leslie Loos
+at place (5,17)
+Rate: $14.85
+Overtime rate: $0.00
+--------------------
+Total: $14.85
+Paid: $125.55
+Change: $110.70
+********************
+********************
+Car [Y2591KD], owned by Brett Blanc
+at place (29,19)
+Rate: $16.00
+Overtime rate: $0.00
+--------------------
+Total: $16.00
+Paid: $477.80
+Change: $461.80
+********************
+********************
+Truck [X8981KG], owned by Julienne Jervis
+at place (12,4)
+Rate: $218.50
+Overtime rate: $0.00
+--------------------
+Total: $218.50
+Paid: $306.70
+Change: $88.20
+********************
+********************
+Car [I7367OX], owned by Julienne Jervis
+at place (11,3)
+Rate: $20.00
+Overtime rate: $0.00
+--------------------
+Total: $20.00
+Paid: $136.27
+Change: $116.27
+********************
+********************
+Truck [BD1557NC], owned by Steven Sneed
+at place (15,9)
+Rate: $152.00
+Overtime rate: $0.00
+--------------------
+Total: $152.00
+Paid: $186.34
+Change: $34.34
+********************
+There is no vehicle with license plate M9766BU in the park
+There is no vehicle with license plate UZ9306WD in the park
+********************
+Motorbike [PZ1342SR], owned by Thurman Tait
+at place (18,9)
+Rate: $27.00
+Overtime rate: $0.00
+--------------------
+Total: $27.00
+Paid: $260.88
+Change: $233.88
+********************
+********************
+Truck [L8309AR], owned by Julianne Jenning
+at place (11,11)
+Rate: $104.50
+Overtime rate: $0.00
+--------------------
+Total: $104.50
+Paid: $277.10
+Change: $172.60
+********************
+********************
+Car [N2284PE], owned by Concepcion Cobos
+at place (22,20)
+Rate: $60.00
+Overtime rate: $0.00
+--------------------
+Total: $60.00
+Paid: $249.88
+Change: $189.88
+********************
+There is no vehicle with license plate S6628JT in the park
+********************
+Truck [KB8041KA], owned by Zoraida Zumwalt
+at place (25,17)
+Rate: $166.25
+Overtime rate: $0.00
+--------------------
+Total: $166.25
+Paid: $260.18
+Change: $93.93
+********************
+There is no vehicle with license plate YF7853TS in the park
+********************
+Truck [E3053VA], owned by Joycelyn Jaqua
+at place (29,8)
+Rate: $147.25
+Overtime rate: $0.00
+--------------------
+Total: $147.25
+Paid: $222.12
+Change: $74.87
+********************
+********************
+Motorbike [R8355XM], owned by Concepcion Cobos
+at place (21,1)
+Rate: $64.80
+Overtime rate: $0.00
+--------------------
+Total: $64.80
+Paid: $204.40
+Change: $139.60
+********************
+********************
+Motorbike [EN4764IF], owned by Farah Ferrari
+at place (12,10)
+Rate: $33.75
+Overtime rate: $0.00
+--------------------
+Total: $33.75
+Paid: $392.77
+Change: $359.02
+********************
+There is no vehicle with license plate K7678IR in the park
+There is no vehicle with license plate MI0746UA in the park
+********************
+Motorbike [K2957AQ], owned by Serena Sakamoto
+at place (11,14)
+Rate: $51.30
+Overtime rate: $0.00
+--------------------
+Total: $51.30
+Paid: $288.64
+Change: $237.34
+********************
+There is no vehicle with license plate J8818FR in the park
+********************
+Motorbike [U0421AC], owned by Shandra Salamone
+at place (20,2)
+Rate: $14.85
+Overtime rate: $0.00
+--------------------
+Total: $14.85
+Paid: $185.98
+Change: $171.13
+********************

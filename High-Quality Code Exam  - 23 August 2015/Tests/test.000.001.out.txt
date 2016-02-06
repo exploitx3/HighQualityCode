@@ -1,0 +1,29 @@
+User firstLecturer registered successfully.
+User firstLecturer logged in successfully.
+User firstLecturer logged out successfully.
+No courses.
+User firstStudent registered successfully.
+User firstLecturer logged in successfully.
+No courses.
+Course Advanced C# created successfully.
+Course Object-Oriented Programming created successfully.
+Course High-Quality Code created successfully.
+Course Java Basics created successfully.
+Lecture successfully added to course High-Quality Code.
+Lecture successfully added to course High-Quality Code.
+Lecture successfully added to course High-Quality Code.
+Lecture successfully added to course Object-Oriented Programming.
+Lecture successfully added to course Object-Oriented Programming.
+Student successfully enrolled in course Advanced C#.
+Student successfully enrolled in course High-Quality Code.
+All courses:
+Advanced C# (1 students)
+High-Quality Code (1 students)
+Java Basics (0 students)
+Object-Oriented Programming (0 students)
+Advanced C#
+No lectures
+High-Quality Code
+- Naming Identifiers
+- Comments in the Code
+- High-Quality Classes

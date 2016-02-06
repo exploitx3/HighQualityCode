@@ -1,0 +1,31 @@
+AddAir FX215; Sofia; Athens; Bulgaria Air; 17.01.2015 12:20; 200
+AddAir SA522; Sofia; London; Lufthansa; 15.01.2015 07:15; 740
+AddAir TX251FB; London; Paris; Swiss Air; 27.01.2015 05:00; 150
+AddAir LU529; London; New York; Easyjet; 17.01.2015 11:00; 1200
+AddAir TX251FB; London; Viena; Swiss Air; 29.01.2015 09:00; 150
+AddBus Sofia; Varna; Biomet; 15.01.2015 06:15; 25
+AddBus Sofia; Plovdiv; Vitosha; 27.01.2015 21:20; 12
+AddBus Sofia; Plovdiv; Trakia Travel; 27.01.2015 21:20; 11.5
+AddBus Sofia; Athens; Group Plus; 17.01.2015 02:00; 146.55
+AddTrain Sofia; Rousse; 15.01.2015 09:20; 24.25; 12.15
+AddTrain Varna; Sofia; 27.01.2015 05:22; 26.54; 12.22
+AddTrain Sofia; Plovdiv; 17.01.2015 11:25; 6.5; 2.4
+AddTrain Sofia; Athens; 15.01.2015 17:00; 124.5; 104
+AddTrain Sofia; Plovdiv; 27.01.2015 21:20; 7.22; 2.61
+AddTrain Sofia; Plovdiv; 25.01.2015 19:00; 7.22; 2.61
+AddTrain Sofia; Plovdiv; 17.01.2015 11:25; 6; 2
+AddBus Sofia; Plovdiv; Trakia Travel; 27.01.2015 21:20; 11
+DeleteAir AA12245
+DeleteBus Sofia; Athens; Group Plus; 17.01.2015 02:20;
+DeleteTrain Sofia; Plovdiv; 25.01.2015 19:20
+FindTickets Sofia; Plovdiv
+
+
+
+FindTickets Sofia; Kaspichan
+FindTicketsInInterval 15.01.2015 06:00; 15.01.2015 09:20
+
+DeleteAir SA522
+FindTicketsInInterval 15.01.2015 06:00; 15.01.2015 09:20
+
+FindTicketsInInterval 17.01.2015 12:30; 17.01.2015 19:00

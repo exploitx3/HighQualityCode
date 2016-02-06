@@ -1,0 +1,10 @@
+C:\Users\Leet\Documents\Visual Studio 2015\Projects\Moq Mocks Demos\demos\before\bin\Debug\PluralSight.Moq.dll
+C:\Users\Leet\Documents\Visual Studio 2015\Projects\Moq Mocks Demos\demos\before\bin\Debug\PluralSight.Moq.pdb
+C:\Users\Leet\Documents\Visual Studio 2015\Projects\Moq Mocks Demos\demos\before\bin\Debug\Moq.dll
+C:\Users\Leet\Documents\Visual Studio 2015\Projects\Moq Mocks Demos\demos\before\bin\Debug\nunit.framework.dll
+C:\Users\Leet\Documents\Visual Studio 2015\Projects\Moq Mocks Demos\demos\before\bin\Debug\Moq.pdb
+C:\Users\Leet\Documents\Visual Studio 2015\Projects\Moq Mocks Demos\demos\before\bin\Debug\Moq.xml
+C:\Users\Leet\Documents\Visual Studio 2015\Projects\Moq Mocks Demos\demos\before\bin\Debug\nunit.framework.xml
+C:\Users\Leet\Documents\Visual Studio 2015\Projects\Moq Mocks Demos\demos\before\obj\Debug\PluralSight.Moq.csprojResolveAssemblyReference.cache
+C:\Users\Leet\Documents\Visual Studio 2015\Projects\Moq Mocks Demos\demos\before\obj\Debug\PluralSight.Moq.dll
+C:\Users\Leet\Documents\Visual Studio 2015\Projects\Moq Mocks Demos\demos\before\obj\Debug\PluralSight.Moq.pdb

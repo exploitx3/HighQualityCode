@@ -1,0 +1,15 @@
+The vehicle park has not been set up
+The vehicle park has not been set up
+The vehicle park has not been set up
+The vehicle park has not been set up
+The vehicle park has not been set up
+The vehicle park has not been set up
+The vehicle park has not been set up
+Vehicle park created
+Car parked successfully at place (1,1)
+Motorbike parked successfully at place (2,2)
+Truck parked successfully at place (3,3)
+Sector 1: 1 / 5 (20% full)
+Sector 2: 1 / 5 (20% full)
+Sector 3: 1 / 5 (20% full)
+Sector 4: 0 / 5 (0% full)

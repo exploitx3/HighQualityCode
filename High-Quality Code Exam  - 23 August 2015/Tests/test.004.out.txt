@@ -1,0 +1,148 @@
+User lecturer registered successfully.
+User lecturer logged in successfully.
+Course Course 1 created successfully.
+Course Course 2 created successfully.
+Course Course 3 created successfully.
+Course Course 4 created successfully.
+Course Course 5 created successfully.
+Course Course 6 created successfully.
+Course Course 7 created successfully.
+Course Course 8 created successfully.
+Course Course 9 created successfully.
+Course Course 10 created successfully.
+All courses:
+Course 1 (0 students)
+Course 10 (0 students)
+Course 2 (0 students)
+Course 3 (0 students)
+Course 4 (0 students)
+Course 5 (0 students)
+Course 6 (0 students)
+Course 7 (0 students)
+Course 8 (0 students)
+Course 9 (0 students)
+Student successfully enrolled in course Course 1.
+Student successfully enrolled in course Course 2.
+Student successfully enrolled in course Course 3.
+Student successfully enrolled in course Course 4.
+Student successfully enrolled in course Course 5.
+Student successfully enrolled in course Course 6.
+Student successfully enrolled in course Course 7.
+Student successfully enrolled in course Course 8.
+Student successfully enrolled in course Course 9.
+Student successfully enrolled in course Course 10.
+User lecturer logged out successfully.
+All courses:
+Course 1 (1 students)
+Course 10 (1 students)
+Course 2 (1 students)
+Course 3 (1 students)
+Course 4 (1 students)
+Course 5 (1 students)
+Course 6 (1 students)
+Course 7 (1 students)
+Course 8 (1 students)
+Course 9 (1 students)
+User student registered successfully.
+User student logged in successfully.
+Student successfully enrolled in course Course 2.
+Student successfully enrolled in course Course 4.
+Student successfully enrolled in course Course 6.
+Student successfully enrolled in course Course 8.
+Student successfully enrolled in course Course 10.
+User student logged out successfully.
+All courses:
+Course 1 (1 students)
+Course 10 (2 students)
+Course 2 (2 students)
+Course 3 (1 students)
+Course 4 (2 students)
+Course 5 (1 students)
+Course 6 (2 students)
+Course 7 (1 students)
+Course 8 (2 students)
+Course 9 (1 students)
+User second_student registered successfully.
+User second_student logged in successfully.
+Student successfully enrolled in course Course 2.
+Student successfully enrolled in course Course 4.
+Student successfully enrolled in course Course 6.
+All courses:
+Course 1 (1 students)
+Course 10 (2 students)
+Course 2 (3 students)
+Course 3 (1 students)
+Course 4 (3 students)
+Course 5 (1 students)
+Course 6 (3 students)
+Course 7 (1 students)
+Course 8 (2 students)
+Course 9 (1 students)
+You are not enrolled in this course.
+Course 2
+No lectures
+You are not enrolled in this course.
+Course 4
+No lectures
+You are not enrolled in this course.
+Course 6
+No lectures
+You are not enrolled in this course.
+You are not enrolled in this course.
+You are not enrolled in this course.
+You are not enrolled in this course.
+User second_student logged out successfully.
+User lecturer logged in successfully.
+Course 1
+No lectures
+Course 2
+No lectures
+Course 3
+No lectures
+Course 4
+No lectures
+Course 5
+No lectures
+Course 6
+No lectures
+Course 7
+No lectures
+Course 8
+No lectures
+Course 9
+No lectures
+Course 10
+No lectures
+User lecturer logged out successfully.
+User student logged in successfully.
+You are not enrolled in this course.
+Course 2
+No lectures
+You are not enrolled in this course.
+Course 4
+No lectures
+You are not enrolled in this course.
+Course 6
+No lectures
+You are not enrolled in this course.
+Course 8
+No lectures
+You are not enrolled in this course.
+Course 10
+No lectures
+User student logged out successfully.
+User second_student logged in successfully.
+You are not enrolled in this course.
+Course 2
+No lectures
+You are not enrolled in this course.
+Course 4
+No lectures
+You are not enrolled in this course.
+Course 6
+No lectures
+You are not enrolled in this course.
+You are not enrolled in this course.
+You are not enrolled in this course.
+You are not enrolled in this course.
+User second_student logged out successfully.

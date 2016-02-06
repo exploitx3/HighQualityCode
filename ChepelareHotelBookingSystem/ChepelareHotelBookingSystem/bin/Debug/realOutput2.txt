@@ -1,0 +1,52 @@
+The user newUser has been registered and may login.
+The user admin has been registered and may login.
+Something happened!!1
+The username must be at least 5 symbols long.
+Something happened!!1
+The provided passwords do not match.
+Something happened!!1
+A user with username newUser already exists.
+Something happened!!1
+There is no currently logged in user.
+Something happened!!1
+There is no currently logged in user.
+There are currently no venues to show.
+Something happened!!1
+There is no currently logged in user.
+The user admin has logged in.
+The venue New venue with ID 1 has been created successfully.
+New venue
+Located at Sofia
+Description: This is the first venue here.
+No rooms are currently available.
+Available rooms for venue New venue:
+No rooms are currently available.
+The room with ID 1 has been created successfully.
+Available rooms for venue New venue:
+ *[1] 2 places, $30.00 per day
+This room is not currently available.
+The user admin has logged out.
+Something happened!!1
+There is no currently logged in user.
+Something happened!!1
+There is no currently logged in user.
+Available rooms for venue New venue:
+ *[1] 2 places, $30.00 per day
+This room is not currently available.
+Something happened!!1
+The venue with ID 10 does not exist.
+*[1] New venue, located at Sofia
+Free rooms: 1
+Something happened!!1
+There is no currently logged in user.
+Something happened!!1
+There is no currently logged in user.
+Something happened!!1
+There is no currently logged in user.
+Something happened!!1
+There is no currently logged in user.
+The user admin has logged in.
+The period has been added to room with ID 1.
+The user admin has logged out.
+Something happened!!1
+There is no currently logged in user.

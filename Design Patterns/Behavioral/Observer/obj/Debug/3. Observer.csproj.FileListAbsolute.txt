@@ -1,0 +1,2 @@
+C:\Users\Jamal\Desktop\Design Patterns\Behavioral\Observer\bin\Debug\Observer.exe.config
+C:\Users\Jamal\Desktop\Trash\Design Patterns\Behavioral\Observer\bin\Debug\Observer.exe.config

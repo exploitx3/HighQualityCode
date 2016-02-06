@@ -1,0 +1,16 @@
+C:\Users\Jamal\Desktop\Trash\Design Patterns\7. Flyweight - Game\bin\Debug\_7.Flyweight___Game.exe.config
+C:\Users\Jamal\Desktop\Trash\Design Patterns\7. Flyweight - Game\obj\Debug\7. Flyweight - Game.csprojResolveAssemblyReference.cache
+C:\Users\Jamal\Desktop\Trash\Design Patterns\7. Flyweight - Game\obj\Debug\MainWindow.baml
+C:\Users\Jamal\Desktop\Trash\Design Patterns\7. Flyweight - Game\obj\Debug\MainWindow.g.cs
+C:\Users\Jamal\Desktop\Trash\Design Patterns\7. Flyweight - Game\obj\Debug\App.g.cs
+C:\Users\Jamal\Desktop\Trash\Design Patterns\7. Flyweight - Game\obj\Debug\_7.Flyweight___Game_MarkupCompile.cache
+C:\Users\Jamal\Desktop\Trash\Design Patterns\7. Flyweight - Game\obj\Debug\_7.Flyweight___Game.g.resources
+C:\Users\Jamal\Desktop\Trash\Design Patterns\7. Flyweight - Game\obj\Debug\_7.Flyweight___Game.Properties.Resources.resources
+C:\Users\Jamal\Desktop\Trash\Design Patterns\7. Flyweight - Game\obj\Debug\7. Flyweight - Game.csproj.GenerateResource.Cache
+C:\Users\Jamal\Desktop\Trash\Design Patterns\7. Flyweight - Game\bin\Debug\_7.Flyweight___Game.exe
+C:\Users\Jamal\Desktop\Trash\Design Patterns\7. Flyweight - Game\bin\Debug\_7.Flyweight___Game.pdb
+C:\Users\Jamal\Desktop\Trash\Design Patterns\7. Flyweight - Game\obj\Debug\_7.Flyweight___Game.exe
+C:\Users\Jamal\Desktop\Trash\Design Patterns\7. Flyweight - Game\obj\Debug\_7.Flyweight___Game.pdb
+C:\Users\Jamal\Documents\Visual Studio 2013\Projects\Design-Patterns-Labs\7. Flyweight - Game\bin\Debug\_7.Flyweight___Game.exe.config
+C:\Users\Jamal\Documents\Visual Studio 2013\Projects\Design-Patterns-Labs\7. Flyweight - Game\obj\Debug\_7.Flyweight___Game.exe
+C:\Users\Jamal\Documents\Visual Studio 2013\Projects\Design-Patterns-Labs\7. Flyweight - Game\obj\Debug\_7.Flyweight___Game.pdb

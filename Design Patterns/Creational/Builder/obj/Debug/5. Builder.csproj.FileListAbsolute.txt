@@ -1,0 +1,10 @@
+C:\Users\Jamal\Desktop\Design Patterns\Creational\Builder\bin\Debug\Builder.exe.config
+C:\Users\Jamal\Desktop\Trash\Design Patterns\Creational\Builder\bin\Debug\Builder.exe.config
+C:\Users\Jamal\Desktop\Trash\Design Patterns\Creational\Builder\bin\Debug\Builder.exe
+C:\Users\Jamal\Desktop\Trash\Design Patterns\Creational\Builder\bin\Debug\Builder.pdb
+C:\Users\Jamal\Desktop\Trash\Design Patterns\Creational\Builder\obj\Debug\5. Builder.csprojResolveAssemblyReference.cache
+C:\Users\Jamal\Desktop\Trash\Design Patterns\Creational\Builder\obj\Debug\Builder.exe
+C:\Users\Jamal\Desktop\Trash\Design Patterns\Creational\Builder\obj\Debug\Builder.pdb
+C:\Users\Leet\Documents\Visual Studio 2015\Projects\Design Patterns\Creational\Builder\bin\Debug\Builder.exe.config
+C:\Users\Leet\Documents\Visual Studio 2015\Projects\Design Patterns\Creational\Builder\obj\Debug\Builder.exe
+C:\Users\Leet\Documents\Visual Studio 2015\Projects\Design Patterns\Creational\Builder\obj\Debug\Builder.pdb

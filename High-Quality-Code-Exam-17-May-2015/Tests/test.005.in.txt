@@ -1,0 +1,96 @@
+SetupPark {"sectors": 4, "placesPerSector": 5}
+Park {"type": "car", "time": "2015-05-14T11:30:00.0000000", "sector": 1, "place": 1, "licensePlate": "CA5555HH", "owner": "John Allonso", "hours": 1}
+Park {"type": "motorbike", "time": "2015-05-14T10:40:00.0000000", "sector": 2, "place": 2, "licensePlate": "CA5555AH", "owner": "Michael Smith", "hours": 1}
+Park {"type": "truck", "time": "2015-05-24T10:45:00.0000000", "sector": 3, "place": 3, "licensePlate": "CA5842CH", "owner": "Raul Johns", "hours": 1}
+
+FindVehicle {"licensePlate": "CA5555AH"}
+FindVehicle {"licensePlate": "CA5842CH"}
+FindVehicle {"licensePlate": "CA5555HH"}
+
+FindVehicle {"licensePlate": "CA0001AA"}
+
+VehiclesByOwner {"owner": "John Allonso"}
+VehiclesByOwner {"owner": "Michael Smith"}
+VehiclesByOwner {"owner": "Raul Johns"}
+
+Park {"type": "car", "time": "2015-05-14T12:30:00.0000000", "sector": 1, "place": 1, "licensePlate": "CA5665HH", "owner": "John Allonso", "hours": 1}
+Park {"type": "motorbike", "time": "2015-05-14T11:40:00.0000000", "sector": 2, "place": 2, "licensePlate": "CA5225AH", "owner": "Michael Smith", "hours": 1}
+Park {"type": "truck", "time": "2015-05-24T11:45:00.0000000", "sector": 3, "place": 3, "licensePlate": "CA5742CH", "owner": "Raul Johns", "hours": 1}
+
+Park {"type": "car", "time": "2015-05-14T12:30:00.0000000", "sector": 4, "place": 1, "licensePlate": "CA5665HH", "owner": "John Allonso", "hours": 1}
+Park {"type": "motorbike", "time": "2015-05-14T11:40:00.0000000", "sector": 4, "place": 2, "licensePlate": "CA5225AH", "owner": "John Allonso", "hours": 1}
+Park {"type": "truck", "time": "2015-05-24T11:45:00.0000000", "sector": 4, "place": 3, "licensePlate": "CA5742CH", "owner": "John Allonso", "hours": 1}
+
+Status {}
+
+FindVehicle {"licensePlate": "CA5665HH"}
+FindVehicle {"licensePlate": "CA5225AH"}
+FindVehicle {"licensePlate": "CA5742CH"}
+
+VehiclesByOwner {"owner": "John Allonso"}
+VehiclesByOwner {"owner": "Michael Smith"}
+VehiclesByOwner {"owner": "Raul Johns"}
+
+VehiclesByOwner {"owner": "Sean Nicholson"}
+
+Exit {"licensePlate": "CA5555HH", "time": "2015-05-14T14:50:00.0000000", "paid": 100.00}
+Exit {"licensePlate": "CA5555AH", "time": "2015-05-14T16:40:00.0000000", "paid": 16.35}
+Exit {"licensePlate": "CA5842CH", "time": "2015-05-24T17:45:00.0000000", "paid": 177.70}
+
+FindVehicle {"licensePlate": "CA5555AH"}
+FindVehicle {"licensePlate": "CA5842CH"}
+FindVehicle {"licensePlate": "CA5555HH"}
+
+Status {}
+
+FindVehicle {"licensePlate": "CA5225AH"}
+FindVehicle {"licensePlate": "CA5225AH"}
+FindVehicle {"licensePlate": "CA5665HH"}
+
+Park {"type": "car", "time": "2015-05-10T11:30:00.0000000", "sector": 1, "place": 1, "licensePlate": "CA5555HH", "owner": "John Allonso", "hours": 3}
+Park {"type": "motorbike", "time": "2015-05-09T10:40:00.0000000", "sector": 2, "place": 2, "licensePlate": "CA5555AH", "owner": "John Allonso", "hours": 5}
+Park {"type": "truck", "time": "2015-05-13T10:45:00.0000000", "sector": 3, "place": 3, "licensePlate": "CA5842CH", "owner": "John Allonso", "hours": 1}
+
+FindVehicle {"licensePlate": "CA5555AH"}
+FindVehicle {"licensePlate": "CA5842CH"}
+FindVehicle {"licensePlate": "CA5555HH"}
+
+VehiclesByOwner {"owner": "John Allonso"}
+VehiclesByOwner {"owner": "Michael Smith"}
+VehiclesByOwner {"owner": "Raul Johns"}
+
+Exit {"licensePlate": "CA5555HH", "time": "2015-05-10T12:40:00.0000000", "paid": 50.00}
+Exit {"licensePlate": "CA5555AH", "time": "2015-05-10T16:40:00.0000000", "paid": 200.11}
+Exit {"licensePlate": "CA5842CH", "time": "2015-05-13T12:45:00.0000000", "paid": 177.70}
+
+Park {"type": "car", "time": "2015-05-10T11:30:00.0000000", "sector": 1, "place": 1, "licensePlate": "CA5555HH", "owner": "John Allonso", "hours": 3}
+Park {"type": "motorbike", "time": "2015-05-09T10:40:00.0000000", "sector": 2, "place": 2, "licensePlate": "CA5555AH", "owner": "John Allonso", "hours": 5}
+Park {"type": "truck", "time": "2015-05-13T10:45:00.0000000", "sector": 3, "place": 3, "licensePlate": "CA5842CH", "owner": "John Allonso", "hours": 1}
+
+FindVehicle {"licensePlate": "CA5555AH"}
+FindVehicle {"licensePlate": "CA5842CH"}
+FindVehicle {"licensePlate": "CA5555HH"}
+
+VehiclesByOwner {"owner": "John Allonso"}
+VehiclesByOwner {"owner": "Michael Smith"}
+VehiclesByOwner {"owner": "Raul Johns"}
+
+Exit {"licensePlate": "CA5555HH", "time": "2015-05-10T12:40:00.0000000", "paid": 50.00}
+Exit {"licensePlate": "CA5555AH", "time": "2015-05-10T16:40:00.0000000", "paid": 200.11}
+Exit {"licensePlate": "CA5842CH", "time": "2015-05-13T12:45:00.0000000", "paid": 177.70}
+
+Park {"type": "car", "time": "2015-05-10T11:30:00.0000000", "sector": 1, "place": 1, "licensePlate": "CA5555HH", "owner": "John Allonso", "hours": 3}
+Park {"type": "motorbike", "time": "2015-05-09T10:40:00.0000000", "sector": 2, "place": 2, "licensePlate": "CA5555AH", "owner": "John Allonso", "hours": 5}
+Park {"type": "truck", "time": "2015-05-13T10:45:00.0000000", "sector": 3, "place": 3, "licensePlate": "CA5842CH", "owner": "John Allonso", "hours": 1}
+
+FindVehicle {"licensePlate": "CA5555AH"}
+FindVehicle {"licensePlate": "CA5842CH"}
+FindVehicle {"licensePlate": "CA5555HH"}
+
+VehiclesByOwner {"owner": "John Allonso"}
+VehiclesByOwner {"owner": "Michael Smith"}
+VehiclesByOwner {"owner": "Raul Johns"}
+
+Exit {"licensePlate": "CA5555HH", "time": "2015-05-10T12:40:00.0000000", "paid": 50.00}
+Exit {"licensePlate": "CA5555AH", "time": "2015-05-10T16:40:00.0000000", "paid": 200.11}
+Exit {"licensePlate": "CA5842CH", "time": "2015-05-13T12:45:00.0000000", "paid": 177.70}

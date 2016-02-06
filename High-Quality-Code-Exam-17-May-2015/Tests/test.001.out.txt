@@ -1,0 +1,34 @@
+Vehicle park created
+Car parked successfully at place (1,5)
+Motorbike parked successfully at place (2,3)
+Truck parked successfully at place (1,1)
+********************
+Car [CA5555HH], owned by John Allonso
+at place (1,5)
+Rate: $20.00
+Overtime rate: $0.00
+--------------------
+Total: $20.00
+Paid: $100.00
+Change: $80.00
+********************
+********************
+Motorbike [CA5555AH], owned by Michael Smith
+at place (2,3)
+Rate: $13.50
+Overtime rate: $0.00
+--------------------
+Total: $13.50
+Paid: $40.00
+Change: $26.50
+********************
+********************
+Truck [CA5842CH], owned by Raul Johns
+at place (1,1)
+Rate: $47.50
+Overtime rate: $130.20
+--------------------
+Total: $177.70
+Paid: $177.70
+Change: $0.00
+********************

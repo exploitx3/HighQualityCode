@@ -1,0 +1,2981 @@
+User student_1 registered successfully.
+User student_2 registered successfully.
+User student_3 registered successfully.
+User student_4 registered successfully.
+User student_5 registered successfully.
+User student_6 registered successfully.
+User student_7 registered successfully.
+User student_8 registered successfully.
+User student_9 registered successfully.
+User student_10 registered successfully.
+User student_11 registered successfully.
+User student_12 registered successfully.
+User student_13 registered successfully.
+User student_14 registered successfully.
+User student_15 registered successfully.
+User student_16 registered successfully.
+User student_17 registered successfully.
+User student_18 registered successfully.
+User student_19 registered successfully.
+User student_20 registered successfully.
+User student_21 registered successfully.
+User student_22 registered successfully.
+User student_23 registered successfully.
+User student_24 registered successfully.
+User student_25 registered successfully.
+User student_26 registered successfully.
+User student_27 registered successfully.
+User student_28 registered successfully.
+User student_29 registered successfully.
+User student_30 registered successfully.
+User student_31 registered successfully.
+User student_32 registered successfully.
+User student_33 registered successfully.
+User student_34 registered successfully.
+User student_35 registered successfully.
+User student_36 registered successfully.
+User student_37 registered successfully.
+User student_38 registered successfully.
+User student_39 registered successfully.
+User student_40 registered successfully.
+User student_41 registered successfully.
+User student_42 registered successfully.
+User student_43 registered successfully.
+User student_44 registered successfully.
+User student_45 registered successfully.
+User student_46 registered successfully.
+User student_47 registered successfully.
+User student_48 registered successfully.
+User student_49 registered successfully.
+User student_50 registered successfully.
+User student_51 registered successfully.
+User student_52 registered successfully.
+User student_53 registered successfully.
+User student_54 registered successfully.
+User student_55 registered successfully.
+User student_56 registered successfully.
+User student_57 registered successfully.
+User student_58 registered successfully.
+User student_59 registered successfully.
+User student_60 registered successfully.
+User student_61 registered successfully.
+User student_62 registered successfully.
+User student_63 registered successfully.
+User student_64 registered successfully.
+User student_65 registered successfully.
+User student_66 registered successfully.
+User student_67 registered successfully.
+User student_68 registered successfully.
+User student_69 registered successfully.
+User student_70 registered successfully.
+User student_71 registered successfully.
+User student_72 registered successfully.
+User student_73 registered successfully.
+User student_74 registered successfully.
+User student_75 registered successfully.
+User student_76 registered successfully.
+User student_77 registered successfully.
+User student_78 registered successfully.
+User student_79 registered successfully.
+User student_80 registered successfully.
+User student_81 registered successfully.
+User student_82 registered successfully.
+User student_83 registered successfully.
+User student_84 registered successfully.
+User student_85 registered successfully.
+User student_86 registered successfully.
+User student_87 registered successfully.
+User student_88 registered successfully.
+User student_89 registered successfully.
+User student_90 registered successfully.
+User student_91 registered successfully.
+User student_92 registered successfully.
+User student_93 registered successfully.
+User student_94 registered successfully.
+User student_95 registered successfully.
+User student_96 registered successfully.
+User student_97 registered successfully.
+User student_98 registered successfully.
+User student_99 registered successfully.
+User student_100 registered successfully.
+User student_101 registered successfully.
+User student_102 registered successfully.
+User student_103 registered successfully.
+User student_104 registered successfully.
+User student_105 registered successfully.
+User student_106 registered successfully.
+User student_107 registered successfully.
+User student_108 registered successfully.
+User student_109 registered successfully.
+User student_110 registered successfully.
+User student_111 registered successfully.
+User student_112 registered successfully.
+User student_113 registered successfully.
+User student_114 registered successfully.
+User student_115 registered successfully.
+User student_116 registered successfully.
+User student_117 registered successfully.
+User student_118 registered successfully.
+User student_119 registered successfully.
+User student_120 registered successfully.
+User student_121 registered successfully.
+User student_122 registered successfully.
+User student_123 registered successfully.
+User student_124 registered successfully.
+User student_125 registered successfully.
+User student_126 registered successfully.
+User student_127 registered successfully.
+User student_128 registered successfully.
+User student_129 registered successfully.
+User student_130 registered successfully.
+User student_131 registered successfully.
+User student_132 registered successfully.
+User student_133 registered successfully.
+User student_134 registered successfully.
+User student_135 registered successfully.
+User student_136 registered successfully.
+User student_137 registered successfully.
+User student_138 registered successfully.
+User student_139 registered successfully.
+User student_140 registered successfully.
+User student_141 registered successfully.
+User student_142 registered successfully.
+User student_143 registered successfully.
+User student_144 registered successfully.
+User student_145 registered successfully.
+User student_146 registered successfully.
+User student_147 registered successfully.
+User student_148 registered successfully.
+User student_149 registered successfully.
+User student_150 registered successfully.
+User student_151 registered successfully.
+User student_152 registered successfully.
+User student_153 registered successfully.
+User student_154 registered successfully.
+User student_155 registered successfully.
+User student_156 registered successfully.
+User student_157 registered successfully.
+User student_158 registered successfully.
+User student_159 registered successfully.
+User student_160 registered successfully.
+User student_161 registered successfully.
+User student_162 registered successfully.
+User student_163 registered successfully.
+User student_164 registered successfully.
+User student_165 registered successfully.
+User student_166 registered successfully.
+User student_167 registered successfully.
+User student_168 registered successfully.
+User student_169 registered successfully.
+User student_170 registered successfully.
+User student_171 registered successfully.
+User student_172 registered successfully.
+User student_173 registered successfully.
+User student_174 registered successfully.
+User student_175 registered successfully.
+User student_176 registered successfully.
+User student_177 registered successfully.
+User student_178 registered successfully.
+User student_179 registered successfully.
+User student_180 registered successfully.
+User student_181 registered successfully.
+User student_182 registered successfully.
+User student_183 registered successfully.
+User student_184 registered successfully.
+User student_185 registered successfully.
+User student_186 registered successfully.
+User student_187 registered successfully.
+User student_188 registered successfully.
+User student_189 registered successfully.
+User student_190 registered successfully.
+User student_191 registered successfully.
+User student_192 registered successfully.
+User student_193 registered successfully.
+User student_194 registered successfully.
+User student_195 registered successfully.
+User student_196 registered successfully.
+User student_197 registered successfully.
+User student_198 registered successfully.
+User student_199 registered successfully.
+User student_200 registered successfully.
+User student_201 registered successfully.
+User student_202 registered successfully.
+User student_203 registered successfully.
+User student_204 registered successfully.
+User student_205 registered successfully.
+User student_206 registered successfully.
+User student_207 registered successfully.
+User student_208 registered successfully.
+User student_209 registered successfully.
+User student_210 registered successfully.
+User student_211 registered successfully.
+User student_212 registered successfully.
+User student_213 registered successfully.
+User student_214 registered successfully.
+User student_215 registered successfully.
+User student_216 registered successfully.
+User student_217 registered successfully.
+User student_218 registered successfully.
+User student_219 registered successfully.
+User student_220 registered successfully.
+User student_221 registered successfully.
+User student_222 registered successfully.
+User student_223 registered successfully.
+User student_224 registered successfully.
+User student_225 registered successfully.
+User student_226 registered successfully.
+User student_227 registered successfully.
+User student_228 registered successfully.
+User student_229 registered successfully.
+User student_230 registered successfully.
+User student_231 registered successfully.
+User student_232 registered successfully.
+User student_233 registered successfully.
+User student_234 registered successfully.
+User student_235 registered successfully.
+User student_236 registered successfully.
+User student_237 registered successfully.
+User student_238 registered successfully.
+User student_239 registered successfully.
+User student_240 registered successfully.
+User student_241 registered successfully.
+User student_242 registered successfully.
+User student_243 registered successfully.
+User student_244 registered successfully.
+User student_245 registered successfully.
+User student_246 registered successfully.
+User student_247 registered successfully.
+User student_248 registered successfully.
+User student_249 registered successfully.
+User student_250 registered successfully.
+User student_251 registered successfully.
+User student_252 registered successfully.
+User student_253 registered successfully.
+User student_254 registered successfully.
+User student_255 registered successfully.
+User student_256 registered successfully.
+User student_257 registered successfully.
+User student_258 registered successfully.
+User student_259 registered successfully.
+User student_260 registered successfully.
+User student_261 registered successfully.
+User student_262 registered successfully.
+User student_263 registered successfully.
+User student_264 registered successfully.
+User student_265 registered successfully.
+User student_266 registered successfully.
+User student_267 registered successfully.
+User student_268 registered successfully.
+User student_269 registered successfully.
+User student_270 registered successfully.
+User student_271 registered successfully.
+User student_272 registered successfully.
+User student_273 registered successfully.
+User student_274 registered successfully.
+User student_275 registered successfully.
+User student_276 registered successfully.
+User student_277 registered successfully.
+User student_278 registered successfully.
+User student_279 registered successfully.
+User student_280 registered successfully.
+User student_281 registered successfully.
+User student_282 registered successfully.
+User student_283 registered successfully.
+User student_284 registered successfully.
+User student_285 registered successfully.
+User student_286 registered successfully.
+User student_287 registered successfully.
+User student_288 registered successfully.
+User student_289 registered successfully.
+User student_290 registered successfully.
+User student_291 registered successfully.
+User student_292 registered successfully.
+User student_293 registered successfully.
+User student_294 registered successfully.
+User student_295 registered successfully.
+User student_296 registered successfully.
+User student_297 registered successfully.
+User student_298 registered successfully.
+User student_299 registered successfully.
+User student_300 registered successfully.
+User student_301 registered successfully.
+User student_302 registered successfully.
+User student_303 registered successfully.
+User student_304 registered successfully.
+User student_305 registered successfully.
+User student_306 registered successfully.
+User student_307 registered successfully.
+User student_308 registered successfully.
+User student_309 registered successfully.
+User student_310 registered successfully.
+User student_311 registered successfully.
+User student_312 registered successfully.
+User student_313 registered successfully.
+User student_314 registered successfully.
+User student_315 registered successfully.
+User student_316 registered successfully.
+User student_317 registered successfully.
+User student_318 registered successfully.
+User student_319 registered successfully.
+User student_320 registered successfully.
+User student_321 registered successfully.
+User student_322 registered successfully.
+User student_323 registered successfully.
+User student_324 registered successfully.
+User student_325 registered successfully.
+User student_326 registered successfully.
+User student_327 registered successfully.
+User student_328 registered successfully.
+User student_329 registered successfully.
+User student_330 registered successfully.
+User student_331 registered successfully.
+User student_332 registered successfully.
+User student_333 registered successfully.
+User student_334 registered successfully.
+User student_335 registered successfully.
+User student_336 registered successfully.
+User student_337 registered successfully.
+User student_338 registered successfully.
+User student_339 registered successfully.
+User student_340 registered successfully.
+User student_341 registered successfully.
+User student_342 registered successfully.
+User student_343 registered successfully.
+User student_344 registered successfully.
+User student_345 registered successfully.
+User student_346 registered successfully.
+User student_347 registered successfully.
+User student_348 registered successfully.
+User student_349 registered successfully.
+User student_350 registered successfully.
+User student_351 registered successfully.
+User student_352 registered successfully.
+User student_353 registered successfully.
+User student_354 registered successfully.
+User student_355 registered successfully.
+User student_356 registered successfully.
+User student_357 registered successfully.
+User student_358 registered successfully.
+User student_359 registered successfully.
+User student_360 registered successfully.
+User student_361 registered successfully.
+User student_362 registered successfully.
+User student_363 registered successfully.
+User student_364 registered successfully.
+User student_365 registered successfully.
+User student_366 registered successfully.
+User student_367 registered successfully.
+User student_368 registered successfully.
+User student_369 registered successfully.
+User student_370 registered successfully.
+User student_371 registered successfully.
+User student_372 registered successfully.
+User student_373 registered successfully.
+User student_374 registered successfully.
+User student_375 registered successfully.
+User student_376 registered successfully.
+User student_377 registered successfully.
+User student_378 registered successfully.
+User student_379 registered successfully.
+User student_380 registered successfully.
+User student_381 registered successfully.
+User student_382 registered successfully.
+User student_383 registered successfully.
+User student_384 registered successfully.
+User student_385 registered successfully.
+User student_386 registered successfully.
+User student_387 registered successfully.
+User student_388 registered successfully.
+User student_389 registered successfully.
+User student_390 registered successfully.
+User student_391 registered successfully.
+User student_392 registered successfully.
+User student_393 registered successfully.
+User student_394 registered successfully.
+User student_395 registered successfully.
+User student_396 registered successfully.
+User student_397 registered successfully.
+User student_398 registered successfully.
+User student_399 registered successfully.
+User student_400 registered successfully.
+User student_401 registered successfully.
+User student_402 registered successfully.
+User student_403 registered successfully.
+User student_404 registered successfully.
+User student_405 registered successfully.
+User student_406 registered successfully.
+User student_407 registered successfully.
+User student_408 registered successfully.
+User student_409 registered successfully.
+User student_410 registered successfully.
+User student_411 registered successfully.
+User student_412 registered successfully.
+User student_413 registered successfully.
+User student_414 registered successfully.
+User student_415 registered successfully.
+User student_416 registered successfully.
+User student_417 registered successfully.
+User student_418 registered successfully.
+User student_419 registered successfully.
+User student_420 registered successfully.
+User student_421 registered successfully.
+User student_422 registered successfully.
+User student_423 registered successfully.
+User student_424 registered successfully.
+User student_425 registered successfully.
+User student_426 registered successfully.
+User student_427 registered successfully.
+User student_428 registered successfully.
+User student_429 registered successfully.
+User student_430 registered successfully.
+User student_431 registered successfully.
+User student_432 registered successfully.
+User student_433 registered successfully.
+User student_434 registered successfully.
+User student_435 registered successfully.
+User student_436 registered successfully.
+User student_437 registered successfully.
+User student_438 registered successfully.
+User student_439 registered successfully.
+User student_440 registered successfully.
+User student_441 registered successfully.
+User student_442 registered successfully.
+User student_443 registered successfully.
+User student_444 registered successfully.
+User student_445 registered successfully.
+User student_446 registered successfully.
+User student_447 registered successfully.
+User student_448 registered successfully.
+User student_449 registered successfully.
+User student_450 registered successfully.
+User student_451 registered successfully.
+User student_452 registered successfully.
+User student_453 registered successfully.
+User student_454 registered successfully.
+User student_455 registered successfully.
+User student_456 registered successfully.
+User student_457 registered successfully.
+User student_458 registered successfully.
+User student_459 registered successfully.
+User student_460 registered successfully.
+User student_461 registered successfully.
+User student_462 registered successfully.
+User student_463 registered successfully.
+User student_464 registered successfully.
+User student_465 registered successfully.
+User student_466 registered successfully.
+User student_467 registered successfully.
+User student_468 registered successfully.
+User student_469 registered successfully.
+User student_470 registered successfully.
+User student_471 registered successfully.
+User student_472 registered successfully.
+User student_473 registered successfully.
+User student_474 registered successfully.
+User student_475 registered successfully.
+User student_476 registered successfully.
+User student_477 registered successfully.
+User student_478 registered successfully.
+User student_479 registered successfully.
+User student_480 registered successfully.
+User student_481 registered successfully.
+User student_482 registered successfully.
+User student_483 registered successfully.
+User student_484 registered successfully.
+User student_485 registered successfully.
+User student_486 registered successfully.
+User student_487 registered successfully.
+User student_488 registered successfully.
+User student_489 registered successfully.
+User student_490 registered successfully.
+User student_491 registered successfully.
+User student_492 registered successfully.
+User student_493 registered successfully.
+User student_494 registered successfully.
+User student_495 registered successfully.
+User student_496 registered successfully.
+User student_497 registered successfully.
+User student_498 registered successfully.
+User student_499 registered successfully.
+User student_500 registered successfully.
+User lecturer_1 registered successfully.
+User lecturer_2 registered successfully.
+User lecturer_3 registered successfully.
+User lecturer_4 registered successfully.
+User lecturer_5 registered successfully.
+User lecturer_6 registered successfully.
+User lecturer_7 registered successfully.
+User lecturer_8 registered successfully.
+User lecturer_9 registered successfully.
+User lecturer_10 registered successfully.
+A user with username student_1 already exists.
+A user with username student_2 already exists.
+A user with username student_3 already exists.
+A user with username student_4 already exists.
+A user with username student_5 already exists.
+A user with username student_6 already exists.
+A user with username student_7 already exists.
+A user with username student_8 already exists.
+A user with username student_9 already exists.
+A user with username student_10 already exists.
+A user with username student_11 already exists.
+A user with username student_12 already exists.
+A user with username student_13 already exists.
+A user with username student_14 already exists.
+A user with username student_15 already exists.
+A user with username student_16 already exists.
+A user with username student_17 already exists.
+A user with username student_18 already exists.
+A user with username student_19 already exists.
+A user with username student_20 already exists.
+A user with username student_21 already exists.
+A user with username student_22 already exists.
+A user with username student_23 already exists.
+A user with username student_24 already exists.
+A user with username student_25 already exists.
+A user with username student_26 already exists.
+A user with username student_27 already exists.
+A user with username student_28 already exists.
+A user with username student_29 already exists.
+A user with username student_30 already exists.
+A user with username student_31 already exists.
+A user with username student_32 already exists.
+A user with username student_33 already exists.
+A user with username student_34 already exists.
+A user with username student_35 already exists.
+A user with username student_36 already exists.
+A user with username student_37 already exists.
+A user with username student_38 already exists.
+A user with username student_39 already exists.
+A user with username student_40 already exists.
+A user with username student_41 already exists.
+A user with username student_42 already exists.
+A user with username student_43 already exists.
+A user with username student_44 already exists.
+A user with username student_45 already exists.
+A user with username student_46 already exists.
+A user with username student_47 already exists.
+A user with username student_48 already exists.
+A user with username student_49 already exists.
+A user with username student_50 already exists.
+User lecturer_1 logged in successfully.
+Course Course 1 by lecturer 1 created successfully.
+Lecture successfully added to course Course 1 by lecturer 1.
+Lecture successfully added to course Course 1 by lecturer 1.
+Lecture successfully added to course Course 1 by lecturer 1.
+Lecture successfully added to course Course 1 by lecturer 1.
+Lecture successfully added to course Course 1 by lecturer 1.
+Lecture successfully added to course Course 1 by lecturer 1.
+Lecture successfully added to course Course 1 by lecturer 1.
+Lecture successfully added to course Course 1 by lecturer 1.
+Lecture successfully added to course Course 1 by lecturer 1.
+Lecture successfully added to course Course 1 by lecturer 1.
+Course Course 2 by lecturer 1 created successfully.
+Lecture successfully added to course Course 2 by lecturer 1.
+Lecture successfully added to course Course 2 by lecturer 1.
+Lecture successfully added to course Course 2 by lecturer 1.
+Lecture successfully added to course Course 2 by lecturer 1.
+Lecture successfully added to course Course 2 by lecturer 1.
+Lecture successfully added to course Course 2 by lecturer 1.
+Lecture successfully added to course Course 2 by lecturer 1.
+Lecture successfully added to course Course 2 by lecturer 1.
+Lecture successfully added to course Course 2 by lecturer 1.
+Lecture successfully added to course Course 2 by lecturer 1.
+Course Course 3 by lecturer 1 created successfully.
+Lecture successfully added to course Course 3 by lecturer 1.
+Lecture successfully added to course Course 3 by lecturer 1.
+Lecture successfully added to course Course 3 by lecturer 1.
+Lecture successfully added to course Course 3 by lecturer 1.
+Lecture successfully added to course Course 3 by lecturer 1.
+Lecture successfully added to course Course 3 by lecturer 1.
+Lecture successfully added to course Course 3 by lecturer 1.
+Lecture successfully added to course Course 3 by lecturer 1.
+Lecture successfully added to course Course 3 by lecturer 1.
+Lecture successfully added to course Course 3 by lecturer 1.
+Course Course 4 by lecturer 1 created successfully.
+Lecture successfully added to course Course 4 by lecturer 1.
+Lecture successfully added to course Course 4 by lecturer 1.
+Lecture successfully added to course Course 4 by lecturer 1.
+Lecture successfully added to course Course 4 by lecturer 1.
+Lecture successfully added to course Course 4 by lecturer 1.
+Lecture successfully added to course Course 4 by lecturer 1.
+Lecture successfully added to course Course 4 by lecturer 1.
+Lecture successfully added to course Course 4 by lecturer 1.
+Lecture successfully added to course Course 4 by lecturer 1.
+Lecture successfully added to course Course 4 by lecturer 1.
+Course Course 5 by lecturer 1 created successfully.
+Lecture successfully added to course Course 5 by lecturer 1.
+Lecture successfully added to course Course 5 by lecturer 1.
+Lecture successfully added to course Course 5 by lecturer 1.
+Lecture successfully added to course Course 5 by lecturer 1.
+Lecture successfully added to course Course 5 by lecturer 1.
+Lecture successfully added to course Course 5 by lecturer 1.
+Lecture successfully added to course Course 5 by lecturer 1.
+Lecture successfully added to course Course 5 by lecturer 1.
+Lecture successfully added to course Course 5 by lecturer 1.
+Lecture successfully added to course Course 5 by lecturer 1.
+Course Course 6 by lecturer 1 created successfully.
+Lecture successfully added to course Course 6 by lecturer 1.
+Lecture successfully added to course Course 6 by lecturer 1.
+Lecture successfully added to course Course 6 by lecturer 1.
+Lecture successfully added to course Course 6 by lecturer 1.
+Lecture successfully added to course Course 6 by lecturer 1.
+Lecture successfully added to course Course 6 by lecturer 1.
+Lecture successfully added to course Course 6 by lecturer 1.
+Lecture successfully added to course Course 6 by lecturer 1.
+Lecture successfully added to course Course 6 by lecturer 1.
+Lecture successfully added to course Course 6 by lecturer 1.
+Course Course 7 by lecturer 1 created successfully.
+Lecture successfully added to course Course 7 by lecturer 1.
+Lecture successfully added to course Course 7 by lecturer 1.
+Lecture successfully added to course Course 7 by lecturer 1.
+Lecture successfully added to course Course 7 by lecturer 1.
+Lecture successfully added to course Course 7 by lecturer 1.
+Lecture successfully added to course Course 7 by lecturer 1.
+Lecture successfully added to course Course 7 by lecturer 1.
+Lecture successfully added to course Course 7 by lecturer 1.
+Lecture successfully added to course Course 7 by lecturer 1.
+Lecture successfully added to course Course 7 by lecturer 1.
+Course Course 8 by lecturer 1 created successfully.
+Lecture successfully added to course Course 8 by lecturer 1.
+Lecture successfully added to course Course 8 by lecturer 1.
+Lecture successfully added to course Course 8 by lecturer 1.
+Lecture successfully added to course Course 8 by lecturer 1.
+Lecture successfully added to course Course 8 by lecturer 1.
+Lecture successfully added to course Course 8 by lecturer 1.
+Lecture successfully added to course Course 8 by lecturer 1.
+Lecture successfully added to course Course 8 by lecturer 1.
+Lecture successfully added to course Course 8 by lecturer 1.
+Lecture successfully added to course Course 8 by lecturer 1.
+Course Course 9 by lecturer 1 created successfully.
+Lecture successfully added to course Course 9 by lecturer 1.
+Lecture successfully added to course Course 9 by lecturer 1.
+Lecture successfully added to course Course 9 by lecturer 1.
+Lecture successfully added to course Course 9 by lecturer 1.
+Lecture successfully added to course Course 9 by lecturer 1.
+Lecture successfully added to course Course 9 by lecturer 1.
+Lecture successfully added to course Course 9 by lecturer 1.
+Lecture successfully added to course Course 9 by lecturer 1.
+Lecture successfully added to course Course 9 by lecturer 1.
+Lecture successfully added to course Course 9 by lecturer 1.
+Course Course 10 by lecturer 1 created successfully.
+Lecture successfully added to course Course 10 by lecturer 1.
+Lecture successfully added to course Course 10 by lecturer 1.
+Lecture successfully added to course Course 10 by lecturer 1.
+Lecture successfully added to course Course 10 by lecturer 1.
+Lecture successfully added to course Course 10 by lecturer 1.
+Lecture successfully added to course Course 10 by lecturer 1.
+Lecture successfully added to course Course 10 by lecturer 1.
+Lecture successfully added to course Course 10 by lecturer 1.
+Lecture successfully added to course Course 10 by lecturer 1.
+Lecture successfully added to course Course 10 by lecturer 1.
+Course Course 11 by lecturer 1 created successfully.
+Lecture successfully added to course Course 11 by lecturer 1.
+Lecture successfully added to course Course 11 by lecturer 1.
+Lecture successfully added to course Course 11 by lecturer 1.
+Lecture successfully added to course Course 11 by lecturer 1.
+Lecture successfully added to course Course 11 by lecturer 1.
+Lecture successfully added to course Course 11 by lecturer 1.
+Lecture successfully added to course Course 11 by lecturer 1.
+Lecture successfully added to course Course 11 by lecturer 1.
+Lecture successfully added to course Course 11 by lecturer 1.
+Lecture successfully added to course Course 11 by lecturer 1.
+Course Course 12 by lecturer 1 created successfully.
+Lecture successfully added to course Course 12 by lecturer 1.
+Lecture successfully added to course Course 12 by lecturer 1.
+Lecture successfully added to course Course 12 by lecturer 1.
+Lecture successfully added to course Course 12 by lecturer 1.
+Lecture successfully added to course Course 12 by lecturer 1.
+Lecture successfully added to course Course 12 by lecturer 1.
+Lecture successfully added to course Course 12 by lecturer 1.
+Lecture successfully added to course Course 12 by lecturer 1.
+Lecture successfully added to course Course 12 by lecturer 1.
+Lecture successfully added to course Course 12 by lecturer 1.
+Course Course 13 by lecturer 1 created successfully.
+Lecture successfully added to course Course 13 by lecturer 1.
+Lecture successfully added to course Course 13 by lecturer 1.
+Lecture successfully added to course Course 13 by lecturer 1.
+Lecture successfully added to course Course 13 by lecturer 1.
+Lecture successfully added to course Course 13 by lecturer 1.
+Lecture successfully added to course Course 13 by lecturer 1.
+Lecture successfully added to course Course 13 by lecturer 1.
+Lecture successfully added to course Course 13 by lecturer 1.
+Lecture successfully added to course Course 13 by lecturer 1.
+Lecture successfully added to course Course 13 by lecturer 1.
+Course Course 14 by lecturer 1 created successfully.
+Lecture successfully added to course Course 14 by lecturer 1.
+Lecture successfully added to course Course 14 by lecturer 1.
+Lecture successfully added to course Course 14 by lecturer 1.
+Lecture successfully added to course Course 14 by lecturer 1.
+Lecture successfully added to course Course 14 by lecturer 1.
+Lecture successfully added to course Course 14 by lecturer 1.
+Lecture successfully added to course Course 14 by lecturer 1.
+Lecture successfully added to course Course 14 by lecturer 1.
+Lecture successfully added to course Course 14 by lecturer 1.
+Lecture successfully added to course Course 14 by lecturer 1.
+Course Course 15 by lecturer 1 created successfully.
+Lecture successfully added to course Course 15 by lecturer 1.
+Lecture successfully added to course Course 15 by lecturer 1.
+Lecture successfully added to course Course 15 by lecturer 1.
+Lecture successfully added to course Course 15 by lecturer 1.
+Lecture successfully added to course Course 15 by lecturer 1.
+Lecture successfully added to course Course 15 by lecturer 1.
+Lecture successfully added to course Course 15 by lecturer 1.
+Lecture successfully added to course Course 15 by lecturer 1.
+Lecture successfully added to course Course 15 by lecturer 1.
+Lecture successfully added to course Course 15 by lecturer 1.
+Course Course 16 by lecturer 1 created successfully.
+Lecture successfully added to course Course 16 by lecturer 1.
+Lecture successfully added to course Course 16 by lecturer 1.
+Lecture successfully added to course Course 16 by lecturer 1.
+Lecture successfully added to course Course 16 by lecturer 1.
+Lecture successfully added to course Course 16 by lecturer 1.
+Lecture successfully added to course Course 16 by lecturer 1.
+Lecture successfully added to course Course 16 by lecturer 1.
+Lecture successfully added to course Course 16 by lecturer 1.
+Lecture successfully added to course Course 16 by lecturer 1.
+Lecture successfully added to course Course 16 by lecturer 1.
+Course Course 17 by lecturer 1 created successfully.
+Lecture successfully added to course Course 17 by lecturer 1.
+Lecture successfully added to course Course 17 by lecturer 1.
+Lecture successfully added to course Course 17 by lecturer 1.
+Lecture successfully added to course Course 17 by lecturer 1.
+Lecture successfully added to course Course 17 by lecturer 1.
+Lecture successfully added to course Course 17 by lecturer 1.
+Lecture successfully added to course Course 17 by lecturer 1.
+Lecture successfully added to course Course 17 by lecturer 1.
+Lecture successfully added to course Course 17 by lecturer 1.
+Lecture successfully added to course Course 17 by lecturer 1.
+Course Course 18 by lecturer 1 created successfully.
+Lecture successfully added to course Course 18 by lecturer 1.
+Lecture successfully added to course Course 18 by lecturer 1.
+Lecture successfully added to course Course 18 by lecturer 1.
+Lecture successfully added to course Course 18 by lecturer 1.
+Lecture successfully added to course Course 18 by lecturer 1.
+Lecture successfully added to course Course 18 by lecturer 1.
+Lecture successfully added to course Course 18 by lecturer 1.
+Lecture successfully added to course Course 18 by lecturer 1.
+Lecture successfully added to course Course 18 by lecturer 1.
+Lecture successfully added to course Course 18 by lecturer 1.
+Course Course 19 by lecturer 1 created successfully.
+Lecture successfully added to course Course 19 by lecturer 1.
+Lecture successfully added to course Course 19 by lecturer 1.
+Lecture successfully added to course Course 19 by lecturer 1.
+Lecture successfully added to course Course 19 by lecturer 1.
+Lecture successfully added to course Course 19 by lecturer 1.
+Lecture successfully added to course Course 19 by lecturer 1.
+Lecture successfully added to course Course 19 by lecturer 1.
+Lecture successfully added to course Course 19 by lecturer 1.
+Lecture successfully added to course Course 19 by lecturer 1.
+Lecture successfully added to course Course 19 by lecturer 1.
+Course Course 20 by lecturer 1 created successfully.
+Lecture successfully added to course Course 20 by lecturer 1.
+Lecture successfully added to course Course 20 by lecturer 1.
+Lecture successfully added to course Course 20 by lecturer 1.
+Lecture successfully added to course Course 20 by lecturer 1.
+Lecture successfully added to course Course 20 by lecturer 1.
+Lecture successfully added to course Course 20 by lecturer 1.
+Lecture successfully added to course Course 20 by lecturer 1.
+Lecture successfully added to course Course 20 by lecturer 1.
+Lecture successfully added to course Course 20 by lecturer 1.
+Lecture successfully added to course Course 20 by lecturer 1.
+User lecturer_1 logged out successfully.
+User lecturer_2 logged in successfully.
+Course Course 1 by lecturer 2 created successfully.
+Lecture successfully added to course Course 1 by lecturer 1.
+Lecture successfully added to course Course 1 by lecturer 1.
+Lecture successfully added to course Course 1 by lecturer 1.
+Lecture successfully added to course Course 1 by lecturer 1.
+Lecture successfully added to course Course 1 by lecturer 1.
+Lecture successfully added to course Course 1 by lecturer 1.
+Lecture successfully added to course Course 1 by lecturer 1.
+Lecture successfully added to course Course 1 by lecturer 1.
+Lecture successfully added to course Course 1 by lecturer 1.
+Lecture successfully added to course Course 1 by lecturer 1.
+Course Course 2 by lecturer 2 created successfully.
+Lecture successfully added to course Course 2 by lecturer 1.
+Lecture successfully added to course Course 2 by lecturer 1.
+Lecture successfully added to course Course 2 by lecturer 1.
+Lecture successfully added to course Course 2 by lecturer 1.
+Lecture successfully added to course Course 2 by lecturer 1.
+Lecture successfully added to course Course 2 by lecturer 1.
+Lecture successfully added to course Course 2 by lecturer 1.
+Lecture successfully added to course Course 2 by lecturer 1.
+Lecture successfully added to course Course 2 by lecturer 1.
+Lecture successfully added to course Course 2 by lecturer 1.
+Course Course 3 by lecturer 2 created successfully.
+Lecture successfully added to course Course 3 by lecturer 1.
+Lecture successfully added to course Course 3 by lecturer 1.
+Lecture successfully added to course Course 3 by lecturer 1.
+Lecture successfully added to course Course 3 by lecturer 1.
+Lecture successfully added to course Course 3 by lecturer 1.
+Lecture successfully added to course Course 3 by lecturer 1.
+Lecture successfully added to course Course 3 by lecturer 1.
+Lecture successfully added to course Course 3 by lecturer 1.
+Lecture successfully added to course Course 3 by lecturer 1.
+Lecture successfully added to course Course 3 by lecturer 1.
+Course Course 4 by lecturer 2 created successfully.
+Lecture successfully added to course Course 4 by lecturer 1.
+Lecture successfully added to course Course 4 by lecturer 1.
+Lecture successfully added to course Course 4 by lecturer 1.
+Lecture successfully added to course Course 4 by lecturer 1.
+Lecture successfully added to course Course 4 by lecturer 1.
+Lecture successfully added to course Course 4 by lecturer 1.
+Lecture successfully added to course Course 4 by lecturer 1.
+Lecture successfully added to course Course 4 by lecturer 1.
+Lecture successfully added to course Course 4 by lecturer 1.
+Lecture successfully added to course Course 4 by lecturer 1.
+Course Course 5 by lecturer 2 created successfully.
+Lecture successfully added to course Course 5 by lecturer 1.
+Lecture successfully added to course Course 5 by lecturer 1.
+Lecture successfully added to course Course 5 by lecturer 1.
+Lecture successfully added to course Course 5 by lecturer 1.
+Lecture successfully added to course Course 5 by lecturer 1.
+Lecture successfully added to course Course 5 by lecturer 1.
+Lecture successfully added to course Course 5 by lecturer 1.
+Lecture successfully added to course Course 5 by lecturer 1.
+Lecture successfully added to course Course 5 by lecturer 1.
+Lecture successfully added to course Course 5 by lecturer 1.
+Course Course 6 by lecturer 2 created successfully.
+Lecture successfully added to course Course 6 by lecturer 1.
+Lecture successfully added to course Course 6 by lecturer 1.
+Lecture successfully added to course Course 6 by lecturer 1.
+Lecture successfully added to course Course 6 by lecturer 1.
+Lecture successfully added to course Course 6 by lecturer 1.
+Lecture successfully added to course Course 6 by lecturer 1.
+Lecture successfully added to course Course 6 by lecturer 1.
+Lecture successfully added to course Course 6 by lecturer 1.
+Lecture successfully added to course Course 6 by lecturer 1.
+Lecture successfully added to course Course 6 by lecturer 1.
+Course Course 7 by lecturer 2 created successfully.
+Lecture successfully added to course Course 7 by lecturer 1.
+Lecture successfully added to course Course 7 by lecturer 1.
+Lecture successfully added to course Course 7 by lecturer 1.
+Lecture successfully added to course Course 7 by lecturer 1.
+Lecture successfully added to course Course 7 by lecturer 1.
+Lecture successfully added to course Course 7 by lecturer 1.
+Lecture successfully added to course Course 7 by lecturer 1.
+Lecture successfully added to course Course 7 by lecturer 1.
+Lecture successfully added to course Course 7 by lecturer 1.
+Lecture successfully added to course Course 7 by lecturer 1.
+Course Course 8 by lecturer 2 created successfully.
+Lecture successfully added to course Course 8 by lecturer 1.
+Lecture successfully added to course Course 8 by lecturer 1.
+Lecture successfully added to course Course 8 by lecturer 1.
+Lecture successfully added to course Course 8 by lecturer 1.
+Lecture successfully added to course Course 8 by lecturer 1.
+Lecture successfully added to course Course 8 by lecturer 1.
+Lecture successfully added to course Course 8 by lecturer 1.
+Lecture successfully added to course Course 8 by lecturer 1.
+Lecture successfully added to course Course 8 by lecturer 1.
+Lecture successfully added to course Course 8 by lecturer 1.
+Course Course 9 by lecturer 2 created successfully.
+Lecture successfully added to course Course 9 by lecturer 1.
+Lecture successfully added to course Course 9 by lecturer 1.
+Lecture successfully added to course Course 9 by lecturer 1.
+Lecture successfully added to course Course 9 by lecturer 1.
+Lecture successfully added to course Course 9 by lecturer 1.
+Lecture successfully added to course Course 9 by lecturer 1.
+Lecture successfully added to course Course 9 by lecturer 1.
+Lecture successfully added to course Course 9 by lecturer 1.
+Lecture successfully added to course Course 9 by lecturer 1.
+Lecture successfully added to course Course 9 by lecturer 1.
+Course Course 10 by lecturer 2 created successfully.
+Lecture successfully added to course Course 10 by lecturer 1.
+Lecture successfully added to course Course 10 by lecturer 1.
+Lecture successfully added to course Course 10 by lecturer 1.
+Lecture successfully added to course Course 10 by lecturer 1.
+Lecture successfully added to course Course 10 by lecturer 1.
+Lecture successfully added to course Course 10 by lecturer 1.
+Lecture successfully added to course Course 10 by lecturer 1.
+Lecture successfully added to course Course 10 by lecturer 1.
+Lecture successfully added to course Course 10 by lecturer 1.
+Lecture successfully added to course Course 10 by lecturer 1.
+Course Course 11 by lecturer 2 created successfully.
+Lecture successfully added to course Course 11 by lecturer 1.
+Lecture successfully added to course Course 11 by lecturer 1.
+Lecture successfully added to course Course 11 by lecturer 1.
+Lecture successfully added to course Course 11 by lecturer 1.
+Lecture successfully added to course Course 11 by lecturer 1.
+Lecture successfully added to course Course 11 by lecturer 1.
+Lecture successfully added to course Course 11 by lecturer 1.
+Lecture successfully added to course Course 11 by lecturer 1.
+Lecture successfully added to course Course 11 by lecturer 1.
+Lecture successfully added to course Course 11 by lecturer 1.
+Course Course 12 by lecturer 2 created successfully.
+Lecture successfully added to course Course 12 by lecturer 1.
+Lecture successfully added to course Course 12 by lecturer 1.
+Lecture successfully added to course Course 12 by lecturer 1.
+Lecture successfully added to course Course 12 by lecturer 1.
+Lecture successfully added to course Course 12 by lecturer 1.
+Lecture successfully added to course Course 12 by lecturer 1.
+Lecture successfully added to course Course 12 by lecturer 1.
+Lecture successfully added to course Course 12 by lecturer 1.
+Lecture successfully added to course Course 12 by lecturer 1.
+Lecture successfully added to course Course 12 by lecturer 1.
+Course Course 13 by lecturer 2 created successfully.
+Lecture successfully added to course Course 13 by lecturer 1.
+Lecture successfully added to course Course 13 by lecturer 1.
+Lecture successfully added to course Course 13 by lecturer 1.
+Lecture successfully added to course Course 13 by lecturer 1.
+Lecture successfully added to course Course 13 by lecturer 1.
+Lecture successfully added to course Course 13 by lecturer 1.
+Lecture successfully added to course Course 13 by lecturer 1.
+Lecture successfully added to course Course 13 by lecturer 1.
+Lecture successfully added to course Course 13 by lecturer 1.
+Lecture successfully added to course Course 13 by lecturer 1.
+Course Course 14 by lecturer 2 created successfully.
+Lecture successfully added to course Course 14 by lecturer 1.
+Lecture successfully added to course Course 14 by lecturer 1.
+Lecture successfully added to course Course 14 by lecturer 1.
+Lecture successfully added to course Course 14 by lecturer 1.
+Lecture successfully added to course Course 14 by lecturer 1.
+Lecture successfully added to course Course 14 by lecturer 1.
+Lecture successfully added to course Course 14 by lecturer 1.
+Lecture successfully added to course Course 14 by lecturer 1.
+Lecture successfully added to course Course 14 by lecturer 1.
+Lecture successfully added to course Course 14 by lecturer 1.
+Course Course 15 by lecturer 2 created successfully.
+Lecture successfully added to course Course 15 by lecturer 1.
+Lecture successfully added to course Course 15 by lecturer 1.
+Lecture successfully added to course Course 15 by lecturer 1.
+Lecture successfully added to course Course 15 by lecturer 1.
+Lecture successfully added to course Course 15 by lecturer 1.
+Lecture successfully added to course Course 15 by lecturer 1.
+Lecture successfully added to course Course 15 by lecturer 1.
+Lecture successfully added to course Course 15 by lecturer 1.
+Lecture successfully added to course Course 15 by lecturer 1.
+Lecture successfully added to course Course 15 by lecturer 1.
+Course Course 16 by lecturer 2 created successfully.
+Lecture successfully added to course Course 16 by lecturer 1.
+Lecture successfully added to course Course 16 by lecturer 1.
+Lecture successfully added to course Course 16 by lecturer 1.
+Lecture successfully added to course Course 16 by lecturer 1.
+Lecture successfully added to course Course 16 by lecturer 1.
+Lecture successfully added to course Course 16 by lecturer 1.
+Lecture successfully added to course Course 16 by lecturer 1.
+Lecture successfully added to course Course 16 by lecturer 1.
+Lecture successfully added to course Course 16 by lecturer 1.
+Lecture successfully added to course Course 16 by lecturer 1.
+Course Course 17 by lecturer 2 created successfully.
+Lecture successfully added to course Course 17 by lecturer 1.
+Lecture successfully added to course Course 17 by lecturer 1.
+Lecture successfully added to course Course 17 by lecturer 1.
+Lecture successfully added to course Course 17 by lecturer 1.
+Lecture successfully added to course Course 17 by lecturer 1.
+Lecture successfully added to course Course 17 by lecturer 1.
+Lecture successfully added to course Course 17 by lecturer 1.
+Lecture successfully added to course Course 17 by lecturer 1.
+Lecture successfully added to course Course 17 by lecturer 1.
+Lecture successfully added to course Course 17 by lecturer 1.
+Course Course 18 by lecturer 2 created successfully.
+Lecture successfully added to course Course 18 by lecturer 1.
+Lecture successfully added to course Course 18 by lecturer 1.
+Lecture successfully added to course Course 18 by lecturer 1.
+Lecture successfully added to course Course 18 by lecturer 1.
+Lecture successfully added to course Course 18 by lecturer 1.
+Lecture successfully added to course Course 18 by lecturer 1.
+Lecture successfully added to course Course 18 by lecturer 1.
+Lecture successfully added to course Course 18 by lecturer 1.
+Lecture successfully added to course Course 18 by lecturer 1.
+Lecture successfully added to course Course 18 by lecturer 1.
+Course Course 19 by lecturer 2 created successfully.
+Lecture successfully added to course Course 19 by lecturer 1.
+Lecture successfully added to course Course 19 by lecturer 1.
+Lecture successfully added to course Course 19 by lecturer 1.
+Lecture successfully added to course Course 19 by lecturer 1.
+Lecture successfully added to course Course 19 by lecturer 1.
+Lecture successfully added to course Course 19 by lecturer 1.
+Lecture successfully added to course Course 19 by lecturer 1.
+Lecture successfully added to course Course 19 by lecturer 1.
+Lecture successfully added to course Course 19 by lecturer 1.
+Lecture successfully added to course Course 19 by lecturer 1.
+Course Course 20 by lecturer 2 created successfully.
+Lecture successfully added to course Course 20 by lecturer 1.
+Lecture successfully added to course Course 20 by lecturer 1.
+Lecture successfully added to course Course 20 by lecturer 1.
+Lecture successfully added to course Course 20 by lecturer 1.
+Lecture successfully added to course Course 20 by lecturer 1.
+Lecture successfully added to course Course 20 by lecturer 1.
+Lecture successfully added to course Course 20 by lecturer 1.
+Lecture successfully added to course Course 20 by lecturer 1.
+Lecture successfully added to course Course 20 by lecturer 1.
+Lecture successfully added to course Course 20 by lecturer 1.
+User lecturer_2 logged out successfully.
+User lecturer_3 logged in successfully.
+Course Course 1 by lecturer 3 created successfully.
+Lecture successfully added to course Course 1 by lecturer 1.
+Lecture successfully added to course Course 1 by lecturer 1.
+Lecture successfully added to course Course 1 by lecturer 1.
+Lecture successfully added to course Course 1 by lecturer 1.
+Lecture successfully added to course Course 1 by lecturer 1.
+Lecture successfully added to course Course 1 by lecturer 1.
+Lecture successfully added to course Course 1 by lecturer 1.
+Lecture successfully added to course Course 1 by lecturer 1.
+Lecture successfully added to course Course 1 by lecturer 1.
+Lecture successfully added to course Course 1 by lecturer 1.
+Course Course 2 by lecturer 3 created successfully.
+Lecture successfully added to course Course 2 by lecturer 1.
+Lecture successfully added to course Course 2 by lecturer 1.
+Lecture successfully added to course Course 2 by lecturer 1.
+Lecture successfully added to course Course 2 by lecturer 1.
+Lecture successfully added to course Course 2 by lecturer 1.
+Lecture successfully added to course Course 2 by lecturer 1.
+Lecture successfully added to course Course 2 by lecturer 1.
+Lecture successfully added to course Course 2 by lecturer 1.
+Lecture successfully added to course Course 2 by lecturer 1.
+Lecture successfully added to course Course 2 by lecturer 1.
+Course Course 3 by lecturer 3 created successfully.
+Lecture successfully added to course Course 3 by lecturer 1.
+Lecture successfully added to course Course 3 by lecturer 1.
+Lecture successfully added to course Course 3 by lecturer 1.
+Lecture successfully added to course Course 3 by lecturer 1.
+Lecture successfully added to course Course 3 by lecturer 1.
+Lecture successfully added to course Course 3 by lecturer 1.
+Lecture successfully added to course Course 3 by lecturer 1.
+Lecture successfully added to course Course 3 by lecturer 1.
+Lecture successfully added to course Course 3 by lecturer 1.
+Lecture successfully added to course Course 3 by lecturer 1.
+Course Course 4 by lecturer 3 created successfully.
+Lecture successfully added to course Course 4 by lecturer 1.
+Lecture successfully added to course Course 4 by lecturer 1.
+Lecture successfully added to course Course 4 by lecturer 1.
+Lecture successfully added to course Course 4 by lecturer 1.
+Lecture successfully added to course Course 4 by lecturer 1.
+Lecture successfully added to course Course 4 by lecturer 1.
+Lecture successfully added to course Course 4 by lecturer 1.
+Lecture successfully added to course Course 4 by lecturer 1.
+Lecture successfully added to course Course 4 by lecturer 1.
+Lecture successfully added to course Course 4 by lecturer 1.
+Course Course 5 by lecturer 3 created successfully.
+Lecture successfully added to course Course 5 by lecturer 1.
+Lecture successfully added to course Course 5 by lecturer 1.
+Lecture successfully added to course Course 5 by lecturer 1.
+Lecture successfully added to course Course 5 by lecturer 1.
+Lecture successfully added to course Course 5 by lecturer 1.
+Lecture successfully added to course Course 5 by lecturer 1.
+Lecture successfully added to course Course 5 by lecturer 1.
+Lecture successfully added to course Course 5 by lecturer 1.
+Lecture successfully added to course Course 5 by lecturer 1.
+Lecture successfully added to course Course 5 by lecturer 1.
+Course Course 6 by lecturer 3 created successfully.
+Lecture successfully added to course Course 6 by lecturer 1.
+Lecture successfully added to course Course 6 by lecturer 1.
+Lecture successfully added to course Course 6 by lecturer 1.
+Lecture successfully added to course Course 6 by lecturer 1.
+Lecture successfully added to course Course 6 by lecturer 1.
+Lecture successfully added to course Course 6 by lecturer 1.
+Lecture successfully added to course Course 6 by lecturer 1.
+Lecture successfully added to course Course 6 by lecturer 1.
+Lecture successfully added to course Course 6 by lecturer 1.
+Lecture successfully added to course Course 6 by lecturer 1.
+Course Course 7 by lecturer 3 created successfully.
+Lecture successfully added to course Course 7 by lecturer 1.
+Lecture successfully added to course Course 7 by lecturer 1.
+Lecture successfully added to course Course 7 by lecturer 1.
+Lecture successfully added to course Course 7 by lecturer 1.
+Lecture successfully added to course Course 7 by lecturer 1.
+Lecture successfully added to course Course 7 by lecturer 1.
+Lecture successfully added to course Course 7 by lecturer 1.
+Lecture successfully added to course Course 7 by lecturer 1.
+Lecture successfully added to course Course 7 by lecturer 1.
+Lecture successfully added to course Course 7 by lecturer 1.
+Course Course 8 by lecturer 3 created successfully.
+Lecture successfully added to course Course 8 by lecturer 1.
+Lecture successfully added to course Course 8 by lecturer 1.
+Lecture successfully added to course Course 8 by lecturer 1.
+Lecture successfully added to course Course 8 by lecturer 1.
+Lecture successfully added to course Course 8 by lecturer 1.
+Lecture successfully added to course Course 8 by lecturer 1.
+Lecture successfully added to course Course 8 by lecturer 1.
+Lecture successfully added to course Course 8 by lecturer 1.
+Lecture successfully added to course Course 8 by lecturer 1.
+Lecture successfully added to course Course 8 by lecturer 1.
+Course Course 9 by lecturer 3 created successfully.
+Lecture successfully added to course Course 9 by lecturer 1.
+Lecture successfully added to course Course 9 by lecturer 1.
+Lecture successfully added to course Course 9 by lecturer 1.
+Lecture successfully added to course Course 9 by lecturer 1.
+Lecture successfully added to course Course 9 by lecturer 1.
+Lecture successfully added to course Course 9 by lecturer 1.
+Lecture successfully added to course Course 9 by lecturer 1.
+Lecture successfully added to course Course 9 by lecturer 1.
+Lecture successfully added to course Course 9 by lecturer 1.
+Lecture successfully added to course Course 9 by lecturer 1.
+Course Course 10 by lecturer 3 created successfully.
+Lecture successfully added to course Course 10 by lecturer 1.
+Lecture successfully added to course Course 10 by lecturer 1.
+Lecture successfully added to course Course 10 by lecturer 1.
+Lecture successfully added to course Course 10 by lecturer 1.
+Lecture successfully added to course Course 10 by lecturer 1.
+Lecture successfully added to course Course 10 by lecturer 1.
+Lecture successfully added to course Course 10 by lecturer 1.
+Lecture successfully added to course Course 10 by lecturer 1.
+Lecture successfully added to course Course 10 by lecturer 1.
+Lecture successfully added to course Course 10 by lecturer 1.
+Course Course 11 by lecturer 3 created successfully.
+Lecture successfully added to course Course 11 by lecturer 1.
+Lecture successfully added to course Course 11 by lecturer 1.
+Lecture successfully added to course Course 11 by lecturer 1.
+Lecture successfully added to course Course 11 by lecturer 1.
+Lecture successfully added to course Course 11 by lecturer 1.
+Lecture successfully added to course Course 11 by lecturer 1.
+Lecture successfully added to course Course 11 by lecturer 1.
+Lecture successfully added to course Course 11 by lecturer 1.
+Lecture successfully added to course Course 11 by lecturer 1.
+Lecture successfully added to course Course 11 by lecturer 1.
+Course Course 12 by lecturer 3 created successfully.
+Lecture successfully added to course Course 12 by lecturer 1.
+Lecture successfully added to course Course 12 by lecturer 1.
+Lecture successfully added to course Course 12 by lecturer 1.
+Lecture successfully added to course Course 12 by lecturer 1.
+Lecture successfully added to course Course 12 by lecturer 1.
+Lecture successfully added to course Course 12 by lecturer 1.
+Lecture successfully added to course Course 12 by lecturer 1.
+Lecture successfully added to course Course 12 by lecturer 1.
+Lecture successfully added to course Course 12 by lecturer 1.
+Lecture successfully added to course Course 12 by lecturer 1.
+Course Course 13 by lecturer 3 created successfully.
+Lecture successfully added to course Course 13 by lecturer 1.
+Lecture successfully added to course Course 13 by lecturer 1.
+Lecture successfully added to course Course 13 by lecturer 1.
+Lecture successfully added to course Course 13 by lecturer 1.
+Lecture successfully added to course Course 13 by lecturer 1.
+Lecture successfully added to course Course 13 by lecturer 1.
+Lecture successfully added to course Course 13 by lecturer 1.
+Lecture successfully added to course Course 13 by lecturer 1.
+Lecture successfully added to course Course 13 by lecturer 1.
+Lecture successfully added to course Course 13 by lecturer 1.
+Course Course 14 by lecturer 3 created successfully.
+Lecture successfully added to course Course 14 by lecturer 1.
+Lecture successfully added to course Course 14 by lecturer 1.
+Lecture successfully added to course Course 14 by lecturer 1.
+Lecture successfully added to course Course 14 by lecturer 1.
+Lecture successfully added to course Course 14 by lecturer 1.
+Lecture successfully added to course Course 14 by lecturer 1.
+Lecture successfully added to course Course 14 by lecturer 1.
+Lecture successfully added to course Course 14 by lecturer 1.
+Lecture successfully added to course Course 14 by lecturer 1.
+Lecture successfully added to course Course 14 by lecturer 1.
+Course Course 15 by lecturer 3 created successfully.
+Lecture successfully added to course Course 15 by lecturer 1.
+Lecture successfully added to course Course 15 by lecturer 1.
+Lecture successfully added to course Course 15 by lecturer 1.
+Lecture successfully added to course Course 15 by lecturer 1.
+Lecture successfully added to course Course 15 by lecturer 1.
+Lecture successfully added to course Course 15 by lecturer 1.
+Lecture successfully added to course Course 15 by lecturer 1.
+Lecture successfully added to course Course 15 by lecturer 1.
+Lecture successfully added to course Course 15 by lecturer 1.
+Lecture successfully added to course Course 15 by lecturer 1.
+Course Course 16 by lecturer 3 created successfully.
+Lecture successfully added to course Course 16 by lecturer 1.
+Lecture successfully added to course Course 16 by lecturer 1.
+Lecture successfully added to course Course 16 by lecturer 1.
+Lecture successfully added to course Course 16 by lecturer 1.
+Lecture successfully added to course Course 16 by lecturer 1.
+Lecture successfully added to course Course 16 by lecturer 1.
+Lecture successfully added to course Course 16 by lecturer 1.
+Lecture successfully added to course Course 16 by lecturer 1.
+Lecture successfully added to course Course 16 by lecturer 1.
+Lecture successfully added to course Course 16 by lecturer 1.
+Course Course 17 by lecturer 3 created successfully.
+Lecture successfully added to course Course 17 by lecturer 1.
+Lecture successfully added to course Course 17 by lecturer 1.
+Lecture successfully added to course Course 17 by lecturer 1.
+Lecture successfully added to course Course 17 by lecturer 1.
+Lecture successfully added to course Course 17 by lecturer 1.
+Lecture successfully added to course Course 17 by lecturer 1.
+Lecture successfully added to course Course 17 by lecturer 1.
+Lecture successfully added to course Course 17 by lecturer 1.
+Lecture successfully added to course Course 17 by lecturer 1.
+Lecture successfully added to course Course 17 by lecturer 1.
+Course Course 18 by lecturer 3 created successfully.
+Lecture successfully added to course Course 18 by lecturer 1.
+Lecture successfully added to course Course 18 by lecturer 1.
+Lecture successfully added to course Course 18 by lecturer 1.
+Lecture successfully added to course Course 18 by lecturer 1.
+Lecture successfully added to course Course 18 by lecturer 1.
+Lecture successfully added to course Course 18 by lecturer 1.
+Lecture successfully added to course Course 18 by lecturer 1.
+Lecture successfully added to course Course 18 by lecturer 1.
+Lecture successfully added to course Course 18 by lecturer 1.
+Lecture successfully added to course Course 18 by lecturer 1.
+Course Course 19 by lecturer 3 created successfully.
+Lecture successfully added to course Course 19 by lecturer 1.
+Lecture successfully added to course Course 19 by lecturer 1.
+Lecture successfully added to course Course 19 by lecturer 1.
+Lecture successfully added to course Course 19 by lecturer 1.
+Lecture successfully added to course Course 19 by lecturer 1.
+Lecture successfully added to course Course 19 by lecturer 1.
+Lecture successfully added to course Course 19 by lecturer 1.
+Lecture successfully added to course Course 19 by lecturer 1.
+Lecture successfully added to course Course 19 by lecturer 1.
+Lecture successfully added to course Course 19 by lecturer 1.
+Course Course 20 by lecturer 3 created successfully.
+Lecture successfully added to course Course 20 by lecturer 1.
+Lecture successfully added to course Course 20 by lecturer 1.
+Lecture successfully added to course Course 20 by lecturer 1.
+Lecture successfully added to course Course 20 by lecturer 1.
+Lecture successfully added to course Course 20 by lecturer 1.
+Lecture successfully added to course Course 20 by lecturer 1.
+Lecture successfully added to course Course 20 by lecturer 1.
+Lecture successfully added to course Course 20 by lecturer 1.
+Lecture successfully added to course Course 20 by lecturer 1.
+Lecture successfully added to course Course 20 by lecturer 1.
+User lecturer_3 logged out successfully.
+User lecturer_4 logged in successfully.
+Course Course 1 by lecturer 4 created successfully.
+Lecture successfully added to course Course 1 by lecturer 1.
+Lecture successfully added to course Course 1 by lecturer 1.
+Lecture successfully added to course Course 1 by lecturer 1.
+Lecture successfully added to course Course 1 by lecturer 1.
+Lecture successfully added to course Course 1 by lecturer 1.
+Lecture successfully added to course Course 1 by lecturer 1.
+Lecture successfully added to course Course 1 by lecturer 1.
+Lecture successfully added to course Course 1 by lecturer 1.
+Lecture successfully added to course Course 1 by lecturer 1.
+Lecture successfully added to course Course 1 by lecturer 1.
+Course Course 2 by lecturer 4 created successfully.
+Lecture successfully added to course Course 2 by lecturer 1.
+Lecture successfully added to course Course 2 by lecturer 1.
+Lecture successfully added to course Course 2 by lecturer 1.
+Lecture successfully added to course Course 2 by lecturer 1.
+Lecture successfully added to course Course 2 by lecturer 1.
+Lecture successfully added to course Course 2 by lecturer 1.
+Lecture successfully added to course Course 2 by lecturer 1.
+Lecture successfully added to course Course 2 by lecturer 1.
+Lecture successfully added to course Course 2 by lecturer 1.
+Lecture successfully added to course Course 2 by lecturer 1.
+Course Course 3 by lecturer 4 created successfully.
+Lecture successfully added to course Course 3 by lecturer 1.
+Lecture successfully added to course Course 3 by lecturer 1.
+Lecture successfully added to course Course 3 by lecturer 1.
+Lecture successfully added to course Course 3 by lecturer 1.
+Lecture successfully added to course Course 3 by lecturer 1.
+Lecture successfully added to course Course 3 by lecturer 1.
+Lecture successfully added to course Course 3 by lecturer 1.
+Lecture successfully added to course Course 3 by lecturer 1.
+Lecture successfully added to course Course 3 by lecturer 1.
+Lecture successfully added to course Course 3 by lecturer 1.
+Course Course 4 by lecturer 4 created successfully.
+Lecture successfully added to course Course 4 by lecturer 1.
+Lecture successfully added to course Course 4 by lecturer 1.
+Lecture successfully added to course Course 4 by lecturer 1.
+Lecture successfully added to course Course 4 by lecturer 1.
+Lecture successfully added to course Course 4 by lecturer 1.
+Lecture successfully added to course Course 4 by lecturer 1.
+Lecture successfully added to course Course 4 by lecturer 1.
+Lecture successfully added to course Course 4 by lecturer 1.
+Lecture successfully added to course Course 4 by lecturer 1.
+Lecture successfully added to course Course 4 by lecturer 1.
+Course Course 5 by lecturer 4 created successfully.
+Lecture successfully added to course Course 5 by lecturer 1.
+Lecture successfully added to course Course 5 by lecturer 1.
+Lecture successfully added to course Course 5 by lecturer 1.
+Lecture successfully added to course Course 5 by lecturer 1.
+Lecture successfully added to course Course 5 by lecturer 1.
+Lecture successfully added to course Course 5 by lecturer 1.
+Lecture successfully added to course Course 5 by lecturer 1.
+Lecture successfully added to course Course 5 by lecturer 1.
+Lecture successfully added to course Course 5 by lecturer 1.
+Lecture successfully added to course Course 5 by lecturer 1.
+Course Course 6 by lecturer 4 created successfully.
+Lecture successfully added to course Course 6 by lecturer 1.
+Lecture successfully added to course Course 6 by lecturer 1.
+Lecture successfully added to course Course 6 by lecturer 1.
+Lecture successfully added to course Course 6 by lecturer 1.
+Lecture successfully added to course Course 6 by lecturer 1.
+Lecture successfully added to course Course 6 by lecturer 1.
+Lecture successfully added to course Course 6 by lecturer 1.
+Lecture successfully added to course Course 6 by lecturer 1.
+Lecture successfully added to course Course 6 by lecturer 1.
+Lecture successfully added to course Course 6 by lecturer 1.
+Course Course 7 by lecturer 4 created successfully.
+Lecture successfully added to course Course 7 by lecturer 1.
+Lecture successfully added to course Course 7 by lecturer 1.
+Lecture successfully added to course Course 7 by lecturer 1.
+Lecture successfully added to course Course 7 by lecturer 1.
+Lecture successfully added to course Course 7 by lecturer 1.
+Lecture successfully added to course Course 7 by lecturer 1.
+Lecture successfully added to course Course 7 by lecturer 1.
+Lecture successfully added to course Course 7 by lecturer 1.
+Lecture successfully added to course Course 7 by lecturer 1.
+Lecture successfully added to course Course 7 by lecturer 1.
+Course Course 8 by lecturer 4 created successfully.
+Lecture successfully added to course Course 8 by lecturer 1.
+Lecture successfully added to course Course 8 by lecturer 1.
+Lecture successfully added to course Course 8 by lecturer 1.
+Lecture successfully added to course Course 8 by lecturer 1.
+Lecture successfully added to course Course 8 by lecturer 1.
+Lecture successfully added to course Course 8 by lecturer 1.
+Lecture successfully added to course Course 8 by lecturer 1.
+Lecture successfully added to course Course 8 by lecturer 1.
+Lecture successfully added to course Course 8 by lecturer 1.
+Lecture successfully added to course Course 8 by lecturer 1.
+Course Course 9 by lecturer 4 created successfully.
+Lecture successfully added to course Course 9 by lecturer 1.
+Lecture successfully added to course Course 9 by lecturer 1.
+Lecture successfully added to course Course 9 by lecturer 1.
+Lecture successfully added to course Course 9 by lecturer 1.
+Lecture successfully added to course Course 9 by lecturer 1.
+Lecture successfully added to course Course 9 by lecturer 1.
+Lecture successfully added to course Course 9 by lecturer 1.
+Lecture successfully added to course Course 9 by lecturer 1.
+Lecture successfully added to course Course 9 by lecturer 1.
+Lecture successfully added to course Course 9 by lecturer 1.
+Course Course 10 by lecturer 4 created successfully.
+Lecture successfully added to course Course 10 by lecturer 1.
+Lecture successfully added to course Course 10 by lecturer 1.
+Lecture successfully added to course Course 10 by lecturer 1.
+Lecture successfully added to course Course 10 by lecturer 1.
+Lecture successfully added to course Course 10 by lecturer 1.
+Lecture successfully added to course Course 10 by lecturer 1.
+Lecture successfully added to course Course 10 by lecturer 1.
+Lecture successfully added to course Course 10 by lecturer 1.
+Lecture successfully added to course Course 10 by lecturer 1.
+Lecture successfully added to course Course 10 by lecturer 1.
+Course Course 11 by lecturer 4 created successfully.
+Lecture successfully added to course Course 11 by lecturer 1.
+Lecture successfully added to course Course 11 by lecturer 1.
+Lecture successfully added to course Course 11 by lecturer 1.
+Lecture successfully added to course Course 11 by lecturer 1.
+Lecture successfully added to course Course 11 by lecturer 1.
+Lecture successfully added to course Course 11 by lecturer 1.
+Lecture successfully added to course Course 11 by lecturer 1.
+Lecture successfully added to course Course 11 by lecturer 1.
+Lecture successfully added to course Course 11 by lecturer 1.
+Lecture successfully added to course Course 11 by lecturer 1.
+Course Course 12 by lecturer 4 created successfully.
+Lecture successfully added to course Course 12 by lecturer 1.
+Lecture successfully added to course Course 12 by lecturer 1.
+Lecture successfully added to course Course 12 by lecturer 1.
+Lecture successfully added to course Course 12 by lecturer 1.
+Lecture successfully added to course Course 12 by lecturer 1.
+Lecture successfully added to course Course 12 by lecturer 1.
+Lecture successfully added to course Course 12 by lecturer 1.
+Lecture successfully added to course Course 12 by lecturer 1.
+Lecture successfully added to course Course 12 by lecturer 1.
+Lecture successfully added to course Course 12 by lecturer 1.
+Course Course 13 by lecturer 4 created successfully.
+Lecture successfully added to course Course 13 by lecturer 1.
+Lecture successfully added to course Course 13 by lecturer 1.
+Lecture successfully added to course Course 13 by lecturer 1.
+Lecture successfully added to course Course 13 by lecturer 1.
+Lecture successfully added to course Course 13 by lecturer 1.
+Lecture successfully added to course Course 13 by lecturer 1.
+Lecture successfully added to course Course 13 by lecturer 1.
+Lecture successfully added to course Course 13 by lecturer 1.
+Lecture successfully added to course Course 13 by lecturer 1.
+Lecture successfully added to course Course 13 by lecturer 1.
+Course Course 14 by lecturer 4 created successfully.
+Lecture successfully added to course Course 14 by lecturer 1.
+Lecture successfully added to course Course 14 by lecturer 1.
+Lecture successfully added to course Course 14 by lecturer 1.
+Lecture successfully added to course Course 14 by lecturer 1.
+Lecture successfully added to course Course 14 by lecturer 1.
+Lecture successfully added to course Course 14 by lecturer 1.
+Lecture successfully added to course Course 14 by lecturer 1.
+Lecture successfully added to course Course 14 by lecturer 1.
+Lecture successfully added to course Course 14 by lecturer 1.
+Lecture successfully added to course Course 14 by lecturer 1.
+Course Course 15 by lecturer 4 created successfully.
+Lecture successfully added to course Course 15 by lecturer 1.
+Lecture successfully added to course Course 15 by lecturer 1.
+Lecture successfully added to course Course 15 by lecturer 1.
+Lecture successfully added to course Course 15 by lecturer 1.
+Lecture successfully added to course Course 15 by lecturer 1.
+Lecture successfully added to course Course 15 by lecturer 1.
+Lecture successfully added to course Course 15 by lecturer 1.
+Lecture successfully added to course Course 15 by lecturer 1.
+Lecture successfully added to course Course 15 by lecturer 1.
+Lecture successfully added to course Course 15 by lecturer 1.
+Course Course 16 by lecturer 4 created successfully.
+Lecture successfully added to course Course 16 by lecturer 1.
+Lecture successfully added to course Course 16 by lecturer 1.
+Lecture successfully added to course Course 16 by lecturer 1.
+Lecture successfully added to course Course 16 by lecturer 1.
+Lecture successfully added to course Course 16 by lecturer 1.
+Lecture successfully added to course Course 16 by lecturer 1.
+Lecture successfully added to course Course 16 by lecturer 1.
+Lecture successfully added to course Course 16 by lecturer 1.
+Lecture successfully added to course Course 16 by lecturer 1.
+Lecture successfully added to course Course 16 by lecturer 1.
+Course Course 17 by lecturer 4 created successfully.
+Lecture successfully added to course Course 17 by lecturer 1.
+Lecture successfully added to course Course 17 by lecturer 1.
+Lecture successfully added to course Course 17 by lecturer 1.
+Lecture successfully added to course Course 17 by lecturer 1.
+Lecture successfully added to course Course 17 by lecturer 1.
+Lecture successfully added to course Course 17 by lecturer 1.
+Lecture successfully added to course Course 17 by lecturer 1.
+Lecture successfully added to course Course 17 by lecturer 1.
+Lecture successfully added to course Course 17 by lecturer 1.
+Lecture successfully added to course Course 17 by lecturer 1.
+Course Course 18 by lecturer 4 created successfully.
+Lecture successfully added to course Course 18 by lecturer 1.
+Lecture successfully added to course Course 18 by lecturer 1.
+Lecture successfully added to course Course 18 by lecturer 1.
+Lecture successfully added to course Course 18 by lecturer 1.
+Lecture successfully added to course Course 18 by lecturer 1.
+Lecture successfully added to course Course 18 by lecturer 1.
+Lecture successfully added to course Course 18 by lecturer 1.
+Lecture successfully added to course Course 18 by lecturer 1.
+Lecture successfully added to course Course 18 by lecturer 1.
+Lecture successfully added to course Course 18 by lecturer 1.
+Course Course 19 by lecturer 4 created successfully.
+Lecture successfully added to course Course 19 by lecturer 1.
+Lecture successfully added to course Course 19 by lecturer 1.
+Lecture successfully added to course Course 19 by lecturer 1.
+Lecture successfully added to course Course 19 by lecturer 1.
+Lecture successfully added to course Course 19 by lecturer 1.
+Lecture successfully added to course Course 19 by lecturer 1.
+Lecture successfully added to course Course 19 by lecturer 1.
+Lecture successfully added to course Course 19 by lecturer 1.
+Lecture successfully added to course Course 19 by lecturer 1.
+Lecture successfully added to course Course 19 by lecturer 1.
+Course Course 20 by lecturer 4 created successfully.
+Lecture successfully added to course Course 20 by lecturer 1.
+Lecture successfully added to course Course 20 by lecturer 1.
+Lecture successfully added to course Course 20 by lecturer 1.
+Lecture successfully added to course Course 20 by lecturer 1.
+Lecture successfully added to course Course 20 by lecturer 1.
+Lecture successfully added to course Course 20 by lecturer 1.
+Lecture successfully added to course Course 20 by lecturer 1.
+Lecture successfully added to course Course 20 by lecturer 1.
+Lecture successfully added to course Course 20 by lecturer 1.
+Lecture successfully added to course Course 20 by lecturer 1.
+User lecturer_4 logged out successfully.
+User lecturer_5 logged in successfully.
+Course Course 1 by lecturer 5 created successfully.
+Lecture successfully added to course Course 1 by lecturer 1.
+Lecture successfully added to course Course 1 by lecturer 1.
+Lecture successfully added to course Course 1 by lecturer 1.
+Lecture successfully added to course Course 1 by lecturer 1.
+Lecture successfully added to course Course 1 by lecturer 1.
+Lecture successfully added to course Course 1 by lecturer 1.
+Lecture successfully added to course Course 1 by lecturer 1.
+Lecture successfully added to course Course 1 by lecturer 1.
+Lecture successfully added to course Course 1 by lecturer 1.
+Lecture successfully added to course Course 1 by lecturer 1.
+Course Course 2 by lecturer 5 created successfully.
+Lecture successfully added to course Course 2 by lecturer 1.
+Lecture successfully added to course Course 2 by lecturer 1.
+Lecture successfully added to course Course 2 by lecturer 1.
+Lecture successfully added to course Course 2 by lecturer 1.
+Lecture successfully added to course Course 2 by lecturer 1.
+Lecture successfully added to course Course 2 by lecturer 1.
+Lecture successfully added to course Course 2 by lecturer 1.
+Lecture successfully added to course Course 2 by lecturer 1.
+Lecture successfully added to course Course 2 by lecturer 1.
+Lecture successfully added to course Course 2 by lecturer 1.
+Course Course 3 by lecturer 5 created successfully.
+Lecture successfully added to course Course 3 by lecturer 1.
+Lecture successfully added to course Course 3 by lecturer 1.
+Lecture successfully added to course Course 3 by lecturer 1.
+Lecture successfully added to course Course 3 by lecturer 1.
+Lecture successfully added to course Course 3 by lecturer 1.
+Lecture successfully added to course Course 3 by lecturer 1.
+Lecture successfully added to course Course 3 by lecturer 1.
+Lecture successfully added to course Course 3 by lecturer 1.
+Lecture successfully added to course Course 3 by lecturer 1.
+Lecture successfully added to course Course 3 by lecturer 1.
+Course Course 4 by lecturer 5 created successfully.
+Lecture successfully added to course Course 4 by lecturer 1.
+Lecture successfully added to course Course 4 by lecturer 1.
+Lecture successfully added to course Course 4 by lecturer 1.
+Lecture successfully added to course Course 4 by lecturer 1.
+Lecture successfully added to course Course 4 by lecturer 1.
+Lecture successfully added to course Course 4 by lecturer 1.
+Lecture successfully added to course Course 4 by lecturer 1.
+Lecture successfully added to course Course 4 by lecturer 1.
+Lecture successfully added to course Course 4 by lecturer 1.
+Lecture successfully added to course Course 4 by lecturer 1.
+Course Course 5 by lecturer 5 created successfully.
+Lecture successfully added to course Course 5 by lecturer 1.
+Lecture successfully added to course Course 5 by lecturer 1.
+Lecture successfully added to course Course 5 by lecturer 1.
+Lecture successfully added to course Course 5 by lecturer 1.
+Lecture successfully added to course Course 5 by lecturer 1.
+Lecture successfully added to course Course 5 by lecturer 1.
+Lecture successfully added to course Course 5 by lecturer 1.
+Lecture successfully added to course Course 5 by lecturer 1.
+Lecture successfully added to course Course 5 by lecturer 1.
+Lecture successfully added to course Course 5 by lecturer 1.
+Course Course 6 by lecturer 5 created successfully.
+Lecture successfully added to course Course 6 by lecturer 1.
+Lecture successfully added to course Course 6 by lecturer 1.
+Lecture successfully added to course Course 6 by lecturer 1.
+Lecture successfully added to course Course 6 by lecturer 1.
+Lecture successfully added to course Course 6 by lecturer 1.
+Lecture successfully added to course Course 6 by lecturer 1.
+Lecture successfully added to course Course 6 by lecturer 1.
+Lecture successfully added to course Course 6 by lecturer 1.
+Lecture successfully added to course Course 6 by lecturer 1.
+Lecture successfully added to course Course 6 by lecturer 1.
+Course Course 7 by lecturer 5 created successfully.
+Lecture successfully added to course Course 7 by lecturer 1.
+Lecture successfully added to course Course 7 by lecturer 1.
+Lecture successfully added to course Course 7 by lecturer 1.
+Lecture successfully added to course Course 7 by lecturer 1.
+Lecture successfully added to course Course 7 by lecturer 1.
+Lecture successfully added to course Course 7 by lecturer 1.
+Lecture successfully added to course Course 7 by lecturer 1.
+Lecture successfully added to course Course 7 by lecturer 1.
+Lecture successfully added to course Course 7 by lecturer 1.
+Lecture successfully added to course Course 7 by lecturer 1.
+Course Course 8 by lecturer 5 created successfully.
+Lecture successfully added to course Course 8 by lecturer 1.
+Lecture successfully added to course Course 8 by lecturer 1.
+Lecture successfully added to course Course 8 by lecturer 1.
+Lecture successfully added to course Course 8 by lecturer 1.
+Lecture successfully added to course Course 8 by lecturer 1.
+Lecture successfully added to course Course 8 by lecturer 1.
+Lecture successfully added to course Course 8 by lecturer 1.
+Lecture successfully added to course Course 8 by lecturer 1.
+Lecture successfully added to course Course 8 by lecturer 1.
+Lecture successfully added to course Course 8 by lecturer 1.
+Course Course 9 by lecturer 5 created successfully.
+Lecture successfully added to course Course 9 by lecturer 1.
+Lecture successfully added to course Course 9 by lecturer 1.
+Lecture successfully added to course Course 9 by lecturer 1.
+Lecture successfully added to course Course 9 by lecturer 1.
+Lecture successfully added to course Course 9 by lecturer 1.
+Lecture successfully added to course Course 9 by lecturer 1.
+Lecture successfully added to course Course 9 by lecturer 1.
+Lecture successfully added to course Course 9 by lecturer 1.
+Lecture successfully added to course Course 9 by lecturer 1.
+Lecture successfully added to course Course 9 by lecturer 1.
+Course Course 10 by lecturer 5 created successfully.
+Lecture successfully added to course Course 10 by lecturer 1.
+Lecture successfully added to course Course 10 by lecturer 1.
+Lecture successfully added to course Course 10 by lecturer 1.
+Lecture successfully added to course Course 10 by lecturer 1.
+Lecture successfully added to course Course 10 by lecturer 1.
+Lecture successfully added to course Course 10 by lecturer 1.
+Lecture successfully added to course Course 10 by lecturer 1.
+Lecture successfully added to course Course 10 by lecturer 1.
+Lecture successfully added to course Course 10 by lecturer 1.
+Lecture successfully added to course Course 10 by lecturer 1.
+Course Course 11 by lecturer 5 created successfully.
+Lecture successfully added to course Course 11 by lecturer 1.
+Lecture successfully added to course Course 11 by lecturer 1.
+Lecture successfully added to course Course 11 by lecturer 1.
+Lecture successfully added to course Course 11 by lecturer 1.
+Lecture successfully added to course Course 11 by lecturer 1.
+Lecture successfully added to course Course 11 by lecturer 1.
+Lecture successfully added to course Course 11 by lecturer 1.
+Lecture successfully added to course Course 11 by lecturer 1.
+Lecture successfully added to course Course 11 by lecturer 1.
+Lecture successfully added to course Course 11 by lecturer 1.
+Course Course 12 by lecturer 5 created successfully.
+Lecture successfully added to course Course 12 by lecturer 1.
+Lecture successfully added to course Course 12 by lecturer 1.
+Lecture successfully added to course Course 12 by lecturer 1.
+Lecture successfully added to course Course 12 by lecturer 1.
+Lecture successfully added to course Course 12 by lecturer 1.
+Lecture successfully added to course Course 12 by lecturer 1.
+Lecture successfully added to course Course 12 by lecturer 1.
+Lecture successfully added to course Course 12 by lecturer 1.
+Lecture successfully added to course Course 12 by lecturer 1.
+Lecture successfully added to course Course 12 by lecturer 1.
+Course Course 13 by lecturer 5 created successfully.
+Lecture successfully added to course Course 13 by lecturer 1.
+Lecture successfully added to course Course 13 by lecturer 1.
+Lecture successfully added to course Course 13 by lecturer 1.
+Lecture successfully added to course Course 13 by lecturer 1.
+Lecture successfully added to course Course 13 by lecturer 1.
+Lecture successfully added to course Course 13 by lecturer 1.
+Lecture successfully added to course Course 13 by lecturer 1.
+Lecture successfully added to course Course 13 by lecturer 1.
+Lecture successfully added to course Course 13 by lecturer 1.
+Lecture successfully added to course Course 13 by lecturer 1.
+Course Course 14 by lecturer 5 created successfully.
+Lecture successfully added to course Course 14 by lecturer 1.
+Lecture successfully added to course Course 14 by lecturer 1.
+Lecture successfully added to course Course 14 by lecturer 1.
+Lecture successfully added to course Course 14 by lecturer 1.
+Lecture successfully added to course Course 14 by lecturer 1.
+Lecture successfully added to course Course 14 by lecturer 1.
+Lecture successfully added to course Course 14 by lecturer 1.
+Lecture successfully added to course Course 14 by lecturer 1.
+Lecture successfully added to course Course 14 by lecturer 1.
+Lecture successfully added to course Course 14 by lecturer 1.
+Course Course 15 by lecturer 5 created successfully.
+Lecture successfully added to course Course 15 by lecturer 1.
+Lecture successfully added to course Course 15 by lecturer 1.
+Lecture successfully added to course Course 15 by lecturer 1.
+Lecture successfully added to course Course 15 by lecturer 1.
+Lecture successfully added to course Course 15 by lecturer 1.
+Lecture successfully added to course Course 15 by lecturer 1.
+Lecture successfully added to course Course 15 by lecturer 1.
+Lecture successfully added to course Course 15 by lecturer 1.
+Lecture successfully added to course Course 15 by lecturer 1.
+Lecture successfully added to course Course 15 by lecturer 1.
+Course Course 16 by lecturer 5 created successfully.
+Lecture successfully added to course Course 16 by lecturer 1.
+Lecture successfully added to course Course 16 by lecturer 1.
+Lecture successfully added to course Course 16 by lecturer 1.
+Lecture successfully added to course Course 16 by lecturer 1.
+Lecture successfully added to course Course 16 by lecturer 1.
+Lecture successfully added to course Course 16 by lecturer 1.
+Lecture successfully added to course Course 16 by lecturer 1.
+Lecture successfully added to course Course 16 by lecturer 1.
+Lecture successfully added to course Course 16 by lecturer 1.
+Lecture successfully added to course Course 16 by lecturer 1.
+Course Course 17 by lecturer 5 created successfully.
+Lecture successfully added to course Course 17 by lecturer 1.
+Lecture successfully added to course Course 17 by lecturer 1.
+Lecture successfully added to course Course 17 by lecturer 1.
+Lecture successfully added to course Course 17 by lecturer 1.
+Lecture successfully added to course Course 17 by lecturer 1.
+Lecture successfully added to course Course 17 by lecturer 1.
+Lecture successfully added to course Course 17 by lecturer 1.
+Lecture successfully added to course Course 17 by lecturer 1.
+Lecture successfully added to course Course 17 by lecturer 1.
+Lecture successfully added to course Course 17 by lecturer 1.
+Course Course 18 by lecturer 5 created successfully.
+Lecture successfully added to course Course 18 by lecturer 1.
+Lecture successfully added to course Course 18 by lecturer 1.
+Lecture successfully added to course Course 18 by lecturer 1.
+Lecture successfully added to course Course 18 by lecturer 1.
+Lecture successfully added to course Course 18 by lecturer 1.
+Lecture successfully added to course Course 18 by lecturer 1.
+Lecture successfully added to course Course 18 by lecturer 1.
+Lecture successfully added to course Course 18 by lecturer 1.
+Lecture successfully added to course Course 18 by lecturer 1.
+Lecture successfully added to course Course 18 by lecturer 1.
+Course Course 19 by lecturer 5 created successfully.
+Lecture successfully added to course Course 19 by lecturer 1.
+Lecture successfully added to course Course 19 by lecturer 1.
+Lecture successfully added to course Course 19 by lecturer 1.
+Lecture successfully added to course Course 19 by lecturer 1.
+Lecture successfully added to course Course 19 by lecturer 1.
+Lecture successfully added to course Course 19 by lecturer 1.
+Lecture successfully added to course Course 19 by lecturer 1.
+Lecture successfully added to course Course 19 by lecturer 1.
+Lecture successfully added to course Course 19 by lecturer 1.
+Lecture successfully added to course Course 19 by lecturer 1.
+Course Course 20 by lecturer 5 created successfully.
+Lecture successfully added to course Course 20 by lecturer 1.
+Lecture successfully added to course Course 20 by lecturer 1.
+Lecture successfully added to course Course 20 by lecturer 1.
+Lecture successfully added to course Course 20 by lecturer 1.
+Lecture successfully added to course Course 20 by lecturer 1.
+Lecture successfully added to course Course 20 by lecturer 1.
+Lecture successfully added to course Course 20 by lecturer 1.
+Lecture successfully added to course Course 20 by lecturer 1.
+Lecture successfully added to course Course 20 by lecturer 1.
+Lecture successfully added to course Course 20 by lecturer 1.
+User lecturer_5 logged out successfully.
+User lecturer_6 logged in successfully.
+Course Course 1 by lecturer 6 created successfully.
+Lecture successfully added to course Course 1 by lecturer 1.
+Lecture successfully added to course Course 1 by lecturer 1.
+Lecture successfully added to course Course 1 by lecturer 1.
+Lecture successfully added to course Course 1 by lecturer 1.
+Lecture successfully added to course Course 1 by lecturer 1.
+Lecture successfully added to course Course 1 by lecturer 1.
+Lecture successfully added to course Course 1 by lecturer 1.
+Lecture successfully added to course Course 1 by lecturer 1.
+Lecture successfully added to course Course 1 by lecturer 1.
+Lecture successfully added to course Course 1 by lecturer 1.
+Course Course 2 by lecturer 6 created successfully.
+Lecture successfully added to course Course 2 by lecturer 1.
+Lecture successfully added to course Course 2 by lecturer 1.
+Lecture successfully added to course Course 2 by lecturer 1.
+Lecture successfully added to course Course 2 by lecturer 1.
+Lecture successfully added to course Course 2 by lecturer 1.
+Lecture successfully added to course Course 2 by lecturer 1.
+Lecture successfully added to course Course 2 by lecturer 1.
+Lecture successfully added to course Course 2 by lecturer 1.
+Lecture successfully added to course Course 2 by lecturer 1.
+Lecture successfully added to course Course 2 by lecturer 1.
+Course Course 3 by lecturer 6 created successfully.
+Lecture successfully added to course Course 3 by lecturer 1.
+Lecture successfully added to course Course 3 by lecturer 1.
+Lecture successfully added to course Course 3 by lecturer 1.
+Lecture successfully added to course Course 3 by lecturer 1.
+Lecture successfully added to course Course 3 by lecturer 1.
+Lecture successfully added to course Course 3 by lecturer 1.
+Lecture successfully added to course Course 3 by lecturer 1.
+Lecture successfully added to course Course 3 by lecturer 1.
+Lecture successfully added to course Course 3 by lecturer 1.
+Lecture successfully added to course Course 3 by lecturer 1.
+Course Course 4 by lecturer 6 created successfully.
+Lecture successfully added to course Course 4 by lecturer 1.
+Lecture successfully added to course Course 4 by lecturer 1.
+Lecture successfully added to course Course 4 by lecturer 1.
+Lecture successfully added to course Course 4 by lecturer 1.
+Lecture successfully added to course Course 4 by lecturer 1.
+Lecture successfully added to course Course 4 by lecturer 1.
+Lecture successfully added to course Course 4 by lecturer 1.
+Lecture successfully added to course Course 4 by lecturer 1.
+Lecture successfully added to course Course 4 by lecturer 1.
+Lecture successfully added to course Course 4 by lecturer 1.
+Course Course 5 by lecturer 6 created successfully.
+Lecture successfully added to course Course 5 by lecturer 1.
+Lecture successfully added to course Course 5 by lecturer 1.
+Lecture successfully added to course Course 5 by lecturer 1.
+Lecture successfully added to course Course 5 by lecturer 1.
+Lecture successfully added to course Course 5 by lecturer 1.
+Lecture successfully added to course Course 5 by lecturer 1.
+Lecture successfully added to course Course 5 by lecturer 1.
+Lecture successfully added to course Course 5 by lecturer 1.
+Lecture successfully added to course Course 5 by lecturer 1.
+Lecture successfully added to course Course 5 by lecturer 1.
+Course Course 6 by lecturer 6 created successfully.
+Lecture successfully added to course Course 6 by lecturer 1.
+Lecture successfully added to course Course 6 by lecturer 1.
+Lecture successfully added to course Course 6 by lecturer 1.
+Lecture successfully added to course Course 6 by lecturer 1.
+Lecture successfully added to course Course 6 by lecturer 1.
+Lecture successfully added to course Course 6 by lecturer 1.
+Lecture successfully added to course Course 6 by lecturer 1.
+Lecture successfully added to course Course 6 by lecturer 1.
+Lecture successfully added to course Course 6 by lecturer 1.
+Lecture successfully added to course Course 6 by lecturer 1.
+Course Course 7 by lecturer 6 created successfully.
+Lecture successfully added to course Course 7 by lecturer 1.
+Lecture successfully added to course Course 7 by lecturer 1.
+Lecture successfully added to course Course 7 by lecturer 1.
+Lecture successfully added to course Course 7 by lecturer 1.
+Lecture successfully added to course Course 7 by lecturer 1.
+Lecture successfully added to course Course 7 by lecturer 1.
+Lecture successfully added to course Course 7 by lecturer 1.
+Lecture successfully added to course Course 7 by lecturer 1.
+Lecture successfully added to course Course 7 by lecturer 1.
+Lecture successfully added to course Course 7 by lecturer 1.
+Course Course 8 by lecturer 6 created successfully.
+Lecture successfully added to course Course 8 by lecturer 1.
+Lecture successfully added to course Course 8 by lecturer 1.
+Lecture successfully added to course Course 8 by lecturer 1.
+Lecture successfully added to course Course 8 by lecturer 1.
+Lecture successfully added to course Course 8 by lecturer 1.
+Lecture successfully added to course Course 8 by lecturer 1.
+Lecture successfully added to course Course 8 by lecturer 1.
+Lecture successfully added to course Course 8 by lecturer 1.
+Lecture successfully added to course Course 8 by lecturer 1.
+Lecture successfully added to course Course 8 by lecturer 1.
+Course Course 9 by lecturer 6 created successfully.
+Lecture successfully added to course Course 9 by lecturer 1.
+Lecture successfully added to course Course 9 by lecturer 1.
+Lecture successfully added to course Course 9 by lecturer 1.
+Lecture successfully added to course Course 9 by lecturer 1.
+Lecture successfully added to course Course 9 by lecturer 1.
+Lecture successfully added to course Course 9 by lecturer 1.
+Lecture successfully added to course Course 9 by lecturer 1.
+Lecture successfully added to course Course 9 by lecturer 1.
+Lecture successfully added to course Course 9 by lecturer 1.
+Lecture successfully added to course Course 9 by lecturer 1.
+Course Course 10 by lecturer 6 created successfully.
+Lecture successfully added to course Course 10 by lecturer 1.
+Lecture successfully added to course Course 10 by lecturer 1.
+Lecture successfully added to course Course 10 by lecturer 1.
+Lecture successfully added to course Course 10 by lecturer 1.
+Lecture successfully added to course Course 10 by lecturer 1.
+Lecture successfully added to course Course 10 by lecturer 1.
+Lecture successfully added to course Course 10 by lecturer 1.
+Lecture successfully added to course Course 10 by lecturer 1.
+Lecture successfully added to course Course 10 by lecturer 1.
+Lecture successfully added to course Course 10 by lecturer 1.
+Course Course 11 by lecturer 6 created successfully.
+Lecture successfully added to course Course 11 by lecturer 1.
+Lecture successfully added to course Course 11 by lecturer 1.
+Lecture successfully added to course Course 11 by lecturer 1.
+Lecture successfully added to course Course 11 by lecturer 1.
+Lecture successfully added to course Course 11 by lecturer 1.
+Lecture successfully added to course Course 11 by lecturer 1.
+Lecture successfully added to course Course 11 by lecturer 1.
+Lecture successfully added to course Course 11 by lecturer 1.
+Lecture successfully added to course Course 11 by lecturer 1.
+Lecture successfully added to course Course 11 by lecturer 1.
+Course Course 12 by lecturer 6 created successfully.
+Lecture successfully added to course Course 12 by lecturer 1.
+Lecture successfully added to course Course 12 by lecturer 1.
+Lecture successfully added to course Course 12 by lecturer 1.
+Lecture successfully added to course Course 12 by lecturer 1.
+Lecture successfully added to course Course 12 by lecturer 1.
+Lecture successfully added to course Course 12 by lecturer 1.
+Lecture successfully added to course Course 12 by lecturer 1.
+Lecture successfully added to course Course 12 by lecturer 1.
+Lecture successfully added to course Course 12 by lecturer 1.
+Lecture successfully added to course Course 12 by lecturer 1.
+Course Course 13 by lecturer 6 created successfully.
+Lecture successfully added to course Course 13 by lecturer 1.
+Lecture successfully added to course Course 13 by lecturer 1.
+Lecture successfully added to course Course 13 by lecturer 1.
+Lecture successfully added to course Course 13 by lecturer 1.
+Lecture successfully added to course Course 13 by lecturer 1.
+Lecture successfully added to course Course 13 by lecturer 1.
+Lecture successfully added to course Course 13 by lecturer 1.
+Lecture successfully added to course Course 13 by lecturer 1.
+Lecture successfully added to course Course 13 by lecturer 1.
+Lecture successfully added to course Course 13 by lecturer 1.
+Course Course 14 by lecturer 6 created successfully.
+Lecture successfully added to course Course 14 by lecturer 1.
+Lecture successfully added to course Course 14 by lecturer 1.
+Lecture successfully added to course Course 14 by lecturer 1.
+Lecture successfully added to course Course 14 by lecturer 1.
+Lecture successfully added to course Course 14 by lecturer 1.
+Lecture successfully added to course Course 14 by lecturer 1.
+Lecture successfully added to course Course 14 by lecturer 1.
+Lecture successfully added to course Course 14 by lecturer 1.
+Lecture successfully added to course Course 14 by lecturer 1.
+Lecture successfully added to course Course 14 by lecturer 1.
+Course Course 15 by lecturer 6 created successfully.
+Lecture successfully added to course Course 15 by lecturer 1.
+Lecture successfully added to course Course 15 by lecturer 1.
+Lecture successfully added to course Course 15 by lecturer 1.
+Lecture successfully added to course Course 15 by lecturer 1.
+Lecture successfully added to course Course 15 by lecturer 1.
+Lecture successfully added to course Course 15 by lecturer 1.
+Lecture successfully added to course Course 15 by lecturer 1.
+Lecture successfully added to course Course 15 by lecturer 1.
+Lecture successfully added to course Course 15 by lecturer 1.
+Lecture successfully added to course Course 15 by lecturer 1.
+Course Course 16 by lecturer 6 created successfully.
+Lecture successfully added to course Course 16 by lecturer 1.
+Lecture successfully added to course Course 16 by lecturer 1.
+Lecture successfully added to course Course 16 by lecturer 1.
+Lecture successfully added to course Course 16 by lecturer 1.
+Lecture successfully added to course Course 16 by lecturer 1.
+Lecture successfully added to course Course 16 by lecturer 1.
+Lecture successfully added to course Course 16 by lecturer 1.
+Lecture successfully added to course Course 16 by lecturer 1.
+Lecture successfully added to course Course 16 by lecturer 1.
+Lecture successfully added to course Course 16 by lecturer 1.
+Course Course 17 by lecturer 6 created successfully.
+Lecture successfully added to course Course 17 by lecturer 1.
+Lecture successfully added to course Course 17 by lecturer 1.
+Lecture successfully added to course Course 17 by lecturer 1.
+Lecture successfully added to course Course 17 by lecturer 1.
+Lecture successfully added to course Course 17 by lecturer 1.
+Lecture successfully added to course Course 17 by lecturer 1.
+Lecture successfully added to course Course 17 by lecturer 1.
+Lecture successfully added to course Course 17 by lecturer 1.
+Lecture successfully added to course Course 17 by lecturer 1.
+Lecture successfully added to course Course 17 by lecturer 1.
+Course Course 18 by lecturer 6 created successfully.
+Lecture successfully added to course Course 18 by lecturer 1.
+Lecture successfully added to course Course 18 by lecturer 1.
+Lecture successfully added to course Course 18 by lecturer 1.
+Lecture successfully added to course Course 18 by lecturer 1.
+Lecture successfully added to course Course 18 by lecturer 1.
+Lecture successfully added to course Course 18 by lecturer 1.
+Lecture successfully added to course Course 18 by lecturer 1.
+Lecture successfully added to course Course 18 by lecturer 1.
+Lecture successfully added to course Course 18 by lecturer 1.
+Lecture successfully added to course Course 18 by lecturer 1.
+Course Course 19 by lecturer 6 created successfully.
+Lecture successfully added to course Course 19 by lecturer 1.
+Lecture successfully added to course Course 19 by lecturer 1.
+Lecture successfully added to course Course 19 by lecturer 1.
+Lecture successfully added to course Course 19 by lecturer 1.
+Lecture successfully added to course Course 19 by lecturer 1.
+Lecture successfully added to course Course 19 by lecturer 1.
+Lecture successfully added to course Course 19 by lecturer 1.
+Lecture successfully added to course Course 19 by lecturer 1.
+Lecture successfully added to course Course 19 by lecturer 1.
+Lecture successfully added to course Course 19 by lecturer 1.
+Course Course 20 by lecturer 6 created successfully.
+Lecture successfully added to course Course 20 by lecturer 1.
+Lecture successfully added to course Course 20 by lecturer 1.
+Lecture successfully added to course Course 20 by lecturer 1.
+Lecture successfully added to course Course 20 by lecturer 1.
+Lecture successfully added to course Course 20 by lecturer 1.
+Lecture successfully added to course Course 20 by lecturer 1.
+Lecture successfully added to course Course 20 by lecturer 1.
+Lecture successfully added to course Course 20 by lecturer 1.
+Lecture successfully added to course Course 20 by lecturer 1.
+Lecture successfully added to course Course 20 by lecturer 1.
+User lecturer_6 logged out successfully.
+User lecturer_7 logged in successfully.
+Course Course 1 by lecturer 7 created successfully.
+Lecture successfully added to course Course 1 by lecturer 1.
+Lecture successfully added to course Course 1 by lecturer 1.
+Lecture successfully added to course Course 1 by lecturer 1.
+Lecture successfully added to course Course 1 by lecturer 1.
+Lecture successfully added to course Course 1 by lecturer 1.
+Lecture successfully added to course Course 1 by lecturer 1.
+Lecture successfully added to course Course 1 by lecturer 1.
+Lecture successfully added to course Course 1 by lecturer 1.
+Lecture successfully added to course Course 1 by lecturer 1.
+Lecture successfully added to course Course 1 by lecturer 1.
+Course Course 2 by lecturer 7 created successfully.
+Lecture successfully added to course Course 2 by lecturer 1.
+Lecture successfully added to course Course 2 by lecturer 1.
+Lecture successfully added to course Course 2 by lecturer 1.
+Lecture successfully added to course Course 2 by lecturer 1.
+Lecture successfully added to course Course 2 by lecturer 1.
+Lecture successfully added to course Course 2 by lecturer 1.
+Lecture successfully added to course Course 2 by lecturer 1.
+Lecture successfully added to course Course 2 by lecturer 1.
+Lecture successfully added to course Course 2 by lecturer 1.
+Lecture successfully added to course Course 2 by lecturer 1.
+Course Course 3 by lecturer 7 created successfully.
+Lecture successfully added to course Course 3 by lecturer 1.
+Lecture successfully added to course Course 3 by lecturer 1.
+Lecture successfully added to course Course 3 by lecturer 1.
+Lecture successfully added to course Course 3 by lecturer 1.
+Lecture successfully added to course Course 3 by lecturer 1.
+Lecture successfully added to course Course 3 by lecturer 1.
+Lecture successfully added to course Course 3 by lecturer 1.
+Lecture successfully added to course Course 3 by lecturer 1.
+Lecture successfully added to course Course 3 by lecturer 1.
+Lecture successfully added to course Course 3 by lecturer 1.
+Course Course 4 by lecturer 7 created successfully.
+Lecture successfully added to course Course 4 by lecturer 1.
+Lecture successfully added to course Course 4 by lecturer 1.
+Lecture successfully added to course Course 4 by lecturer 1.
+Lecture successfully added to course Course 4 by lecturer 1.
+Lecture successfully added to course Course 4 by lecturer 1.
+Lecture successfully added to course Course 4 by lecturer 1.
+Lecture successfully added to course Course 4 by lecturer 1.
+Lecture successfully added to course Course 4 by lecturer 1.
+Lecture successfully added to course Course 4 by lecturer 1.
+Lecture successfully added to course Course 4 by lecturer 1.
+Course Course 5 by lecturer 7 created successfully.
+Lecture successfully added to course Course 5 by lecturer 1.
+Lecture successfully added to course Course 5 by lecturer 1.
+Lecture successfully added to course Course 5 by lecturer 1.
+Lecture successfully added to course Course 5 by lecturer 1.
+Lecture successfully added to course Course 5 by lecturer 1.
+Lecture successfully added to course Course 5 by lecturer 1.
+Lecture successfully added to course Course 5 by lecturer 1.
+Lecture successfully added to course Course 5 by lecturer 1.
+Lecture successfully added to course Course 5 by lecturer 1.
+Lecture successfully added to course Course 5 by lecturer 1.
+Course Course 6 by lecturer 7 created successfully.
+Lecture successfully added to course Course 6 by lecturer 1.
+Lecture successfully added to course Course 6 by lecturer 1.
+Lecture successfully added to course Course 6 by lecturer 1.
+Lecture successfully added to course Course 6 by lecturer 1.
+Lecture successfully added to course Course 6 by lecturer 1.
+Lecture successfully added to course Course 6 by lecturer 1.
+Lecture successfully added to course Course 6 by lecturer 1.
+Lecture successfully added to course Course 6 by lecturer 1.
+Lecture successfully added to course Course 6 by lecturer 1.
+Lecture successfully added to course Course 6 by lecturer 1.
+Course Course 7 by lecturer 7 created successfully.
+Lecture successfully added to course Course 7 by lecturer 1.
+Lecture successfully added to course Course 7 by lecturer 1.
+Lecture successfully added to course Course 7 by lecturer 1.
+Lecture successfully added to course Course 7 by lecturer 1.
+Lecture successfully added to course Course 7 by lecturer 1.
+Lecture successfully added to course Course 7 by lecturer 1.
+Lecture successfully added to course Course 7 by lecturer 1.
+Lecture successfully added to course Course 7 by lecturer 1.
+Lecture successfully added to course Course 7 by lecturer 1.
+Lecture successfully added to course Course 7 by lecturer 1.
+Course Course 8 by lecturer 7 created successfully.
+Lecture successfully added to course Course 8 by lecturer 1.
+Lecture successfully added to course Course 8 by lecturer 1.
+Lecture successfully added to course Course 8 by lecturer 1.
+Lecture successfully added to course Course 8 by lecturer 1.
+Lecture successfully added to course Course 8 by lecturer 1.
+Lecture successfully added to course Course 8 by lecturer 1.
+Lecture successfully added to course Course 8 by lecturer 1.
+Lecture successfully added to course Course 8 by lecturer 1.
+Lecture successfully added to course Course 8 by lecturer 1.
+Lecture successfully added to course Course 8 by lecturer 1.
+Course Course 9 by lecturer 7 created successfully.
+Lecture successfully added to course Course 9 by lecturer 1.
+Lecture successfully added to course Course 9 by lecturer 1.
+Lecture successfully added to course Course 9 by lecturer 1.
+Lecture successfully added to course Course 9 by lecturer 1.
+Lecture successfully added to course Course 9 by lecturer 1.
+Lecture successfully added to course Course 9 by lecturer 1.
+Lecture successfully added to course Course 9 by lecturer 1.
+Lecture successfully added to course Course 9 by lecturer 1.
+Lecture successfully added to course Course 9 by lecturer 1.
+Lecture successfully added to course Course 9 by lecturer 1.
+Course Course 10 by lecturer 7 created successfully.
+Lecture successfully added to course Course 10 by lecturer 1.
+Lecture successfully added to course Course 10 by lecturer 1.
+Lecture successfully added to course Course 10 by lecturer 1.
+Lecture successfully added to course Course 10 by lecturer 1.
+Lecture successfully added to course Course 10 by lecturer 1.
+Lecture successfully added to course Course 10 by lecturer 1.
+Lecture successfully added to course Course 10 by lecturer 1.
+Lecture successfully added to course Course 10 by lecturer 1.
+Lecture successfully added to course Course 10 by lecturer 1.
+Lecture successfully added to course Course 10 by lecturer 1.
+Course Course 11 by lecturer 7 created successfully.
+Lecture successfully added to course Course 11 by lecturer 1.
+Lecture successfully added to course Course 11 by lecturer 1.
+Lecture successfully added to course Course 11 by lecturer 1.
+Lecture successfully added to course Course 11 by lecturer 1.
+Lecture successfully added to course Course 11 by lecturer 1.
+Lecture successfully added to course Course 11 by lecturer 1.
+Lecture successfully added to course Course 11 by lecturer 1.
+Lecture successfully added to course Course 11 by lecturer 1.
+Lecture successfully added to course Course 11 by lecturer 1.
+Lecture successfully added to course Course 11 by lecturer 1.
+Course Course 12 by lecturer 7 created successfully.
+Lecture successfully added to course Course 12 by lecturer 1.
+Lecture successfully added to course Course 12 by lecturer 1.
+Lecture successfully added to course Course 12 by lecturer 1.
+Lecture successfully added to course Course 12 by lecturer 1.
+Lecture successfully added to course Course 12 by lecturer 1.
+Lecture successfully added to course Course 12 by lecturer 1.
+Lecture successfully added to course Course 12 by lecturer 1.
+Lecture successfully added to course Course 12 by lecturer 1.
+Lecture successfully added to course Course 12 by lecturer 1.
+Lecture successfully added to course Course 12 by lecturer 1.
+Course Course 13 by lecturer 7 created successfully.
+Lecture successfully added to course Course 13 by lecturer 1.
+Lecture successfully added to course Course 13 by lecturer 1.
+Lecture successfully added to course Course 13 by lecturer 1.
+Lecture successfully added to course Course 13 by lecturer 1.
+Lecture successfully added to course Course 13 by lecturer 1.
+Lecture successfully added to course Course 13 by lecturer 1.
+Lecture successfully added to course Course 13 by lecturer 1.
+Lecture successfully added to course Course 13 by lecturer 1.
+Lecture successfully added to course Course 13 by lecturer 1.
+Lecture successfully added to course Course 13 by lecturer 1.
+Course Course 14 by lecturer 7 created successfully.
+Lecture successfully added to course Course 14 by lecturer 1.
+Lecture successfully added to course Course 14 by lecturer 1.
+Lecture successfully added to course Course 14 by lecturer 1.
+Lecture successfully added to course Course 14 by lecturer 1.
+Lecture successfully added to course Course 14 by lecturer 1.
+Lecture successfully added to course Course 14 by lecturer 1.
+Lecture successfully added to course Course 14 by lecturer 1.
+Lecture successfully added to course Course 14 by lecturer 1.
+Lecture successfully added to course Course 14 by lecturer 1.
+Lecture successfully added to course Course 14 by lecturer 1.
+Course Course 15 by lecturer 7 created successfully.
+Lecture successfully added to course Course 15 by lecturer 1.
+Lecture successfully added to course Course 15 by lecturer 1.
+Lecture successfully added to course Course 15 by lecturer 1.
+Lecture successfully added to course Course 15 by lecturer 1.
+Lecture successfully added to course Course 15 by lecturer 1.
+Lecture successfully added to course Course 15 by lecturer 1.
+Lecture successfully added to course Course 15 by lecturer 1.
+Lecture successfully added to course Course 15 by lecturer 1.
+Lecture successfully added to course Course 15 by lecturer 1.
+Lecture successfully added to course Course 15 by lecturer 1.
+Course Course 16 by lecturer 7 created successfully.
+Lecture successfully added to course Course 16 by lecturer 1.
+Lecture successfully added to course Course 16 by lecturer 1.
+Lecture successfully added to course Course 16 by lecturer 1.
+Lecture successfully added to course Course 16 by lecturer 1.
+Lecture successfully added to course Course 16 by lecturer 1.
+Lecture successfully added to course Course 16 by lecturer 1.
+Lecture successfully added to course Course 16 by lecturer 1.
+Lecture successfully added to course Course 16 by lecturer 1.
+Lecture successfully added to course Course 16 by lecturer 1.
+Lecture successfully added to course Course 16 by lecturer 1.
+Course Course 17 by lecturer 7 created successfully.
+Lecture successfully added to course Course 17 by lecturer 1.
+Lecture successfully added to course Course 17 by lecturer 1.
+Lecture successfully added to course Course 17 by lecturer 1.
+Lecture successfully added to course Course 17 by lecturer 1.
+Lecture successfully added to course Course 17 by lecturer 1.
+Lecture successfully added to course Course 17 by lecturer 1.
+Lecture successfully added to course Course 17 by lecturer 1.
+Lecture successfully added to course Course 17 by lecturer 1.
+Lecture successfully added to course Course 17 by lecturer 1.
+Lecture successfully added to course Course 17 by lecturer 1.
+Course Course 18 by lecturer 7 created successfully.
+Lecture successfully added to course Course 18 by lecturer 1.
+Lecture successfully added to course Course 18 by lecturer 1.
+Lecture successfully added to course Course 18 by lecturer 1.
+Lecture successfully added to course Course 18 by lecturer 1.
+Lecture successfully added to course Course 18 by lecturer 1.
+Lecture successfully added to course Course 18 by lecturer 1.
+Lecture successfully added to course Course 18 by lecturer 1.
+Lecture successfully added to course Course 18 by lecturer 1.
+Lecture successfully added to course Course 18 by lecturer 1.
+Lecture successfully added to course Course 18 by lecturer 1.
+Course Course 19 by lecturer 7 created successfully.
+Lecture successfully added to course Course 19 by lecturer 1.
+Lecture successfully added to course Course 19 by lecturer 1.
+Lecture successfully added to course Course 19 by lecturer 1.
+Lecture successfully added to course Course 19 by lecturer 1.
+Lecture successfully added to course Course 19 by lecturer 1.
+Lecture successfully added to course Course 19 by lecturer 1.
+Lecture successfully added to course Course 19 by lecturer 1.
+Lecture successfully added to course Course 19 by lecturer 1.
+Lecture successfully added to course Course 19 by lecturer 1.
+Lecture successfully added to course Course 19 by lecturer 1.
+Course Course 20 by lecturer 7 created successfully.
+Lecture successfully added to course Course 20 by lecturer 1.
+Lecture successfully added to course Course 20 by lecturer 1.
+Lecture successfully added to course Course 20 by lecturer 1.
+Lecture successfully added to course Course 20 by lecturer 1.
+Lecture successfully added to course Course 20 by lecturer 1.
+Lecture successfully added to course Course 20 by lecturer 1.
+Lecture successfully added to course Course 20 by lecturer 1.
+Lecture successfully added to course Course 20 by lecturer 1.
+Lecture successfully added to course Course 20 by lecturer 1.
+Lecture successfully added to course Course 20 by lecturer 1.
+User lecturer_7 logged out successfully.
+User lecturer_8 logged in successfully.
+Course Course 1 by lecturer 8 created successfully.
+Lecture successfully added to course Course 1 by lecturer 1.
+Lecture successfully added to course Course 1 by lecturer 1.
+Lecture successfully added to course Course 1 by lecturer 1.
+Lecture successfully added to course Course 1 by lecturer 1.
+Lecture successfully added to course Course 1 by lecturer 1.
+Lecture successfully added to course Course 1 by lecturer 1.
+Lecture successfully added to course Course 1 by lecturer 1.
+Lecture successfully added to course Course 1 by lecturer 1.
+Lecture successfully added to course Course 1 by lecturer 1.
+Lecture successfully added to course Course 1 by lecturer 1.
+Course Course 2 by lecturer 8 created successfully.
+Lecture successfully added to course Course 2 by lecturer 1.
+Lecture successfully added to course Course 2 by lecturer 1.
+Lecture successfully added to course Course 2 by lecturer 1.
+Lecture successfully added to course Course 2 by lecturer 1.
+Lecture successfully added to course Course 2 by lecturer 1.
+Lecture successfully added to course Course 2 by lecturer 1.
+Lecture successfully added to course Course 2 by lecturer 1.
+Lecture successfully added to course Course 2 by lecturer 1.
+Lecture successfully added to course Course 2 by lecturer 1.
+Lecture successfully added to course Course 2 by lecturer 1.
+Course Course 3 by lecturer 8 created successfully.
+Lecture successfully added to course Course 3 by lecturer 1.
+Lecture successfully added to course Course 3 by lecturer 1.
+Lecture successfully added to course Course 3 by lecturer 1.
+Lecture successfully added to course Course 3 by lecturer 1.
+Lecture successfully added to course Course 3 by lecturer 1.
+Lecture successfully added to course Course 3 by lecturer 1.
+Lecture successfully added to course Course 3 by lecturer 1.
+Lecture successfully added to course Course 3 by lecturer 1.
+Lecture successfully added to course Course 3 by lecturer 1.
+Lecture successfully added to course Course 3 by lecturer 1.
+Course Course 4 by lecturer 8 created successfully.
+Lecture successfully added to course Course 4 by lecturer 1.
+Lecture successfully added to course Course 4 by lecturer 1.
+Lecture successfully added to course Course 4 by lecturer 1.
+Lecture successfully added to course Course 4 by lecturer 1.
+Lecture successfully added to course Course 4 by lecturer 1.
+Lecture successfully added to course Course 4 by lecturer 1.
+Lecture successfully added to course Course 4 by lecturer 1.
+Lecture successfully added to course Course 4 by lecturer 1.
+Lecture successfully added to course Course 4 by lecturer 1.
+Lecture successfully added to course Course 4 by lecturer 1.
+Course Course 5 by lecturer 8 created successfully.
+Lecture successfully added to course Course 5 by lecturer 1.
+Lecture successfully added to course Course 5 by lecturer 1.
+Lecture successfully added to course Course 5 by lecturer 1.
+Lecture successfully added to course Course 5 by lecturer 1.
+Lecture successfully added to course Course 5 by lecturer 1.
+Lecture successfully added to course Course 5 by lecturer 1.
+Lecture successfully added to course Course 5 by lecturer 1.
+Lecture successfully added to course Course 5 by lecturer 1.
+Lecture successfully added to course Course 5 by lecturer 1.
+Lecture successfully added to course Course 5 by lecturer 1.
+Course Course 6 by lecturer 8 created successfully.
+Lecture successfully added to course Course 6 by lecturer 1.
+Lecture successfully added to course Course 6 by lecturer 1.
+Lecture successfully added to course Course 6 by lecturer 1.
+Lecture successfully added to course Course 6 by lecturer 1.
+Lecture successfully added to course Course 6 by lecturer 1.
+Lecture successfully added to course Course 6 by lecturer 1.
+Lecture successfully added to course Course 6 by lecturer 1.
+Lecture successfully added to course Course 6 by lecturer 1.
+Lecture successfully added to course Course 6 by lecturer 1.
+Lecture successfully added to course Course 6 by lecturer 1.
+Course Course 7 by lecturer 8 created successfully.
+Lecture successfully added to course Course 7 by lecturer 1.
+Lecture successfully added to course Course 7 by lecturer 1.
+Lecture successfully added to course Course 7 by lecturer 1.
+Lecture successfully added to course Course 7 by lecturer 1.
+Lecture successfully added to course Course 7 by lecturer 1.
+Lecture successfully added to course Course 7 by lecturer 1.
+Lecture successfully added to course Course 7 by lecturer 1.
+Lecture successfully added to course Course 7 by lecturer 1.
+Lecture successfully added to course Course 7 by lecturer 1.
+Lecture successfully added to course Course 7 by lecturer 1.
+Course Course 8 by lecturer 8 created successfully.
+Lecture successfully added to course Course 8 by lecturer 1.
+Lecture successfully added to course Course 8 by lecturer 1.
+Lecture successfully added to course Course 8 by lecturer 1.
+Lecture successfully added to course Course 8 by lecturer 1.
+Lecture successfully added to course Course 8 by lecturer 1.
+Lecture successfully added to course Course 8 by lecturer 1.
+Lecture successfully added to course Course 8 by lecturer 1.
+Lecture successfully added to course Course 8 by lecturer 1.
+Lecture successfully added to course Course 8 by lecturer 1.
+Lecture successfully added to course Course 8 by lecturer 1.
+Course Course 9 by lecturer 8 created successfully.
+Lecture successfully added to course Course 9 by lecturer 1.
+Lecture successfully added to course Course 9 by lecturer 1.
+Lecture successfully added to course Course 9 by lecturer 1.
+Lecture successfully added to course Course 9 by lecturer 1.
+Lecture successfully added to course Course 9 by lecturer 1.
+Lecture successfully added to course Course 9 by lecturer 1.
+Lecture successfully added to course Course 9 by lecturer 1.
+Lecture successfully added to course Course 9 by lecturer 1.
+Lecture successfully added to course Course 9 by lecturer 1.
+Lecture successfully added to course Course 9 by lecturer 1.
+Course Course 10 by lecturer 8 created successfully.
+Lecture successfully added to course Course 10 by lecturer 1.
+Lecture successfully added to course Course 10 by lecturer 1.
+Lecture successfully added to course Course 10 by lecturer 1.
+Lecture successfully added to course Course 10 by lecturer 1.
+Lecture successfully added to course Course 10 by lecturer 1.
+Lecture successfully added to course Course 10 by lecturer 1.
+Lecture successfully added to course Course 10 by lecturer 1.
+Lecture successfully added to course Course 10 by lecturer 1.
+Lecture successfully added to course Course 10 by lecturer 1.
+Lecture successfully added to course Course 10 by lecturer 1.
+Course Course 11 by lecturer 8 created successfully.
+Lecture successfully added to course Course 11 by lecturer 1.
+Lecture successfully added to course Course 11 by lecturer 1.
+Lecture successfully added to course Course 11 by lecturer 1.
+Lecture successfully added to course Course 11 by lecturer 1.
+Lecture successfully added to course Course 11 by lecturer 1.
+Lecture successfully added to course Course 11 by lecturer 1.
+Lecture successfully added to course Course 11 by lecturer 1.
+Lecture successfully added to course Course 11 by lecturer 1.
+Lecture successfully added to course Course 11 by lecturer 1.
+Lecture successfully added to course Course 11 by lecturer 1.
+Course Course 12 by lecturer 8 created successfully.
+Lecture successfully added to course Course 12 by lecturer 1.
+Lecture successfully added to course Course 12 by lecturer 1.
+Lecture successfully added to course Course 12 by lecturer 1.
+Lecture successfully added to course Course 12 by lecturer 1.
+Lecture successfully added to course Course 12 by lecturer 1.
+Lecture successfully added to course Course 12 by lecturer 1.
+Lecture successfully added to course Course 12 by lecturer 1.
+Lecture successfully added to course Course 12 by lecturer 1.
+Lecture successfully added to course Course 12 by lecturer 1.
+Lecture successfully added to course Course 12 by lecturer 1.
+Course Course 13 by lecturer 8 created successfully.
+Lecture successfully added to course Course 13 by lecturer 1.
+Lecture successfully added to course Course 13 by lecturer 1.
+Lecture successfully added to course Course 13 by lecturer 1.
+Lecture successfully added to course Course 13 by lecturer 1.
+Lecture successfully added to course Course 13 by lecturer 1.
+Lecture successfully added to course Course 13 by lecturer 1.
+Lecture successfully added to course Course 13 by lecturer 1.
+Lecture successfully added to course Course 13 by lecturer 1.
+Lecture successfully added to course Course 13 by lecturer 1.
+Lecture successfully added to course Course 13 by lecturer 1.
+Course Course 14 by lecturer 8 created successfully.
+Lecture successfully added to course Course 14 by lecturer 1.
+Lecture successfully added to course Course 14 by lecturer 1.
+Lecture successfully added to course Course 14 by lecturer 1.
+Lecture successfully added to course Course 14 by lecturer 1.
+Lecture successfully added to course Course 14 by lecturer 1.
+Lecture successfully added to course Course 14 by lecturer 1.
+Lecture successfully added to course Course 14 by lecturer 1.
+Lecture successfully added to course Course 14 by lecturer 1.
+Lecture successfully added to course Course 14 by lecturer 1.
+Lecture successfully added to course Course 14 by lecturer 1.
+Course Course 15 by lecturer 8 created successfully.
+Lecture successfully added to course Course 15 by lecturer 1.
+Lecture successfully added to course Course 15 by lecturer 1.
+Lecture successfully added to course Course 15 by lecturer 1.
+Lecture successfully added to course Course 15 by lecturer 1.
+Lecture successfully added to course Course 15 by lecturer 1.
+Lecture successfully added to course Course 15 by lecturer 1.
+Lecture successfully added to course Course 15 by lecturer 1.
+Lecture successfully added to course Course 15 by lecturer 1.
+Lecture successfully added to course Course 15 by lecturer 1.
+Lecture successfully added to course Course 15 by lecturer 1.
+Course Course 16 by lecturer 8 created successfully.
+Lecture successfully added to course Course 16 by lecturer 1.
+Lecture successfully added to course Course 16 by lecturer 1.
+Lecture successfully added to course Course 16 by lecturer 1.
+Lecture successfully added to course Course 16 by lecturer 1.
+Lecture successfully added to course Course 16 by lecturer 1.
+Lecture successfully added to course Course 16 by lecturer 1.
+Lecture successfully added to course Course 16 by lecturer 1.
+Lecture successfully added to course Course 16 by lecturer 1.
+Lecture successfully added to course Course 16 by lecturer 1.
+Lecture successfully added to course Course 16 by lecturer 1.
+Course Course 17 by lecturer 8 created successfully.
+Lecture successfully added to course Course 17 by lecturer 1.
+Lecture successfully added to course Course 17 by lecturer 1.
+Lecture successfully added to course Course 17 by lecturer 1.
+Lecture successfully added to course Course 17 by lecturer 1.
+Lecture successfully added to course Course 17 by lecturer 1.
+Lecture successfully added to course Course 17 by lecturer 1.
+Lecture successfully added to course Course 17 by lecturer 1.
+Lecture successfully added to course Course 17 by lecturer 1.
+Lecture successfully added to course Course 17 by lecturer 1.
+Lecture successfully added to course Course 17 by lecturer 1.
+Course Course 18 by lecturer 8 created successfully.
+Lecture successfully added to course Course 18 by lecturer 1.
+Lecture successfully added to course Course 18 by lecturer 1.
+Lecture successfully added to course Course 18 by lecturer 1.
+Lecture successfully added to course Course 18 by lecturer 1.
+Lecture successfully added to course Course 18 by lecturer 1.
+Lecture successfully added to course Course 18 by lecturer 1.
+Lecture successfully added to course Course 18 by lecturer 1.
+Lecture successfully added to course Course 18 by lecturer 1.
+Lecture successfully added to course Course 18 by lecturer 1.
+Lecture successfully added to course Course 18 by lecturer 1.
+Course Course 19 by lecturer 8 created successfully.
+Lecture successfully added to course Course 19 by lecturer 1.
+Lecture successfully added to course Course 19 by lecturer 1.
+Lecture successfully added to course Course 19 by lecturer 1.
+Lecture successfully added to course Course 19 by lecturer 1.
+Lecture successfully added to course Course 19 by lecturer 1.
+Lecture successfully added to course Course 19 by lecturer 1.
+Lecture successfully added to course Course 19 by lecturer 1.
+Lecture successfully added to course Course 19 by lecturer 1.
+Lecture successfully added to course Course 19 by lecturer 1.
+Lecture successfully added to course Course 19 by lecturer 1.
+Course Course 20 by lecturer 8 created successfully.
+Lecture successfully added to course Course 20 by lecturer 1.
+Lecture successfully added to course Course 20 by lecturer 1.
+Lecture successfully added to course Course 20 by lecturer 1.
+Lecture successfully added to course Course 20 by lecturer 1.
+Lecture successfully added to course Course 20 by lecturer 1.
+Lecture successfully added to course Course 20 by lecturer 1.
+Lecture successfully added to course Course 20 by lecturer 1.
+Lecture successfully added to course Course 20 by lecturer 1.
+Lecture successfully added to course Course 20 by lecturer 1.
+Lecture successfully added to course Course 20 by lecturer 1.
+User lecturer_8 logged out successfully.
+User lecturer_9 logged in successfully.
+Course Course 1 by lecturer 9 created successfully.
+Lecture successfully added to course Course 1 by lecturer 1.
+Lecture successfully added to course Course 1 by lecturer 1.
+Lecture successfully added to course Course 1 by lecturer 1.
+Lecture successfully added to course Course 1 by lecturer 1.
+Lecture successfully added to course Course 1 by lecturer 1.
+Lecture successfully added to course Course 1 by lecturer 1.
+Lecture successfully added to course Course 1 by lecturer 1.
+Lecture successfully added to course Course 1 by lecturer 1.
+Lecture successfully added to course Course 1 by lecturer 1.
+Lecture successfully added to course Course 1 by lecturer 1.
+Course Course 2 by lecturer 9 created successfully.
+Lecture successfully added to course Course 2 by lecturer 1.
+Lecture successfully added to course Course 2 by lecturer 1.
+Lecture successfully added to course Course 2 by lecturer 1.
+Lecture successfully added to course Course 2 by lecturer 1.
+Lecture successfully added to course Course 2 by lecturer 1.
+Lecture successfully added to course Course 2 by lecturer 1.
+Lecture successfully added to course Course 2 by lecturer 1.
+Lecture successfully added to course Course 2 by lecturer 1.
+Lecture successfully added to course Course 2 by lecturer 1.
+Lecture successfully added to course Course 2 by lecturer 1.
+Course Course 3 by lecturer 9 created successfully.
+Lecture successfully added to course Course 3 by lecturer 1.
+Lecture successfully added to course Course 3 by lecturer 1.
+Lecture successfully added to course Course 3 by lecturer 1.
+Lecture successfully added to course Course 3 by lecturer 1.
+Lecture successfully added to course Course 3 by lecturer 1.
+Lecture successfully added to course Course 3 by lecturer 1.
+Lecture successfully added to course Course 3 by lecturer 1.
+Lecture successfully added to course Course 3 by lecturer 1.
+Lecture successfully added to course Course 3 by lecturer 1.
+Lecture successfully added to course Course 3 by lecturer 1.
+Course Course 4 by lecturer 9 created successfully.
+Lecture successfully added to course Course 4 by lecturer 1.
+Lecture successfully added to course Course 4 by lecturer 1.
+Lecture successfully added to course Course 4 by lecturer 1.
+Lecture successfully added to course Course 4 by lecturer 1.
+Lecture successfully added to course Course 4 by lecturer 1.
+Lecture successfully added to course Course 4 by lecturer 1.
+Lecture successfully added to course Course 4 by lecturer 1.
+Lecture successfully added to course Course 4 by lecturer 1.
+Lecture successfully added to course Course 4 by lecturer 1.
+Lecture successfully added to course Course 4 by lecturer 1.
+Course Course 5 by lecturer 9 created successfully.
+Lecture successfully added to course Course 5 by lecturer 1.
+Lecture successfully added to course Course 5 by lecturer 1.
+Lecture successfully added to course Course 5 by lecturer 1.
+Lecture successfully added to course Course 5 by lecturer 1.
+Lecture successfully added to course Course 5 by lecturer 1.
+Lecture successfully added to course Course 5 by lecturer 1.
+Lecture successfully added to course Course 5 by lecturer 1.
+Lecture successfully added to course Course 5 by lecturer 1.
+Lecture successfully added to course Course 5 by lecturer 1.
+Lecture successfully added to course Course 5 by lecturer 1.
+Course Course 6 by lecturer 9 created successfully.
+Lecture successfully added to course Course 6 by lecturer 1.
+Lecture successfully added to course Course 6 by lecturer 1.
+Lecture successfully added to course Course 6 by lecturer 1.
+Lecture successfully added to course Course 6 by lecturer 1.
+Lecture successfully added to course Course 6 by lecturer 1.
+Lecture successfully added to course Course 6 by lecturer 1.
+Lecture successfully added to course Course 6 by lecturer 1.
+Lecture successfully added to course Course 6 by lecturer 1.
+Lecture successfully added to course Course 6 by lecturer 1.
+Lecture successfully added to course Course 6 by lecturer 1.
+Course Course 7 by lecturer 9 created successfully.
+Lecture successfully added to course Course 7 by lecturer 1.
+Lecture successfully added to course Course 7 by lecturer 1.
+Lecture successfully added to course Course 7 by lecturer 1.
+Lecture successfully added to course Course 7 by lecturer 1.
+Lecture successfully added to course Course 7 by lecturer 1.
+Lecture successfully added to course Course 7 by lecturer 1.
+Lecture successfully added to course Course 7 by lecturer 1.
+Lecture successfully added to course Course 7 by lecturer 1.
+Lecture successfully added to course Course 7 by lecturer 1.
+Lecture successfully added to course Course 7 by lecturer 1.
+Course Course 8 by lecturer 9 created successfully.
+Lecture successfully added to course Course 8 by lecturer 1.
+Lecture successfully added to course Course 8 by lecturer 1.
+Lecture successfully added to course Course 8 by lecturer 1.
+Lecture successfully added to course Course 8 by lecturer 1.
+Lecture successfully added to course Course 8 by lecturer 1.
+Lecture successfully added to course Course 8 by lecturer 1.
+Lecture successfully added to course Course 8 by lecturer 1.
+Lecture successfully added to course Course 8 by lecturer 1.
+Lecture successfully added to course Course 8 by lecturer 1.
+Lecture successfully added to course Course 8 by lecturer 1.
+Course Course 9 by lecturer 9 created successfully.
+Lecture successfully added to course Course 9 by lecturer 1.
+Lecture successfully added to course Course 9 by lecturer 1.
+Lecture successfully added to course Course 9 by lecturer 1.
+Lecture successfully added to course Course 9 by lecturer 1.
+Lecture successfully added to course Course 9 by lecturer 1.
+Lecture successfully added to course Course 9 by lecturer 1.
+Lecture successfully added to course Course 9 by lecturer 1.
+Lecture successfully added to course Course 9 by lecturer 1.
+Lecture successfully added to course Course 9 by lecturer 1.
+Lecture successfully added to course Course 9 by lecturer 1.
+Course Course 10 by lecturer 9 created successfully.
+Lecture successfully added to course Course 10 by lecturer 1.
+Lecture successfully added to course Course 10 by lecturer 1.
+Lecture successfully added to course Course 10 by lecturer 1.
+Lecture successfully added to course Course 10 by lecturer 1.
+Lecture successfully added to course Course 10 by lecturer 1.
+Lecture successfully added to course Course 10 by lecturer 1.
+Lecture successfully added to course Course 10 by lecturer 1.
+Lecture successfully added to course Course 10 by lecturer 1.
+Lecture successfully added to course Course 10 by lecturer 1.
+Lecture successfully added to course Course 10 by lecturer 1.
+Course Course 11 by lecturer 9 created successfully.
+Lecture successfully added to course Course 11 by lecturer 1.
+Lecture successfully added to course Course 11 by lecturer 1.
+Lecture successfully added to course Course 11 by lecturer 1.
+Lecture successfully added to course Course 11 by lecturer 1.
+Lecture successfully added to course Course 11 by lecturer 1.
+Lecture successfully added to course Course 11 by lecturer 1.
+Lecture successfully added to course Course 11 by lecturer 1.
+Lecture successfully added to course Course 11 by lecturer 1.
+Lecture successfully added to course Course 11 by lecturer 1.
+Lecture successfully added to course Course 11 by lecturer 1.
+Course Course 12 by lecturer 9 created successfully.
+Lecture successfully added to course Course 12 by lecturer 1.
+Lecture successfully added to course Course 12 by lecturer 1.
+Lecture successfully added to course Course 12 by lecturer 1.
+Lecture successfully added to course Course 12 by lecturer 1.
+Lecture successfully added to course Course 12 by lecturer 1.
+Lecture successfully added to course Course 12 by lecturer 1.
+Lecture successfully added to course Course 12 by lecturer 1.
+Lecture successfully added to course Course 12 by lecturer 1.
+Lecture successfully added to course Course 12 by lecturer 1.
+Lecture successfully added to course Course 12 by lecturer 1.
+Course Course 13 by lecturer 9 created successfully.
+Lecture successfully added to course Course 13 by lecturer 1.
+Lecture successfully added to course Course 13 by lecturer 1.
+Lecture successfully added to course Course 13 by lecturer 1.
+Lecture successfully added to course Course 13 by lecturer 1.
+Lecture successfully added to course Course 13 by lecturer 1.
+Lecture successfully added to course Course 13 by lecturer 1.
+Lecture successfully added to course Course 13 by lecturer 1.
+Lecture successfully added to course Course 13 by lecturer 1.
+Lecture successfully added to course Course 13 by lecturer 1.
+Lecture successfully added to course Course 13 by lecturer 1.
+Course Course 14 by lecturer 9 created successfully.
+Lecture successfully added to course Course 14 by lecturer 1.
+Lecture successfully added to course Course 14 by lecturer 1.
+Lecture successfully added to course Course 14 by lecturer 1.
+Lecture successfully added to course Course 14 by lecturer 1.
+Lecture successfully added to course Course 14 by lecturer 1.
+Lecture successfully added to course Course 14 by lecturer 1.
+Lecture successfully added to course Course 14 by lecturer 1.
+Lecture successfully added to course Course 14 by lecturer 1.
+Lecture successfully added to course Course 14 by lecturer 1.
+Lecture successfully added to course Course 14 by lecturer 1.
+Course Course 15 by lecturer 9 created successfully.
+Lecture successfully added to course Course 15 by lecturer 1.
+Lecture successfully added to course Course 15 by lecturer 1.
+Lecture successfully added to course Course 15 by lecturer 1.
+Lecture successfully added to course Course 15 by lecturer 1.
+Lecture successfully added to course Course 15 by lecturer 1.
+Lecture successfully added to course Course 15 by lecturer 1.
+Lecture successfully added to course Course 15 by lecturer 1.
+Lecture successfully added to course Course 15 by lecturer 1.
+Lecture successfully added to course Course 15 by lecturer 1.
+Lecture successfully added to course Course 15 by lecturer 1.
+Course Course 16 by lecturer 9 created successfully.
+Lecture successfully added to course Course 16 by lecturer 1.
+Lecture successfully added to course Course 16 by lecturer 1.
+Lecture successfully added to course Course 16 by lecturer 1.
+Lecture successfully added to course Course 16 by lecturer 1.
+Lecture successfully added to course Course 16 by lecturer 1.
+Lecture successfully added to course Course 16 by lecturer 1.
+Lecture successfully added to course Course 16 by lecturer 1.
+Lecture successfully added to course Course 16 by lecturer 1.
+Lecture successfully added to course Course 16 by lecturer 1.
+Lecture successfully added to course Course 16 by lecturer 1.
+Course Course 17 by lecturer 9 created successfully.
+Lecture successfully added to course Course 17 by lecturer 1.
+Lecture successfully added to course Course 17 by lecturer 1.
+Lecture successfully added to course Course 17 by lecturer 1.
+Lecture successfully added to course Course 17 by lecturer 1.
+Lecture successfully added to course Course 17 by lecturer 1.
+Lecture successfully added to course Course 17 by lecturer 1.
+Lecture successfully added to course Course 17 by lecturer 1.
+Lecture successfully added to course Course 17 by lecturer 1.
+Lecture successfully added to course Course 17 by lecturer 1.
+Lecture successfully added to course Course 17 by lecturer 1.
+Course Course 18 by lecturer 9 created successfully.
+Lecture successfully added to course Course 18 by lecturer 1.
+Lecture successfully added to course Course 18 by lecturer 1.
+Lecture successfully added to course Course 18 by lecturer 1.
+Lecture successfully added to course Course 18 by lecturer 1.
+Lecture successfully added to course Course 18 by lecturer 1.
+Lecture successfully added to course Course 18 by lecturer 1.
+Lecture successfully added to course Course 18 by lecturer 1.
+Lecture successfully added to course Course 18 by lecturer 1.
+Lecture successfully added to course Course 18 by lecturer 1.
+Lecture successfully added to course Course 18 by lecturer 1.
+Course Course 19 by lecturer 9 created successfully.
+Lecture successfully added to course Course 19 by lecturer 1.
+Lecture successfully added to course Course 19 by lecturer 1.
+Lecture successfully added to course Course 19 by lecturer 1.
+Lecture successfully added to course Course 19 by lecturer 1.
+Lecture successfully added to course Course 19 by lecturer 1.
+Lecture successfully added to course Course 19 by lecturer 1.
+Lecture successfully added to course Course 19 by lecturer 1.
+Lecture successfully added to course Course 19 by lecturer 1.
+Lecture successfully added to course Course 19 by lecturer 1.
+Lecture successfully added to course Course 19 by lecturer 1.
+Course Course 20 by lecturer 9 created successfully.
+Lecture successfully added to course Course 20 by lecturer 1.
+Lecture successfully added to course Course 20 by lecturer 1.
+Lecture successfully added to course Course 20 by lecturer 1.
+Lecture successfully added to course Course 20 by lecturer 1.
+Lecture successfully added to course Course 20 by lecturer 1.
+Lecture successfully added to course Course 20 by lecturer 1.
+Lecture successfully added to course Course 20 by lecturer 1.
+Lecture successfully added to course Course 20 by lecturer 1.
+Lecture successfully added to course Course 20 by lecturer 1.
+Lecture successfully added to course Course 20 by lecturer 1.
+User lecturer_9 logged out successfully.
+User lecturer_10 logged in successfully.
+Course Course 1 by lecturer 10 created successfully.
+Lecture successfully added to course Course 1 by lecturer 1.
+Lecture successfully added to course Course 1 by lecturer 1.
+Lecture successfully added to course Course 1 by lecturer 1.
+Lecture successfully added to course Course 1 by lecturer 1.
+Lecture successfully added to course Course 1 by lecturer 1.
+Lecture successfully added to course Course 1 by lecturer 1.
+Lecture successfully added to course Course 1 by lecturer 1.
+Lecture successfully added to course Course 1 by lecturer 1.
+Lecture successfully added to course Course 1 by lecturer 1.
+Lecture successfully added to course Course 1 by lecturer 1.
+Course Course 2 by lecturer 10 created successfully.
+Lecture successfully added to course Course 2 by lecturer 1.
+Lecture successfully added to course Course 2 by lecturer 1.
+Lecture successfully added to course Course 2 by lecturer 1.
+Lecture successfully added to course Course 2 by lecturer 1.
+Lecture successfully added to course Course 2 by lecturer 1.
+Lecture successfully added to course Course 2 by lecturer 1.
+Lecture successfully added to course Course 2 by lecturer 1.
+Lecture successfully added to course Course 2 by lecturer 1.
+Lecture successfully added to course Course 2 by lecturer 1.
+Lecture successfully added to course Course 2 by lecturer 1.
+Course Course 3 by lecturer 10 created successfully.
+Lecture successfully added to course Course 3 by lecturer 1.
+Lecture successfully added to course Course 3 by lecturer 1.
+Lecture successfully added to course Course 3 by lecturer 1.
+Lecture successfully added to course Course 3 by lecturer 1.
+Lecture successfully added to course Course 3 by lecturer 1.
+Lecture successfully added to course Course 3 by lecturer 1.
+Lecture successfully added to course Course 3 by lecturer 1.
+Lecture successfully added to course Course 3 by lecturer 1.
+Lecture successfully added to course Course 3 by lecturer 1.
+Lecture successfully added to course Course 3 by lecturer 1.
+Course Course 4 by lecturer 10 created successfully.
+Lecture successfully added to course Course 4 by lecturer 1.
+Lecture successfully added to course Course 4 by lecturer 1.
+Lecture successfully added to course Course 4 by lecturer 1.
+Lecture successfully added to course Course 4 by lecturer 1.
+Lecture successfully added to course Course 4 by lecturer 1.
+Lecture successfully added to course Course 4 by lecturer 1.
+Lecture successfully added to course Course 4 by lecturer 1.
+Lecture successfully added to course Course 4 by lecturer 1.
+Lecture successfully added to course Course 4 by lecturer 1.
+Lecture successfully added to course Course 4 by lecturer 1.
+Course Course 5 by lecturer 10 created successfully.
+Lecture successfully added to course Course 5 by lecturer 1.
+Lecture successfully added to course Course 5 by lecturer 1.
+Lecture successfully added to course Course 5 by lecturer 1.
+Lecture successfully added to course Course 5 by lecturer 1.
+Lecture successfully added to course Course 5 by lecturer 1.
+Lecture successfully added to course Course 5 by lecturer 1.
+Lecture successfully added to course Course 5 by lecturer 1.
+Lecture successfully added to course Course 5 by lecturer 1.
+Lecture successfully added to course Course 5 by lecturer 1.
+Lecture successfully added to course Course 5 by lecturer 1.
+Course Course 6 by lecturer 10 created successfully.
+Lecture successfully added to course Course 6 by lecturer 1.
+Lecture successfully added to course Course 6 by lecturer 1.
+Lecture successfully added to course Course 6 by lecturer 1.
+Lecture successfully added to course Course 6 by lecturer 1.
+Lecture successfully added to course Course 6 by lecturer 1.
+Lecture successfully added to course Course 6 by lecturer 1.
+Lecture successfully added to course Course 6 by lecturer 1.
+Lecture successfully added to course Course 6 by lecturer 1.
+Lecture successfully added to course Course 6 by lecturer 1.
+Lecture successfully added to course Course 6 by lecturer 1.
+Course Course 7 by lecturer 10 created successfully.
+Lecture successfully added to course Course 7 by lecturer 1.
+Lecture successfully added to course Course 7 by lecturer 1.
+Lecture successfully added to course Course 7 by lecturer 1.
+Lecture successfully added to course Course 7 by lecturer 1.
+Lecture successfully added to course Course 7 by lecturer 1.
+Lecture successfully added to course Course 7 by lecturer 1.
+Lecture successfully added to course Course 7 by lecturer 1.
+Lecture successfully added to course Course 7 by lecturer 1.
+Lecture successfully added to course Course 7 by lecturer 1.
+Lecture successfully added to course Course 7 by lecturer 1.
+Course Course 8 by lecturer 10 created successfully.
+Lecture successfully added to course Course 8 by lecturer 1.
+Lecture successfully added to course Course 8 by lecturer 1.
+Lecture successfully added to course Course 8 by lecturer 1.
+Lecture successfully added to course Course 8 by lecturer 1.
+Lecture successfully added to course Course 8 by lecturer 1.
+Lecture successfully added to course Course 8 by lecturer 1.
+Lecture successfully added to course Course 8 by lecturer 1.
+Lecture successfully added to course Course 8 by lecturer 1.
+Lecture successfully added to course Course 8 by lecturer 1.
+Lecture successfully added to course Course 8 by lecturer 1.
+Course Course 9 by lecturer 10 created successfully.
+Lecture successfully added to course Course 9 by lecturer 1.
+Lecture successfully added to course Course 9 by lecturer 1.
+Lecture successfully added to course Course 9 by lecturer 1.
+Lecture successfully added to course Course 9 by lecturer 1.
+Lecture successfully added to course Course 9 by lecturer 1.
+Lecture successfully added to course Course 9 by lecturer 1.
+Lecture successfully added to course Course 9 by lecturer 1.
+Lecture successfully added to course Course 9 by lecturer 1.
+Lecture successfully added to course Course 9 by lecturer 1.
+Lecture successfully added to course Course 9 by lecturer 1.
+Course Course 10 by lecturer 10 created successfully.
+Lecture successfully added to course Course 10 by lecturer 1.
+Lecture successfully added to course Course 10 by lecturer 1.
+Lecture successfully added to course Course 10 by lecturer 1.
+Lecture successfully added to course Course 10 by lecturer 1.
+Lecture successfully added to course Course 10 by lecturer 1.
+Lecture successfully added to course Course 10 by lecturer 1.
+Lecture successfully added to course Course 10 by lecturer 1.
+Lecture successfully added to course Course 10 by lecturer 1.
+Lecture successfully added to course Course 10 by lecturer 1.
+Lecture successfully added to course Course 10 by lecturer 1.
+Course Course 11 by lecturer 10 created successfully.
+Lecture successfully added to course Course 11 by lecturer 1.
+Lecture successfully added to course Course 11 by lecturer 1.
+Lecture successfully added to course Course 11 by lecturer 1.
+Lecture successfully added to course Course 11 by lecturer 1.
+Lecture successfully added to course Course 11 by lecturer 1.
+Lecture successfully added to course Course 11 by lecturer 1.
+Lecture successfully added to course Course 11 by lecturer 1.
+Lecture successfully added to course Course 11 by lecturer 1.
+Lecture successfully added to course Course 11 by lecturer 1.
+Lecture successfully added to course Course 11 by lecturer 1.
+Course Course 12 by lecturer 10 created successfully.
+Lecture successfully added to course Course 12 by lecturer 1.
+Lecture successfully added to course Course 12 by lecturer 1.
+Lecture successfully added to course Course 12 by lecturer 1.
+Lecture successfully added to course Course 12 by lecturer 1.
+Lecture successfully added to course Course 12 by lecturer 1.
+Lecture successfully added to course Course 12 by lecturer 1.
+Lecture successfully added to course Course 12 by lecturer 1.
+Lecture successfully added to course Course 12 by lecturer 1.
+Lecture successfully added to course Course 12 by lecturer 1.
+Lecture successfully added to course Course 12 by lecturer 1.
+Course Course 13 by lecturer 10 created successfully.
+Lecture successfully added to course Course 13 by lecturer 1.
+Lecture successfully added to course Course 13 by lecturer 1.
+Lecture successfully added to course Course 13 by lecturer 1.
+Lecture successfully added to course Course 13 by lecturer 1.
+Lecture successfully added to course Course 13 by lecturer 1.
+Lecture successfully added to course Course 13 by lecturer 1.
+Lecture successfully added to course Course 13 by lecturer 1.
+Lecture successfully added to course Course 13 by lecturer 1.
+Lecture successfully added to course Course 13 by lecturer 1.
+Lecture successfully added to course Course 13 by lecturer 1.
+Course Course 14 by lecturer 10 created successfully.
+Lecture successfully added to course Course 14 by lecturer 1.
+Lecture successfully added to course Course 14 by lecturer 1.
+Lecture successfully added to course Course 14 by lecturer 1.
+Lecture successfully added to course Course 14 by lecturer 1.
+Lecture successfully added to course Course 14 by lecturer 1.
+Lecture successfully added to course Course 14 by lecturer 1.
+Lecture successfully added to course Course 14 by lecturer 1.
+Lecture successfully added to course Course 14 by lecturer 1.
+Lecture successfully added to course Course 14 by lecturer 1.
+Lecture successfully added to course Course 14 by lecturer 1.
+Course Course 15 by lecturer 10 created successfully.
+Lecture successfully added to course Course 15 by lecturer 1.
+Lecture successfully added to course Course 15 by lecturer 1.
+Lecture successfully added to course Course 15 by lecturer 1.
+Lecture successfully added to course Course 15 by lecturer 1.
+Lecture successfully added to course Course 15 by lecturer 1.
+Lecture successfully added to course Course 15 by lecturer 1.
+Lecture successfully added to course Course 15 by lecturer 1.
+Lecture successfully added to course Course 15 by lecturer 1.
+Lecture successfully added to course Course 15 by lecturer 1.
+Lecture successfully added to course Course 15 by lecturer 1.
+Course Course 16 by lecturer 10 created successfully.
+Lecture successfully added to course Course 16 by lecturer 1.
+Lecture successfully added to course Course 16 by lecturer 1.
+Lecture successfully added to course Course 16 by lecturer 1.
+Lecture successfully added to course Course 16 by lecturer 1.
+Lecture successfully added to course Course 16 by lecturer 1.
+Lecture successfully added to course Course 16 by lecturer 1.
+Lecture successfully added to course Course 16 by lecturer 1.
+Lecture successfully added to course Course 16 by lecturer 1.
+Lecture successfully added to course Course 16 by lecturer 1.
+Lecture successfully added to course Course 16 by lecturer 1.
+Course Course 17 by lecturer 10 created successfully.
+Lecture successfully added to course Course 17 by lecturer 1.
+Lecture successfully added to course Course 17 by lecturer 1.
+Lecture successfully added to course Course 17 by lecturer 1.
+Lecture successfully added to course Course 17 by lecturer 1.
+Lecture successfully added to course Course 17 by lecturer 1.
+Lecture successfully added to course Course 17 by lecturer 1.
+Lecture successfully added to course Course 17 by lecturer 1.
+Lecture successfully added to course Course 17 by lecturer 1.
+Lecture successfully added to course Course 17 by lecturer 1.
+Lecture successfully added to course Course 17 by lecturer 1.
+Course Course 18 by lecturer 10 created successfully.
+Lecture successfully added to course Course 18 by lecturer 1.
+Lecture successfully added to course Course 18 by lecturer 1.
+Lecture successfully added to course Course 18 by lecturer 1.
+Lecture successfully added to course Course 18 by lecturer 1.
+Lecture successfully added to course Course 18 by lecturer 1.
+Lecture successfully added to course Course 18 by lecturer 1.
+Lecture successfully added to course Course 18 by lecturer 1.
+Lecture successfully added to course Course 18 by lecturer 1.
+Lecture successfully added to course Course 18 by lecturer 1.
+Lecture successfully added to course Course 18 by lecturer 1.
+Course Course 19 by lecturer 10 created successfully.
+Lecture successfully added to course Course 19 by lecturer 1.
+Lecture successfully added to course Course 19 by lecturer 1.
+Lecture successfully added to course Course 19 by lecturer 1.
+Lecture successfully added to course Course 19 by lecturer 1.
+Lecture successfully added to course Course 19 by lecturer 1.
+Lecture successfully added to course Course 19 by lecturer 1.
+Lecture successfully added to course Course 19 by lecturer 1.
+Lecture successfully added to course Course 19 by lecturer 1.
+Lecture successfully added to course Course 19 by lecturer 1.
+Lecture successfully added to course Course 19 by lecturer 1.
+Course Course 20 by lecturer 10 created successfully.
+Lecture successfully added to course Course 20 by lecturer 1.
+Lecture successfully added to course Course 20 by lecturer 1.
+Lecture successfully added to course Course 20 by lecturer 1.
+Lecture successfully added to course Course 20 by lecturer 1.
+Lecture successfully added to course Course 20 by lecturer 1.
+Lecture successfully added to course Course 20 by lecturer 1.
+Lecture successfully added to course Course 20 by lecturer 1.
+Lecture successfully added to course Course 20 by lecturer 1.
+Lecture successfully added to course Course 20 by lecturer 1.
+Lecture successfully added to course Course 20 by lecturer 1.
+User lecturer_10 logged out successfully.
+All courses:
+Course 1 by lecturer 1 (0 students)
+Course 1 by lecturer 10 (0 students)
+Course 1 by lecturer 2 (0 students)
+Course 1 by lecturer 3 (0 students)
+Course 1 by lecturer 4 (0 students)
+Course 1 by lecturer 5 (0 students)
+Course 1 by lecturer 6 (0 students)
+Course 1 by lecturer 7 (0 students)
+Course 1 by lecturer 8 (0 students)
+Course 1 by lecturer 9 (0 students)
+Course 10 by lecturer 1 (0 students)
+Course 10 by lecturer 10 (0 students)
+Course 10 by lecturer 2 (0 students)
+Course 10 by lecturer 3 (0 students)
+Course 10 by lecturer 4 (0 students)
+Course 10 by lecturer 5 (0 students)
+Course 10 by lecturer 6 (0 students)
+Course 10 by lecturer 7 (0 students)
+Course 10 by lecturer 8 (0 students)
+Course 10 by lecturer 9 (0 students)
+Course 11 by lecturer 1 (0 students)
+Course 11 by lecturer 10 (0 students)
+Course 11 by lecturer 2 (0 students)
+Course 11 by lecturer 3 (0 students)
+Course 11 by lecturer 4 (0 students)
+Course 11 by lecturer 5 (0 students)
+Course 11 by lecturer 6 (0 students)
+Course 11 by lecturer 7 (0 students)
+Course 11 by lecturer 8 (0 students)
+Course 11 by lecturer 9 (0 students)
+Course 12 by lecturer 1 (0 students)
+Course 12 by lecturer 10 (0 students)
+Course 12 by lecturer 2 (0 students)
+Course 12 by lecturer 3 (0 students)
+Course 12 by lecturer 4 (0 students)
+Course 12 by lecturer 5 (0 students)
+Course 12 by lecturer 6 (0 students)
+Course 12 by lecturer 7 (0 students)
+Course 12 by lecturer 8 (0 students)
+Course 12 by lecturer 9 (0 students)
+Course 13 by lecturer 1 (0 students)
+Course 13 by lecturer 10 (0 students)
+Course 13 by lecturer 2 (0 students)
+Course 13 by lecturer 3 (0 students)
+Course 13 by lecturer 4 (0 students)
+Course 13 by lecturer 5 (0 students)
+Course 13 by lecturer 6 (0 students)
+Course 13 by lecturer 7 (0 students)
+Course 13 by lecturer 8 (0 students)
+Course 13 by lecturer 9 (0 students)
+Course 14 by lecturer 1 (0 students)
+Course 14 by lecturer 10 (0 students)
+Course 14 by lecturer 2 (0 students)
+Course 14 by lecturer 3 (0 students)
+Course 14 by lecturer 4 (0 students)
+Course 14 by lecturer 5 (0 students)
+Course 14 by lecturer 6 (0 students)
+Course 14 by lecturer 7 (0 students)
+Course 14 by lecturer 8 (0 students)
+Course 14 by lecturer 9 (0 students)
+Course 15 by lecturer 1 (0 students)
+Course 15 by lecturer 10 (0 students)
+Course 15 by lecturer 2 (0 students)
+Course 15 by lecturer 3 (0 students)
+Course 15 by lecturer 4 (0 students)
+Course 15 by lecturer 5 (0 students)
+Course 15 by lecturer 6 (0 students)
+Course 15 by lecturer 7 (0 students)
+Course 15 by lecturer 8 (0 students)
+Course 15 by lecturer 9 (0 students)
+Course 16 by lecturer 1 (0 students)
+Course 16 by lecturer 10 (0 students)
+Course 16 by lecturer 2 (0 students)
+Course 16 by lecturer 3 (0 students)
+Course 16 by lecturer 4 (0 students)
+Course 16 by lecturer 5 (0 students)
+Course 16 by lecturer 6 (0 students)
+Course 16 by lecturer 7 (0 students)
+Course 16 by lecturer 8 (0 students)
+Course 16 by lecturer 9 (0 students)
+Course 17 by lecturer 1 (0 students)
+Course 17 by lecturer 10 (0 students)
+Course 17 by lecturer 2 (0 students)
+Course 17 by lecturer 3 (0 students)
+Course 17 by lecturer 4 (0 students)
+Course 17 by lecturer 5 (0 students)
+Course 17 by lecturer 6 (0 students)
+Course 17 by lecturer 7 (0 students)
+Course 17 by lecturer 8 (0 students)
+Course 17 by lecturer 9 (0 students)
+Course 18 by lecturer 1 (0 students)
+Course 18 by lecturer 10 (0 students)
+Course 18 by lecturer 2 (0 students)
+Course 18 by lecturer 3 (0 students)
+Course 18 by lecturer 4 (0 students)
+Course 18 by lecturer 5 (0 students)
+Course 18 by lecturer 6 (0 students)
+Course 18 by lecturer 7 (0 students)
+Course 18 by lecturer 8 (0 students)
+Course 18 by lecturer 9 (0 students)
+Course 19 by lecturer 1 (0 students)
+Course 19 by lecturer 10 (0 students)
+Course 19 by lecturer 2 (0 students)
+Course 19 by lecturer 3 (0 students)
+Course 19 by lecturer 4 (0 students)
+Course 19 by lecturer 5 (0 students)
+Course 19 by lecturer 6 (0 students)
+Course 19 by lecturer 7 (0 students)
+Course 19 by lecturer 8 (0 students)
+Course 19 by lecturer 9 (0 students)
+Course 2 by lecturer 1 (0 students)
+Course 2 by lecturer 10 (0 students)
+Course 2 by lecturer 2 (0 students)
+Course 2 by lecturer 3 (0 students)
+Course 2 by lecturer 4 (0 students)
+Course 2 by lecturer 5 (0 students)
+Course 2 by lecturer 6 (0 students)
+Course 2 by lecturer 7 (0 students)
+Course 2 by lecturer 8 (0 students)
+Course 2 by lecturer 9 (0 students)
+Course 20 by lecturer 1 (0 students)
+Course 20 by lecturer 10 (0 students)
+Course 20 by lecturer 2 (0 students)
+Course 20 by lecturer 3 (0 students)
+Course 20 by lecturer 4 (0 students)
+Course 20 by lecturer 5 (0 students)
+Course 20 by lecturer 6 (0 students)
+Course 20 by lecturer 7 (0 students)
+Course 20 by lecturer 8 (0 students)
+Course 20 by lecturer 9 (0 students)
+Course 3 by lecturer 1 (0 students)
+Course 3 by lecturer 10 (0 students)
+Course 3 by lecturer 2 (0 students)
+Course 3 by lecturer 3 (0 students)
+Course 3 by lecturer 4 (0 students)
+Course 3 by lecturer 5 (0 students)
+Course 3 by lecturer 6 (0 students)
+Course 3 by lecturer 7 (0 students)
+Course 3 by lecturer 8 (0 students)
+Course 3 by lecturer 9 (0 students)
+Course 4 by lecturer 1 (0 students)
+Course 4 by lecturer 10 (0 students)
+Course 4 by lecturer 2 (0 students)
+Course 4 by lecturer 3 (0 students)
+Course 4 by lecturer 4 (0 students)
+Course 4 by lecturer 5 (0 students)
+Course 4 by lecturer 6 (0 students)
+Course 4 by lecturer 7 (0 students)
+Course 4 by lecturer 8 (0 students)
+Course 4 by lecturer 9 (0 students)
+Course 5 by lecturer 1 (0 students)
+Course 5 by lecturer 10 (0 students)
+Course 5 by lecturer 2 (0 students)
+Course 5 by lecturer 3 (0 students)
+Course 5 by lecturer 4 (0 students)
+Course 5 by lecturer 5 (0 students)
+Course 5 by lecturer 6 (0 students)
+Course 5 by lecturer 7 (0 students)
+Course 5 by lecturer 8 (0 students)
+Course 5 by lecturer 9 (0 students)
+Course 6 by lecturer 1 (0 students)
+Course 6 by lecturer 10 (0 students)
+Course 6 by lecturer 2 (0 students)
+Course 6 by lecturer 3 (0 students)
+Course 6 by lecturer 4 (0 students)
+Course 6 by lecturer 5 (0 students)
+Course 6 by lecturer 6 (0 students)
+Course 6 by lecturer 7 (0 students)
+Course 6 by lecturer 8 (0 students)
+Course 6 by lecturer 9 (0 students)
+Course 7 by lecturer 1 (0 students)
+Course 7 by lecturer 10 (0 students)
+Course 7 by lecturer 2 (0 students)
+Course 7 by lecturer 3 (0 students)
+Course 7 by lecturer 4 (0 students)
+Course 7 by lecturer 5 (0 students)
+Course 7 by lecturer 6 (0 students)
+Course 7 by lecturer 7 (0 students)
+Course 7 by lecturer 8 (0 students)
+Course 7 by lecturer 9 (0 students)
+Course 8 by lecturer 1 (0 students)
+Course 8 by lecturer 10 (0 students)
+Course 8 by lecturer 2 (0 students)
+Course 8 by lecturer 3 (0 students)
+Course 8 by lecturer 4 (0 students)
+Course 8 by lecturer 5 (0 students)
+Course 8 by lecturer 6 (0 students)
+Course 8 by lecturer 7 (0 students)
+Course 8 by lecturer 8 (0 students)
+Course 8 by lecturer 9 (0 students)
+Course 9 by lecturer 1 (0 students)
+Course 9 by lecturer 10 (0 students)
+Course 9 by lecturer 2 (0 students)
+Course 9 by lecturer 3 (0 students)
+Course 9 by lecturer 4 (0 students)
+Course 9 by lecturer 5 (0 students)
+Course 9 by lecturer 6 (0 students)
+Course 9 by lecturer 7 (0 students)
+Course 9 by lecturer 8 (0 students)
+Course 9 by lecturer 9 (0 students)

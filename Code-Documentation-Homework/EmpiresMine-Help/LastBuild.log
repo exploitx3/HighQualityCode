@@ -1,0 +1,433 @@
+<?xml version="1.0" encoding="utf-8"?>
+<shfbBuild product="Sandcastle Help File Builder and Tools" version="2015.10.10.0" projectFile="C:\Users\Leet\Documents\Visual Studio 2015\Projects\Code-Documentation-Homework\EmpiresDocumentation.shfbproj" started="1/12/2016 12:10:08 PM">
+<buildStep step="Initializing">
+Finding tools...
+The Sandcastle tools are located in &#39;C:\Program Files\EWSoftware\Sandcastle Help File Builder\&#39;
+Searching for HTML Help 1 compiler...
+Found HTML Help 1 compiler in &#39;C:\Program Files\HTML Help Workshop\&#39;
+Locating components in the following folder(s):
+    C:\Users\Leet\Documents\Visual Studio 2015\Projects\Code-Documentation-Homework
+    C:\ProgramData\EWSoftware\Sandcastle Help File Builder\Components and Plug-Ins\
+    C:\Program Files\EWSoftware\Sandcastle Help File Builder\
+Framework reflection data location: C:\Program Files\EWSoftware\Sandcastle Help File Builder\Data\.NETFramework
+Using presentation style &#39;VS2013&#39; located in &#39;C:\Program Files\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2013&#39;
+Loading and initializing plug-ins...
+Lightweight Website Style Version 2015.10.10.0
+Copyright &#169; 2006-2015, Eric Woodruff, All Rights Reserved
+Portions Copyright &#169; 2014, Sam Harwell, All Rights Reserved
+</buildStep>
+<buildStep step="ValidatingDocumentationSources">
+Validating and copying documentation source information
+Source: C:\Users\Leet\Documents\Visual Studio 2015\Projects\Code-Documentation-Homework\EmpiresMine\EmpiresMine\bin\Debug\EmpiresMine.exe
+    Found assembly &#39;C:\Users\Leet\Documents\Visual Studio 2015\Projects\Code-Documentation-Homework\EmpiresMine\EmpiresMine\bin\Debug\EmpiresMine.exe&#39;
+SHFB: Warning BE0062: No XML comments files found.  The help file will not contain any member comments.
+</buildStep>
+<buildStep step="GenerateSharedContent">
+Generating shared content files (en-US, English (United States))...
+<plugIn name="Lightweight Website Style" behavior="After" priority="1000">
+</plugIn>    Last step completed in 00:00:00.1120
+</buildStep>
+<buildStep step="GenerateApiFilter">
+Generating API filter for MRefBuilder...
+    Last step completed in 00:00:00.0030
+</buildStep>
+<buildStep step="GenerateReflectionInfo">
+Generating reflection information...
+[C:\Windows\Microsoft.NET\Framework\v4.0.30319\MSBuild.exe - GenerateRefInfo.proj]
+Build started 1/12/2016 12:10:09 PM.
+Project &quot;C:\Users\Leet\Documents\Visual Studio 2015\Projects\Code-Documentation-Homework\Help\Working\GenerateRefInfo.proj&quot; on node 1 (default targets).
+Project file contains ToolsVersion=&quot;12.0&quot;. This toolset may be unknown or missing, in which case you may be able to resolve this by installing the appropriate version of MSBuild, or the build may have been forced to a particular ToolsVersion for policy reasons. Treating the project as if it had ToolsVersion=&quot;4.0&quot;. For more information, please see http://go.microsoft.com/fwlink/?LinkId=291333.
+PrepareForBuild:
+  Creating directory &quot;obj\Debug\&quot;.
+GenerateRefInfo:
+  MRefBuilder (v2015.10.10.0)
+  Copyright c 2006-2015, Microsoft Corporation, All Rights Reserved.
+  Portions Copyright c 2006-2015, Eric Woodruff, All Rights Reserved.
+  Loaded 1 assemblies for reflection and 1 dependency assemblies.
+  Wrote information on 9 namespaces, 26 types, and 75 members
+  Copying file from &quot;reflection.org&quot; to &quot;reflection.all&quot;.
+  XslTransform (v2015.10.10.0)
+  Copyright c 2006-2015, Microsoft Corporation, All Rights Reserved.
+  Portions Copyright c 2006-2015, Eric Woodruff, All Rights Reserved.
+  Applying XSL transformation &#39;C:\Program Files\EWSoftware\Sandcastle Help File Builder\ProductionTransforms\MergeDuplicates.xsl&#39;.
+Done Building Project &quot;C:\Users\Leet\Documents\Visual Studio 2015\Projects\Code-Documentation-Homework\Help\Working\GenerateRefInfo.proj&quot; (default targets).
+
+Build succeeded.
+
+Time Elapsed 00:00:01.81
+    Last step completed in 00:00:02.4041
+</buildStep>
+<buildStep step="TransformReflectionInfo">
+Transforming reflection output...
+[C:\Windows\Microsoft.NET\Framework\v4.0.30319\MSBuild.exe - TransformManifest.proj]
+Build started 1/12/2016 12:10:11 PM.
+Project &quot;C:\Users\Leet\Documents\Visual Studio 2015\Projects\Code-Documentation-Homework\Help\Working\TransformManifest.proj&quot; on node 1 (default targets).
+Project file contains ToolsVersion=&quot;12.0&quot;. This toolset may be unknown or missing, in which case you may be able to resolve this by installing the appropriate version of MSBuild, or the build may have been forced to a particular ToolsVersion for policy reasons. Treating the project as if it had ToolsVersion=&quot;4.0&quot;. For more information, please see http://go.microsoft.com/fwlink/?LinkId=291333.
+TransformManifest:
+  XslTransform (v2015.10.10.0)
+  Copyright c 2006-2015, Microsoft Corporation, All Rights Reserved.
+  Portions Copyright c 2006-2015, Eric Woodruff, All Rights Reserved.
+  Applying XSL transformation &#39;C:\Program Files\EWSoftware\Sandcastle Help File Builder\\ProductionTransforms\ApplyVSDocModel.xsl&#39;.
+  Copying file from &quot;reflection.xml&quot; to &quot;reflection.nofilenames&quot;.
+  XslTransform (v2015.10.10.0)
+  Copyright c 2006-2015, Microsoft Corporation, All Rights Reserved.
+  Portions Copyright c 2006-2015, Eric Woodruff, All Rights Reserved.
+  Applying XSL transformation &#39;C:\Program Files\EWSoftware\Sandcastle Help File Builder\ProductionTransforms\AddFilenames.xsl&#39;.
+  XslTransform (v2015.10.10.0)
+  Copyright c 2006-2015, Microsoft Corporation, All Rights Reserved.
+  Portions Copyright c 2006-2015, Eric Woodruff, All Rights Reserved.
+  Applying XSL transformation &#39;C:\Program Files\EWSoftware\Sandcastle Help File Builder\ProductionTransforms\ReflectionToManifest.xsl&#39;.
+Done Building Project &quot;C:\Users\Leet\Documents\Visual Studio 2015\Projects\Code-Documentation-Homework\Help\Working\TransformManifest.proj&quot; (default targets).
+
+Build succeeded.
+
+Time Elapsed 00:00:01.57
+    Last step completed in 00:00:01.7711
+</buildStep>
+<buildStep step="GenerateNamespaceSummaries">
+Generating namespace summary information...
+    Last step completed in 00:00:00.0310
+</buildStep>
+<buildStep step="CopyAdditionalContent">
+Copying additional content files...
+No additional content to copy
+    Last step completed in 00:00:00.0040
+</buildStep>
+<buildStep step="MergeTablesOfContents">
+Merging conceptual and additional tables of contents...
+    Last step completed in 00:00:00.0000
+</buildStep>
+<buildStep step="GenerateIntermediateTableOfContents">
+Generating intermediate table of contents file...
+[C:\Windows\Microsoft.NET\Framework\v4.0.30319\MSBuild.exe - GenerateIntermediateTOC.proj]
+Build started 1/12/2016 12:10:13 PM.
+Project &quot;C:\Users\Leet\Documents\Visual Studio 2015\Projects\Code-Documentation-Homework\Help\Working\GenerateIntermediateTOC.proj&quot; on node 1 (default targets).
+Project file contains ToolsVersion=&quot;12.0&quot;. This toolset may be unknown or missing, in which case you may be able to resolve this by installing the appropriate version of MSBuild, or the build may have been forced to a particular ToolsVersion for policy reasons. Treating the project as if it had ToolsVersion=&quot;4.0&quot;. For more information, please see http://go.microsoft.com/fwlink/?LinkId=291333.
+GenerateIntermediateTOC:
+  XslTransform (v2015.10.10.0)
+  Copyright c 2006-2015, Microsoft Corporation, All Rights Reserved.
+  Portions Copyright c 2006-2015, Eric Woodruff, All Rights Reserved.
+  Applying XSL transformation &#39;C:\Program Files\EWSoftware\Sandcastle Help File Builder\\ProductionTransforms\CreateVSToc.xsl&#39;.
+Done Building Project &quot;C:\Users\Leet\Documents\Visual Studio 2015\Projects\Code-Documentation-Homework\Help\Working\GenerateIntermediateTOC.proj&quot; (default targets).
+
+Build succeeded.
+
+Time Elapsed 00:00:00.21
+Generating conceptual content intermediate TOC file...
+    Last step completed in 00:00:00.4350
+</buildStep>
+<buildStep step="CreateBuildAssemblerConfigs">
+Creating Sandcastle configuration files...
+    sandcastle.config
+    Last step completed in 00:00:00.5290
+</buildStep>
+<buildStep step="MergeCustomConfigs">
+Merging custom build component configurations
+C:\Users\Leet\Documents\Visual Studio 2015\Projects\Code-Documentation-Homework\Help\Working\sandcastle.config
+    Last step completed in 00:00:00.0110
+</buildStep>
+<buildStep step="BuildReferenceTopics">
+Building reference help topics...
+[C:\Windows\Microsoft.NET\Framework\v4.0.30319\MSBuild.exe - BuildReferenceTopics.proj]
+Build started 1/12/2016 12:10:14 PM.
+Project &quot;C:\Users\Leet\Documents\Visual Studio 2015\Projects\Code-Documentation-Homework\Help\Working\BuildReferenceTopics.proj&quot; on node 1 (default targets).
+Project file contains ToolsVersion=&quot;12.0&quot;. This toolset may be unknown or missing, in which case you may be able to resolve this by installing the appropriate version of MSBuild, or the build may have been forced to a particular ToolsVersion for policy reasons. Treating the project as if it had ToolsVersion=&quot;4.0&quot;. For more information, please see http://go.microsoft.com/fwlink/?LinkId=291333.
+BuildReferenceTopics:
+  BuildAssembler (v2015.10.10.0)
+  Copyright c 2006-2015, Microsoft Corporation, All Rights Reserved.
+  Portions Copyright c 2006-2015, Eric Woodruff, All Rights Reserved.
+  Loading configuration...
+  ResolveReferenceLinksComponent: The MSDN content ID cache &#39;C:\Users\Leet\AppData\Local\EWSoftware\Sandcastle Help File Builder\Cache\MsdnContentId.cache&#39; does not exist yet.  All IDs will be looked up in this build which will slow it down.
+  Processing topics...
+BuildAssembler : warning : ShowMissingComponent: [N:EmpiresMine.Core] Missing &lt;summary&gt; documentation [C:\Users\Leet\Documents\Visual Studio 2015\Projects\Code-Documentation-Homework\Help\Working\BuildReferenceTopics.proj]
+BuildAssembler : warning : ShowMissingComponent: [T:EmpiresMine.Core.CommandDispacher] Missing &lt;summary&gt; documentation [C:\Users\Leet\Documents\Visual Studio 2015\Projects\Code-Documentation-Homework\Help\Working\BuildReferenceTopics.proj]
+BuildAssembler : warning : ShowMissingComponent: [M:EmpiresMine.Core.CommandDispacher.#ctor(EmpiresMine.Interfaces.IDatabase)] Missing &lt;param name=&quot;database&quot;/&gt; documentation [C:\Users\Leet\Documents\Visual Studio 2015\Projects\Code-Documentation-Homework\Help\Working\BuildReferenceTopics.proj]
+BuildAssembler : warning : ShowMissingComponent: [M:EmpiresMine.Core.CommandDispacher.DispatchCommand(System.String[])] Missing &lt;summary&gt; documentation [C:\Users\Leet\Documents\Visual Studio 2015\Projects\Code-Documentation-Homework\Help\Working\BuildReferenceTopics.proj]
+BuildAssembler : warning : ShowMissingComponent: [M:EmpiresMine.Core.CommandDispacher.DispatchCommand(System.String[])] Missing &lt;param name=&quot;parameters&quot;/&gt; documentation [C:\Users\Leet\Documents\Visual Studio 2015\Projects\Code-Documentation-Homework\Help\Working\BuildReferenceTopics.proj]
+BuildAssembler : warning : ShowMissingComponent: [T:EmpiresMine.Core.Database] Missing &lt;summary&gt; documentation [C:\Users\Leet\Documents\Visual Studio 2015\Projects\Code-Documentation-Homework\Help\Working\BuildReferenceTopics.proj]
+BuildAssembler : warning : ShowMissingComponent: [M:EmpiresMine.Core.Database.AddUnit(EmpiresMine.Models.Interfaces.IUnit)] Missing &lt;summary&gt; documentation [C:\Users\Leet\Documents\Visual Studio 2015\Projects\Code-Documentation-Homework\Help\Working\BuildReferenceTopics.proj]
+BuildAssembler : warning : ShowMissingComponent: [M:EmpiresMine.Core.Database.AddUnit(EmpiresMine.Models.Interfaces.IUnit)] Missing &lt;param name=&quot;unit&quot;/&gt; documentation [C:\Users\Leet\Documents\Visual Studio 2015\Projects\Code-Documentation-Homework\Help\Working\BuildReferenceTopics.proj]
+BuildAssembler : warning : ShowMissingComponent: [P:EmpiresMine.Core.Database.Buildings] Missing &lt;summary&gt; documentation [C:\Users\Leet\Documents\Visual Studio 2015\Projects\Code-Documentation-Homework\Help\Working\BuildReferenceTopics.proj]
+BuildAssembler : warning : ShowMissingComponent: [P:EmpiresMine.Core.Database.Resources] Missing &lt;summary&gt; documentation [C:\Users\Leet\Documents\Visual Studio 2015\Projects\Code-Documentation-Homework\Help\Working\BuildReferenceTopics.proj]
+BuildAssembler : warning : ShowMissingComponent: [P:EmpiresMine.Core.Database.Units] Missing &lt;summary&gt; documentation [C:\Users\Leet\Documents\Visual Studio 2015\Projects\Code-Documentation-Homework\Help\Working\BuildReferenceTopics.proj]
+BuildAssembler : warning : ShowMissingComponent: [T:EmpiresMine.Core.Engine] Missing &lt;summary&gt; documentation [C:\Users\Leet\Documents\Visual Studio 2015\Projects\Code-Documentation-Homework\Help\Working\BuildReferenceTopics.proj]
+BuildAssembler : warning : ShowMissingComponent: [M:EmpiresMine.Core.Engine.#ctor(EmpiresMine.Interfaces.IDatabase,EmpiresMine.Interfaces.ICommandDispacher)] Missing &lt;param name=&quot;database&quot;/&gt; documentation [C:\Users\Leet\Documents\Visual Studio 2015\Projects\Code-Documentation-Homework\Help\Working\BuildReferenceTopics.proj]
+BuildAssembler : warning : ShowMissingComponent: [M:EmpiresMine.Core.Engine.#ctor(EmpiresMine.Interfaces.IDatabase,EmpiresMine.Interfaces.ICommandDispacher)] Missing &lt;param name=&quot;commandDispacher&quot;/&gt; documentation [C:\Users\Leet\Documents\Visual Studio 2015\Projects\Code-Documentation-Homework\Help\Working\BuildReferenceTopics.proj]
+BuildAssembler : warning : ShowMissingComponent: [P:EmpiresMine.Core.Engine.CommandDispacher] Missing &lt;summary&gt; documentation [C:\Users\Leet\Documents\Visual Studio 2015\Projects\Code-Documentation-Homework\Help\Working\BuildReferenceTopics.proj]
+BuildAssembler : warning : ShowMissingComponent: [P:EmpiresMine.Core.Engine.Database] Missing &lt;summary&gt; documentation [C:\Users\Leet\Documents\Visual Studio 2015\Projects\Code-Documentation-Homework\Help\Working\BuildReferenceTopics.proj]
+BuildAssembler : warning : ShowMissingComponent: [M:EmpiresMine.Core.Engine.Run] Missing &lt;summary&gt; documentation [C:\Users\Leet\Documents\Visual Studio 2015\Projects\Code-Documentation-Homework\Help\Working\BuildReferenceTopics.proj]
+BuildAssembler : warning : ShowMissingComponent: [N:EmpiresMine.Core.Commands] Missing &lt;summary&gt; documentation [C:\Users\Leet\Documents\Visual Studio 2015\Projects\Code-Documentation-Homework\Help\Working\BuildReferenceTopics.proj]
+BuildAssembler : warning : ShowMissingComponent: [T:EmpiresMine.Core.Commands.BuildCommand] Missing &lt;summary&gt; documentation [C:\Users\Leet\Documents\Visual Studio 2015\Projects\Code-Documentation-Homework\Help\Working\BuildReferenceTopics.proj]
+BuildAssembler : warning : ShowMissingComponent: [M:EmpiresMine.Core.Commands.BuildCommand.#ctor(System.String,System.String,EmpiresMine.Interfaces.IDatabase)] Missing &lt;param name=&quot;name&quot;/&gt; documentation [C:\Users\Leet\Documents\Visual Studio 2015\Projects\Code-Documentation-Homework\Help\Working\BuildReferenceTopics.proj]
+BuildAssembler : warning : ShowMissingComponent: [M:EmpiresMine.Core.Commands.BuildCommand.#ctor(System.String,System.String,EmpiresMine.Interfaces.IDatabase)] Missing &lt;param name=&quot;buildingType&quot;/&gt; documentation [C:\Users\Leet\Documents\Visual Studio 2015\Projects\Code-Documentation-Homework\Help\Working\BuildReferenceTopics.proj]
+BuildAssembler : warning : ShowMissingComponent: [M:EmpiresMine.Core.Commands.BuildCommand.#ctor(System.String,System.String,EmpiresMine.Interfaces.IDatabase)] Missing &lt;param name=&quot;db&quot;/&gt; documentation [C:\Users\Leet\Documents\Visual Studio 2015\Projects\Code-Documentation-Homework\Help\Working\BuildReferenceTopics.proj]
+BuildAssembler : warning : ShowMissingComponent: [P:EmpiresMine.Core.Commands.BuildCommand.BuildingType] Missing &lt;summary&gt; documentation [C:\Users\Leet\Documents\Visual Studio 2015\Projects\Code-Documentation-Homework\Help\Working\BuildReferenceTopics.proj]
+BuildAssembler : warning : ShowMissingComponent: [M:EmpiresMine.Core.Commands.BuildCommand.Execute] Missing &lt;summary&gt; documentation [C:\Users\Leet\Documents\Visual Studio 2015\Projects\Code-Documentation-Homework\Help\Working\BuildReferenceTopics.proj]
+BuildAssembler : warning : ShowMissingComponent: [T:EmpiresMine.Core.Commands.Command] Missing &lt;summary&gt; documentation [C:\Users\Leet\Documents\Visual Studio 2015\Projects\Code-Documentation-Homework\Help\Working\BuildReferenceTopics.proj]
+BuildAssembler : warning : ShowMissingComponent: [M:EmpiresMine.Core.Commands.Command.#ctor(System.String,EmpiresMine.Interfaces.IDatabase)] Missing &lt;param name=&quot;name&quot;/&gt; documentation [C:\Users\Leet\Documents\Visual Studio 2015\Projects\Code-Documentation-Homework\Help\Working\BuildReferenceTopics.proj]
+BuildAssembler : warning : ShowMissingComponent: [M:EmpiresMine.Core.Commands.Command.#ctor(System.String,EmpiresMine.Interfaces.IDatabase)] Missing &lt;param name=&quot;database&quot;/&gt; documentation [C:\Users\Leet\Documents\Visual Studio 2015\Projects\Code-Documentation-Homework\Help\Working\BuildReferenceTopics.proj]
+BuildAssembler : warning : ShowMissingComponent: [P:EmpiresMine.Core.Commands.Command.Database] Missing &lt;summary&gt; documentation [C:\Users\Leet\Documents\Visual Studio 2015\Projects\Code-Documentation-Homework\Help\Working\BuildReferenceTopics.proj]
+BuildAssembler : warning : ShowMissingComponent: [M:EmpiresMine.Core.Commands.Command.Execute] Missing &lt;summary&gt; documentation [C:\Users\Leet\Documents\Visual Studio 2015\Projects\Code-Documentation-Homework\Help\Working\BuildReferenceTopics.proj]
+BuildAssembler : warning : ShowMissingComponent: [P:EmpiresMine.Core.Commands.Command.Name] Missing &lt;summary&gt; documentation [C:\Users\Leet\Documents\Visual Studio 2015\Projects\Code-Documentation-Homework\Help\Working\BuildReferenceTopics.proj]
+BuildAssembler : warning : ShowMissingComponent: [T:EmpiresMine.Core.Commands.EmpireStatusCommand] Missing &lt;summary&gt; documentation [C:\Users\Leet\Documents\Visual Studio 2015\Projects\Code-Documentation-Homework\Help\Working\BuildReferenceTopics.proj]
+BuildAssembler : warning : ShowMissingComponent: [M:EmpiresMine.Core.Commands.EmpireStatusCommand.#ctor(System.String,EmpiresMine.Interfaces.IDatabase)] Missing &lt;param name=&quot;name&quot;/&gt; documentation [C:\Users\Leet\Documents\Visual Studio 2015\Projects\Code-Documentation-Homework\Help\Working\BuildReferenceTopics.proj]
+BuildAssembler : warning : ShowMissingComponent: [M:EmpiresMine.Core.Commands.EmpireStatusCommand.#ctor(System.String,EmpiresMine.Interfaces.IDatabase)] Missing &lt;param name=&quot;db&quot;/&gt; documentation [C:\Users\Leet\Documents\Visual Studio 2015\Projects\Code-Documentation-Homework\Help\Working\BuildReferenceTopics.proj]
+BuildAssembler : warning : ShowMissingComponent: [M:EmpiresMine.Core.Commands.EmpireStatusCommand.Execute] Missing &lt;summary&gt; documentation [C:\Users\Leet\Documents\Visual Studio 2015\Projects\Code-Documentation-Homework\Help\Working\BuildReferenceTopics.proj]
+BuildAssembler : warning : ShowMissingComponent: [N:EmpiresMine.Enums] Missing &lt;summary&gt; documentation [C:\Users\Leet\Documents\Visual Studio 2015\Projects\Code-Documentation-Homework\Help\Working\BuildReferenceTopics.proj]
+BuildAssembler : warning : ShowMissingComponent: [T:EmpiresMine.Enums.ResourceType] Missing &lt;summary&gt; documentation [C:\Users\Leet\Documents\Visual Studio 2015\Projects\Code-Documentation-Homework\Help\Working\BuildReferenceTopics.proj]
+BuildAssembler : warning : ShowMissingComponent: [N:EmpiresMine.Interfaces] Missing &lt;summary&gt; documentation [C:\Users\Leet\Documents\Visual Studio 2015\Projects\Code-Documentation-Homework\Help\Working\BuildReferenceTopics.proj]
+BuildAssembler : warning : ShowMissingComponent: [T:EmpiresMine.Interfaces.ICommand] Missing &lt;summary&gt; documentation [C:\Users\Leet\Documents\Visual Studio 2015\Projects\Code-Documentation-Homework\Help\Working\BuildReferenceTopics.proj]
+BuildAssembler : warning : ShowMissingComponent: [M:EmpiresMine.Interfaces.ICommand.Execute] Missing &lt;summary&gt; documentation [C:\Users\Leet\Documents\Visual Studio 2015\Projects\Code-Documentation-Homework\Help\Working\BuildReferenceTopics.proj]
+BuildAssembler : warning : ShowMissingComponent: [P:EmpiresMine.Interfaces.ICommand.Name] Missing &lt;summary&gt; documentation [C:\Users\Leet\Documents\Visual Studio 2015\Projects\Code-Documentation-Homework\Help\Working\BuildReferenceTopics.proj]
+BuildAssembler : warning : ShowMissingComponent: [T:EmpiresMine.Interfaces.ICommandDispacher] Missing &lt;summary&gt; documentation [C:\Users\Leet\Documents\Visual Studio 2015\Projects\Code-Documentation-Homework\Help\Working\BuildReferenceTopics.proj]
+BuildAssembler : warning : ShowMissingComponent: [M:EmpiresMine.Interfaces.ICommandDispacher.DispatchCommand(System.String[])] Missing &lt;summary&gt; documentation [C:\Users\Leet\Documents\Visual Studio 2015\Projects\Code-Documentation-Homework\Help\Working\BuildReferenceTopics.proj]
+BuildAssembler : warning : ShowMissingComponent: [M:EmpiresMine.Interfaces.ICommandDispacher.DispatchCommand(System.String[])] Missing &lt;param name=&quot;parameters&quot;/&gt; documentation [C:\Users\Leet\Documents\Visual Studio 2015\Projects\Code-Documentation-Homework\Help\Working\BuildReferenceTopics.proj]
+BuildAssembler : warning : ShowMissingComponent: [T:EmpiresMine.Interfaces.IDatabase] Missing &lt;summary&gt; documentation [C:\Users\Leet\Documents\Visual Studio 2015\Projects\Code-Documentation-Homework\Help\Working\BuildReferenceTopics.proj]
+BuildAssembler : warning : ShowMissingComponent: [M:EmpiresMine.Interfaces.IDatabase.AddUnit(EmpiresMine.Models.Interfaces.IUnit)] Missing &lt;summary&gt; documentation [C:\Users\Leet\Documents\Visual Studio 2015\Projects\Code-Documentation-Homework\Help\Working\BuildReferenceTopics.proj]
+BuildAssembler : warning : ShowMissingComponent: [M:EmpiresMine.Interfaces.IDatabase.AddUnit(EmpiresMine.Models.Interfaces.IUnit)] Missing &lt;param name=&quot;unit&quot;/&gt; documentation [C:\Users\Leet\Documents\Visual Studio 2015\Projects\Code-Documentation-Homework\Help\Working\BuildReferenceTopics.proj]
+BuildAssembler : warning : ShowMissingComponent: [P:EmpiresMine.Interfaces.IDatabase.Buildings] Missing &lt;summary&gt; documentation [C:\Users\Leet\Documents\Visual Studio 2015\Projects\Code-Documentation-Homework\Help\Working\BuildReferenceTopics.proj]
+BuildAssembler : warning : ShowMissingComponent: [P:EmpiresMine.Interfaces.IDatabase.Resources] Missing &lt;summary&gt; documentation [C:\Users\Leet\Documents\Visual Studio 2015\Projects\Code-Documentation-Homework\Help\Working\BuildReferenceTopics.proj]
+BuildAssembler : warning : ShowMissingComponent: [P:EmpiresMine.Interfaces.IDatabase.Units] Missing &lt;summary&gt; documentation [C:\Users\Leet\Documents\Visual Studio 2015\Projects\Code-Documentation-Homework\Help\Working\BuildReferenceTopics.proj]
+BuildAssembler : warning : ShowMissingComponent: [T:EmpiresMine.Interfaces.IEngine] Missing &lt;summary&gt; documentation [C:\Users\Leet\Documents\Visual Studio 2015\Projects\Code-Documentation-Homework\Help\Working\BuildReferenceTopics.proj]
+BuildAssembler : warning : ShowMissingComponent: [P:EmpiresMine.Interfaces.IEngine.CommandDispacher] Missing &lt;summary&gt; documentation [C:\Users\Leet\Documents\Visual Studio 2015\Projects\Code-Documentation-Homework\Help\Working\BuildReferenceTopics.proj]
+BuildAssembler : warning : ShowMissingComponent: [P:EmpiresMine.Interfaces.IEngine.Database] Missing &lt;summary&gt; documentation [C:\Users\Leet\Documents\Visual Studio 2015\Projects\Code-Documentation-Homework\Help\Working\BuildReferenceTopics.proj]
+BuildAssembler : warning : ShowMissingComponent: [M:EmpiresMine.Interfaces.IEngine.Run] Missing &lt;summary&gt; documentation [C:\Users\Leet\Documents\Visual Studio 2015\Projects\Code-Documentation-Homework\Help\Working\BuildReferenceTopics.proj]
+BuildAssembler : warning : ShowMissingComponent: [N:EmpiresMine.IO] Missing &lt;summary&gt; documentation [C:\Users\Leet\Documents\Visual Studio 2015\Projects\Code-Documentation-Homework\Help\Working\BuildReferenceTopics.proj]
+BuildAssembler : warning : ShowMissingComponent: [T:EmpiresMine.IO.ConsoleHandler] Missing &lt;summary&gt; documentation [C:\Users\Leet\Documents\Visual Studio 2015\Projects\Code-Documentation-Homework\Help\Working\BuildReferenceTopics.proj]
+BuildAssembler : warning : ShowMissingComponent: [M:EmpiresMine.IO.ConsoleHandler.ReadLine] Missing &lt;summary&gt; documentation [C:\Users\Leet\Documents\Visual Studio 2015\Projects\Code-Documentation-Homework\Help\Working\BuildReferenceTopics.proj]
+BuildAssembler : warning : ShowMissingComponent: [M:EmpiresMine.IO.ConsoleHandler.ReadLine] Missing &lt;returns&gt; documentation [C:\Users\Leet\Documents\Visual Studio 2015\Projects\Code-Documentation-Homework\Help\Working\BuildReferenceTopics.proj]
+BuildAssembler : warning : ShowMissingComponent: [M:EmpiresMine.IO.ConsoleHandler.Write(System.String)] Missing &lt;summary&gt; documentation [C:\Users\Leet\Documents\Visual Studio 2015\Projects\Code-Documentation-Homework\Help\Working\BuildReferenceTopics.proj]
+BuildAssembler : warning : ShowMissingComponent: [M:EmpiresMine.IO.ConsoleHandler.Write(System.String)] Missing &lt;param name=&quot;message&quot;/&gt; documentation [C:\Users\Leet\Documents\Visual Studio 2015\Projects\Code-Documentation-Homework\Help\Working\BuildReferenceTopics.proj]
+BuildAssembler : warning : ShowMissingComponent: [T:EmpiresMine.IO.IInputOutputHandler] Missing &lt;summary&gt; documentation [C:\Users\Leet\Documents\Visual Studio 2015\Projects\Code-Documentation-Homework\Help\Working\BuildReferenceTopics.proj]
+BuildAssembler : warning : ShowMissingComponent: [T:EmpiresMine.IO.IReader] Missing &lt;summary&gt; documentation [C:\Users\Leet\Documents\Visual Studio 2015\Projects\Code-Documentation-Homework\Help\Working\BuildReferenceTopics.proj]
+BuildAssembler : warning : ShowMissingComponent: [M:EmpiresMine.IO.IReader.ReadLine] Missing &lt;summary&gt; documentation [C:\Users\Leet\Documents\Visual Studio 2015\Projects\Code-Documentation-Homework\Help\Working\BuildReferenceTopics.proj]
+BuildAssembler : warning : ShowMissingComponent: [M:EmpiresMine.IO.IReader.ReadLine] Missing &lt;returns&gt; documentation [C:\Users\Leet\Documents\Visual Studio 2015\Projects\Code-Documentation-Homework\Help\Working\BuildReferenceTopics.proj]
+BuildAssembler : warning : ShowMissingComponent: [T:EmpiresMine.IO.IWriter] Missing &lt;summary&gt; documentation [C:\Users\Leet\Documents\Visual Studio 2015\Projects\Code-Documentation-Homework\Help\Working\BuildReferenceTopics.proj]
+BuildAssembler : warning : ShowMissingComponent: [M:EmpiresMine.IO.IWriter.Write(System.String)] Missing &lt;summary&gt; documentation [C:\Users\Leet\Documents\Visual Studio 2015\Projects\Code-Documentation-Homework\Help\Working\BuildReferenceTopics.proj]
+BuildAssembler : warning : ShowMissingComponent: [M:EmpiresMine.IO.IWriter.Write(System.String)] Missing &lt;param name=&quot;message&quot;/&gt; documentation [C:\Users\Leet\Documents\Visual Studio 2015\Projects\Code-Documentation-Homework\Help\Working\BuildReferenceTopics.proj]
+BuildAssembler : warning : ShowMissingComponent: [N:EmpiresMine.Models.Buildings] Missing &lt;summary&gt; documentation [C:\Users\Leet\Documents\Visual Studio 2015\Projects\Code-Documentation-Homework\Help\Working\BuildReferenceTopics.proj]
+BuildAssembler : warning : ShowMissingComponent: [T:EmpiresMine.Models.Buildings.Archery] Missing &lt;summary&gt; documentation [C:\Users\Leet\Documents\Visual Studio 2015\Projects\Code-Documentation-Homework\Help\Working\BuildReferenceTopics.proj]
+BuildAssembler : warning : ShowMissingComponent: [M:EmpiresMine.Models.Buildings.Archery.CanProduceResource] Missing &lt;summary&gt; documentation [C:\Users\Leet\Documents\Visual Studio 2015\Projects\Code-Documentation-Homework\Help\Working\BuildReferenceTopics.proj]
+BuildAssembler : warning : ShowMissingComponent: [M:EmpiresMine.Models.Buildings.Archery.CanProduceResource] Missing &lt;returns&gt; documentation [C:\Users\Leet\Documents\Visual Studio 2015\Projects\Code-Documentation-Homework\Help\Working\BuildReferenceTopics.proj]
+BuildAssembler : warning : ShowMissingComponent: [M:EmpiresMine.Models.Buildings.Archery.CanProduceUnit] Missing &lt;summary&gt; documentation [C:\Users\Leet\Documents\Visual Studio 2015\Projects\Code-Documentation-Homework\Help\Working\BuildReferenceTopics.proj]
+BuildAssembler : warning : ShowMissingComponent: [M:EmpiresMine.Models.Buildings.Archery.CanProduceUnit] Missing &lt;returns&gt; documentation [C:\Users\Leet\Documents\Visual Studio 2015\Projects\Code-Documentation-Homework\Help\Working\BuildReferenceTopics.proj]
+BuildAssembler : warning : ShowMissingComponent: [M:EmpiresMine.Models.Buildings.Archery.ProduceResource] Missing &lt;summary&gt; documentation [C:\Users\Leet\Documents\Visual Studio 2015\Projects\Code-Documentation-Homework\Help\Working\BuildReferenceTopics.proj]
+BuildAssembler : warning : ShowMissingComponent: [M:EmpiresMine.Models.Buildings.Archery.ProduceResource] Missing &lt;returns&gt; documentation [C:\Users\Leet\Documents\Visual Studio 2015\Projects\Code-Documentation-Homework\Help\Working\BuildReferenceTopics.proj]
+BuildAssembler : warning : ShowMissingComponent: [M:EmpiresMine.Models.Buildings.Archery.ProduceUnit] Missing &lt;summary&gt; documentation [C:\Users\Leet\Documents\Visual Studio 2015\Projects\Code-Documentation-Homework\Help\Working\BuildReferenceTopics.proj]
+BuildAssembler : warning : ShowMissingComponent: [M:EmpiresMine.Models.Buildings.Archery.ProduceUnit] Missing &lt;returns&gt; documentation [C:\Users\Leet\Documents\Visual Studio 2015\Projects\Code-Documentation-Homework\Help\Working\BuildReferenceTopics.proj]
+BuildAssembler : warning : ShowMissingComponent: [M:EmpiresMine.Models.Buildings.Archery.ToString] Missing &lt;summary&gt; documentation [C:\Users\Leet\Documents\Visual Studio 2015\Projects\Code-Documentation-Homework\Help\Working\BuildReferenceTopics.proj]
+BuildAssembler : warning : ShowMissingComponent: [M:EmpiresMine.Models.Buildings.Archery.ToString] Missing &lt;returns&gt; documentation [C:\Users\Leet\Documents\Visual Studio 2015\Projects\Code-Documentation-Homework\Help\Working\BuildReferenceTopics.proj]
+BuildAssembler : warning : ShowMissingComponent: [M:EmpiresMine.Models.Buildings.Archery.Update] Missing &lt;summary&gt; documentation [C:\Users\Leet\Documents\Visual Studio 2015\Projects\Code-Documentation-Homework\Help\Working\BuildReferenceTopics.proj]
+BuildAssembler : warning : ShowMissingComponent: [T:EmpiresMine.Models.Buildings.Barracks] Missing &lt;summary&gt; documentation [C:\Users\Leet\Documents\Visual Studio 2015\Projects\Code-Documentation-Homework\Help\Working\BuildReferenceTopics.proj]
+BuildAssembler : warning : ShowMissingComponent: [M:EmpiresMine.Models.Buildings.Barracks.CanProduceResource] Missing &lt;summary&gt; documentation [C:\Users\Leet\Documents\Visual Studio 2015\Projects\Code-Documentation-Homework\Help\Working\BuildReferenceTopics.proj]
+BuildAssembler : warning : ShowMissingComponent: [M:EmpiresMine.Models.Buildings.Barracks.CanProduceResource] Missing &lt;returns&gt; documentation [C:\Users\Leet\Documents\Visual Studio 2015\Projects\Code-Documentation-Homework\Help\Working\BuildReferenceTopics.proj]
+BuildAssembler : warning : ShowMissingComponent: [M:EmpiresMine.Models.Buildings.Barracks.CanProduceUnit] Missing &lt;summary&gt; documentation [C:\Users\Leet\Documents\Visual Studio 2015\Projects\Code-Documentation-Homework\Help\Working\BuildReferenceTopics.proj]
+BuildAssembler : warning : ShowMissingComponent: [M:EmpiresMine.Models.Buildings.Barracks.CanProduceUnit] Missing &lt;returns&gt; documentation [C:\Users\Leet\Documents\Visual Studio 2015\Projects\Code-Documentation-Homework\Help\Working\BuildReferenceTopics.proj]
+BuildAssembler : warning : ShowMissingComponent: [M:EmpiresMine.Models.Buildings.Barracks.ProduceResource] Missing &lt;summary&gt; documentation [C:\Users\Leet\Documents\Visual Studio 2015\Projects\Code-Documentation-Homework\Help\Working\BuildReferenceTopics.proj]
+BuildAssembler : warning : ShowMissingComponent: [M:EmpiresMine.Models.Buildings.Barracks.ProduceResource] Missing &lt;returns&gt; documentation [C:\Users\Leet\Documents\Visual Studio 2015\Projects\Code-Documentation-Homework\Help\Working\BuildReferenceTopics.proj]
+BuildAssembler : warning : ShowMissingComponent: [M:EmpiresMine.Models.Buildings.Barracks.ProduceUnit] Missing &lt;summary&gt; documentation [C:\Users\Leet\Documents\Visual Studio 2015\Projects\Code-Documentation-Homework\Help\Working\BuildReferenceTopics.proj]
+BuildAssembler : warning : ShowMissingComponent: [M:EmpiresMine.Models.Buildings.Barracks.ProduceUnit] Missing &lt;returns&gt; documentation [C:\Users\Leet\Documents\Visual Studio 2015\Projects\Code-Documentation-Homework\Help\Working\BuildReferenceTopics.proj]
+BuildAssembler : warning : ShowMissingComponent: [M:EmpiresMine.Models.Buildings.Barracks.ToString] Missing &lt;summary&gt; documentation [C:\Users\Leet\Documents\Visual Studio 2015\Projects\Code-Documentation-Homework\Help\Working\BuildReferenceTopics.proj]
+BuildAssembler : warning : ShowMissingComponent: [M:EmpiresMine.Models.Buildings.Barracks.ToString] Missing &lt;returns&gt; documentation [C:\Users\Leet\Documents\Visual Studio 2015\Projects\Code-Documentation-Homework\Help\Working\BuildReferenceTopics.proj]
+BuildAssembler : warning : ShowMissingComponent: [M:EmpiresMine.Models.Buildings.Barracks.Update] Missing &lt;summary&gt; documentation [C:\Users\Leet\Documents\Visual Studio 2015\Projects\Code-Documentation-Homework\Help\Working\BuildReferenceTopics.proj]
+BuildAssembler : warning : ShowMissingComponent: [T:EmpiresMine.Models.Buildings.Building] Missing &lt;summary&gt; documentation [C:\Users\Leet\Documents\Visual Studio 2015\Projects\Code-Documentation-Homework\Help\Working\BuildReferenceTopics.proj]
+BuildAssembler : warning : ShowMissingComponent: [M:EmpiresMine.Models.Buildings.Building.CanProduceResource] Missing &lt;summary&gt; documentation [C:\Users\Leet\Documents\Visual Studio 2015\Projects\Code-Documentation-Homework\Help\Working\BuildReferenceTopics.proj]
+BuildAssembler : warning : ShowMissingComponent: [M:EmpiresMine.Models.Buildings.Building.CanProduceResource] Missing &lt;returns&gt; documentation [C:\Users\Leet\Documents\Visual Studio 2015\Projects\Code-Documentation-Homework\Help\Working\BuildReferenceTopics.proj]
+BuildAssembler : warning : ShowMissingComponent: [M:EmpiresMine.Models.Buildings.Building.CanProduceUnit] Missing &lt;summary&gt; documentation [C:\Users\Leet\Documents\Visual Studio 2015\Projects\Code-Documentation-Homework\Help\Working\BuildReferenceTopics.proj]
+BuildAssembler : warning : ShowMissingComponent: [M:EmpiresMine.Models.Buildings.Building.CanProduceUnit] Missing &lt;returns&gt; documentation [C:\Users\Leet\Documents\Visual Studio 2015\Projects\Code-Documentation-Homework\Help\Working\BuildReferenceTopics.proj]
+BuildAssembler : warning : ShowMissingComponent: [M:EmpiresMine.Models.Buildings.Building.ProduceResource] Missing &lt;summary&gt; documentation [C:\Users\Leet\Documents\Visual Studio 2015\Projects\Code-Documentation-Homework\Help\Working\BuildReferenceTopics.proj]
+BuildAssembler : warning : ShowMissingComponent: [M:EmpiresMine.Models.Buildings.Building.ProduceResource] Missing &lt;returns&gt; documentation [C:\Users\Leet\Documents\Visual Studio 2015\Projects\Code-Documentation-Homework\Help\Working\BuildReferenceTopics.proj]
+BuildAssembler : warning : ShowMissingComponent: [M:EmpiresMine.Models.Buildings.Building.ProduceUnit] Missing &lt;summary&gt; documentation [C:\Users\Leet\Documents\Visual Studio 2015\Projects\Code-Documentation-Homework\Help\Working\BuildReferenceTopics.proj]
+BuildAssembler : warning : ShowMissingComponent: [M:EmpiresMine.Models.Buildings.Building.ProduceUnit] Missing &lt;returns&gt; documentation [C:\Users\Leet\Documents\Visual Studio 2015\Projects\Code-Documentation-Homework\Help\Working\BuildReferenceTopics.proj]
+BuildAssembler : warning : ShowMissingComponent: [M:EmpiresMine.Models.Buildings.Building.Update] Missing &lt;summary&gt; documentation [C:\Users\Leet\Documents\Visual Studio 2015\Projects\Code-Documentation-Homework\Help\Working\BuildReferenceTopics.proj]
+BuildAssembler : warning : ShowMissingComponent: [N:EmpiresMine.Models.Interfaces] Missing &lt;summary&gt; documentation [C:\Users\Leet\Documents\Visual Studio 2015\Projects\Code-Documentation-Homework\Help\Working\BuildReferenceTopics.proj]
+BuildAssembler : warning : ShowMissingComponent: [T:EmpiresMine.Models.Interfaces.IBuilding] Missing &lt;summary&gt; documentation [C:\Users\Leet\Documents\Visual Studio 2015\Projects\Code-Documentation-Homework\Help\Working\BuildReferenceTopics.proj]
+BuildAssembler : warning : ShowMissingComponent: [M:EmpiresMine.Models.Interfaces.IBuilding.Update] Missing &lt;summary&gt; documentation [C:\Users\Leet\Documents\Visual Studio 2015\Projects\Code-Documentation-Homework\Help\Working\BuildReferenceTopics.proj]
+BuildAssembler : warning : ShowMissingComponent: [T:EmpiresMine.Models.Interfaces.IResource] Missing &lt;summary&gt; documentation [C:\Users\Leet\Documents\Visual Studio 2015\Projects\Code-Documentation-Homework\Help\Working\BuildReferenceTopics.proj]
+BuildAssembler : warning : ShowMissingComponent: [P:EmpiresMine.Models.Interfaces.IResource.Quantity] Missing &lt;summary&gt; documentation [C:\Users\Leet\Documents\Visual Studio 2015\Projects\Code-Documentation-Homework\Help\Working\BuildReferenceTopics.proj]
+BuildAssembler : warning : ShowMissingComponent: [P:EmpiresMine.Models.Interfaces.IResource.ResourceType] Missing &lt;summary&gt; documentation [C:\Users\Leet\Documents\Visual Studio 2015\Projects\Code-Documentation-Homework\Help\Working\BuildReferenceTopics.proj]
+BuildAssembler : warning : ShowMissingComponent: [T:EmpiresMine.Models.Interfaces.IResourceProduceable] Missing &lt;summary&gt; documentation [C:\Users\Leet\Documents\Visual Studio 2015\Projects\Code-Documentation-Homework\Help\Working\BuildReferenceTopics.proj]
+BuildAssembler : warning : ShowMissingComponent: [M:EmpiresMine.Models.Interfaces.IResourceProduceable.CanProduceResource] Missing &lt;summary&gt; documentation [C:\Users\Leet\Documents\Visual Studio 2015\Projects\Code-Documentation-Homework\Help\Working\BuildReferenceTopics.proj]
+BuildAssembler : warning : ShowMissingComponent: [M:EmpiresMine.Models.Interfaces.IResourceProduceable.CanProduceResource] Missing &lt;returns&gt; documentation [C:\Users\Leet\Documents\Visual Studio 2015\Projects\Code-Documentation-Homework\Help\Working\BuildReferenceTopics.proj]
+BuildAssembler : warning : ShowMissingComponent: [M:EmpiresMine.Models.Interfaces.IResourceProduceable.ProduceResource] Missing &lt;summary&gt; documentation [C:\Users\Leet\Documents\Visual Studio 2015\Projects\Code-Documentation-Homework\Help\Working\BuildReferenceTopics.proj]
+BuildAssembler : warning : ShowMissingComponent: [M:EmpiresMine.Models.Interfaces.IResourceProduceable.ProduceResource] Missing &lt;returns&gt; documentation [C:\Users\Leet\Documents\Visual Studio 2015\Projects\Code-Documentation-Homework\Help\Working\BuildReferenceTopics.proj]
+BuildAssembler : warning : ShowMissingComponent: [T:EmpiresMine.Models.Interfaces.IUnit] Missing &lt;summary&gt; documentation [C:\Users\Leet\Documents\Visual Studio 2015\Projects\Code-Documentation-Homework\Help\Working\BuildReferenceTopics.proj]
+BuildAssembler : warning : ShowMissingComponent: [P:EmpiresMine.Models.Interfaces.IUnit.AttackDamage] Missing &lt;summary&gt; documentation [C:\Users\Leet\Documents\Visual Studio 2015\Projects\Code-Documentation-Homework\Help\Working\BuildReferenceTopics.proj]
+BuildAssembler : warning : ShowMissingComponent: [P:EmpiresMine.Models.Interfaces.IUnit.Health] Missing &lt;summary&gt; documentation [C:\Users\Leet\Documents\Visual Studio 2015\Projects\Code-Documentation-Homework\Help\Working\BuildReferenceTopics.proj]
+BuildAssembler : warning : ShowMissingComponent: [T:EmpiresMine.Models.Interfaces.IUnitProduceable] Missing &lt;summary&gt; documentation [C:\Users\Leet\Documents\Visual Studio 2015\Projects\Code-Documentation-Homework\Help\Working\BuildReferenceTopics.proj]
+BuildAssembler : warning : ShowMissingComponent: [M:EmpiresMine.Models.Interfaces.IUnitProduceable.CanProduceUnit] Missing &lt;summary&gt; documentation [C:\Users\Leet\Documents\Visual Studio 2015\Projects\Code-Documentation-Homework\Help\Working\BuildReferenceTopics.proj]
+BuildAssembler : warning : ShowMissingComponent: [M:EmpiresMine.Models.Interfaces.IUnitProduceable.CanProduceUnit] Missing &lt;returns&gt; documentation [C:\Users\Leet\Documents\Visual Studio 2015\Projects\Code-Documentation-Homework\Help\Working\BuildReferenceTopics.proj]
+BuildAssembler : warning : ShowMissingComponent: [M:EmpiresMine.Models.Interfaces.IUnitProduceable.ProduceUnit] Missing &lt;summary&gt; documentation [C:\Users\Leet\Documents\Visual Studio 2015\Projects\Code-Documentation-Homework\Help\Working\BuildReferenceTopics.proj]
+BuildAssembler : warning : ShowMissingComponent: [M:EmpiresMine.Models.Interfaces.IUnitProduceable.ProduceUnit] Missing &lt;returns&gt; documentation [C:\Users\Leet\Documents\Visual Studio 2015\Projects\Code-Documentation-Homework\Help\Working\BuildReferenceTopics.proj]
+BuildAssembler : warning : ShowMissingComponent: [N:EmpiresMine.Models.Resources] Missing &lt;summary&gt; documentation [C:\Users\Leet\Documents\Visual Studio 2015\Projects\Code-Documentation-Homework\Help\Working\BuildReferenceTopics.proj]
+BuildAssembler : warning : ShowMissingComponent: [T:EmpiresMine.Models.Resources.Resource] Missing &lt;summary&gt; documentation [C:\Users\Leet\Documents\Visual Studio 2015\Projects\Code-Documentation-Homework\Help\Working\BuildReferenceTopics.proj]
+BuildAssembler : warning : ShowMissingComponent: [M:EmpiresMine.Models.Resources.Resource.#ctor(EmpiresMine.Enums.ResourceType,System.Int32)] Missing &lt;param name=&quot;resourceType&quot;/&gt; documentation [C:\Users\Leet\Documents\Visual Studio 2015\Projects\Code-Documentation-Homework\Help\Working\BuildReferenceTopics.proj]
+BuildAssembler : warning : ShowMissingComponent: [M:EmpiresMine.Models.Resources.Resource.#ctor(EmpiresMine.Enums.ResourceType,System.Int32)] Missing &lt;param name=&quot;quantity&quot;/&gt; documentation [C:\Users\Leet\Documents\Visual Studio 2015\Projects\Code-Documentation-Homework\Help\Working\BuildReferenceTopics.proj]
+BuildAssembler : warning : ShowMissingComponent: [P:EmpiresMine.Models.Resources.Resource.Quantity] Missing &lt;summary&gt; documentation [C:\Users\Leet\Documents\Visual Studio 2015\Projects\Code-Documentation-Homework\Help\Working\BuildReferenceTopics.proj]
+BuildAssembler : warning : ShowMissingComponent: [P:EmpiresMine.Models.Resources.Resource.ResourceType] Missing &lt;summary&gt; documentation [C:\Users\Leet\Documents\Visual Studio 2015\Projects\Code-Documentation-Homework\Help\Working\BuildReferenceTopics.proj]
+BuildAssembler : warning : ShowMissingComponent: [N:EmpiresMine.Models.Units] Missing &lt;summary&gt; documentation [C:\Users\Leet\Documents\Visual Studio 2015\Projects\Code-Documentation-Homework\Help\Working\BuildReferenceTopics.proj]
+BuildAssembler : warning : ShowMissingComponent: [T:EmpiresMine.Models.Units.Archer] Missing &lt;summary&gt; documentation [C:\Users\Leet\Documents\Visual Studio 2015\Projects\Code-Documentation-Homework\Help\Working\BuildReferenceTopics.proj]
+BuildAssembler : warning : ShowMissingComponent: [M:EmpiresMine.Models.Units.Archer.#ctor(System.Int32,System.Int32)] Missing &lt;param name=&quot;health&quot;/&gt; documentation [C:\Users\Leet\Documents\Visual Studio 2015\Projects\Code-Documentation-Homework\Help\Working\BuildReferenceTopics.proj]
+BuildAssembler : warning : ShowMissingComponent: [M:EmpiresMine.Models.Units.Archer.#ctor(System.Int32,System.Int32)] Missing &lt;param name=&quot;attackDamage&quot;/&gt; documentation [C:\Users\Leet\Documents\Visual Studio 2015\Projects\Code-Documentation-Homework\Help\Working\BuildReferenceTopics.proj]
+BuildAssembler : warning : ShowMissingComponent: [P:EmpiresMine.Models.Units.Archer.AttackDamage] Missing &lt;summary&gt; documentation [C:\Users\Leet\Documents\Visual Studio 2015\Projects\Code-Documentation-Homework\Help\Working\BuildReferenceTopics.proj]
+BuildAssembler : warning : ShowMissingComponent: [P:EmpiresMine.Models.Units.Archer.Health] Missing &lt;summary&gt; documentation [C:\Users\Leet\Documents\Visual Studio 2015\Projects\Code-Documentation-Homework\Help\Working\BuildReferenceTopics.proj]
+BuildAssembler : warning : ShowMissingComponent: [T:EmpiresMine.Models.Units.Swordsman] Missing &lt;summary&gt; documentation [C:\Users\Leet\Documents\Visual Studio 2015\Projects\Code-Documentation-Homework\Help\Working\BuildReferenceTopics.proj]
+BuildAssembler : warning : ShowMissingComponent: [M:EmpiresMine.Models.Units.Swordsman.#ctor(System.Int32,System.Int32)] Missing &lt;param name=&quot;health&quot;/&gt; documentation [C:\Users\Leet\Documents\Visual Studio 2015\Projects\Code-Documentation-Homework\Help\Working\BuildReferenceTopics.proj]
+BuildAssembler : warning : ShowMissingComponent: [M:EmpiresMine.Models.Units.Swordsman.#ctor(System.Int32,System.Int32)] Missing &lt;param name=&quot;attackDamage&quot;/&gt; documentation [C:\Users\Leet\Documents\Visual Studio 2015\Projects\Code-Documentation-Homework\Help\Working\BuildReferenceTopics.proj]
+BuildAssembler : warning : ShowMissingComponent: [P:EmpiresMine.Models.Units.Swordsman.AttackDamage] Missing &lt;summary&gt; documentation [C:\Users\Leet\Documents\Visual Studio 2015\Projects\Code-Documentation-Homework\Help\Working\BuildReferenceTopics.proj]
+BuildAssembler : warning : ShowMissingComponent: [P:EmpiresMine.Models.Units.Swordsman.Health] Missing &lt;summary&gt; documentation [C:\Users\Leet\Documents\Visual Studio 2015\Projects\Code-Documentation-Homework\Help\Working\BuildReferenceTopics.proj]
+  Processed 144 topic(s)
+  137 warning(s)
+  CopyFromIndexComponent: &quot;reflection&quot; in-memory cache entries used: 3 of 15.
+  CopyFromIndexComponent: &quot;comments&quot; in-memory cache entries used: 2 of 30.
+  ResolveReferenceLinksComponent: New MSDN content ID cache size: 14 entries
+Done Building Project &quot;C:\Users\Leet\Documents\Visual Studio 2015\Projects\Code-Documentation-Homework\Help\Working\BuildReferenceTopics.proj&quot; (default targets).
+
+Build succeeded.
+
+Time Elapsed 00:00:45.92
+    Last step completed in 00:00:46.1765
+</buildStep>
+<buildStep step="CombiningIntermediateTocFiles">
+Combining conceptual and API intermediate TOC files...
+    Last step completed in 00:00:00.0040
+</buildStep>
+<buildStep step="ExtractingHtmlInfo">
+Extracting HTML info for HTML Help 1 and/or website...
+[C:\Windows\Microsoft.NET\Framework\v4.0.30319\MSBuild.exe - ExtractHtmlInfo.proj]
+Project file contains ToolsVersion=&quot;12.0&quot;. This toolset may be unknown or missing, in which case you may be able to resolve this by installing the appropriate version of MSBuild, or the build may have been forced to a particular ToolsVersion for policy reasons. Treating the project as if it had ToolsVersion=&quot;4.0&quot;. For more information, please see http://go.microsoft.com/fwlink/?LinkId=291333.
+Sandcastle Help File Builder and Tools, version 2015.10.10.0
+Copyright c 2006-2015, Eric Woodruff, All Rights Reserved
+E-Mail: Eric@EWoodruff.us
+
+Using LCID &#39;1033&#39;, code page &#39;65001&#39;, encoding charset &#39;UTF-8&#39;.
+
+Processing Help 1 files in C:\Users\Leet\Documents\Visual Studio 2015\Projects\Code-Documentation-Homework\Help\Working\Output\HtmlHelp1
+Processed 144 HTML files
+Sorting keywords and generating See Also indices
+Saving HTML Help 1 keyword index to C:\Users\Leet\Documents\Visual Studio 2015\Projects\Code-Documentation-Homework\Help\Working\Documentation.hhk
+Saving HTML Help 1 table of contents to C:\Users\Leet\Documents\Visual Studio 2015\Projects\Code-Documentation-Homework\Help\Working\Documentation.hhc
+    Last step completed in 00:00:00.7690
+</buildStep>
+<buildStep step="CopyStandardHelpContent">
+Copying standard help content...
+C:\Program Files\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2013\icons\AlertCaution.png -&gt; C:\Users\Leet\Documents\Visual Studio 2015\Projects\Code-Documentation-Homework\Help\Working\Output\HtmlHelp1\icons\AlertCaution.png
+C:\Program Files\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2013\icons\AlertNote.png -&gt; C:\Users\Leet\Documents\Visual Studio 2015\Projects\Code-Documentation-Homework\Help\Working\Output\HtmlHelp1\icons\AlertNote.png
+C:\Program Files\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2013\icons\AlertSecurity.png -&gt; C:\Users\Leet\Documents\Visual Studio 2015\Projects\Code-Documentation-Homework\Help\Working\Output\HtmlHelp1\icons\AlertSecurity.png
+C:\Program Files\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2013\icons\CFW.gif -&gt; C:\Users\Leet\Documents\Visual Studio 2015\Projects\Code-Documentation-Homework\Help\Working\Output\HtmlHelp1\icons\CFW.gif
+C:\Program Files\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2013\icons\CodeExample.png -&gt; C:\Users\Leet\Documents\Visual Studio 2015\Projects\Code-Documentation-Homework\Help\Working\Output\HtmlHelp1\icons\CodeExample.png
+C:\Program Files\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2013\icons\favicon.ico -&gt; C:\Users\Leet\Documents\Visual Studio 2015\Projects\Code-Documentation-Homework\Help\Working\Output\HtmlHelp1\icons\favicon.ico
+C:\Program Files\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2013\icons\privclass.gif -&gt; C:\Users\Leet\Documents\Visual Studio 2015\Projects\Code-Documentation-Homework\Help\Working\Output\HtmlHelp1\icons\privclass.gif
+C:\Program Files\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2013\icons\privdelegate.gif -&gt; C:\Users\Leet\Documents\Visual Studio 2015\Projects\Code-Documentation-Homework\Help\Working\Output\HtmlHelp1\icons\privdelegate.gif
+C:\Program Files\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2013\icons\privenumeration.gif -&gt; C:\Users\Leet\Documents\Visual Studio 2015\Projects\Code-Documentation-Homework\Help\Working\Output\HtmlHelp1\icons\privenumeration.gif
+C:\Program Files\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2013\icons\privevent.gif -&gt; C:\Users\Leet\Documents\Visual Studio 2015\Projects\Code-Documentation-Homework\Help\Working\Output\HtmlHelp1\icons\privevent.gif
+C:\Program Files\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2013\icons\privextension.gif -&gt; C:\Users\Leet\Documents\Visual Studio 2015\Projects\Code-Documentation-Homework\Help\Working\Output\HtmlHelp1\icons\privextension.gif
+C:\Program Files\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2013\icons\privfield.gif -&gt; C:\Users\Leet\Documents\Visual Studio 2015\Projects\Code-Documentation-Homework\Help\Working\Output\HtmlHelp1\icons\privfield.gif
+C:\Program Files\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2013\icons\privinterface.gif -&gt; C:\Users\Leet\Documents\Visual Studio 2015\Projects\Code-Documentation-Homework\Help\Working\Output\HtmlHelp1\icons\privinterface.gif
+C:\Program Files\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2013\icons\privmethod.gif -&gt; C:\Users\Leet\Documents\Visual Studio 2015\Projects\Code-Documentation-Homework\Help\Working\Output\HtmlHelp1\icons\privmethod.gif
+C:\Program Files\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2013\icons\privproperty.gif -&gt; C:\Users\Leet\Documents\Visual Studio 2015\Projects\Code-Documentation-Homework\Help\Working\Output\HtmlHelp1\icons\privproperty.gif
+C:\Program Files\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2013\icons\privstructure.gif -&gt; C:\Users\Leet\Documents\Visual Studio 2015\Projects\Code-Documentation-Homework\Help\Working\Output\HtmlHelp1\icons\privstructure.gif
+C:\Program Files\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2013\icons\protclass.gif -&gt; C:\Users\Leet\Documents\Visual Studio 2015\Projects\Code-Documentation-Homework\Help\Working\Output\HtmlHelp1\icons\protclass.gif
+C:\Program Files\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2013\icons\protdelegate.gif -&gt; C:\Users\Leet\Documents\Visual Studio 2015\Projects\Code-Documentation-Homework\Help\Working\Output\HtmlHelp1\icons\protdelegate.gif
+C:\Program Files\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2013\icons\protenumeration.gif -&gt; C:\Users\Leet\Documents\Visual Studio 2015\Projects\Code-Documentation-Homework\Help\Working\Output\HtmlHelp1\icons\protenumeration.gif
+C:\Program Files\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2013\icons\protevent.gif -&gt; C:\Users\Leet\Documents\Visual Studio 2015\Projects\Code-Documentation-Homework\Help\Working\Output\HtmlHelp1\icons\protevent.gif
+C:\Program Files\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2013\icons\protextension.gif -&gt; C:\Users\Leet\Documents\Visual Studio 2015\Projects\Code-Documentation-Homework\Help\Working\Output\HtmlHelp1\icons\protextension.gif
+C:\Program Files\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2013\icons\protfield.gif -&gt; C:\Users\Leet\Documents\Visual Studio 2015\Projects\Code-Documentation-Homework\Help\Working\Output\HtmlHelp1\icons\protfield.gif
+C:\Program Files\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2013\icons\protinterface.gif -&gt; C:\Users\Leet\Documents\Visual Studio 2015\Projects\Code-Documentation-Homework\Help\Working\Output\HtmlHelp1\icons\protinterface.gif
+C:\Program Files\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2013\icons\protmethod.gif -&gt; C:\Users\Leet\Documents\Visual Studio 2015\Projects\Code-Documentation-Homework\Help\Working\Output\HtmlHelp1\icons\protmethod.gif
+C:\Program Files\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2013\icons\protoperator.gif -&gt; C:\Users\Leet\Documents\Visual Studio 2015\Projects\Code-Documentation-Homework\Help\Working\Output\HtmlHelp1\icons\protoperator.gif
+C:\Program Files\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2013\icons\protproperty.gif -&gt; C:\Users\Leet\Documents\Visual Studio 2015\Projects\Code-Documentation-Homework\Help\Working\Output\HtmlHelp1\icons\protproperty.gif
+C:\Program Files\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2013\icons\protstructure.gif -&gt; C:\Users\Leet\Documents\Visual Studio 2015\Projects\Code-Documentation-Homework\Help\Working\Output\HtmlHelp1\icons\protstructure.gif
+C:\Program Files\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2013\icons\pubclass.gif -&gt; C:\Users\Leet\Documents\Visual Studio 2015\Projects\Code-Documentation-Homework\Help\Working\Output\HtmlHelp1\icons\pubclass.gif
+C:\Program Files\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2013\icons\pubdelegate.gif -&gt; C:\Users\Leet\Documents\Visual Studio 2015\Projects\Code-Documentation-Homework\Help\Working\Output\HtmlHelp1\icons\pubdelegate.gif
+C:\Program Files\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2013\icons\pubenumeration.gif -&gt; C:\Users\Leet\Documents\Visual Studio 2015\Projects\Code-Documentation-Homework\Help\Working\Output\HtmlHelp1\icons\pubenumeration.gif
+C:\Program Files\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2013\icons\pubevent.gif -&gt; C:\Users\Leet\Documents\Visual Studio 2015\Projects\Code-Documentation-Homework\Help\Working\Output\HtmlHelp1\icons\pubevent.gif
+C:\Program Files\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2013\icons\pubextension.gif -&gt; C:\Users\Leet\Documents\Visual Studio 2015\Projects\Code-Documentation-Homework\Help\Working\Output\HtmlHelp1\icons\pubextension.gif
+C:\Program Files\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2013\icons\pubfield.gif -&gt; C:\Users\Leet\Documents\Visual Studio 2015\Projects\Code-Documentation-Homework\Help\Working\Output\HtmlHelp1\icons\pubfield.gif
+C:\Program Files\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2013\icons\pubinterface.gif -&gt; C:\Users\Leet\Documents\Visual Studio 2015\Projects\Code-Documentation-Homework\Help\Working\Output\HtmlHelp1\icons\pubinterface.gif
+C:\Program Files\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2013\icons\pubmethod.gif -&gt; C:\Users\Leet\Documents\Visual Studio 2015\Projects\Code-Documentation-Homework\Help\Working\Output\HtmlHelp1\icons\pubmethod.gif
+C:\Program Files\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2013\icons\puboperator.gif -&gt; C:\Users\Leet\Documents\Visual Studio 2015\Projects\Code-Documentation-Homework\Help\Working\Output\HtmlHelp1\icons\puboperator.gif
+C:\Program Files\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2013\icons\pubproperty.gif -&gt; C:\Users\Leet\Documents\Visual Studio 2015\Projects\Code-Documentation-Homework\Help\Working\Output\HtmlHelp1\icons\pubproperty.gif
+C:\Program Files\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2013\icons\pubstructure.gif -&gt; C:\Users\Leet\Documents\Visual Studio 2015\Projects\Code-Documentation-Homework\Help\Working\Output\HtmlHelp1\icons\pubstructure.gif
+C:\Program Files\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2013\icons\SectionCollapsed.png -&gt; C:\Users\Leet\Documents\Visual Studio 2015\Projects\Code-Documentation-Homework\Help\Working\Output\HtmlHelp1\icons\SectionCollapsed.png
+C:\Program Files\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2013\icons\SectionExpanded.png -&gt; C:\Users\Leet\Documents\Visual Studio 2015\Projects\Code-Documentation-Homework\Help\Working\Output\HtmlHelp1\icons\SectionExpanded.png
+C:\Program Files\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2013\icons\slMobile.gif -&gt; C:\Users\Leet\Documents\Visual Studio 2015\Projects\Code-Documentation-Homework\Help\Working\Output\HtmlHelp1\icons\slMobile.gif
+C:\Program Files\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2013\icons\static.gif -&gt; C:\Users\Leet\Documents\Visual Studio 2015\Projects\Code-Documentation-Homework\Help\Working\Output\HtmlHelp1\icons\static.gif
+C:\Program Files\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2013\icons\xna.gif -&gt; C:\Users\Leet\Documents\Visual Studio 2015\Projects\Code-Documentation-Homework\Help\Working\Output\HtmlHelp1\icons\xna.gif
+C:\Program Files\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2013\scripts\branding.js -&gt; C:\Users\Leet\Documents\Visual Studio 2015\Projects\Code-Documentation-Homework\Help\Working\Output\HtmlHelp1\scripts\branding.js
+C:\Program Files\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2013\styles\branding-cs-CZ.css -&gt; C:\Users\Leet\Documents\Visual Studio 2015\Projects\Code-Documentation-Homework\Help\Working\Output\HtmlHelp1\styles\branding-cs-CZ.css
+C:\Program Files\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2013\styles\branding-de-DE.css -&gt; C:\Users\Leet\Documents\Visual Studio 2015\Projects\Code-Documentation-Homework\Help\Working\Output\HtmlHelp1\styles\branding-de-DE.css
+C:\Program Files\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2013\styles\branding-en-US.css -&gt; C:\Users\Leet\Documents\Visual Studio 2015\Projects\Code-Documentation-Homework\Help\Working\Output\HtmlHelp1\styles\branding-en-US.css
+C:\Program Files\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2013\styles\branding-es-ES.css -&gt; C:\Users\Leet\Documents\Visual Studio 2015\Projects\Code-Documentation-Homework\Help\Working\Output\HtmlHelp1\styles\branding-es-ES.css
+C:\Program Files\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2013\styles\branding-fr-FR.css -&gt; C:\Users\Leet\Documents\Visual Studio 2015\Projects\Code-Documentation-Homework\Help\Working\Output\HtmlHelp1\styles\branding-fr-FR.css
+C:\Program Files\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2013\styles\branding-Help1.css -&gt; C:\Users\Leet\Documents\Visual Studio 2015\Projects\Code-Documentation-Homework\Help\Working\Output\HtmlHelp1\styles\branding-Help1.css
+C:\Program Files\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2013\styles\branding-HelpViewer.css -&gt; C:\Users\Leet\Documents\Visual Studio 2015\Projects\Code-Documentation-Homework\Help\Working\Output\HtmlHelp1\styles\branding-HelpViewer.css
+C:\Program Files\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2013\styles\branding-it-IT.css -&gt; C:\Users\Leet\Documents\Visual Studio 2015\Projects\Code-Documentation-Homework\Help\Working\Output\HtmlHelp1\styles\branding-it-IT.css
+C:\Program Files\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2013\styles\branding-ja-JP.css -&gt; C:\Users\Leet\Documents\Visual Studio 2015\Projects\Code-Documentation-Homework\Help\Working\Output\HtmlHelp1\styles\branding-ja-JP.css
+C:\Program Files\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2013\styles\branding-ko-KR.css -&gt; C:\Users\Leet\Documents\Visual Studio 2015\Projects\Code-Documentation-Homework\Help\Working\Output\HtmlHelp1\styles\branding-ko-KR.css
+C:\Program Files\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2013\styles\branding-pl-PL.css -&gt; C:\Users\Leet\Documents\Visual Studio 2015\Projects\Code-Documentation-Homework\Help\Working\Output\HtmlHelp1\styles\branding-pl-PL.css
+C:\Program Files\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2013\styles\branding-pt-BR.css -&gt; C:\Users\Leet\Documents\Visual Studio 2015\Projects\Code-Documentation-Homework\Help\Working\Output\HtmlHelp1\styles\branding-pt-BR.css
+C:\Program Files\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2013\styles\branding-ru-RU.css -&gt; C:\Users\Leet\Documents\Visual Studio 2015\Projects\Code-Documentation-Homework\Help\Working\Output\HtmlHelp1\styles\branding-ru-RU.css
+C:\Program Files\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2013\styles\branding-tr-TR.css -&gt; C:\Users\Leet\Documents\Visual Studio 2015\Projects\Code-Documentation-Homework\Help\Working\Output\HtmlHelp1\styles\branding-tr-TR.css
+C:\Program Files\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2013\styles\branding-Website.css -&gt; C:\Users\Leet\Documents\Visual Studio 2015\Projects\Code-Documentation-Homework\Help\Working\Output\HtmlHelp1\styles\branding-Website.css
+C:\Program Files\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2013\styles\branding-zh-CN.css -&gt; C:\Users\Leet\Documents\Visual Studio 2015\Projects\Code-Documentation-Homework\Help\Working\Output\HtmlHelp1\styles\branding-zh-CN.css
+C:\Program Files\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2013\styles\branding-zh-TW.css -&gt; C:\Users\Leet\Documents\Visual Studio 2015\Projects\Code-Documentation-Homework\Help\Working\Output\HtmlHelp1\styles\branding-zh-TW.css
+C:\Program Files\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2013\styles\branding.css -&gt; C:\Users\Leet\Documents\Visual Studio 2015\Projects\Code-Documentation-Homework\Help\Working\Output\HtmlHelp1\styles\branding.css
+    Last step completed in 00:00:00.7110
+</buildStep>
+<buildStep step="GenerateHelpFormatTableOfContents">
+Generating HTML Help 1 table of contents file...
+    Last step completed in 00:00:00.0000
+</buildStep>
+<buildStep step="GenerateHelpFileIndex">
+Generating HTML Help 1 index file...
+    Last step completed in 00:00:00.0000
+</buildStep>
+<buildStep step="GenerateHelpProject">
+Generating HTML Help 1 project file...
+    Last step completed in 00:00:00.0120
+</buildStep>
+<buildStep step="CompilingHelpFile">
+Compiling HTML Help 1 file...
+[C:\Windows\Microsoft.NET\Framework\v4.0.30319\MSBuild.exe - Build1xHelpFile.proj]
+Project file contains ToolsVersion=&quot;12.0&quot;. This toolset may be unknown or missing, in which case you may be able to resolve this by installing the appropriate version of MSBuild, or the build may have been forced to a particular ToolsVersion for policy reasons. Treating the project as if it had ToolsVersion=&quot;4.0&quot;. For more information, please see http://go.microsoft.com/fwlink/?LinkId=291333.
+  Microsoft HTML Help Compiler 4.74.8702
+  
+  
+  
+  Compiling c:\Users\Leet\Documents\Visual Studio 2015\Projects\Code-Documentation-Homework\Help\Working\Output\HtmlHelp1\Documentation.chm
+  
+  
+  
+  
+  
+  Compile time: 0 minutes, 3 seconds
+  
+  146	Topics
+  
+  1,516	Local links
+  
+  417	Internet links
+  
+  0	Graphics
+  
+  
+  
+  
+  
+  Created c:\Users\Leet\Documents\Visual Studio 2015\Projects\Code-Documentation-Homework\Help\Working\Output\HtmlHelp1\Documentation.chm, 187,121 bytes
+  
+  Compression decreased file by 968,656 bytes.
+  
+    Last step completed in 00:00:05.3103
+</buildStep>
+<buildStep step="CleanIntermediates">
+Removing intermediate files...
+    Last step completed in 00:00:00.2170
+</buildStep>
+<buildStep step="Completed">
+
+Build completed successfully at 1/12/2016 12:11:07 PM.  Total time: 00:00:59.3523
+
+</buildStep>
+</shfbBuild>

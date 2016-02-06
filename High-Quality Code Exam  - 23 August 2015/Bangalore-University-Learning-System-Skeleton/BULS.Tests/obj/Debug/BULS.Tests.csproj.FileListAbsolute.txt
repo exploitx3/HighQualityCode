@@ -1,0 +1,11 @@
+C:\Users\Leet\Documents\Visual Studio 2015\Projects\High-Quality Code Exam  - 23 August 2015\Bangalore-University-Learning-System-Skeleton\BULS.Tests\obj\Debug\BULS.Tests.csprojResolveAssemblyReference.cache
+C:\Users\Leet\Documents\Visual Studio 2015\Projects\High-Quality Code Exam  - 23 August 2015\Bangalore-University-Learning-System-Skeleton\BULS.Tests\bin\Debug\BULS.Tests.dll
+C:\Users\Leet\Documents\Visual Studio 2015\Projects\High-Quality Code Exam  - 23 August 2015\Bangalore-University-Learning-System-Skeleton\BULS.Tests\bin\Debug\BULS.Tests.pdb
+C:\Users\Leet\Documents\Visual Studio 2015\Projects\High-Quality Code Exam  - 23 August 2015\Bangalore-University-Learning-System-Skeleton\BULS.Tests\bin\Debug\BangaloreUniversityLearningSystem.exe
+C:\Users\Leet\Documents\Visual Studio 2015\Projects\High-Quality Code Exam  - 23 August 2015\Bangalore-University-Learning-System-Skeleton\BULS.Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\Leet\Documents\Visual Studio 2015\Projects\High-Quality Code Exam  - 23 August 2015\Bangalore-University-Learning-System-Skeleton\BULS.Tests\bin\Debug\Moq.dll
+C:\Users\Leet\Documents\Visual Studio 2015\Projects\High-Quality Code Exam  - 23 August 2015\Bangalore-University-Learning-System-Skeleton\BULS.Tests\bin\Debug\BangaloreUniversityLearningSystem.pdb
+C:\Users\Leet\Documents\Visual Studio 2015\Projects\High-Quality Code Exam  - 23 August 2015\Bangalore-University-Learning-System-Skeleton\BULS.Tests\bin\Debug\Moq.xml
+C:\Users\Leet\Documents\Visual Studio 2015\Projects\High-Quality Code Exam  - 23 August 2015\Bangalore-University-Learning-System-Skeleton\BULS.Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.xml
+C:\Users\Leet\Documents\Visual Studio 2015\Projects\High-Quality Code Exam  - 23 August 2015\Bangalore-University-Learning-System-Skeleton\BULS.Tests\obj\Debug\BULS.Tests.dll
+C:\Users\Leet\Documents\Visual Studio 2015\Projects\High-Quality Code Exam  - 23 August 2015\Bangalore-University-Learning-System-Skeleton\BULS.Tests\obj\Debug\BULS.Tests.pdb

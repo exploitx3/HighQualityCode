@@ -1,0 +1,6 @@
+C:\Users\Leet\Documents\Visual Studio 2015\Projects\ChepelareHotelBookingSystem\ChepelareHotelBookingSystem\obj\Debug\ChepelareHotelBookingSystem.csprojResolveAssemblyReference.cache
+C:\Users\Leet\Documents\Visual Studio 2015\Projects\ChepelareHotelBookingSystem\ChepelareHotelBookingSystem\bin\Debug\ChepelareHotelBookingSystem.exe.config
+C:\Users\Leet\Documents\Visual Studio 2015\Projects\ChepelareHotelBookingSystem\ChepelareHotelBookingSystem\bin\Debug\ChepelareHotelBookingSystem.exe
+C:\Users\Leet\Documents\Visual Studio 2015\Projects\ChepelareHotelBookingSystem\ChepelareHotelBookingSystem\bin\Debug\ChepelareHotelBookingSystem.pdb
+C:\Users\Leet\Documents\Visual Studio 2015\Projects\ChepelareHotelBookingSystem\ChepelareHotelBookingSystem\obj\Debug\ChepelareHotelBookingSystem.exe
+C:\Users\Leet\Documents\Visual Studio 2015\Projects\ChepelareHotelBookingSystem\ChepelareHotelBookingSystem\obj\Debug\ChepelareHotelBookingSystem.pdb

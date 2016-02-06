@@ -1,0 +1,50 @@
+AddAir FX318; Sofia; Athens; Bulgaria Air; 17.04.2010 12:30; 200
+AddAir SA833; Sofia; London; Lufthansa; 18.04.2010 06:15; 740
+AddAir TX351FB; London; Paris; Swiss Air; 27.04.2010 08:00; 150
+AddAir LU829; London; New York; Easyjet; 17.04.2010 11:00; 1200
+AddAir TX351FB; London; Viena; Swiss Air; 29.04.2010 09:00; 180
+AddBus Sofia; Varna; Biomet; 18.04.2010 07:15; 28
+AddBus Sofia; Plovdiv; Vitosha; 27.04.2010 21:30; 12
+AddBus Sofia; Plovdiv; Trakia Travel; 27.04.2010 21:30; 11.5
+AddBus Sofia; Athens; Group Plus; 17.04.2010 03:00; 146.88
+AddTrain Sofia; Rousse; 18.04.2010 09:30; 24.35; 12.15
+AddTrain Varna; Sofia; 27.04.2010 08:33; 26.54; 13.23
+AddTrain Sofia; Plovdiv; 17.04.2010 11:28; 6.5; 3.4
+AddTrain Sofia; Athens; 18.04.2010 17:00; 124.5; 104
+AddTrain Sofia; Plovdiv; 27.04.2010 21:30; 7.22; 3.61
+AddTrain Sofia; Plovdiv; 28.04.2010 19:00; 7.22; 3.61
+AddTrain Sofia; Plovdiv; 17.04.2010 11:28; 6; 3
+AddBus Sofia; Plovdiv; Trakia Travel; 27.04.2010 21:30; 11
+DeleteAir AA12345
+DeleteBus Sofia; Athens; Group Plus; 17.04.2010 03:30;
+DeleteTrain Sofia; Plovdiv; 28.04.2010 19:30
+FindTickets Sofia; Plovdiv
+FindTickets Sofia; Kaspichan
+DeleteAir SA833
+FindTicketsInInterval 17.04.2010 12:00; 18.04.2010 09:30
+FindTicketsInInterval 17.04.2010 12:00; 15.04.2010 09:30
+AddAir FX318; Sofia; Athens; Bulgaria Air; 17.04.2010 12:30; 200
+AddAir SA833; Sofia; London; Lufthansa; 18.04.2010 06:15; 740
+AddAir TX351FB; London; Paris; Swiss Air; 27.04.2010 08:00; 150
+AddAir LU829; London; New York; Easyjet; 17.04.2010 11:00; 1200
+AddAir TX351FB; London; Viena; Swiss Air; 29.04.2010 09:00; 180
+AddBus Sofia; Varna; Biomet; 18.04.2010 07:15; 28
+AddBus Sofia; Plovdiv; Vitosha; 27.04.2010 21:30; 12
+AddBus Sofia; Plovdiv; Trakia Travel; 27.04.2010 21:30; 11.5
+AddBus Sofia; Athens; Group Plus; 17.04.2010 03:00; 146.88
+AddTrain Sofia; Rousse; 18.04.2010 09:30; 24.35; 12.15
+AddTrain Varna; Sofia; 27.04.2010 08:33; 26.54; 13.23
+AddTrain Sofia; Plovdiv; 17.04.2010 11:28; 6.5; 3.4
+AddTrain Sofia; Athens; 18.04.2010 17:00; 124.5; 104
+AddTrain Sofia; Plovdiv; 27.04.2010 21:30; 7.22; 3.61
+AddTrain Sofia; Plovdiv; 28.04.2010 19:00; 7.22; 3.61
+AddTrain Sofia; Plovdiv; 17.04.2010 11:28; 6; 3
+AddBus Sofia; Plovdiv; Trakia Travel; 27.04.2010 21:30; 11
+DeleteAir AA12345
+DeleteBus Sofia; Athens; Group Plus; 17.04.2010 03:30;
+DeleteTrain Sofia; Plovdiv; 28.04.2010 19:30
+FindTickets Sofia; Plovdiv
+FindTickets Sofia; Kaspichan
+DeleteAir SA833
+FindTicketsInInterval 17.04.2010 12:00; 18.04.2010 09:30
+FindTicketsInInterval 17.04.2010 12:00; 15.04.2010 09:30

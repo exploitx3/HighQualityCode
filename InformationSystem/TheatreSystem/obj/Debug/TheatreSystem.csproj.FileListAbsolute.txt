@@ -1,0 +1,7 @@
+C:\Users\Leet\Documents\Visual Studio 2015\Projects\InformationSystem\TheatreSystem\bin\Debug\TheatreSystem.exe
+C:\Users\Leet\Documents\Visual Studio 2015\Projects\InformationSystem\TheatreSystem\bin\Debug\TheatreSystem.pdb
+C:\Users\Leet\Documents\Visual Studio 2015\Projects\InformationSystem\TheatreSystem\obj\Debug\TheatreSystem.csprojResolveAssemblyReference.cache
+C:\Users\Leet\Documents\Visual Studio 2015\Projects\InformationSystem\TheatreSystem\obj\Debug\TheatreSystem.exe
+C:\Users\Leet\Documents\Visual Studio 2015\Projects\InformationSystem\TheatreSystem\obj\Debug\TheatreSystem.pdb
+C:\Users\Leet\Documents\Visual Studio 2015\Projects\InformationSystem\TheatreSystem\obj\Debug\TheatreSystem.Properties.Resources.resources
+C:\Users\Leet\Documents\Visual Studio 2015\Projects\InformationSystem\TheatreSystem\obj\Debug\TheatreSystem.csproj.GenerateResource.Cache

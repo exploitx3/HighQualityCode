@@ -1,0 +1,10 @@
+/Users/Register?username=firstUser&password=myPassword&confirmPassword=myPassword&role=student
+/Users/Register?password=myPassword&username=secondUser&confirmPassword=myPassword&role=lecturer
+/Users/Register?confirmPassword=myPassword&username=thirdUser&password=myPassword&role=student
+/Users/Login?username=firstUser&password=myPassword
+/Users/Logout
+/Users/Register?confirmPassword=myPassword&username=thirdUser&password=myPassword&role=lecturer
+/Users/Login?username=firstUser&password=wrongPassword
+/Users/Logout
+/Users/Login?username=firstUser&password=wrongPassword
+/Users/Login?username=firstUser&password=myPassword
